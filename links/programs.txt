@@ -1,0 +1,27 @@
+https://1password.com/>1Password
+https://7-zip.org/>7-Zip
+https://addons.mozilla.org/nl/firefox/addon/ublock-origin>uBlock Origin
+https://authy.com/>Authy
+https://bazel.build/>Bazel
+https://bvckup2.com/>Bvckup 2
+https://clang.llvm.org/>clang
+https://code.visualstudio.com/>Visual Studio Code
+https://elementary.io/>elementary OS
+https://exifcleaner.com/>ExifCleaner
+https://fossil-scm.org/>Fossil
+https://github.com/josh-project/josh>Josh
+https://github.com/mateodelnorte/meta>meta
+https://keeweb.info/>KeeWeb
+https://manjaro.org/>Manjaro Linux
+https://meldmerge.org/>Meld
+https://mozilla.org/nl/firefox/>Firefox
+https://mullvad.net/>Mullvad
+https://ninja-build.org/>Ninja
+https://rizonesoft.com/downloads/notepad3>Notepad3
+https://rust-lang.org/en-US/>Rust
+https://signal.org/>Signal
+https://simplenote.com/>Simplenote
+https://unchecky.com/>Unchecky
+https://winscp.net/>WinSCP
+https://www.buildbuddy.io/>BuildBuddy
+https://addons.mozilla.org/en-US/firefox/addon/istilldontcareaboutcookies/>I still don't care about cookies

@@ -1,0 +1,128 @@
+body {
+	background-color: #346;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: bottom right;
+	font-family: sans-serif;
+	margin: 0;
+	padding: 0;
+}
+
+h1 { /* Alt0.nl */
+	margin: 10px 0 0 0;
+	text-align: center;
+}
+
+h2 { /* sections */
+	margin: 0 0 100px 0;
+	text-align: center;
+}
+
+h3 { /* Not to say null. */
+	color: rgba(255, 255, 255, 0.15);
+	font-size: 9pt;
+	font-style: italic;
+	margin: 0 0 30px 0;
+	text-align: center;
+	text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.1);
+}
+
+h5 { /* links */
+	color: rgba(255, 255, 255, 0.25);
+	font-variant: small-caps;
+	font-size: 10pt;
+	margin: 0;
+	text-align: left;
+	text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.1);
+}
+
+.full {
+	width: 100%;
+}
+
+.note {
+	color: rgba(255, 255, 255, 0.3);
+	font-size: small;
+	font-style: italic;
+}
+
+div#spacer {
+	margin-bottom: 60px;
+}
+
+div#buttons {
+	font-size: small;
+	margin: 0 0 10px 0;
+	text-align: center;
+}
+
+div#footer {
+	background-color: rgba(0, 0, 0, 0.05);
+	bottom: 10px;
+	color: rgba(255, 255, 255, 0.1);
+	font-size: small;
+	padding: 7px;
+	position: absolute;
+	right: 10px;
+}
+
+div#linksside, div#links {
+	background-color: rgba(0, 0, 0, 0.05);
+	color: rgba(255, 255, 255, 0.1);
+	padding: 7px;
+}
+
+div#linksside {
+	font-size: small;
+	position: absolute;
+	right: 10px;
+	top: 10px;
+}
+
+div#links {
+	margin-left: 50px;
+	margin-right: 250px;
+}
+
+div#linksside div, div#links div {
+	padding-left: 5px;
+}
+
+.link-button {
+	border: 1px solid rgba(0, 0, 0, 0.1);
+	color: rgba(255, 255, 255, 0.9);
+	display: inline-block;
+	font-weight: bold;
+	padding: 2px 5px;
+	text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.3);
+
+    border-radius: 4px;
+    -khtml-border-radius: 4px;
+    -moz-border-radius: 4px;
+    -webkit-border-radius: 4px;
+}
+
+h1 span.link-button {
+	background-color: #457;
+	padding: 4px 50px;
+}
+
+a.link-button {
+    text-decoration: none;
+}
+
+a.link-button:hover {
+	border: 1px solid rgba(255, 255, 255, 0.1);
+	color: rgba(255, 255, 255, 1.0);
+	text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.7);
+}
+
+h3 a, div#footer a, div#linksside a, div#links a {
+	color: rgba(255, 255, 255, 0.15);
+    text-decoration: none;
+}
+
+h3 a:hover, div#footer a:hover, div#linksside a:hover, div#links a:hover {
+	color: rgba(255, 255, 255, 0.35);
+    text-decoration: underline;
+}
