@@ -25,3 +25,4 @@ https://unchecky.com/>Unchecky
 https://winscp.net/>WinSCP
 https://www.buildbuddy.io/>BuildBuddy
 https://addons.mozilla.org/en-US/firefox/addon/istilldontcareaboutcookies/>I still don't care about cookies
+https://github.com/ente-io/auth>ente Authenticator
