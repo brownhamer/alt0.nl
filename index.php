@@ -21,7 +21,7 @@ $links_known = array(
 );
 $links_id = htmlspecialchars(getGet('links', ''));
 if (!key_exists($links_id, $links_known)) {
-	if (!$links_id === "oneliners") {
+	if (!($links_id === "oneliners")) {
 		$links_id = '';
 	}
 }
