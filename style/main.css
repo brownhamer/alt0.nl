@@ -9,12 +9,12 @@ body {
 }
 
 h1 { /* Alt0.nl */
-	margin: 10px 0 0 0;
+	margin: 10px 0 0;
 	text-align: center;
 }
 
 h2 { /* sections */
-	margin: 0 0 100px 0;
+	margin: 0 0 100px;
 	text-align: center;
 }
 
@@ -22,7 +22,7 @@ h3 { /* Not to say null. */
 	color: rgba(255, 255, 255, 15%);
 	font-size: 9pt;
 	font-style: italic;
-	margin: 0 0 30px 0;
+	margin: 0 0 30px;
 	text-align: center;
 	text-shadow: 1px 1px 1px rgba(0, 0, 0, 10%);
 }
@@ -52,7 +52,7 @@ div#spacer {
 
 div#buttons {
 	font-size: small;
-	margin: 0 0 10px 0;
+	margin: 0 0 10px;
 	text-align: center;
 }
 
