@@ -1,5 +1,5 @@
 body {
-	background-color: #346;
+	background-color: rgb(51 68 102);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: bottom right;
@@ -19,21 +19,21 @@ h2 { /* sections */
 }
 
 h3 { /* Not to say null. */
-	color: rgba(255, 255, 255, 15%);
+	color: rgb(255 255 255 / 0.15);
 	font-size: 9pt;
 	font-style: italic;
 	margin: 0 0 30px;
 	text-align: center;
-	text-shadow: 1px 1px 1px rgba(0, 0, 0, 10%);
+	text-shadow: 1px 1px 1px rgb(0 0 0 / 0.10);
 }
 
 h5 { /* links */
-	color: rgba(255, 255, 255, 25%);
+	color: rgb(255 255 255 / 0.25);
 	font-variant: small-caps;
 	font-size: 10pt;
 	margin: 0;
 	text-align: left;
-	text-shadow: 1px 1px 1px rgba(0, 0, 0, 10%);
+	text-shadow: 1px 1px 1px rgb(0 0 0 / 0.10);
 }
 
 .full {
@@ -41,7 +41,7 @@ h5 { /* links */
 }
 
 .note {
-	color: rgba(255, 255, 255, 30%);
+	color: rgb(255 255 255 / 0.30);
 	font-size: small;
 	font-style: italic;
 }
@@ -57,9 +57,9 @@ div#buttons {
 }
 
 div#footer {
-	background-color: rgba(0, 0, 0, 5%);
+	background-color: rgb(0 0 0 / 0.05);
 	bottom: 10px;
-	color: rgba(255, 255, 255, 10%);
+	color: rgb(255 255 255 / 0.10);
 	font-size: small;
 	padding: 7px;
 	position: absolute;
@@ -67,8 +67,8 @@ div#footer {
 }
 
 div#linksside, div#links {
-	background-color: rgba(0, 0, 0, 5%);
-	color: rgba(255, 255, 255, 10%);
+	background-color: rgb(0 0 0 / 0.05);
+	color: rgb(255 255 255 / 0.10);
 	padding: 7px;
 }
 
@@ -89,12 +89,12 @@ div#linksside div, div#links div {
 }
 
 .link-button {
-	border: 1px solid rgba(0, 0, 0, 10%);
-	color: rgba(255, 255, 255, 90%);
+	border: 1px solid rgb(0 0 0 / 0.10);
+	color: rgb(255 255 255 / 0.90);
 	display: inline-block;
 	font-weight: bold;
 	padding: 2px 5px;
-	text-shadow: 1px 1px 1px rgba(0, 0, 0, 30%);
+	text-shadow: 1px 1px 1px rgb(0 0 0 / 0.30);
 
     border-radius: 4px;
     -khtml-border-radius: 4px;
@@ -103,7 +103,7 @@ div#linksside div, div#links div {
 }
 
 h1 span.link-button {
-	background-color: #457;
+	background-color: rgb(68 85 119);
 	padding: 4px 50px;
 }
 
@@ -112,17 +112,17 @@ a.link-button {
 }
 
 a.link-button:hover {
-	border: 1px solid rgba(255, 255, 255, 10%);
-	color: rgba(255, 255, 255, 100%);
-	text-shadow: 1px 1px 2px rgba(0, 0, 0, 70%);
+	border: 1px solid rgb(255 255 255 / 0.10);
+	color: rgb(255 255 255);
+	text-shadow: 1px 1px 2px rgb(0 0 0 / 0.70);
 }
 
 h3 a, div#footer a, div#linksside a, div#links a {
-	color: rgba(255, 255, 255, 15%);
+	color: rgb(255 255 255 / 0.15);
     text-decoration: none;
 }
 
 h3 a:hover, div#footer a:hover, div#linksside a:hover, div#links a:hover {
-	color: rgba(255, 255, 255, 35%);
+	color: rgb(255 255 255 / 0.35);
     text-decoration: underline;
 }
