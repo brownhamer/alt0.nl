@@ -95,11 +95,7 @@ div#linksside div, div#links div {
 	font-weight: bold;
 	padding: 2px 5px;
 	text-shadow: 1px 1px 1px rgb(0 0 0 / 30%);
-
     border-radius: 4px;
-    -khtml-border-radius: 4px;
-    -moz-border-radius: 4px;
-    -webkit-border-radius: 4px;
 }
 
 h1 span.link-button {
