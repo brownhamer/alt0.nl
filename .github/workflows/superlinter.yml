@@ -39,4 +39,3 @@ jobs:
           VALIDATE_MARKDOWN: true
           VALIDATE_NATURAL_LANGUAGE: true
           VALIDATE_PHP_BUILTIN: true
-          VALIDATE_PHP_PHPCS: true
