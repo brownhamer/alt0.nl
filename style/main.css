@@ -113,12 +113,22 @@ a.link-button:hover {
 	text-shadow: 1px 1px 2px rgb(0 0 0 / 70%);
 }
 
-div#footer a, div#linksside a, div#links a, h3 a {
+h3 a {
 	color: rgb(255 255 255 / 15%);
     text-decoration: none;
 }
 
-div#footer a:hover, div#linksside a:hover, div#links a:hover, h3 a:hover {
+h3 a:hover {
+	color: rgb(255 255 255 / 35%);
+    text-decoration: underline;
+}
+
+div#footer a, div#linksside a, div#links a {
+	color: rgb(255 255 255 / 15%);
+    text-decoration: none;
+}
+
+div#footer a:hover, div#linksside a:hover, div#links a:hover {
 	color: rgb(255 255 255 / 35%);
     text-decoration: underline;
 }
