@@ -1,7 +1,7 @@
 https://1password.com/>1Password
 https://7-zip.org/>7-Zip
 https://addons.mozilla.org/nl/firefox/addon/ublock-origin>uBlock Origin
-https://authy.com/>Authy
+https://github.com/ente-io/ente/tree/main/auth#readme>Ente Auth
 https://bazel.build/>Bazel
 https://bvckup2.com/>Bvckup 2
 https://clang.llvm.org/>clang
