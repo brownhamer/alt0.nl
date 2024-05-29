@@ -173,6 +173,7 @@ $alt0_button       = new LinkButton('Alt0.nl'      , $alt0_url                  
 $bob_button        = new LinkButton('Bunch of Bunk', $bob_url                                    ,  59,  61,  63);
 $bvckup2_button    = new LinkButton('Bvckup 2'     , 'https://www.bvckup2.com'                   ,  58,  58,  70);
 $bvckup2_dl_button = new LinkButton('&dArr;'       , 'https://www.bvckup2.com/download?r=pxwhp'  ,  58,  58,  70);
+$github_button     = new LinkButton('GitHub'       , 'https://github.com/brownhamer'             ,  46,  46,  46);
 $linkedin_button   = new LinkButton('LinkedIn'     , 'https://www.linkedin.com/in/hendrikdegoede',   0, 119, 181);
 $mastodon_button   = new LinkButton('Mastodon'     , 'https://mastodon.nl/@brownhamer'           ,  90,  72, 221);
 $paypal_button     = new LinkButton('PayPal.me'    , 'https://www.paypal.me/HendrikdeGoede'      ,  81, 111, 162);
