@@ -12,3 +12,4 @@ https://www.nomoreransom.org>The No More Ransom Project
 https://www.privacyguides.org/>Privacy Guides
 https://www.thuisarts.nl/>Thuisarts.nl
 https://www.f1hotornot.com/>F1 HOT or NOT
+https://public.tableau.com/app/profile/mateusz.karmalski/viz/F1ResultsTracker/Results>F1 Results Tracker

@@ -1,7 +1,7 @@
 https://1password.com/>1Password
 https://7-zip.org/>7-Zip
 https://addons.mozilla.org/nl/firefox/addon/ublock-origin>uBlock Origin
-https://github.com/ente-io/ente/tree/main/auth#readme>Ente Auth
+https://ente.io/auth/>Ente Auth
 https://bazel.build/>Bazel
 https://bvckup2.com/>Bvckup 2
 https://clang.llvm.org/>clang
@@ -25,3 +25,4 @@ https://unchecky.com/>Unchecky
 https://winscp.net/>WinSCP
 https://www.buildbuddy.io/>BuildBuddy
 https://addons.mozilla.org/en-US/firefox/addon/istilldontcareaboutcookies/>I still don't care about cookies
+https://cryptomator.org/>Cryptomater
