@@ -1,11 +1,16 @@
+http://softbits.nl/>SoftBits
 https://bunchofbunk.nl>Bunch of Bunk
+https://chrisklomp.nl/>Chris Klomp
 https://datagraver.com/>Datagraver
 https://figmentstories.nl/>Figment Stories
 https://findmyguitar.com/>FindMyGuitar
 https://jjk-code-otter.github.io/dashboard-dashboard/>The Climate Dashboard Dashboard
+https://lagourdaneta.com/>Lago & Urdaneta
+https://ourworldindata.org/>Our World in Data
 https://pedalplayground.com/>Pedal Playground
 https://www.gitaarservice.nl/>Stegers Gitaar Service
 https://www.openkamer.org/>Open Kamer
+https://www.partijvoordedieren.nl/>Partij voor de Dieren
 https://www.patreon.com/BenEllerGuitars>Ben Eller
 https://www.patreon.com/bradleyhallguitar>Bradley Hall
 https://www.youtube.com/user/peteplaysmusic>Pete Cottrell
@@ -14,8 +19,3 @@ https://www.youtube.com/user/th3ycharg3>Jared Dines
 https://www.youtube.com/watch?v=M4lsB-B1O7U>Made of Tears
 https://www.youtube.com/watch?v=mlkbT4GDYAQ>Satch Boogie
 https://www.youtube.com/watch?v=Yw74sDWPH7U>Tender Surrender
-http://softbits.nl/>SoftBits
-https://lagourdaneta.com/>Lago & Urdaneta
-https://chrisklomp.nl/>Chris Klomp
-https://ourworldindata.org/>Our World in Data
-https://www.partijvoordedieren.nl/>Partij voor de Dieren
