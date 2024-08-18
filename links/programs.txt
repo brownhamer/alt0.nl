@@ -27,3 +27,4 @@ https://www.buildbuddy.io/>BuildBuddy
 https://addons.mozilla.org/en-US/firefox/addon/istilldontcareaboutcookies/>I still don't care about cookies
 https://cryptomator.org/>Cryptomater
 https://www.marticliment.com/unigetui/>UniGetUI
+https://www.steinberg.net/cubase/>Cubase
