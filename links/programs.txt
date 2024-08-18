@@ -28,3 +28,4 @@ https://addons.mozilla.org/en-US/firefox/addon/istilldontcareaboutcookies/>I sti
 https://cryptomator.org/>Cryptomater
 https://www.marticliment.com/unigetui/>UniGetUI
 https://www.steinberg.net/cubase/>Cubase
+https://www.guitar-pro.com/>Guitar Pro
