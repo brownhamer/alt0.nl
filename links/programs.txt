@@ -32,3 +32,4 @@ https://www.guitar-pro.com/>Guitar Pro
 https://www.marticliment.com/unigetui/>UniGetUI
 https://www.steinberg.net/cubase/>Cubase
 https://www.winomail.app/>Wino Mail
+https://www.zen-browser.app/>Zen Browser
