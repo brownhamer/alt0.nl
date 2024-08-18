@@ -29,3 +29,5 @@ https://cryptomator.org/>Cryptomater
 https://www.marticliment.com/unigetui/>UniGetUI
 https://www.steinberg.net/cubase/>Cubase
 https://www.guitar-pro.com/>Guitar Pro
+https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/>Privacy Badger
+https://addons.mozilla.org/en-US/firefox/addon/duckduckgo-for-firefox/>DuckDuckGo Privacy Essentials
