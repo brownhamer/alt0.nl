@@ -1,12 +1,16 @@
 https://1password.com/>1Password
 https://7-zip.org/>7-Zip
+https://addons.mozilla.org/en-US/firefox/addon/duckduckgo-for-firefox/>DuckDuckGo Privacy Essentials
+https://addons.mozilla.org/en-US/firefox/addon/istilldontcareaboutcookies/>I still don't care about cookies
+https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/>Privacy Badger
 https://addons.mozilla.org/nl/firefox/addon/ublock-origin>uBlock Origin
-https://ente.io/auth/>Ente Auth
 https://bazel.build/>Bazel
 https://bvckup2.com/>Bvckup 2
 https://clang.llvm.org/>clang
 https://code.visualstudio.com/>Visual Studio Code
+https://cryptomator.org/>Cryptomater
 https://elementary.io/>elementary OS
+https://ente.io/auth/>Ente Auth
 https://exifcleaner.com/>ExifCleaner
 https://fossil-scm.org/>Fossil
 https://github.com/josh-project/josh>Josh
@@ -24,11 +28,7 @@ https://simplenote.com/>Simplenote
 https://unchecky.com/>Unchecky
 https://winscp.net/>WinSCP
 https://www.buildbuddy.io/>BuildBuddy
-https://addons.mozilla.org/en-US/firefox/addon/istilldontcareaboutcookies/>I still don't care about cookies
-https://cryptomator.org/>Cryptomater
+https://www.guitar-pro.com/>Guitar Pro
 https://www.marticliment.com/unigetui/>UniGetUI
 https://www.steinberg.net/cubase/>Cubase
-https://www.guitar-pro.com/>Guitar Pro
-https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/>Privacy Badger
-https://addons.mozilla.org/en-US/firefox/addon/duckduckgo-for-firefox/>DuckDuckGo Privacy Essentials
 https://www.winomail.app/>Wino Mail
