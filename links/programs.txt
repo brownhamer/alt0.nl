@@ -12,6 +12,7 @@ https://cryptomator.org/>Cryptomater
 https://elementary.io/>elementary OS
 https://ente.io/auth/>Ente Auth
 https://exifcleaner.com/>ExifCleaner
+https://fedistar.net/>Fedistar
 https://fossil-scm.org/>Fossil
 https://github.com/josh-project/josh>Josh
 https://github.com/mateodelnorte/meta>meta
