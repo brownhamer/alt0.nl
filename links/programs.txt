@@ -19,6 +19,7 @@ https://github.com/mateodelnorte/meta>meta
 https://keeweb.info/>KeeWeb
 https://ladybird.org/>Ladybird
 https://manjaro.org/>Manjaro Linux
+https://www.marticliment.com/unigetui/>UniGetUI
 https://meldmerge.org/>Meld
 https://mozilla.org/nl/firefox/>Firefox
 https://mullvad.net/>Mullvad
