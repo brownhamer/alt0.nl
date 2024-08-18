@@ -17,6 +17,7 @@ https://fossil-scm.org/>Fossil
 https://github.com/josh-project/josh>Josh
 https://github.com/mateodelnorte/meta>meta
 https://keeweb.info/>KeeWeb
+https://ladybird.org/>Ladybird
 https://manjaro.org/>Manjaro Linux
 https://meldmerge.org/>Meld
 https://mozilla.org/nl/firefox/>Firefox
