@@ -19,7 +19,6 @@ https://github.com/mateodelnorte/meta>meta
 https://keeweb.info/>KeeWeb
 https://ladybird.org/>Ladybird
 https://manjaro.org/>Manjaro Linux
-https://www.marticliment.com/unigetui/>UniGetUI
 https://meldmerge.org/>Meld
 https://mozilla.org/nl/firefox/>Firefox
 https://mullvad.net/>Mullvad
@@ -33,7 +32,8 @@ https://winscp.net/>WinSCP
 https://www.buildbuddy.io/>BuildBuddy
 https://www.guitar-pro.com/>Guitar Pro
 https://www.marticliment.com/unigetui/>UniGetUI
+https://www.marticliment.com/unigetui/>UniGetUI
 https://www.steinberg.net/cubase/>Cubase
 https://www.winomail.app/>Wino Mail
-https://zed.dev/>Zed
 https://www.zen-browser.app/>Zen Browser
+https://zed.dev/>Zed
