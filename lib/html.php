@@ -169,6 +169,7 @@ $dgt_url     = 'https://degoedetweeling.net';
 $nieklin_url = 'https://nieklin.nl';
 
 $alt0_button       = new LinkButton('Alt0.nl'      , $alt0_url                                   ,  85, 102, 136);
+$asml_button       = new LinkButton('ASML'         , 'https://www.asml.com'                      ,  16,   6, 159);
 $bob_button        = new LinkButton('Bunch of Bunk', $bob_url                                    ,  59,  61,  63);
 $bvckup2_button    = new LinkButton('Bvckup 2'     , 'https://www.bvckup2.com'                   ,  58,  58,  70);
 $bvckup2_dl_button = new LinkButton('&dArr;'       , 'https://www.bvckup2.com/download?r=pxwhp'  ,  58,  58,  70);
