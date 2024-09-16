@@ -4,6 +4,7 @@ https://chrisklomp.nl/>Chris Klomp
 https://datagraver.com/>Datagraver
 https://figmentstories.nl/>Figment Stories
 https://findmyguitar.com/>FindMyGuitar
+https://galgoproject.nl/>Galgo Project
 https://jjk-code-otter.github.io/dashboard-dashboard/>The Climate Dashboard Dashboard
 https://lagourdaneta.com/>Lago & Urdaneta
 https://ourworldindata.org/>Our World in Data
