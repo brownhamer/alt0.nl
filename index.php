@@ -52,6 +52,7 @@ if ($links_id === '') {
 <?php
 	echo $asml_button.'&nbsp;'."\n";
 	echo $bvckup2_button.$bvckup2_dl_button.'&nbsp;'."\n";
+	echo $creative_button.'&nbsp;'."\n";
 	echo $github_button.'&nbsp;'."\n";
 	echo $linkedin_button.'&nbsp;'."\n";
 	echo $mastodon_button.'&nbsp;'."\n";
