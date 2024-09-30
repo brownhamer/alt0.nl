@@ -25,6 +25,7 @@ https://mozilla.org/nl/firefox/>Firefox
 https://mullvad.net/>Mullvad
 https://ninja-build.org/>Ninja
 https://parsedown.org/>ParseDown
+https://patrickzedler.com/tack/>Tack
 https://rizonesoft.com/downloads/notepad3>Notepad3
 https://rust-lang.org/en-US/>Rust
 https://signal.org/>Signal
