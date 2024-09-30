@@ -14,7 +14,7 @@ https://ente.io/auth/>Ente Auth
 https://exifcleaner.com/>ExifCleaner
 https://fedistar.net/>Fedistar
 https://fossil-scm.org/>Fossil
-https://github.com/ai-robots-txt/ai.robots.txt/blob/main/robots.txt>ai.robots.txt
+https://github.com/ai-robots-txt/ai.robots.txt/tree/main>ai.robots.txt
 https://github.com/josh-project/josh>Josh
 https://github.com/mateodelnorte/meta>meta
 https://keeweb.info/>KeeWeb
