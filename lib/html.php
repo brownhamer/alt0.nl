@@ -175,9 +175,6 @@ $bvckup2_button    = new LinkButton('Bvckup 2'          , 'https://www.bvckup2.c
 $bvckup2_dl_button = new LinkButton('&dArr;'            , 'https://www.bvckup2.com/download?r=pxwhp'  ,  58,  58,  70);
 $creative_button   = new LinkButton('Creative Music Lab', 'https://lab.creativemusiclab.com/'         ,  20,  20,  20);
 $github_button     = new LinkButton('GitHub'            , 'https://github.com/brownhamer'             ,  46,  46,  46);
-$linkedin_button   = new LinkButton('LinkedIn'          , 'https://www.linkedin.com/in/hendrikdegoede',   0, 119, 181);
 $mastodon_button   = new LinkButton('Mastodon'          , 'https://mastodon.nl/@brownhamer'           ,  90,  72, 221);
-$paypal_button     = new LinkButton('PayPal.me'         , 'https://www.paypal.me/HendrikdeGoede'      ,  81, 111, 162);
-$simyo_button      = new LinkButton('Simyo'             , 'https://www.simyo.nl/vriendendeal/p67un5'  , 255, 127,   0);
 
 #============================================================================ ?>

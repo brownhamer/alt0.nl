@@ -54,10 +54,7 @@ if ($links_id === '') {
 	echo $bvckup2_button.$bvckup2_dl_button.'&nbsp;'."\n";
 	echo $creative_button.'&nbsp;'."\n";
 	echo $github_button.'&nbsp;'."\n";
-	echo $linkedin_button.'&nbsp;'."\n";
-	echo $mastodon_button.'&nbsp;'."\n";
-	echo $paypal_button.'&nbsp;'."\n";
-	echo $simyo_button."\n";
+	echo $mastodon_button."\n";
 ?>
 </div>
 
