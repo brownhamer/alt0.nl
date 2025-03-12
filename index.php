@@ -13,11 +13,12 @@ if (($page_id == 360) or ($tag == 'bunch-of-bunk')) {
 
 #-------------------------------------------------------------------------------
 $links_known = array(
-    "finds"    => 2,
-    "news"     => 2,
-    "online"   => 3,
-    "programs" => 5,
-    "software" => 3
+    "alternatives" => 3
+    "finds"        => 2,
+    "news"         => 2,
+    "online"       => 3,
+    "programs"     => 5,
+    "software"     => 3
 );
 $links_id = htmlspecialchars(getGet('links', ''));
 if (!key_exists($links_id, $links_known)) {
