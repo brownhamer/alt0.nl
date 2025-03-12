@@ -13,6 +13,7 @@ https://elementary.io/>elementary OS
 https://ente.io/auth/>Ente Auth
 https://exifcleaner.com/>ExifCleaner
 https://fedistar.net/>Fedistar
+https://floorp.app/>Floorp
 https://fossil-scm.org/>Fossil
 https://github.com/ai-robots-txt/ai.robots.txt/tree/main>ai.robots.txt
 https://github.com/josh-project/josh>Josh
