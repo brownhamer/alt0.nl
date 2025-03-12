@@ -25,13 +25,13 @@ https://meldmerge.org/>Meld
 https://mozilla.org/nl/firefox/>Firefox
 https://mullvad.net/>Mullvad
 https://ninja-build.org/>Ninja
+https://notesnook.com/>Notesnook
 https://parsedown.org/>ParseDown
 https://patrickzedler.com/tack/>Tack
 https://rizonesoft.com/downloads/notepad3>Notepad3
 https://rust-lang.org/en-US/>Rust
 https://servo.org/>Servo
 https://signal.org/>Signal
-https://standardnotes.com/>Standard Notes
 https://tosdr.org/en>ToS;DR
 https://unchecky.com/>Unchecky
 https://winscp.net/>WinSCP
