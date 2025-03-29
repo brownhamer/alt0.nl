@@ -34,6 +34,7 @@ https://rust-lang.org/en-US/>Rust
 https://servo.org/>Servo
 https://signal.org/>Signal
 https://tosdr.org/en>ToS;DR
+https://tuta.com/>Tuta
 https://unchecky.com/>Unchecky
 https://winscp.net/>WinSCP
 https://www.buildbuddy.io/>BuildBuddy
