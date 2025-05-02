@@ -6,6 +6,7 @@ https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/>Privacy Badger
 https://addons.mozilla.org/nl/firefox/addon/ublock-origin>uBlock Origin
 https://bazel.build/>Bazel
 https://bvckup2.com/>Bvckup 2
+https://catima.app/>Catima
 https://clang.llvm.org/>clang
 https://code.visualstudio.com/>Visual Studio Code
 https://cryptomator.org/>Cryptomater
