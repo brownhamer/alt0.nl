@@ -28,6 +28,7 @@ https://mozilla.org/nl/firefox/>Firefox
 https://mullvad.net/>Mullvad
 https://ninja-build.org/>Ninja
 https://notesnook.com/>Notesnook
+https://ocloud.de/>oCloud
 https://parsedown.org/>ParseDown
 https://patrickzedler.com/tack/>Tack
 https://rizonesoft.com/downloads/notepad3>Notepad3
