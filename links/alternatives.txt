@@ -9,6 +9,7 @@ https://interoperable-europe.ec.europa.eu/collection/eupl>EUPL
 https://madeincanadadirectory.ca/>Made in Canada Directory
 https://prism-break.org/en/>Opt out of global surveillance
 https://selfh.st/apps/>Self-Hosted Software
+https://switching.software/>switching.software
 https://www.aiatlas.eu/>European AI atlas
 https://www.eucloud.tech/>Choose the EU Cloud
 https://www.exit50.com/>Exit 50
