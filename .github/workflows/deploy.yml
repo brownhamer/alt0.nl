@@ -9,7 +9,7 @@ jobs:
           uses: actions/checkout@v5
 
         - name: Sync files
-          uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+          uses: SamKirkland/FTP-Deploy-Action@v4.3.6
           with:
             server: alt0.nl
             server-dir: "public_html/"
