@@ -18,12 +18,12 @@ startHtmlPage('Alt0.nl &rarr; Alternatives');
 
 <div id="buttons">
 <?php
-	echo $alt0_button."\n";
+	echo $alt0_button." &rarr; Alternatives\n";
 ?>
 </div>
 
 <?php #=========================================================================
-echo "<div id=\"links\"><h5>".ucfirst('Alt0 &rarr; Alternatives').":</h5><div>\n";
+echo "<div id=\"links\"><h5>Alternatives listings:</h5><div>\n";
 echo linksList('alternatives', NULL);
 echo "</div></div>\n";
 
