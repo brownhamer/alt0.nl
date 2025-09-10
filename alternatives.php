@@ -20,6 +20,7 @@ startHtmlPage('Alt0.nl &rarr; Alternatives');
 <div id="choices"><h5>Mijn keuzes:</h5>
 <ul>
   <li><span class="del">Google</span> &rarr; <b><a href="https://start.duckduckgo.com/">DuckDuckGo</a></b></li>
+  <li><span class="del">Maps</span> &rarr; <b><a href="https://wego.here.com/">HERE WeGo</a></b></li>
 </ul>
 </div>
 </td><td>
