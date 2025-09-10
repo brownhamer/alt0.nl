@@ -132,3 +132,8 @@ div#footer a:hover, div#linksside a:hover, div#links a:hover {
 	color: rgb(255 255 255 / 35%);
     text-decoration: underline;
 }
+
+table#alternatives td {
+	padding: 10px;
+	vertical-align: top;
+}

@@ -16,7 +16,7 @@ startHtmlPage('Alt0.nl &rarr; Alternatives');
 ?></h3>
 <div id="spacer">&nbsp;</div>
 
-<table><tr><td>
+<table id="alternatives"><tr><td>
 <h5>Mijn keuzes:</h5>
 
 </td><td>
