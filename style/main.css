@@ -137,3 +137,7 @@ table#alternatives td {
 	padding: 10px;
 	vertical-align: top;
 }
+
+.del {
+	text-decoration: line-through double;
+}
