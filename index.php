@@ -49,6 +49,10 @@ if ($links_id === '') {
 <?php echo $bob_button; ?>
 </h2>
 
+<h2>
+<?php echo $alternatives_button; ?>
+</h2>
+
 <div id="buttons">
 <?php
 	echo $asml_button.'&nbsp;'."\n";

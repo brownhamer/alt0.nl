@@ -168,11 +168,12 @@ $bob_url     = 'https://bunchofbunk.nl';
 $dgt_url     = 'https://degoedetweeling.net';
 $nieklin_url = 'https://nieklin.nl';
 
-$alt0_button       = new LinkButton('Alt0.nl'           , $alt0_url                                   ,  85, 102, 136);
-$asml_button       = new LinkButton('ASML'              , 'https://www.asml.com'                      ,  16,   6, 159);
-$bob_button        = new LinkButton('Bunch of Bunk'     , $bob_url                                    ,  59,  61,  63);
-$creative_button   = new LinkButton('Creative Music Lab', 'https://lab.creativemusiclab.com/'         ,  20,  20,  20);
-$github_button     = new LinkButton('GitHub'            , 'https://github.com/brownhamer'             ,  46,  46,  46);
-$mastodon_button   = new LinkButton('Mastodon'          , 'https://mastodon.nl/@brownhamer'           ,  90,  72, 221);
+$alt0_button         = new LinkButton('Alt0.nl'           , $alt0_url                                   ,  85, 102, 136);
+$alternatives_button = new LinkButton('Alernatives'       , './alteratives.php'                         ,  85, 102, 136);
+$asml_button         = new LinkButton('ASML'              , 'https://www.asml.com'                      ,  16,   6, 159);
+$bob_button          = new LinkButton('Bunch of Bunk'     , $bob_url                                    ,  59,  61,  63);
+$creative_button     = new LinkButton('Creative Music Lab', 'https://lab.creativemusiclab.com/'         ,  20,  20,  20);
+$github_button       = new LinkButton('GitHub'            , 'https://github.com/brownhamer'             ,  46,  46,  46);
+$mastodon_button     = new LinkButton('Mastodon'          , 'https://mastodon.nl/@brownhamer'           ,  90,  72, 221);
 
 #============================================================================ ?>

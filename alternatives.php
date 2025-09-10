@@ -1,0 +1,31 @@
+<?php #=========================================================================
+$PATH_TO_ROOT = '.';
+require_once($PATH_TO_ROOT.'/lib/base.php');
+require_once($PATH_TO_ROOT.'/lib/html.php');
+
+#-------------------------------------------------------------------------------
+startHtmlPage('Alt0.nl > Alternatives');
+#============================================================================ ?>
+
+<h1><a href="<?php echo $alt0_url; ?>"><span class="link-button">Alt0.nl</span></a></h1>
+<h3><?php
+	echo oneLiner();
+	if ($links_id === '') {
+		echo "<br /><a href=\"".$alt0_url."?links=oneliners\">...</a>\n";
+	}
+?></h3>
+<div id="spacer">&nbsp;</div>
+
+<div id="buttons">
+<?php
+	echo $alt0_button."\n";
+?>
+</div>
+
+<?php #=========================================================================
+echo "<div id=\"links\"><h5>".ucfirst($links_id).":</h5><div>\n";
+echo linksList('alternatives', NULL);
+echo "</div></div>\n";
+
+endHtmlPage();
+#============================================================================ ?>
