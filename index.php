@@ -52,7 +52,6 @@ if ($links_id === '') {
 <div id="buttons">
 <?php
 	echo $asml_button.'&nbsp;'."\n";
-	echo $bvckup2_button.$bvckup2_dl_button.'&nbsp;'."\n";
 	echo $creative_button.'&nbsp;'."\n";
 	echo $github_button.'&nbsp;'."\n";
 	echo $mastodon_button."\n";
