@@ -66,7 +66,7 @@ div#footer {
 	right: 10px;
 }
 
-div#linksside, div#links {
+div#linksside, div#links, div#choices {
 	background-color: rgb(0 0 0 / 5%);
 	color: rgb(255 255 255 / 25%);
 	padding: 7px;
@@ -79,12 +79,12 @@ div#linksside {
 	top: 10px;
 }
 
-div#links {
+div#links, div#choices {
 	margin-left: 50px;
 	margin-right: 250px;
 }
 
-div#linksside div, div#links div {
+div#linksside div, div#links div, div#choices div {
 	padding-left: 5px;
 }
 
@@ -123,12 +123,12 @@ h3 a:hover {
     text-decoration: underline;
 }
 
-div#footer a, div#linksside a, div#links a {
+div#footer a, div#linksside a, div#links a, div#choices a {
 	color: rgb(255 255 255 / 15%);
     text-decoration: none;
 }
 
-div#footer a:hover, div#linksside a:hover, div#links a:hover {
+div#footer a:hover, div#linksside a:hover, div#links a:hover, div#choices a:hover {
 	color: rgb(255 255 255 / 35%);
     text-decoration: underline;
 }

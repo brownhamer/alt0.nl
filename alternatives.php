@@ -17,8 +17,8 @@ startHtmlPage('Alt0.nl &rarr; Alternatives');
 <div id="spacer">&nbsp;</div>
 
 <table id="alternatives"><tr><td>
-<h5>Mijn keuzes:</h5>
-
+<div id="choices"><h5>Mijn keuzes:</h5>
+</div>
 </td><td>
 <?php #=========================================================================
 echo "<div id=\"links\"><h5>Alternatives listings:</h5><div>\n";
