@@ -16,16 +16,16 @@ startHtmlPage('Alt0.nl &rarr; Alternatives');
 ?></h3>
 <div id="spacer">&nbsp;</div>
 
-<div id="buttons">
-<?php
-	echo $alt0_button." &rarr; Alternatives\n";
-?>
-</div>
+<table><tr><td>
+<h5>Mijn keuzes:</h5>
 
+</td><td>
 <?php #=========================================================================
 echo "<div id=\"links\"><h5>Alternatives listings:</h5><div>\n";
 echo linksList('alternatives', NULL);
 echo "</div></div>\n";
+
+echo "</td></tr></table>\n"
 
 endHtmlPage();
 #============================================================================ ?>
