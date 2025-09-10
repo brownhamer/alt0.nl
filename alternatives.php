@@ -18,6 +18,9 @@ startHtmlPage('Alt0.nl &rarr; Alternatives');
 
 <table id="alternatives"><tr><td>
 <div id="choices"><h5>Mijn keuzes:</h5>
+<ul>
+  <li>Google &rarr; <a href="https://start.duckduckgo.com/">DuckDuckGo</a></li>
+</ul>
 </div>
 </td><td>
 <?php #=========================================================================
