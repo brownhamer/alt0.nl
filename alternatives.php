@@ -4,7 +4,7 @@ require_once($PATH_TO_ROOT.'/lib/base.php');
 require_once($PATH_TO_ROOT.'/lib/html.php');
 
 #-------------------------------------------------------------------------------
-startHtmlPage('Alt0.nl > Alternatives');
+startHtmlPage('Alt0.nl &rarr; Alternatives');
 #============================================================================ ?>
 
 <h1><a href="<?php echo $alt0_url; ?>"><span class="link-button">Alt0.nl</span></a></h1>
@@ -23,7 +23,7 @@ startHtmlPage('Alt0.nl > Alternatives');
 </div>
 
 <?php #=========================================================================
-echo "<div id=\"links\"><h5>".ucfirst($links_id).":</h5><div>\n";
+echo "<div id=\"links\"><h5>".ucfirst('Alt0 &rarr; Alternatives').":</h5><div>\n";
 echo linksList('alternatives', NULL);
 echo "</div></div>\n";
 
