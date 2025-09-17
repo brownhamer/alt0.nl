@@ -20,10 +20,10 @@ startHtmlPage('Alt0.nl &rarr; Alternatives');
 <div id="choices"><h5>My choices:</h5>
 <ul>
   <li>Browser <span class="del">Chrome</span> &rarr; <b><a href="https://www.firefox.com/">Firefox</a></b></li>
-  <li>Cloud storage<span class="del">OneDrive</span> &rarr; <b><a href="https://nextcloud.com/">NextCloud</a></b> via <b><a href="https://ocloud.de/">oCloud</a></b></li>
-  <li>Messenger<span class="del">WhatsApp</span> &rarr; <b><a href="https://signal.org/">Signal</a></b></li>
-  <li>Navigation<span class="del">Maps</span> &rarr; <b><a href="https://www.comaps.app/">CoMaps</a></b> and <b><a href="https://wego.here.com/">HERE WeGo</a></b></li>
-  <li>Search<span class="del">Google</span> &rarr; <b><a href="https://start.duckduckgo.com/">DuckDuckGo</a></b></li>
+  <li>Cloud storage <span class="del">OneDrive</span> &rarr; <b><a href="https://nextcloud.com/">NextCloud</a></b> via <b><a href="https://ocloud.de/">oCloud</a></b></li>
+  <li>Messenger <span class="del">WhatsApp</span> &rarr; <b><a href="https://signal.org/">Signal</a></b></li>
+  <li>Navigation <span class="del">Maps</span> &rarr; <b><a href="https://www.comaps.app/">CoMaps</a></b> and <b><a href="https://wego.here.com/">HERE WeGo</a></b></li>
+  <li>Search <span class="del">Google</span> &rarr; <b><a href="https://start.duckduckgo.com/">DuckDuckGo</a></b></li>
 </ul>
 </div>
 </td><td>
