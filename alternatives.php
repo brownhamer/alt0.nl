@@ -19,7 +19,7 @@ startHtmlPage('Alt0.nl &rarr; Alternatives');
 <table id="alternatives"><tr><td>
 <div id="choices"><h5>Mijn keuzes:</h5>
 <ul>
-  <li><span class="del">Maps</span> &rarr; <b><a href="https://wego.here.com/">HERE WeGo</a></b></li>
+  <li><span class="del">Maps</span> &rarr; <b><a href="https://www.comaps.app/">CoMaps</a></b> and <b><a href="https://wego.here.com/">HERE WeGo</a></b></li>
   <li><span class="del">Search</span> &rarr; <b><a href="https://start.duckduckgo.com/">DuckDuckGo</a></b></li>
 </ul>
 </div>
