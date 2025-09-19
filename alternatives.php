@@ -16,6 +16,7 @@ startHtmlPage('Alt0.nl &rarr; Alternatives');
 <ul>
   <li>Browser: <span class="del">Chrome</span> &rarr; <a href="https://www.firefox.com/">Firefox</a></li>
   <li>Cloud storage: <span class="del">OneDrive</span> &rarr; <a href="https://nextcloud.com/">NextCloud</a> via <a href="https://ocloud.de/">oCloud</a></li>
+  <li>Mail: <span class="del">Gmail</span> &rarr; <a href="https://www.thunderbird.net/">Thunderbird</a> with IMAP on own domains</li>
   <li>Messenger: <span class="del">WhatsApp</span> &rarr; <a href="https://signal.org/">Signal</a></li>
   <li>Navigation: <span class="del">Maps</span> &rarr; <a href="https://www.comaps.app/">CoMaps</a> and <a href="https://wego.here.com/">HERE WeGo</a></li>
   <li>Search: <span class="del">Google</span> &rarr; <a href="https://start.duckduckgo.com/">DuckDuckGo</a></li>
