@@ -123,13 +123,24 @@ h3 a:hover {
     text-decoration: underline;
 }
 
-div#footer a, div#linksside a, div#links a, div#choices a {
+div#footer a, div#linksside a, div#links a {
 	color: rgb(255 255 255 / 15%);
     text-decoration: none;
 }
 
-div#footer a:hover, div#linksside a:hover, div#links a:hover, div#choices a:hover {
+div#footer a:hover, div#linksside a:hover, div#links a:hover {
 	color: rgb(255 255 255 / 35%);
+    text-decoration: underline;
+}
+
+div#choices a {
+	color: rgb(255 255 255 / 35%);
+	font-weight: bold;
+    text-decoration: none;
+}
+
+div#choices a:hover {
+	color: rgb(255 255 255 / 75%);
     text-decoration: underline;
 }
 
@@ -139,5 +150,6 @@ table#alternatives td {
 }
 
 .del {
+	font-style: italic;
 	text-decoration: line-through double;
 }
