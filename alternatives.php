@@ -14,6 +14,7 @@ startHtmlPage('Alt0.nl &rarr; Alternatives');
 <table id="alternatives"><tr><td>
 <div id="choices"><h5>My choices:</h5>
 <ul>
+  <li>2FA: <span class="del">Authy</span> &rarr; <a href="https://ente.io/auth/">Ente Auth</a></li>
   <li>Browser: <span class="del">Chrome</span> &rarr; <a href="https://www.firefox.com/">Firefox</a></li>
   <li>Cloud storage: <span class="del">OneDrive</span> &rarr; <a href="https://nextcloud.com/">NextCloud</a> via <a href="https://ocloud.de/">oCloud</a></li>
   <li>Mail: <span class="del">Gmail</span> &rarr; <a href="https://www.thunderbird.net/">Thunderbird</a> with IMAP on own domains</li>
