@@ -128,15 +128,15 @@ div#footer a, div#linksside a, div#links a {
     text-decoration: none;
 }
 
-div#footer a:hover, div#linksside a:hover, div#links a:hover {
-	color: rgb(255 255 255 / 35%);
-    text-decoration: underline;
-}
-
 div#choices a {
 	color: rgb(255 255 255 / 35%);
 	font-weight: bold;
     text-decoration: none;
+}
+
+div#footer a:hover, div#linksside a:hover, div#links a:hover {
+	color: rgb(255 255 255 / 35%);
+    text-decoration: underline;
 }
 
 div#choices a:hover {
