@@ -52,6 +52,7 @@ if ($links_id === '') {
 <h2>
 <?php echo $alternatives_button; ?>
 <?php echo $linux_button; ?>
+<?php echo $onai_button; ?>
 </h2>
 
 <div id="buttons">
