@@ -176,7 +176,7 @@ $creative_button     = new LinkButton('Creative Music Lab', 'https://lab.creativ
 $github_button       = new LinkButton('GitHub'            , 'https://github.com/brownhamer'             ,  46,  46,  46);
 $linux_button        = new LinkButton('Linux'             , './linux.php'                               ,  85, 102, 136);
 $mastodon_button     = new LinkButton('Mastodon'          , 'https://mastodon.nl/@brownhamer'           ,  90,  72, 221);
-$meta_button         = new LinkButton('On Meta'           , './onmeta.php'                              ,  85, 102, 136);
+$onmeta_button       = new LinkButton('On Meta'           , './onmeta.php'                              ,  85, 102, 136);
 $onai_button         = new LinkButton('On AI'             , './onai.php'                                ,  85, 102, 136);
 
 #============================================================================ ?>
