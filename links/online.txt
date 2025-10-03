@@ -8,7 +8,6 @@ https://ourworldindata.org/>Our World in Data
 https://passwordsecurity.info/>Password Security info
 https://pedalplayground.com/>Pedal Playground
 https://privacytools.io/>Privacy Tools
-https://public.tableau.com/app/profile/mateusz.karmalski/viz/F1ResultsTracker/Results>F1 Results Tracker
 https://regexr.com/>RegExr
 https://noai.duckduckgo.com/>DuckDuckGo
 https://thatoneprivacysite.net/vpn-comparison-chart/>VPN Comparison
