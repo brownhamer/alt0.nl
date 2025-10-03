@@ -1,8 +1,6 @@
 https://1password.com/>1Password
 https://7-zip.org/>7-Zip
 https://addons.mozilla.org/en-US/firefox/addon/duckduckgo-for-firefox/>DuckDuckGo Privacy Essentials
-https://addons.mozilla.org/en-US/firefox/addon/istilldontcareaboutcookies/>I still don't care about cookies
-https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/>Privacy Badger
 https://addons.mozilla.org/nl/firefox/addon/ublock-origin>uBlock Origin
 https://bazel.build/>Bazel
 https://bvckup2.com/>Bvckup 2
@@ -22,7 +20,6 @@ https://github.com/mateodelnorte/meta>meta
 https://keeweb.info/>KeeWeb
 https://ladybird.org/>Ladybird
 https://librewolf.net/>LibreWolf
-https://mailfence.com/>Mailfence
 https://manjaro.org/>Manjaro Linux
 https://meldmerge.org/>Meld
 https://mozilla.org/nl/firefox/>Firefox
