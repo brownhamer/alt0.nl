@@ -43,10 +43,9 @@ startHtmlPage('Alt0.nl &rarr; On AI');
 </div>
 </td><td>
 <?php #=========================================================================
-# No right side content yet
-#echo "<div id=\"links\"><h5>Alternatives listings:</h5><div>\n";
-#echo linksList('alternatives', NULL);
-#echo "</div></div>\n";
+echo "<div id=\"links\"><h5>Alternatives listings:</h5><div>\n";
+echo linksList('alternatives', NULL);
+echo "</div></div>\n";
 
 echo "</td></tr></table>\n";
 
