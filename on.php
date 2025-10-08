@@ -34,6 +34,12 @@ startHtmlPage('Alt0.nl &rarr; On AI');
   <li><a href="https://tweakers.net/nieuws/237058/meta-moet-duitser-5000-euro-schadevergoeding-betalen-vanwege-illegale-tracking.html">Meta moet Duitser 5000 euro schadevergoeding betalen vanwege illegale tracking</a></li>
   <li><a href="https://decorrespondent.nl/16421/mag-meta-bepalen-wat-jij-ziet-op-instagram-en-facebook-nee-vindt-de-rechter/3a5ebc2a-ba4a-0a90-22f6-cb9a2c021dc5">Mag Meta bepalen wat jij ziet op Instagram en Facebook? Nee, vindt de rechter</a></li>
 </ul>
+
+<h5>On Privacy:</h5>
+<ul>
+  <li><a href="https://pluralistic.net/2025/08/14/bellovin/#wont-someone-think-of-the-cryptographers">Privacy preserving age verification” is bullshit</a></li>
+  <li><a href="https://decorrespondent.nl/209/nee-je-hebt-wel-iets-te-verbergen/6428004-ab2d5fc2">Nee, je hebt wél iets te verbergen</a></li>
+</ul>
 </div>
 </td><td>
 <?php #=========================================================================
