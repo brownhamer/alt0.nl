@@ -12,7 +12,21 @@ startHtmlPage('Alt0.nl &rarr; On AI');
 <div id="spacer">&nbsp;</div>
 
 <table id="alternatives"><tr><td>
-<div id="choices"><h5>On Meta:</h5>
+<div id="choices">
+<h5>On AI:</h5>
+<ul>
+  <li><a href="https://www.theregister.com/2025/06/29/ai_agents_fail_a_lot/">AI agents get office tasks wrong around 70% of the time, and a lot of them aren't AI at all</a></li>
+  <li><a href="https://www.theregister.com/2025/09/05/ai_code_assistants_security_problems/">AI code assistants make developers more efficient at creating security problems</a></li>
+  <li><a href="https://www.reddit.com/r/vibecoding/comments/1mo0j3p/never_touching_cursor_again/">AI deletes database</a></li>
+  <li><a href="https://vu.nl/nl/nieuws/2025/ai-hard-op-weg-om-grootste-energieverbruiker-te-worden">AI hard op weg om grootste energieverbruiker te worden</a></li>
+  <li><a href="https://os-sci.nl/blog/dutch-blogs-3/ai-verlaagt-de-productiviteit-van-ervaren-programmeurs-120">AI verlaagt de productiviteit van ervaren programmeurs</a></li>
+  <li><a href="https://www.computerworld.com/article/4059383/openai-admits-ai-hallucinations-are-mathematically-inevitable-not-just-engineering-flaws.html">OpenAI admits AI hallucinations are mathematically inevitable, not just engineering flaws</a></li>
+  <li><a href="https://tweakers.net/nieuws/238390/ai-browser-van-perplexity-trapt-in-simpele-en-bekende-phishingtrucs.html">AI-browser van Perplexity trapt in simpele en bekende phishingtrucs</a></li>
+  <li><a href="https://www.theregister.com/2025/09/11/cobalt_strikes_ai_successor_downloaded/">AI-powered penetration tool, an attacker's dream, downloaded 10K times in 2 months</a></li>
+  <li><a href="https://www.theregister.com/2025/09/09/ai_security_review_risks/">Anthropic's Claude Code runs code to test if it is safe – which might be a big mistake</a></li>
+</ul>
+
+<h5>On Meta:</h5>
 <ul>
   <li><a href="https://tweakers.net/nieuws/203926/meta-krijgt-265-miljoen-euro-avg-boete-om-gescrapete-data-van-533-miljoen-users.html">Meta krijgt 265 miljoen euro AVG-boete om gescrapete data van 533 miljoen users</a></li>
   <li><a href="https://tweakers.net/nieuws/211816/noorse-privacywaakhond-geeft-meta-88000-euro-boete-per-dag-voor-overtreden-avg.html">Noorse privacywaakhond geeft Meta 88.000 euro boete per dag voor overtreden AVG</a></li>
