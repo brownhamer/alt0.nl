@@ -21,6 +21,8 @@ startHtmlPage('Alt0.nl &rarr; On AI');
   <li><a href="https://os-sci.nl/blog/dutch-blogs-3/ai-verlaagt-de-productiviteit-van-ervaren-programmeurs-120">AI verlaagt de productiviteit van ervaren programmeurs</a></li>
   <li><a href="https://www.computerworld.com/article/4059383/openai-admits-ai-hallucinations-are-mathematically-inevitable-not-just-engineering-flaws.html">OpenAI admits AI hallucinations are mathematically inevitable, not just engineering flaws</a></li>
   <li><a href="https://tweakers.net/nieuws/238390/ai-browser-van-perplexity-trapt-in-simpele-en-bekende-phishingtrucs.html">AI-browser van Perplexity trapt in simpele en bekende phishingtrucs</a></li>
+  <li><a href="https://www.theregister.com/2025/09/11/cobalt_strikes_ai_successor_downloaded/">AI-powered penetration tool, an attacker's dream, downloaded 10K times in 2 months</a></li>
+  <li><a href="https://www.theregister.com/2025/09/09/ai_security_review_risks/">Anthropic's Claude Code runs code to test if it is safe – which might be a big mistake</a></li>
 </ul>
 </div>
 </td><td>
