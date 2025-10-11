@@ -39,6 +39,7 @@ startHtmlPage('Alt0.nl &rarr; On AI');
 <ul>
   <li><a href="https://pluralistic.net/2025/08/14/bellovin/#wont-someone-think-of-the-cryptographers">Privacy preserving age verification” is bullshit</a></li>
   <li><a href="https://decorrespondent.nl/209/nee-je-hebt-wel-iets-te-verbergen/6428004-ab2d5fc2">Nee, je hebt wél iets te verbergen</a></li>
+  <li><a href="https://substack.com/home/post/p-170674285">Hoe de EU kinderen gebruikt voor haar agenda</a></li>
 </ul>
 </div>
 </td><td>
