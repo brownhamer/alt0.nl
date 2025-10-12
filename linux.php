@@ -14,11 +14,11 @@ startHtmlPage('Alt0.nl &rarr; Linux');
 <table id="alternatives"><tr><td>
 <div id="choices"><h5>Moving to Linux:</h5>
 <ul>
-  <li>2FA &rArr; Ente Auth: <a href="https://ente.io/download">Works</a></li>
-  <li>Browser &rArr; Firefox: <a href="https://www.firefox.com/en-US/browsers/desktop/linux/">Works</a></li>
-  <li>Cloud storage &rArr; NextCloud: <a href="https://nextcloud.com/install/#desktop-files">Works</a></li>
-  <li>Mail &rArr; Thunderbird <a href="https://www.thunderbird.net/en-US/thunderbird/all/">Works</a></li>
-  <li>Messenger &rArr; Signal <a href="https://signal.org/download/linux/">Works</a></li>
+  <li>2FA &rarr; Ente Auth: <a href="https://ente.io/download">Works</a></li>
+  <li>Browser &rarr; Firefox: <a href="https://www.firefox.com/en-US/browsers/desktop/linux/">Works</a></li>
+  <li>Cloud storage &rarr; NextCloud: <a href="https://nextcloud.com/install/#desktop-files">Works</a></li>
+  <li>Mail &rarr; Thunderbird: <a href="https://www.thunderbird.net/en-US/thunderbird/all/">Works</a></li>
+  <li>Messenger &rarr; Signal: <a href="https://signal.org/download/linux/">Works</a></li>
 </ul>
 </div>
 </td><td>
