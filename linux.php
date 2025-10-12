@@ -18,6 +18,7 @@ startHtmlPage('Alt0.nl &rarr; Linux');
   <li>Browser &rArr; Firefox: <a href="https://www.firefox.com/en-US/browsers/desktop/linux/">Works</a></li>
   <li>Cloud storage &rArr; NextCloud: <a href="https://nextcloud.com/install/#desktop-files">Works</a></li>
   <li>Mail &rArr; Thunderbird <a href="https://www.thunderbird.net/en-US/thunderbird/all/">Works</a></li>
+  <li>Messenger &rArr; Signal <a href="https://signal.org/download/linux/">Works</a></li>
 </ul>
 </div>
 </td><td>
