@@ -14,8 +14,8 @@ startHtmlPage('Alt0.nl &rarr; Linux');
 <table id="alternatives"><tr><td>
 <div id="choices"><h5>Moving to Linux:</h5>
 <ul>
-  <li>Ente Auth: <a href="https://ente.io/download">Works</a></li>
-  <li>Firefox: <a href="https://www.firefox.com/en-US/browsers/desktop/linux/">Works</a></li>
+  <li>2FA &rArr; Ente Auth: <a href="https://ente.io/download">Works</a></li>
+  <li>Browser &rArr; Firefox: <a href="https://www.firefox.com/en-US/browsers/desktop/linux/">Works</a></li>
 </ul>
 </div>
 </td><td>
