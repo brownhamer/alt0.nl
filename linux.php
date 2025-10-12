@@ -16,6 +16,7 @@ startHtmlPage('Alt0.nl &rarr; Linux');
 <ul>
   <li>2FA &rArr; Ente Auth: <a href="https://ente.io/download">Works</a></li>
   <li>Browser &rArr; Firefox: <a href="https://www.firefox.com/en-US/browsers/desktop/linux/">Works</a></li>
+  <li>Cloud storage &rArr; NextCloud: <a href="https://nextcloud.com/install/#desktop-files">Works</a></li>
 </ul>
 </div>
 </td><td>
