@@ -23,6 +23,7 @@ startHtmlPage('Alt0.nl &rarr; Alternatives');
   <li>Notes: <span class="del">Simplenote</span> &rarr; <a href="https://notesnook.com/">Notesnook</a></li>
   <li>Password manager: <span class="del">Lastpass</span> &rarr; <a href="https://1password.com/">1Password</a></li>
   <li>Search: <span class="del">Google</span> &rarr; <a href="https://start.duckduckgo.com/">DuckDuckGo</a></li>
+  <li>Todo: <span class="del">Microsoft To Do</span> &rarr; <a href="https://www.todoist.com/">Todoist</a></li>
 </ul>
 </div>
 </td><td>
