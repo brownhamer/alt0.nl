@@ -40,6 +40,7 @@ https://wego.here.com/>HERE WeGo
 https://winscp.net/>WinSCP
 https://www.buildbuddy.io/>BuildBuddy
 https://www.guitar-pro.com/>Guitar Pro
+https://www.joindns4.eu/>DNS4EU
 https://www.marticliment.com/unigetui/>UniGetUI
 https://www.steinberg.net/cubase/>Cubase
 https://www.winomail.app/>Wino Mail
