@@ -24,6 +24,12 @@ startHtmlPage('Alt0.nl &rarr; On AI');
   <li><a href="https://tweakers.net/nieuws/238390/ai-browser-van-perplexity-trapt-in-simpele-en-bekende-phishingtrucs.html">AI-browser van Perplexity trapt in simpele en bekende phishingtrucs</a></li>
   <li><a href="https://www.theregister.com/2025/09/11/cobalt_strikes_ai_successor_downloaded/">AI-powered penetration tool, an attacker's dream, downloaded 10K times in 2 months</a></li>
   <li><a href="https://www.theregister.com/2025/09/09/ai_security_review_risks/">Anthropic's Claude Code runs code to test if it is safe – which might be a big mistake</a></li>
+  <li><a href="https://www.bright.nl/nieuws/1704264/ai-browsers-zijn-bijzonder-kwetsbaar-prompts-in-screenshots-verstopt.html">AI-browsers zijn bijzonder kwetsbaar: prompts in screenshots verstopt</a></li>
+  <li><a href="https://tweakers.net/nieuws/240610/chatbots-verspreiden-verkeerde-nieuwsinformatie-zelfs-uit-juiste-artikelen.html">Chatbots verspreiden verkeerde nieuwsinformatie, zelfs uit juiste artikelen</a></li>
+  <li><a href="https://www.anildash.com/2025/10/22/atlas-anti-web-browser/">ChatGPT's Atlas: The Browser That's Anti-Web</a></li>
+  <li><a href="https://www.bbc.com/news/articles/c77zxx43x4vo">Scottish data centres powering AI already using enough water to fill 27 million bottles a year</a></li>
+  <li><a href="https://mastodon.social/@nixCraft/115387473218466349">The irony of this is that Perplexity is posting this one</a></li>
+  <!--<li><a href=""></a></li>-->
 </ul>
 
 <h5>On Meta:</h5>
