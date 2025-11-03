@@ -30,6 +30,7 @@ startHtmlPage('Alt0.nl &rarr; On AI');
   <li><a href="https://www.bbc.com/news/articles/c77zxx43x4vo">Scottish data centres powering AI already using enough water to fill 27 million bottles a year</a></li>
   <li><a href="https://mastodon.social/@nixCraft/115387473218466349">The irony of this is that Perplexity is posting this one</a></li>
   <li><a href="https://www.bright.nl/nieuws/1705093/ai-beveiligingssysteem-ziet-zak-chips-aan-voor-pistool-tiener-in-boeien.html">AI-beveiligingssysteem ziet zak chips aan voor pistool: tiener in boeien</a></li>
+  <li><a href="https://arstechnica.com/ai/2025/07/study-finds-ai-tools-made-open-source-software-developers-19-percent-slower/">Study finds AI tools made open source software developers 19 percent slower</a></li>
   <!--<li><a href=""></a></li>-->
 </ul>
 
