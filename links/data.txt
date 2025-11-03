@@ -1,2 +1,13 @@
+https://allecijfers.be/>AlleVijfers BE
+https://allecijfers.nl/>AlleCijfers NL
+https://berthub.eu/tkconv/>OpenTK NL
 https://data.overheid.nl/>Dataregister NL
+https://datagraver.com/>Datagraver
+https://opendata.tweedekamer.nl/>Open data Tweede Kamer NL
+https://openlobby.nl/>Open Lobby NL
+https://ourworldindata.org/>Our World in Data
+https://www.cbs.nl/nl-nl>CBS NL
+https://www.datadame.nl/>De Data Dame
+https://www.openkamer.org/>Open Kamer NL
 https://www.verkiezingsuitslagen.nl/>Verkiezingsuitslagen NL
+https://www.worldometers.info/>Worldometer
