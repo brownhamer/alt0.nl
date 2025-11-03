@@ -14,6 +14,7 @@ if (($page_id == 360) or ($tag == 'bunch-of-bunk')) {
 #-------------------------------------------------------------------------------
 $links_known = array(
     "alternatives" => 3,
+    "data"         => 2,
     "finds"        => 2,
     "news"         => 2,
     "online"       => 3,
