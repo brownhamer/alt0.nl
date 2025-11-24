@@ -49,9 +49,9 @@ startHtmlPage('Alt0.nl &rarr; On AI');
   <li><a href="https://decorrespondent.nl/209/nee-je-hebt-wel-iets-te-verbergen/6428004-ab2d5fc2">Nee, je hebt wél iets te verbergen</a></li>
   <li><a href="https://substack.com/home/post/p-170674285">Hoe de EU kinderen gebruikt voor haar agenda</a></li>
   <li><a href="https://theconversation.com/seizure-of-sally-manns-photographs-in-texas-revives-old-debates-about-obscenity-and-freedom-of-expression-247321">Seizure of Sally Mann’s photographs in Texas revives old debates about obscenity and freedom of expression</a></li>
-  <li><a href="https://www.security.nl/posting/910437/Privacyexpert%3A+overheid+dringt+steeds+dieper+het+priv%C3%A9leven+van+burgers+binnen"></a>Privacyexpert: overheid dringt steeds dieper het privéleven van burgers binnen</li>
-  <li><a href="https://www.security.nl/posting/440963/VN-rapporteur%3A+wereld+nu+erger+dan+1984+voorspelde"></a>VN-privacychef: wereld nu erger dan 1984 voorspelde</li>
-  <li><a href="">https://chatcontrol.be/en</a>Chat Control Belgium</li>
+  <li><a href="https://www.security.nl/posting/910437/Privacyexpert%3A+overheid+dringt+steeds+dieper+het+priv%C3%A9leven+van+burgers+binnen">Privacyexpert: overheid dringt steeds dieper het privéleven van burgers binnen</a></li>
+  <li><a href="https://www.security.nl/posting/440963/VN-rapporteur%3A+wereld+nu+erger+dan+1984+voorspelde">VN-privacychef: wereld nu erger dan 1984 voorspelde</a></li>
+  <li><a href="https://chatcontrol.be/en">Chat Control Belgium</a></li>
 </ul>
 </div>
 </td><td>
