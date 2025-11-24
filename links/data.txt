@@ -9,6 +9,7 @@ https://openlobby.nl/>Open Lobby NL
 https://ourworldindata.org/>Our World in Data
 https://www.cbs.nl/nl-nl>CBS NL
 https://www.datadame.nl/>De Data Dame
+https://www.lobbyfacts.eu/>LobbyFacts.eu
 https://www.openkamer.org/>Open Kamer NL
 https://www.verkiezingsuitslagen.nl/>Verkiezingsuitslagen NL
 https://www.worldometers.info/>Worldometer
