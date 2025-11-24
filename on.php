@@ -76,6 +76,7 @@ startHtmlPage('Alt0.nl &rarr; On AI');
   <li><a href="https://www.security.nl/posting/440963/VN-rapporteur%3A+wereld+nu+erger+dan+1984+voorspelde">VN-privacychef: wereld nu erger dan 1984 voorspelde</a></li>
   <li><a href="https://chatcontrol.be/en">Chat Control Belgium</a></li>
   <li><a href="https://www.heise.de/en/news/How-a-French-judge-was-digitally-cut-off-by-the-USA-11087561.html">How a French judge was digitally cut off by the USA</a></li>
+  <li><a href="https://www.thecanary.co/skwawkbox/2025/11/07/meta-ai-chats/">Meta – FB, Insta, WhatsApp – will read your DMs and AI chats, rolling out from Dec</a></li>
 </ul>
 </div>
 </td><td>
