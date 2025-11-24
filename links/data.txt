@@ -3,6 +3,7 @@ https://allecijfers.nl/>AlleCijfers NL
 https://berthub.eu/tkconv/>OpenTK NL
 https://data.overheid.nl/>Dataregister NL
 https://datagraver.com/>Datagraver
+https://howtheyvote.eu/>HowTheyVote.eu
 https://opendata.tweedekamer.nl/>Open data Tweede Kamer NL
 https://openlobby.nl/>Open Lobby NL
 https://ourworldindata.org/>Our World in Data
