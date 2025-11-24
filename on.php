@@ -45,6 +45,18 @@ startHtmlPage('Alt0.nl &rarr; On AI');
   <li><a href="https://tweakers.net/nieuws/241810/meta-verstopte-onderzoek-dat-wees-op-negatieve-effecten-facebook-en-instagram.html">Meta verstopte onderzoek dat wees op negatieve effecten Facebook en Instagram</a></li>
 </ul>
 
+<h5>On Tesla FSD:</h5>
+<ul>
+  <li><a href="https://www.forbes.com/sites/alanohnsman/2025/09/23/teslas-full-self-driving-software-is-a-mess-should-it-be-legal/">Tesla’s Full-Self Driving Software Is A Mess. Should It Be Legal?</a></li>
+  <li><a href="https://www.motortrend.com/reviews/2023-tesla-model-y-long-range-yearlong-review-full-self-driving-danger">Why I Had to Quit Using Tesla Full Self-Driving</a></li>
+  <li><a href="https://teslamotorsclub.com/tmc/threads/major-fsd-issue.344805/">Major FSD issue</a></li>
+  <li><a href="https://www.nbcnews.com/tech/elon-musk/tesla-full-self-driving-fsd-problems-investigation-train-issues-rcna236729">Tesla's Full Self-Driving software under investigation after railroad incidents</a></li>
+  <li><a href="https://arstechnica.com/cars/2025/10/tesla-fsd-gets-worse-at-driving-nhtsa-opens-new-investigation/">Tesla FSD gets worse at driving, NHTSA opens new investigation</a></li>
+  <li><a href="https://www.theguardian.com/technology/2025/jul/05/the-vehicle-suddenly-accelerated-with-our-baby-in-it-the-terrifying-truth-about-why-teslas-cars-keep-crashing">The vehicle suddenly accelerated with our baby in it: the terrifying truth about why Tesla’s cars keep crashing</a></li>
+  <li><a href="https://www.reuters.com/business/autos-transportation/us-opens-probe-into-28-million-tesla-vehicles-over-traffic-violations-when-using-2025-10-09/">US probes driver assistance software in 2.9 million Tesla vehicles over traffic violations</a></li>
+  <li><a href="https://www.theverge.com/2024/4/26/24141361/tesla-autopilot-fsd-nhtsa-investigation-report-crash-death">Tesla’s Autopilot and Full Self-Driving linked to hundreds of crashes, dozens of deaths</a></li>
+</ul>
+
 <h5>On Privacy:</h5>
 <ul>
   <li><a href="https://pluralistic.net/2025/08/14/bellovin/#wont-someone-think-of-the-cryptographers">Privacy preserving age verification” is bullshit</a></li>
