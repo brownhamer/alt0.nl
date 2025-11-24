@@ -52,6 +52,8 @@ startHtmlPage('Alt0.nl &rarr; On AI');
   <li><a href="https://time.com/7336204/meta-lawsuit-files-child-safety/">Court Filings Allege Meta Downplayed Risks to Children and Misled the Public</a></li>
   <li><a href="https://www.rtl.nl/nieuws/buitenland/artikel/5537555/meta-verdient-miljarden-aan-frauduleuze-advertenties-op-facebook">Meta verdient miljarden aan frauduleuze advertenties op Facebook en Instagram</a></li>
   <li><a href="https://tweakers.net/nieuws/241198/intern-document-tien-procent-jaaromzet-meta-komt-van-scams-op-insta-en-facebook.html">Intern document: tien procent jaaromzet Meta komt van scams op Insta en Facebook</a></li>
+  <li><a href="https://www.rollingstone.com/politics/politics-features/whatsapp-imessage-facebook-apple-fbi-privacy-1261816/">FBI Document Says the Feds Can Get Your WhatsApp Data — in Real Time</a></li>
+  <li><a href="https://skwawkbox.org/2024/04/28/israeli-ai-using-whatsapp-data-to-target-gaza-families-for-bomb-strikes/">Israeli AI ‘using WhatsApp data’ to target Gaza families for bomb strikes</a></li>
 </ul>
 
 <h5>On Tesla FSD:</h5>
