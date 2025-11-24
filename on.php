@@ -31,6 +31,12 @@ startHtmlPage('Alt0.nl &rarr; On AI');
   <li><a href="https://mastodon.social/@nixCraft/115387473218466349">The irony of this is that Perplexity is posting this one</a></li>
   <li><a href="https://www.bright.nl/nieuws/1705093/ai-beveiligingssysteem-ziet-zak-chips-aan-voor-pistool-tiener-in-boeien.html">AI-beveiligingssysteem ziet zak chips aan voor pistool: tiener in boeien</a></li>
   <li><a href="https://arstechnica.com/ai/2025/07/study-finds-ai-tools-made-open-source-software-developers-19-percent-slower/">Study finds AI tools made open source software developers 19 percent slower</a></li>
+  <li><a href="https://www.anthropic.com/research/small-samples-poison">A small number of samples can poison LLMs of any size</a></li>
+  <li><a href="https://www.felienne.nl/">Felienne</a> blogs on AI</li>
+  <li><a href="https://www.independent.co.uk/tech/chatgpt-psychosis-nhs-doctors-ai-b2797174.html">ChatGPT is fuelling psychosis, doctors warn</a></li>
+  <li><a href="https://www.theregister.com/2025/10/07/gen_ai_shadow_it_secrets/">Employees regularly paste company secrets into ChatGPT</a></li>
+  <li><a href="https://techcrunch.com/2025/10/25/the-glaring-security-risks-with-ai-browser-agents/">The glaring security risks with AI browser agents</a></li>
+  <li><a href="https://www.agconnect.nl/business/artificial-intelligence/verzekeraars-weigeren-de-risicos-van-ai-agents-te-dekken">Verzekeraars weigeren de risico's van AI-agents te dekken</a></li>
   <!--<li><a href=""></a></li>-->
 </ul>
 
