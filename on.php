@@ -63,7 +63,7 @@ startHtmlPage('Alt0.nl &rarr; On AI');
   <li><a href="https://www.theverge.com/2024/4/26/24141361/tesla-autopilot-fsd-nhtsa-investigation-report-crash-death">Tesla’s Autopilot and Full Self-Driving linked to hundreds of crashes, dozens of deaths</a></li>
 </ul>
 
-<h5>On Privacy:</h5>
+<h5>On Privacy/Sovereignty:</h5>
 <ul>
   <li><a href="https://pluralistic.net/2025/08/14/bellovin/#wont-someone-think-of-the-cryptographers">Privacy preserving age verification” is bullshit</a></li>
   <li><a href="https://decorrespondent.nl/209/nee-je-hebt-wel-iets-te-verbergen/6428004-ab2d5fc2">Nee, je hebt wél iets te verbergen</a></li>
@@ -72,6 +72,7 @@ startHtmlPage('Alt0.nl &rarr; On AI');
   <li><a href="https://www.security.nl/posting/910437/Privacyexpert%3A+overheid+dringt+steeds+dieper+het+priv%C3%A9leven+van+burgers+binnen">Privacyexpert: overheid dringt steeds dieper het privéleven van burgers binnen</a></li>
   <li><a href="https://www.security.nl/posting/440963/VN-rapporteur%3A+wereld+nu+erger+dan+1984+voorspelde">VN-privacychef: wereld nu erger dan 1984 voorspelde</a></li>
   <li><a href="https://chatcontrol.be/en">Chat Control Belgium</a></li>
+  <li><a href="https://www.heise.de/en/news/How-a-French-judge-was-digitally-cut-off-by-the-USA-11087561.html">How a French judge was digitally cut off by the USA</a></li>
 </ul>
 </div>
 </td><td>
