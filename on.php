@@ -66,6 +66,7 @@ startHtmlPage('Alt0.nl &rarr; On AI');
   <li><a href="https://www.theguardian.com/technology/2025/jul/05/the-vehicle-suddenly-accelerated-with-our-baby-in-it-the-terrifying-truth-about-why-teslas-cars-keep-crashing">The vehicle suddenly accelerated with our baby in it: the terrifying truth about why Tesla’s cars keep crashing</a></li>
   <li><a href="https://www.reuters.com/business/autos-transportation/us-opens-probe-into-28-million-tesla-vehicles-over-traffic-violations-when-using-2025-10-09/">US probes driver assistance software in 2.9 million Tesla vehicles over traffic violations</a></li>
   <li><a href="https://www.theverge.com/2024/4/26/24141361/tesla-autopilot-fsd-nhtsa-investigation-report-crash-death">Tesla’s Autopilot and Full Self-Driving linked to hundreds of crashes, dozens of deaths</a></li>
+  <li><a href="https://youtu.be/040ejWnFkj0?si=p8-gtRIRx-siUOtN">How Self-Driving Cars will Destroy Cities (and what to do about it)</a></li>
 </ul>
 
 <h5>On Privacy/Sovereignty:</h5>
