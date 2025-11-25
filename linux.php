@@ -20,7 +20,11 @@ startHtmlPage('Alt0.nl &rarr; Linux');
   <li>Mail &rarr; Thunderbird: <a href="https://www.thunderbird.net/en-US/thunderbird/all/">Works</a></li>
   <li>Messenger &rarr; Signal: <a href="https://signal.org/download/linux/">Works</a></li>
 </ul>
-<em>To explore: <a href="https://usebottles.com/">Bottles</a>, <a href="https://www.winboat.app/">WinBoat</a>.</em>
+<em>To explore:
+  <a href="https://usebottles.com/">Bottles</a>,
+  <a href="https://www.winboat.app/">WinBoat</a>,
+  <a href="https://gitlab.melroy.org/melroy/winegui">WineGUI</a>.
+</em>
 </div>
 </td><td>
 <?php #=========================================================================
