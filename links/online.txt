@@ -4,12 +4,13 @@ https://browserleaks.com/>BrowserLeaks.com
 https://feedle.world/>feedle
 https://findmyguitar.com/>findMyGuitar
 https://haveibeenpwned.com/>Have I been pwned?
+https://noai.duckduckgo.com/>DuckDuckGo
 https://ourworldindata.org/>Our World in Data
 https://passwordsecurity.info/>Password Security info
 https://pedalplayground.com/>Pedal Playground
 https://privacytools.io/>Privacy Tools
 https://regexr.com/>RegExr
-https://noai.duckduckgo.com/>DuckDuckGo
+https://replaceyourboss.ai/>AI CEO
 https://thatoneprivacysite.net/vpn-comparison-chart/>VPN Comparison
 https://virustotal.com/>VirusTotal
 https://www.f1hotornot.com/>F1 HOT or NOT
