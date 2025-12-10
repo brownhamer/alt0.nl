@@ -23,7 +23,7 @@ startHtmlPage('Alt0.nl &rarr; On AI');
   <li><a href="https://www.computerworld.com/article/4059383/openai-admits-ai-hallucinations-are-mathematically-inevitable-not-just-engineering-flaws.html">OpenAI admits AI hallucinations are mathematically inevitable, not just engineering flaws</a></li>
   <li><a href="https://tweakers.net/nieuws/238390/ai-browser-van-perplexity-trapt-in-simpele-en-bekende-phishingtrucs.html">AI-browser van Perplexity trapt in simpele en bekende phishingtrucs</a></li>
   <li><a href="https://www.theregister.com/2025/09/11/cobalt_strikes_ai_successor_downloaded/">AI-powered penetration tool, an attacker's dream, downloaded 10K times in 2 months</a></li>
-  <li><a href="https://www.theregister.com/2025/09/09/ai_security_review_risks/">Anthropic's Claude Code runs code to test if it is safe – which might be a big mistake</a></li>
+  <li><a href="https://www.theregister.com/2025/09/09/ai_security_review_risks/">Anthropic's Claude Code runs code to test if it is safe - which might be a big mistake</a></li>
   <li><a href="https://www.bright.nl/nieuws/1704264/ai-browsers-zijn-bijzonder-kwetsbaar-prompts-in-screenshots-verstopt.html">AI-browsers zijn bijzonder kwetsbaar: prompts in screenshots verstopt</a></li>
   <li><a href="https://tweakers.net/nieuws/240610/chatbots-verspreiden-verkeerde-nieuwsinformatie-zelfs-uit-juiste-artikelen.html">Chatbots verspreiden verkeerde nieuwsinformatie, zelfs uit juiste artikelen</a></li>
   <li><a href="https://www.anildash.com/2025/10/22/atlas-anti-web-browser/">ChatGPT's Atlas: The Browser That's Anti-Web</a></li>
@@ -37,6 +37,12 @@ startHtmlPage('Alt0.nl &rarr; On AI');
   <li><a href="https://www.theregister.com/2025/10/07/gen_ai_shadow_it_secrets/">Employees regularly paste company secrets into ChatGPT</a></li>
   <li><a href="https://techcrunch.com/2025/10/25/the-glaring-security-risks-with-ai-browser-agents/">The glaring security risks with AI browser agents</a></li>
   <li><a href="https://www.agconnect.nl/business/artificial-intelligence/verzekeraars-weigeren-de-risicos-van-ai-agents-te-dekken">Verzekeraars weigeren de risico's van AI-agents te dekken</a></li>
+  <li><a href="https://noyb.eu/en/ai-hallucinations-chatgpt-created-fake-child-murderer">AI hallucinations: ChatGPT created a fake child murderer</a></li>
+  <li><a href="https://www.nature.com/articles/d41586-025-03506-6">Major AI conference flooded with peer reviews written fully by AI</a></li>
+  <li><a href="https://www.schneier.com/essays/archives/2024/05/llms-data-control-path-insecurity.html">LLMs Data-Control Path Insecurity</a></li>
+  <li><a href="https://www.businessinsider.com/ibm-ceo-big-tech-ai-capex-data-center-spending-2025-12">IBM CEO says there is 'no way' spending trillions on AI data centers will pay off at today's infrastructure costs</a></li>
+  <li><a href="https://tuta.com/blog/how-to-disable-gemini-on-android">How to disable Gemini on Android, Gmail, Chrome, Photos, &amp; Google apps. Opt out of AI tracking now!</a></li>
+  <li><a href="https://github.com/zoicware/RemoveWindowsAI">Remove Windows Ai</a></li>
   <!--<li><a href=""></a></li>-->
 </ul>
 
@@ -53,20 +59,21 @@ startHtmlPage('Alt0.nl &rarr; On AI');
   <li><a href="https://www.rtl.nl/nieuws/buitenland/artikel/5537555/meta-verdient-miljarden-aan-frauduleuze-advertenties-op-facebook">Meta verdient miljarden aan frauduleuze advertenties op Facebook en Instagram</a></li>
   <li><a href="https://tweakers.net/nieuws/241198/intern-document-tien-procent-jaaromzet-meta-komt-van-scams-op-insta-en-facebook.html">Intern document: tien procent jaaromzet Meta komt van scams op Insta en Facebook</a></li>
   <li><a href="https://www.rollingstone.com/politics/politics-features/whatsapp-imessage-facebook-apple-fbi-privacy-1261816/">FBI Document Says the Feds Can Get Your WhatsApp Data — in Real Time</a></li>
-  <li><a href="https://skwawkbox.org/2024/04/28/israeli-ai-using-whatsapp-data-to-target-gaza-families-for-bomb-strikes/">Israeli AI ‘using WhatsApp data’ to target Gaza families for bomb strikes</a></li>
+  <li><a href="https://skwawkbox.org/2024/04/28/israeli-ai-using-whatsapp-data-to-target-gaza-families-for-bomb-strikes/">Israeli AI using WhatsApp data to target Gaza families for bomb strikes</a></li>
 </ul>
 
-<h5>On Tesla FSD:</h5>
+<h5>On Tesla (FSD):</h5>
 <ul>
-  <li><a href="https://www.forbes.com/sites/alanohnsman/2025/09/23/teslas-full-self-driving-software-is-a-mess-should-it-be-legal/">Tesla’s Full-Self Driving Software Is A Mess. Should It Be Legal?</a></li>
+  <li><a href="https://www.forbes.com/sites/alanohnsman/2025/09/23/teslas-full-self-driving-software-is-a-mess-should-it-be-legal/">Tesla Full-Self Driving Software Is A Mess. Should It Be Legal?</a></li>
   <li><a href="https://www.motortrend.com/reviews/2023-tesla-model-y-long-range-yearlong-review-full-self-driving-danger">Why I Had to Quit Using Tesla Full Self-Driving</a></li>
   <li><a href="https://teslamotorsclub.com/tmc/threads/major-fsd-issue.344805/">Major FSD issue</a></li>
   <li><a href="https://www.nbcnews.com/tech/elon-musk/tesla-full-self-driving-fsd-problems-investigation-train-issues-rcna236729">Tesla's Full Self-Driving software under investigation after railroad incidents</a></li>
   <li><a href="https://arstechnica.com/cars/2025/10/tesla-fsd-gets-worse-at-driving-nhtsa-opens-new-investigation/">Tesla FSD gets worse at driving, NHTSA opens new investigation</a></li>
   <li><a href="https://www.theguardian.com/technology/2025/jul/05/the-vehicle-suddenly-accelerated-with-our-baby-in-it-the-terrifying-truth-about-why-teslas-cars-keep-crashing">The vehicle suddenly accelerated with our baby in it: the terrifying truth about why Tesla’s cars keep crashing</a></li>
   <li><a href="https://www.reuters.com/business/autos-transportation/us-opens-probe-into-28-million-tesla-vehicles-over-traffic-violations-when-using-2025-10-09/">US probes driver assistance software in 2.9 million Tesla vehicles over traffic violations</a></li>
-  <li><a href="https://www.theverge.com/2024/4/26/24141361/tesla-autopilot-fsd-nhtsa-investigation-report-crash-death">Tesla’s Autopilot and Full Self-Driving linked to hundreds of crashes, dozens of deaths</a></li>
+  <li><a href="https://www.theverge.com/2024/4/26/24141361/tesla-autopilot-fsd-nhtsa-investigation-report-crash-death">Tesla Autopilot and Full Self-Driving linked to hundreds of crashes, dozens of deaths</a></li>
   <li><a href="https://youtu.be/040ejWnFkj0?si=p8-gtRIRx-siUOtN">How Self-Driving Cars will Destroy Cities (and what to do about it)</a></li>
+  <li><a href="https://www.bright.nl/nieuws/1718186/deze-tesla-gaat-het-vaakst-stuk-van-alle-geteste-auto-s-in-de-laatste-tien-jaar.html">Deze Tesla gaat het vaakst stuk van alle geteste autos in de laatste tien jaar</a></li>
 </ul>
 
 <h5>On Privacy/Sovereignty:</h5>
@@ -74,12 +81,23 @@ startHtmlPage('Alt0.nl &rarr; On AI');
   <li><a href="https://pluralistic.net/2025/08/14/bellovin/#wont-someone-think-of-the-cryptographers">Privacy preserving age verification” is bullshit</a></li>
   <li><a href="https://decorrespondent.nl/209/nee-je-hebt-wel-iets-te-verbergen/6428004-ab2d5fc2">Nee, je hebt wél iets te verbergen</a></li>
   <li><a href="https://substack.com/home/post/p-170674285">Hoe de EU kinderen gebruikt voor haar agenda</a></li>
-  <li><a href="https://theconversation.com/seizure-of-sally-manns-photographs-in-texas-revives-old-debates-about-obscenity-and-freedom-of-expression-247321">Seizure of Sally Mann’s photographs in Texas revives old debates about obscenity and freedom of expression</a></li>
+  <li><a href="https://theconversation.com/seizure-of-sally-manns-photographs-in-texas-revives-old-debates-about-obscenity-and-freedom-of-expression-247321">Seizure of Sally Mann photographs in Texas revives old debates about obscenity and freedom of expression</a></li>
   <li><a href="https://www.security.nl/posting/910437/Privacyexpert%3A+overheid+dringt+steeds+dieper+het+priv%C3%A9leven+van+burgers+binnen">Privacyexpert: overheid dringt steeds dieper het privéleven van burgers binnen</a></li>
   <li><a href="https://www.security.nl/posting/440963/VN-rapporteur%3A+wereld+nu+erger+dan+1984+voorspelde">VN-privacychef: wereld nu erger dan 1984 voorspelde</a></li>
   <li><a href="https://chatcontrol.be/en">Chat Control Belgium</a></li>
   <li><a href="https://www.heise.de/en/news/How-a-French-judge-was-digitally-cut-off-by-the-USA-11087561.html">How a French judge was digitally cut off by the USA</a></li>
-  <li><a href="https://www.thecanary.co/skwawkbox/2025/11/07/meta-ai-chats/">Meta – FB, Insta, WhatsApp – will read your DMs and AI chats, rolling out from Dec</a></li>
+  <li><a href="https://www.thecanary.co/skwawkbox/2025/11/07/meta-ai-chats/">Meta - FB, Insta, WhatsApp - will read your DMs and AI chats, rolling out from Dec</a></li>
+  <li><a href="https://mastodon.nl/@bert_hubert/115646029814078518">De Amerikaanse overheid gebruikt FISA 702 en EO 12333 om andere overheden af te luisteren.</a></li>
+</ul>
+
+<h5>On MeshCore:</h5>
+<ul>
+  <li><a href="https://meereco.nl/communicatie/introductie-meshcore/">Een introductie: MeshCore</a></li>
+  <li><a href="https://meereco.nl/communicatie/meshcore-repeater-installeren-en-configureren/">Een MeshCore-repeater installeren en configureren</a></li>
+  <li><a href="https://www.localmesh.nl/">LocalMesh: Het noodradio netwerk van Nederland </a></li>
+  <li><a href="https://meshcore.co.uk/">We connect people and things, without using the internet</a></li>
+  <li><a href="https://meshcore.nz/">A simple, secure, off-grid, mesh communications app.</a></li>
+  <li><a href="https://meshchat.app/">A simple mesh network communications app powered by the Reticulum Network Stack. </a></li>
 </ul>
 </div>
 </td><td>
