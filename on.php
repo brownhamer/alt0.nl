@@ -43,6 +43,8 @@ startHtmlPage('Alt0.nl &rarr; On AI');
   <li><a href="https://www.businessinsider.com/ibm-ceo-big-tech-ai-capex-data-center-spending-2025-12">IBM CEO says there is 'no way' spending trillions on AI data centers will pay off at today's infrastructure costs</a></li>
   <li><a href="https://tuta.com/blog/how-to-disable-gemini-on-android">How to disable Gemini on Android, Gmail, Chrome, Photos, &amp; Google apps. Opt out of AI tracking now!</a></li>
   <li><a href="https://github.com/zoicware/RemoveWindowsAI">Remove Windows Ai</a></li>
+  <li><a href="https://www.huntress.com/blog/amos-stealer-chatgpt-grok-ai-trust">AMOS Stealer Exploits AI Trust: Malware Delivered Through ChatGPT and Grok</a></li>
+  <li><a href="https://www.bright.nl/nieuws/1720538/waarom-je-telefoonnummers-voor-klantenservice-in-ai-antwoorden-niet-mag-vertrouwen.html">Waarom je telefoonnummers voor klantenservice in AI-antwoorden niet mag vertrouwen</a></li>
   <!--<li><a href=""></a></li>-->
 </ul>
 
