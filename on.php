@@ -50,6 +50,7 @@ startHtmlPage('Alt0.nl &rarr; On AI');
 
 <h5>On Meta:</h5>
 <ul>
+  <li><a href="https://nos.nl/artikel/2550996-er-waait-een-nieuwe-wind-op-facebook-en-instagram-vs-is-conservatiever-geworden">Er waait een nieuwe wind op Facebook en Instagram: 'VS is conservatiever geworden'</a></li>
   <li><a href="https://www.dedigitaletuin.nl/overig/facebook-schandalen/">Facebook schandalen</a> (165+)</li>
   <li><a href="https://tweakers.net/nieuws/203926/meta-krijgt-265-miljoen-euro-avg-boete-om-gescrapete-data-van-533-miljoen-users.html">Meta krijgt 265 miljoen euro AVG-boete om gescrapete data van 533 miljoen users</a></li>
   <li><a href="https://tweakers.net/nieuws/211816/noorse-privacywaakhond-geeft-meta-88000-euro-boete-per-dag-voor-overtreden-avg.html">Noorse privacywaakhond geeft Meta 88.000 euro boete per dag voor overtreden AVG</a></li>
@@ -62,6 +63,7 @@ startHtmlPage('Alt0.nl &rarr; On AI');
   <li><a href="https://tweakers.net/nieuws/241198/intern-document-tien-procent-jaaromzet-meta-komt-van-scams-op-insta-en-facebook.html">Intern document: tien procent jaaromzet Meta komt van scams op Insta en Facebook</a></li>
   <li><a href="https://www.rollingstone.com/politics/politics-features/whatsapp-imessage-facebook-apple-fbi-privacy-1261816/">FBI Document Says the Feds Can Get Your WhatsApp Data — in Real Time</a></li>
   <li><a href="https://skwawkbox.org/2024/04/28/israeli-ai-using-whatsapp-data-to-target-gaza-families-for-bomb-strikes/">Israeli AI using WhatsApp data to target Gaza families for bomb strikes</a></li>
+  <li><a href="https://nos.nl/artikel/2594321-censuur-door-meta-na-het-blokkeren-van-lhbti-accounts-willen-politici-uitleg">Censuur door Meta? Na het blokkeren van lhbti-accounts willen politici uitleg</a></li>
 </ul>
 
 <h5>On Tesla (FSD):</h5>
