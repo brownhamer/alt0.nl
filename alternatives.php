@@ -17,10 +17,10 @@ startHtmlPage('Alt0.nl &rarr; Alternatives');
   <li>2FA: <span class="del">Authy</span> &rarr; <a href="https://ente.io/auth/">Ente Auth</a></li>
   <li>Browser: <span class="del">Chrome</span> &rarr; <a href="https://www.firefox.com/">Firefox</a></li>
   <li>Cloud storage: <span class="del">OneDrive</span> &rarr; <a href="https://nextcloud.com/">NextCloud</a> via <a href="https://ocloud.de/">oCloud</a></li>
-  <li>Mail: <span class="del">Gmail</span> &rarr; IMAP using <a href="https://email.faircode.eu/">FairEmail</a> and <a href="https://www.thunderbird.net/">Thunderbird</a></li>
+  <li>Mail: <span class="del">Gmail</span> &rarr; IMAP using <a href="https://www.thunderbird.net/">Thunderbird</a></li>
   <li>Messenger: <span class="del">WhatsApp</span> &rarr; <a href="https://signal.org/">Signal</a></li>
   <li>Navigation: <span class="del">Maps</span> &rarr; <a href="https://www.comaps.app/">CoMaps</a> and <a href="https://wego.here.com/">HERE WeGo</a></li>
-  <li>Notes: <span class="del">Simplenote</span> &rarr; <a href="https://notesnook.com/">Notesnook</a></li>
+  <li>Notes: <span class="del">Simplenote</span> &rarr; <a href="https://apps.nextcloud.com/apps/notes">Nextcloud</a></li>
   <li>Password manager: <span class="del">Lastpass</span> &rarr; <a href="https://1password.com/">1Password</a></li>
   <li>Search: <span class="del">Google</span> &rarr; <a href="https://start.duckduckgo.com/">DuckDuckGo</a></li>
   <li>Todo: <span class="del">Microsoft To Do</span> &rarr; <a href="https://www.todoist.com/">Todoist</a></li>
