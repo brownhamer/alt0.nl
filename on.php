@@ -45,6 +45,14 @@ startHtmlPage('Alt0.nl &rarr; On AI');
   <li><a href="https://github.com/zoicware/RemoveWindowsAI">Remove Windows Ai</a></li>
   <li><a href="https://www.huntress.com/blog/amos-stealer-chatgpt-grok-ai-trust">AMOS Stealer Exploits AI Trust: Malware Delivered Through ChatGPT and Grok</a></li>
   <li><a href="https://www.bright.nl/nieuws/1720538/waarom-je-telefoonnummers-voor-klantenservice-in-ai-antwoorden-niet-mag-vertrouwen.html">Waarom je telefoonnummers voor klantenservice in AI-antwoorden niet mag vertrouwen</a></li>
+  <li><a href="https://www.rollingstone.com/culture/culture-features/ai-chatbot-journal-research-fake-citations-1235485484/">AI Is Inventing Academic Papers That Don’t Exist — And They’re Being Cited in Real Journals</a></li>
+  <li><a href="https://www.omroepbrabant.nl/nieuws/6001041/datalek-gemeente-eindhoven-deelt-persoonsgegevens-met-openbare-ai-websites">Datalek: gemeente Eindhoven deelt persoonsgegevens met openbare AI-websites</a></li>
+  <li><a href="https://www.youtube.com/watch?v=ucl6yBFKnBQ">De nietsontziende race naar kunstmatige intelligentie</a></li>
+  <li><a href="https://addons.mozilla.org/en-US/firefox/addon/disable-ai/">Disable AI (Firefox)</a></li>
+  <li><a href="https://www.engadget.com/ai/grok-is-spreading-inaccurate-info-again-this-time-about-the-bondi-beach-shooting-203946515.html?src=rss">Grok is spreading inaccurate info again, this time about the Bondi Beach shooting</a></li>
+  <li><a href="https://decorrespondent.nl/14393/kunstmatige-intelligentie-is-niet-kunstmatig-en-al-helemaal-niet-intelligent/d7f55cb1-49fc-0a49-24f9-66533dc63b2c">Kunstmatige intelligentie is niet kunstmatig. En al helemaal niet intelligent</a></li>
+  <li><a href="https://itsfoss.com/news/no-ai-extension-gnome/">No AI Slops! GNOME Now Forbids Vibe Coded Extensions</a></li>
+  <li><a href="https://www.media.mit.edu/publications/your-brain-on-chatgpt/">Your Brain on ChatGPT</a></li>
   <!--<li><a href=""></a></li>-->
 </ul>
 
@@ -64,6 +72,9 @@ startHtmlPage('Alt0.nl &rarr; On AI');
   <li><a href="https://www.rollingstone.com/politics/politics-features/whatsapp-imessage-facebook-apple-fbi-privacy-1261816/">FBI Document Says the Feds Can Get Your WhatsApp Data — in Real Time</a></li>
   <li><a href="https://skwawkbox.org/2024/04/28/israeli-ai-using-whatsapp-data-to-target-gaza-families-for-bomb-strikes/">Israeli AI using WhatsApp data to target Gaza families for bomb strikes</a></li>
   <li><a href="https://nos.nl/artikel/2594321-censuur-door-meta-na-het-blokkeren-van-lhbti-accounts-willen-politici-uitleg">Censuur door Meta? Na het blokkeren van lhbti-accounts willen politici uitleg</a></li>
+  <li><a href="https://tweakers.net/nieuws/242656/facebook-insta-en-whatsapp-hebben-meer-illegale-ads-na-ingrijpen-zuckerberg.html">Facebook, Insta en WhatsApp hebben meer illegale ads na ingrijpen Zuckerberg</a></li>
+  <li><a href="https://www.youtube.com/watch?v=F8RH9XYCsjk">Dit gebeurt er als je ingaat op een nep-advertentie</a></li>
+  <li><a href="https://www.iccl.ie/news/unsealed-court-documents-reveal-data-anarchy-at-meta/">Unsealed court documents reveal data anarchy at Meta</a></li>
 </ul>
 
 <h5>On Tesla (FSD):</h5>
@@ -92,6 +103,10 @@ startHtmlPage('Alt0.nl &rarr; On AI');
   <li><a href="https://www.heise.de/en/news/How-a-French-judge-was-digitally-cut-off-by-the-USA-11087561.html">How a French judge was digitally cut off by the USA</a></li>
   <li><a href="https://www.thecanary.co/skwawkbox/2025/11/07/meta-ai-chats/">Meta - FB, Insta, WhatsApp - will read your DMs and AI chats, rolling out from Dec</a></li>
   <li><a href="https://mastodon.nl/@bert_hubert/115646029814078518">De Amerikaanse overheid gebruikt FISA 702 en EO 12333 om andere overheden af te luisteren.</a></li>
+  <li><a href="https://itsfoss.com/privacy-wins-linux/">7 Privacy Wins You Can Get This Weekend</a></li>
+  <li><a href="https://www.teenvogue.com/story/billionaires-should-not-exist">Billionaires Should Not Exist</a></li>
+  <li><a href="https://www.nrc.nl/nieuws/2025/12/19/botte-afperspraktijken-door-het-amerika-van-trump-a4915587?gift_token=4915587~1766912635~PHWgLp0IEeKfgABQVoV_mg~EXhD6fZyipnHUt_EejN_JTEgkqPU-tS0tGgGLdBK5_k">Botte afperspraktijken door het Amerika van Trump</a></li>
+  <li><a href="https://www.cam.ac.uk/stories/price-bot-army-global-index">Price of a bot army revealed across hundreds of online platforms</a></li>
 </ul>
 
 <h5>On MeshCore:</h5>
