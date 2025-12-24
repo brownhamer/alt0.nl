@@ -22,10 +22,15 @@ startHtmlPage('Alt0.nl &rarr; Linux');
   <li>Notes &rarr; Nextcloud notes: <a href="https://apps.gnome.org/Iotas/">Iotas</a></li>
   <li>VPN &rarr; Mullvad: <a href="https://mullvad.net/en/help/install-mullvad-app-linux">[works]</a></li>
 </ul>
-<em>To explore:
-  <a href="https://usebottles.com/">Bottles</a>,
-  <a href="https://www.winboat.app/">WinBoat</a>,
-  <a href="https://gitlab.melroy.org/melroy/winegui">WineGUI</a>.
+<em>To explore as replacement for Steinberg <a href="https://www.steinberg.net/cubase/">Cubase</a> (with support for import of DAW export):
+  <a href="https://www.bitwig.com/">Bottles</a>,
+  <a href="https://ntrack.com/">WinBoat</a>,
+  <a href="https://www.presonus.com/pages/studio-one-pro">WineGUI</a>.
+</em>
+<em>To explore for Neural DSP Quad<a href="https://neuraldsp.com/cortex-control">Cortex Control</a>:
+  <a href="https://usebottles.com/">Bitwig</a>,
+  <a href="https://www.winboat.app/">n-Track</a>,
+  <a href="https://gitlab.melroy.org/melroy/winegui">Studio One</a>.
 </em>
 </div>
 </td><td>
