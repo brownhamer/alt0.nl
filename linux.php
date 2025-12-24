@@ -36,7 +36,7 @@ startHtmlPage('Alt0.nl &rarr; Linux');
 <ul>
   <li><a href="https://usebottles.com/">Bottles</a> &rarr; failed, USB connection not detected</li>
   <li><a href="https://www.winboat.app/">Winboat</a> &rarr; failed, Docker not detected</li>
-  <li><a href="https://github.com/aggalex/Wineglass/">Wineglass</a></li>
+  <li><a href="https://github.com/aggalex/Wineglass/">Wineglass</a> &rarr; failed, after installation nothing starts</li>
   <li><a href="https://gitlab.melroy.org/melroy/winegui">WineGUI</a> &rarr; failed, download timing out</li>
 </ul>
 </div>
