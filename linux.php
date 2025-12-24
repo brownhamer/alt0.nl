@@ -26,17 +26,18 @@ startHtmlPage('Alt0.nl &rarr; Linux');
 
 <em>To explore as replacement for Steinberg <a href="https://www.steinberg.net/cubase/">Cubase</a> (with support for import of DAW export):</em>
 <ul>
-  <a href="https://www.bitwig.com/">Bitwig</a>,
-  <a href="https://ntrack.com/">n-Track</a>,
-  <a href="https://www.presonus.com/pages/studio-one-pro">Studio One</a>.
+  <li><a href="https://www.bitwig.com/">Bitwig</a></li>
+  <li><a href="https://ntrack.com/">n-Track</a></li>
+  <li><a href="https://www.presonus.com/pages/studio-one-pro">Studio One</a></li>
 </ul>
 <br />
 
 <em>To explore for Neural DSP Quad<a href="https://neuraldsp.com/cortex-control">Cortex Control</a>:</em>
 <ul>
-  <a href="https://usebottles.com/">Bottles</a> &rarr; failed, USB connection not detected,
-  <a href="https://www.winboat.app/">Winboat</a>,
-  <a href="https://gitlab.melroy.org/melroy/winegui">WineGUI</a>.
+  <li><a href="https://usebottles.com/">Bottles</a> &rarr; failed, USB connection not detected</li>
+  <li><a href="https://www.winboat.app/">Winboat</a> &rarr; failed, Docker not detected</li>
+  <li><a href="https://github.com/aggalex/Wineglass/">Wineglass</a></li>
+  <li><a href="https://gitlab.melroy.org/melroy/winegui">WineGUI</a> &rarr; failed, download timing out</li>
 </ul>
 </div>
 </td><td>
