@@ -22,16 +22,22 @@ startHtmlPage('Alt0.nl &rarr; Linux');
   <li>Notes &rarr; Nextcloud notes: <a href="https://apps.gnome.org/Iotas/">Iotas</a></li>
   <li>VPN &rarr; Mullvad: <a href="https://mullvad.net/en/help/install-mullvad-app-linux">[works]</a></li>
 </ul>
-<em>To explore as replacement for Steinberg <a href="https://www.steinberg.net/cubase/">Cubase</a> (with support for import of DAW export):
+<br />
+
+<em>To explore as replacement for Steinberg <a href="https://www.steinberg.net/cubase/">Cubase</a> (with support for import of DAW export):</em>
+<ul>
   <a href="https://www.bitwig.com/">Bitwig</a>,
   <a href="https://ntrack.com/">n-Track</a>,
   <a href="https://www.presonus.com/pages/studio-one-pro">Studio One</a>.
-</em>
-<em>To explore for Neural DSP Quad<a href="https://neuraldsp.com/cortex-control">Cortex Control</a>:
-  <a href="https://usebottles.com/">Bottles</a>,
+</ul>
+<br />
+
+<em>To explore for Neural DSP Quad<a href="https://neuraldsp.com/cortex-control">Cortex Control</a>:</em>
+<ul>
+  <a href="https://usebottles.com/">Bottles</a> &rarr; failed, USB connection not detected,
   <a href="https://www.winboat.app/">Winboat</a>,
   <a href="https://gitlab.melroy.org/melroy/winegui">WineGUI</a>.
-</em>
+</ul>
 </div>
 </td><td>
 <?php #=========================================================================
