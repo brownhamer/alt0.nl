@@ -14,11 +14,13 @@ startHtmlPage('Alt0.nl &rarr; Linux');
 <table id="alternatives"><tr><td>
 <div id="choices"><h5>Moving to Linux:</h5>
 <ul>
-  <li>2FA &rarr; Ente Auth: <a href="https://ente.io/download">Works</a></li>
-  <li>Browser &rarr; Firefox: <a href="https://www.firefox.com/en-US/browsers/desktop/linux/">Works</a></li>
-  <li>Cloud storage &rarr; NextCloud: <a href="https://nextcloud.com/install/#desktop-files">Works</a></li>
-  <li>Mail &rarr; Thunderbird: <a href="https://www.thunderbird.net/en-US/thunderbird/all/">Works</a></li>
-  <li>Messenger &rarr; Signal: <a href="https://signal.org/download/linux/">Works</a></li>
+  <li>2FA &rarr; Ente Auth: <a href="https://ente.io/download">[works]</a></li>
+  <li>Browser &rarr; Firefox: <a href="https://www.firefox.com/en-US/browsers/desktop/linux/">[works]</a></li>
+  <li>Cloud storage &rarr; NextCloud: <a href="https://nextcloud.com/install/#desktop-files">[works]</a></li>
+  <li>Mail &rarr; Thunderbird: <a href="https://www.thunderbird.net/en-US/thunderbird/all/">[works]</a></li>
+  <li>Messenger &rarr; Signal: <a href="https://signal.org/download/linux/">[works]</a></li>
+  <li>Notes &rarr; Nextcloud notes: <a href="https://apps.gnome.org/Iotas/">Iotas</a></li>
+  <li>VPN &rarr; Mullvad: <a href="https://mullvad.net/en/help/install-mullvad-app-linux">[works]</a></li>
 </ul>
 <em>To explore:
   <a href="https://usebottles.com/">Bottles</a>,
