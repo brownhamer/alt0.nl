@@ -53,6 +53,9 @@ startHtmlPage('Alt0.nl &rarr; On AI');
   <li><a href="https://decorrespondent.nl/14393/kunstmatige-intelligentie-is-niet-kunstmatig-en-al-helemaal-niet-intelligent/d7f55cb1-49fc-0a49-24f9-66533dc63b2c">Kunstmatige intelligentie is niet kunstmatig. En al helemaal niet intelligent</a></li>
   <li><a href="https://itsfoss.com/news/no-ai-extension-gnome/">No AI Slops! GNOME Now Forbids Vibe Coded Extensions</a></li>
   <li><a href="https://www.media.mit.edu/publications/your-brain-on-chatgpt/">Your Brain on ChatGPT</a></li>
+  <li><a href="https://archive.ph/sxLgV">Een derde van de antwoorden van AI-chatbots kun je niet vertrouwen</a></li>
+  <li><a href="https://arxiv.org/html/2311.10054v3">Personas in System Prompts Do Not Improve Performances of Large Language Models</a></li>
+  <li><a href="https://storage.googleapis.com/deepmind-media/FACTS/FACTS_benchmark_suite_paper.pdf">A Comprehensive Benchmark for Large Language Model Factuality</a></li>
   <!--<li><a href=""></a></li>-->
 </ul>
 
