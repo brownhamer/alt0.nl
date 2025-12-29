@@ -45,7 +45,7 @@ startHtmlPage($PATH_TO_ROOT, $alt0links['alt0']['text'], $alt0links['alt0']['tag
 </div>
 </div>
 
-<!--<div id="footer">
+<div id="footer">
     <div id="auteursrechten">
         <h3>Auteursrechten</h3><br /><br />
         ...
@@ -54,7 +54,7 @@ startHtmlPage($PATH_TO_ROOT, $alt0links['alt0']['text'], $alt0links['alt0']['tag
         <h3>Copyright</h3><br /><br />
         ...
     </div>
-</div>-->
+</div>
 
 <div id="by">
     <?php randomHtmlMusicSymbol(); ?> site by <?php echo textLink('alt0'); ?>

@@ -1,9 +1,9 @@
 body {
-	background-color: rgb(50 50 50);
+	background-color: rgb(30 30 30);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: bottom left;
-	color: rgb(210 210 210);
+	color: rgb(200 200 200);
 	font-family: Lora, 'Playfair Display', Georgia, serif;
 	margin: 0;
 	padding: 0;
@@ -17,7 +17,7 @@ h1 { /* Bunch of Bunk */
 
 h2 { /* We rock! */
 	border-bottom: 1px solid;
-	border-bottom-color: rgb(70 70 70 /100%);
+	border-bottom-color: rgb(20 20 20 / 80%);
 	font-size: 1.1rem;
 	font-style: italic;
 	font-weight: lighter;
@@ -54,8 +54,8 @@ div#footer {
 }
 
 div#auteursrechten, div#copyright {
-	border: 1px solid rgb(60 60 60);
-	background-color: rgb(75 75 75 / 30%);
+	border: 1px solid rgb(20 20 20 / 80%);
+	background-color: rgb(20 20 20 / 40%);
 	border-radius: 14px;
 	margin: 7px;
 	padding: 7px;
@@ -63,7 +63,7 @@ div#auteursrechten, div#copyright {
 
 div#auteursrechten h3, div#copyright h3 {
 	border-bottom: 2px solid;
-	border-bottom-color: rgb(215 85 15);
+	border-bottom-color: rgb(20 80 100);
 	display: inline;
 }
 
@@ -72,32 +72,23 @@ div#sidebar {
 }
 
 div#sidegray {
-	border: 1px solid rgb(20 20 20);
-	background-color: rgb(55 55 55 / 95%);
+	border: 1px solid rgb(20 20 20 / 80%);
+	background-color: rgb(20 20 20 / 40%);
 	border-radius: 14px;
 	padding: 14px;
 }
 
 div#socials {
 	border-top: 1px solid;
-	border-top-color: rgb(70 70 70 /100%);
+	border-top-color: rgb(20 20 20 / 80%);
 	margin-top: 14px;
 	padding-top: 14px;
 	text-align: center;
 }
 
-div#muzikantenbank {
-	border-top: 1px solid;
-	border-top-color: rgb(70 70 70 /100%);
-	font-size: 0.8rem;
-	font-style: italic;
-	margin-top: 14px;
-	padding-top: 14px;
-}
-
 div#content {
-	border: 1px solid rgb(20 20 20);
-	background-color: rgb(65 65 65 / 75%);
+	border: 1px solid rgb(20 20 20 / 80%);
+	background-color: rgb(20 20 20 / 40%);
 	border-radius: 7px;
 	margin-left: 21px;
 	padding: 7px 7px 7px 21px;
@@ -139,10 +130,11 @@ div#pagenotfound {
 }
 
 div#by {
-	background-color: rgb(60 60 60 / 95%);
+	border: 1px solid rgb(60 60 60 / 80%);
+	background-color: rgb(60 60 60 / 40%);
 	border-radius: 7px;
 	top: 10px;
-	color: rgb(155 155 155 / 65%);
+	color: rgb(180 180 180 / 60%);
 	font-family: 'Open Sans', Helvetica, sans-serif;
 	font-size: 0.7rem;
 	padding: 7px;
@@ -151,20 +143,20 @@ div#by {
 }
 
 a {
-	color: rgb(115 125 165);
+	color: rgb(80 140 180);
 	text-decoration: none;
 }
 
 h1 a {
-	color: rgb(135 165 195);
+	color: rgb(130 170 190);
 }
 
 a:hover {
-	color: rgb(65 145 195);
+	color: rgb(190 100 30);
 }
 
 div#navigation a {
-	color: rgb(135 165 195);
+	color: rgb(80 140 180);
 }
 
 div#content a {
@@ -172,5 +164,5 @@ div#content a {
 }
 
 div#navigation a:hover {
-	color: rgb(15 85 175);
+	color: rgb(190 100 30);
 }

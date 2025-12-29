@@ -8,7 +8,7 @@ function startHtmlPage($ptr, $title, $line) {
     echo '<title>'.$title.' - '.$line.'</title>'."\n";
     echo '<link rel="stylesheet" type="text/css" href="'.$ptr.'/style/main.css">'."\n";
 	echo '<style type="text/css">'."\n";
-	echo 'body { background-image: url("'.$ptr.'/images/BoB-background.png"); }'."\n";
+	echo 'body { background-image: url("'.$ptr.'/images/Alt0.nl-background.png"); }'."\n";
 	echo '</style>'."\n";
 	echo '<link rel="shortcut icon" href="'.$ptr.'/favicon.ico">'."\n";
 	echo '<link rel="icon" sizes="16x16 32x32 64x64" href="'.$ptr.'/favicon.ico">'."\n";
