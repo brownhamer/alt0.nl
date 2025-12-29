@@ -2,86 +2,65 @@
 $PATH_TO_ROOT = '.';
 require_once($PATH_TO_ROOT.'/lib/base.php');
 require_once($PATH_TO_ROOT.'/lib/html.php');
+require_once($PATH_TO_ROOT.'/lib/vars.php');
+require_once($PATH_TO_ROOT.'/lib/Parsedown.php');
 
 #-------------------------------------------------------------------------------
-$page_id = intval(htmlspecialchars(getGet('page_id', 0)));
-$tag     = htmlspecialchars(getGet('tag', ''));
-if (($page_id == 360) or ($tag == 'bunch-of-bunk')) {
-    header('Location: '.$bob_url);
-    exit;
-}
+startHtmlPage($PATH_TO_ROOT, $alt0links['alt0']['text'], $alt0links['alt0']['tag']);
 
-#-------------------------------------------------------------------------------
-$links_known = array(
-    "alternatives" => 3,
-    "data"         => 2,
-    "finds"        => 2,
-    "news"         => 2,
-    "online"       => 3,
-    "programs"     => 5,
-    "software"     => 3
-);
-$links_id = htmlspecialchars(getGet('links', ''));
-if (!key_exists($links_id, $links_known)) {
-	if (!($links_id === "oneliners")) {
-		$links_id = '';
-	}
-}
-
-#-------------------------------------------------------------------------------
-startHtmlPage('Alt0.nl');
 #============================================================================ ?>
 
-<h1><a href="<?php echo $alt0_url; ?>"><span class="link-button">Alt0.nl</span></a></h1>
-<h3><?php
-	echo oneLiner();
-	if ($links_id === '') {
-		echo "<br /><a href=\"".$alt0_url."?links=oneliners\">...</a>\n";
-	}
-?></h3>
-<div id="spacer">&nbsp;</div>
+<h1><?php echo textLink('alt0'); ?></h1>
+<h2><?php echo $alt0links['alt0']['tag']; ?></h2>
 
-<?php #=========================================================================
-if ($links_id === '') {
-#============================================================================ ?>
-
-<h2>
-<img src="bunchofbunk/BunchOfBunk-logo.png" /><br />
-<?php echo $bob_button; ?>
-</h2>
-
-<h2>
-<?php echo $alternatives_button; ?>
-<?php echo $linux_button; ?>
-<?php echo $on_button; ?>
-</h2>
-
-<div id="buttons">
+<div id="page">
+<div id="sidebar"><div id="sidegray">
+    <div id="navigation">
+        &middot; <?php echo pageLink('me'); ?><br />
+        &middot; <?php echo pageLink('linux'); ?><br />
+        &middot; <?php echo pageLink('on'); ?><br />
+    </div>
+    <div id="socials">
+        <?php echo iconLink('asml'); ?>
+        <?php echo iconLink('github'); ?>
+        <?php echo iconLink('mastodon'); ?>
+        <?php echo iconLink('mail'); ?>
+    </div>
+</div></div>
+<div id="content">
 <?php
-	echo $asml_button.'&nbsp;'."\n";
-	echo $creative_button.'&nbsp;'."\n";
-	echo $github_button.'&nbsp;'."\n";
-	echo $mastodon_button."\n";
+    $page = htmlspecialchars(getGet('page', 'home'));
+    if (!is_readable($PATH_TO_ROOT.'/content/'.$page.'.md')) {
+        echo '<div id="pagenotfound">Page ['.$page.'] not found, assuming homepage</div>'."\n";
+        $page = 'home';
+    }
+
+    $file = $PATH_TO_ROOT.'/content/'.$page.'.md';
+    echo "\n".'<!-- start ['.$page.'] content from ['.$file.'] -->'."\n";
+    $markdown = file_get_contents($file);
+    $parsedown = new Parsedown();
+    echo replacealt0links($parsedown->text($markdown));
+    echo "\n".'<!-- end ['.$page.'] content from ['.$file.'] -->'."\n";
 ?>
+</div>
+</div>
+
+<!--<div id="footer">
+    <div id="auteursrechten">
+        <h3>Auteursrechten</h3><br /><br />
+        ...
+    </div>
+    <div id="copyright">
+        <h3>Copyright</h3><br /><br />
+        ...
+    </div>
+</div>-->
+
+<div id="by">
+    <?php randomHtmlMusicSymbol(); ?> site by <?php echo textLink('alt0'); ?>
 </div>
 
 <?php #=========================================================================
-  $first = true;
-  echo "<div id=\"linksside\">\n";
-  foreach ($links_known as $key => $nof) {
-	if (!$first) { echo "<br />\n"; }
-	$first = false;
-    echo "<h5><a href=\"".$alt0_url."?links=".$key."\">".ucfirst($key)."</a>:</h5><div>\n";
-    echo linksList($key, $nof);
-    echo "</div>\n";
-  }
-  echo "</div>\n";
-}
-else {
-  echo "<div id=\"links\"><h5>".ucfirst($links_id).":</h5><div>\n";
-  echo linksList($links_id, NULL);
-  echo "</div></div>\n";
-}
-
 endHtmlPage();
+
 #============================================================================ ?>

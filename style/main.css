@@ -1,155 +1,176 @@
 body {
-	background-color: rgb(51 68 102);
+	background-color: rgb(50 50 50);
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-position: bottom right;
-	font-family: sans-serif;
+    background-position: bottom left;
+	color: rgb(210 210 210);
+	font-family: Lora, 'Playfair Display', Georgia, serif;
 	margin: 0;
 	padding: 0;
 }
 
-h1 { /* Alt0.nl */
-	margin: 10px 0 0;
+h1 { /* Bunch of Bunk */
+	font-size: 2.5rem;
+	margin: 20px 20px 10px;
 	text-align: center;
 }
 
-h2 { /* sections */
-	margin: 0 0 100px;
-	text-align: center;
-}
-
-h3 { /* Not to say null. */
-	color: rgb(255 255 255 / 15%);
-	font-size: 9pt;
+h2 { /* We rock! */
+	border-bottom: 1px solid;
+	border-bottom-color: rgb(70 70 70 /100%);
+	font-size: 1.1rem;
 	font-style: italic;
-	margin: 0 0 30px;
-	text-align: center;
-	text-shadow: 1px 1px 1px rgb(0 0 0 / 10%);
-}
-
-h5 { /* links */
-	color: rgb(255 255 255 / 25%);
-	font-variant: small-caps;
-	font-size: 10pt;
-	margin: 0;
-	text-align: left;
-	text-shadow: 1px 1px 1px rgb(0 0 0 / 10%);
-}
-
-.full {
-	width: 100%;
-}
-
-.note {
-	color: rgb(255 255 255 / 30%);
-	font-size: small;
-	font-style: italic;
-}
-
-div#spacer {
-	margin-bottom: 60px;
-}
-
-div#buttons {
-	font-size: small;
-	margin: 0 0 10px;
+	font-weight: lighter;
+	margin: 10px 20px 20px;
+	padding-bottom: 10px;
 	text-align: center;
 }
+
+div#page {
+	display: grid;
+	grid-template-columns: 2fr 7fr;
+	margin: 10px 20px 40px;
+}
+
+@media screen and (width <= 600px) {
+	div#page {
+		display: block;
+	}
+} 
 
 div#footer {
-	background-color: rgb(0 0 0 / 5%);
-	bottom: 10px;
-	color: rgb(255 255 255 / 10%);
-	font-size: small;
+	display: grid;
+	font-family: 'Open Sans', Helvetica, sans-serif;
+	font-size: 0.8rem;
+	grid-template-columns: 1fr 1fr;
+	margin: 10px 20px 40px;
+	padding: 21px;
+}
+
+@media screen and (width <= 600px) {
+	div#footer {
+		display: block;
+	}
+}
+
+div#auteursrechten, div#copyright {
+	border: 1px solid rgb(60 60 60);
+	background-color: rgb(75 75 75 / 30%);
+	border-radius: 14px;
+	margin: 7px;
 	padding: 7px;
-	position: absolute;
-	right: 10px;
 }
 
-div#linksside, div#links, div#choices {
-	background-color: rgb(0 0 0 / 5%);
-	color: rgb(255 255 255 / 25%);
-	padding: 7px;
+div#auteursrechten h3, div#copyright h3 {
+	border-bottom: 2px solid;
+	border-bottom-color: rgb(215 85 15);
+	display: inline;
 }
 
-div#linksside {
-	font-size: small;
-	position: absolute;
-	right: 10px;
-	top: 10px;
+div#sidebar {
+	font-family: 'Open Sans', Helvetica, sans-serif;
 }
 
-div#links, div#choices {
-	margin-left: 50px;
-	margin-right: 250px;
+div#sidegray {
+	border: 1px solid rgb(20 20 20);
+	background-color: rgb(55 55 55 / 95%);
+	border-radius: 14px;
+	padding: 14px;
 }
 
-div#linksside div, div#links div, div#choices div {
-	padding-left: 5px;
+div#socials {
+	border-top: 1px solid;
+	border-top-color: rgb(70 70 70 /100%);
+	margin-top: 14px;
+	padding-top: 14px;
+	text-align: center;
 }
 
-.link-button {
-	border: 1px solid rgb(0 0 0 / 10%);
-	color: rgb(255 255 255 / 90%);
-	display: inline-block;
-	font-weight: bold;
-	padding: 2px 5px;
-	text-shadow: 1px 1px 1px rgb(0 0 0 / 30%);
-    border-radius: 4px;
-}
-
-h1 span.link-button {
-	background-color: rgb(68 85 119);
-	padding: 4px 50px;
-}
-
-a.link-button {
-    text-decoration: none;
-}
-
-a.link-button:hover {
-	border: 1px solid rgb(255 255 255 / 10%);
-	color: rgb(255 255 255);
-	text-shadow: 1px 1px 2px rgb(0 0 0 / 70%);
-}
-
-h3 a {
-	color: rgb(255 255 255 / 15%);
-    text-decoration: none;
-}
-
-h3 a:hover {
-	color: rgb(255 255 255 / 35%);
-    text-decoration: underline;
-}
-
-div#footer a, div#linksside a, div#links a {
-	color: rgb(255 255 255 / 15%);
-    text-decoration: none;
-}
-
-div#choices a {
-	color: rgb(255 255 255 / 35%);
-	font-weight: bold;
-    text-decoration: none;
-}
-
-div#footer a:hover, div#linksside a:hover, div#links a:hover {
-	color: rgb(255 255 255 / 35%);
-    text-decoration: underline;
-}
-
-div#choices a:hover {
-	color: rgb(255 255 255 / 75%);
-    text-decoration: underline;
-}
-
-table#alternatives td {
-	padding: 10px;
-	vertical-align: top;
-}
-
-.del {
+div#muzikantenbank {
+	border-top: 1px solid;
+	border-top-color: rgb(70 70 70 /100%);
+	font-size: 0.8rem;
 	font-style: italic;
-	text-decoration: line-through double;
+	margin-top: 14px;
+	padding-top: 14px;
+}
+
+div#content {
+	border: 1px solid rgb(20 20 20);
+	background-color: rgb(65 65 65 / 75%);
+	border-radius: 7px;
+	margin-left: 21px;
+	padding: 7px 7px 7px 21px;
+}
+
+div#content h1, div#content h2, div#content h3 {
+	margin: 0 0 21px;
+	padding: 0;
+	text-align: left;
+}
+
+div#content h1 {
+	font-size: 2rem;
+}
+
+div#content h2 {
+	border: 0 none;
+	font-size: 1.3rem;
+	font-style: normal;
+	font-weight: bold;
+}
+
+div#content p {
+	line-height: 1.5;
+	margin: 0 0 42px;
+	padding: 0;
+}
+
+div#content ol, div#content ul {
+	line-height: 2;
+	margin-bottom: 42px;
+}
+
+div#pagenotfound {
+	color: rgb(115 115 115);
+	font-size: 0.6rem;
+	font-style: italic;
+	text-align: right;
+}
+
+div#by {
+	background-color: rgb(60 60 60 / 95%);
+	border-radius: 7px;
+	top: 10px;
+	color: rgb(155 155 155 / 65%);
+	font-family: 'Open Sans', Helvetica, sans-serif;
+	font-size: 0.7rem;
+	padding: 7px;
+	position: absolute;
+	right: 10px;
+}
+
+a {
+	color: rgb(115 125 165);
+	text-decoration: none;
+}
+
+h1 a {
+	color: rgb(135 165 195);
+}
+
+a:hover {
+	color: rgb(65 145 195);
+}
+
+div#navigation a {
+	color: rgb(135 165 195);
+}
+
+div#content a {
+	font-weight: bold;
+}
+
+div#navigation a:hover {
+	color: rgb(15 85 175);
 }
