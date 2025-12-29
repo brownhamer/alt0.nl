@@ -18,4 +18,9 @@ function getServer($id, $default) {
 	return isset($_SERVER[$id]) ? $_SERVER[$id] : $default;
 }
 
+#-------------------------------------------------------------------------------
+function onLocalhost() {
+    return in_array(getServer('REMOTE_ADDR', ''), ['127.0.0.1', '::1']);
+}
+
 #============================================================================ ?>
