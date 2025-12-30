@@ -82,6 +82,42 @@ function replacealt0links($text) {
 }
 
 #-------------------------------------------------------------------------------
+function xLiners($file, $amount) {
+    global $PATH_TO_ROOT;
+
+	$lines = file($PATH_TO_ROOT.'/data/'.$file.'.txt');
+	shuffle($lines);
+	$lines = array_slice($lines, 0, $amount);
+
+	$kv = array();
+	foreach ($lines as $line) {
+		$parts     = explode('>', $line);
+		$url       = trim($parts[0]);
+		$line      = htmlentities(trim($parts[1]));
+		$kv[$line] = trim($url);
+	}
+	ksort($kv, SORT_STRING|SORT_FLAG_CASE);
+
+	$lines = array();
+	foreach ($kv as $line => $url) {
+		if ($url == "") {
+			$lines[] = $line;
+		}
+		else {
+			$lines[] = "<a href=\"$url\">$line</a>";
+		}
+	}
+
+	return $lines;
+}
+
+#-------------------------------------------------------------------------------
+function oneLiner() {
+    $lines = xLiners('oneliners', 1);
+	return $lines[0];
+}
+
+#-------------------------------------------------------------------------------
 function randomHtmlMusicSymbol() {
 	$symbols = array('&#9833;', '&#9834;', '&#9835;', '&#9836;', '&#9837;', '&#9838;', '&#9839;');
     echo $symbols[array_rand($symbols)];

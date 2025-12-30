@@ -9,13 +9,13 @@ body {
 	padding: 0;
 }
 
-h1 { /* Bunch of Bunk */
+h1 { /* Alt0 */
 	font-size: 2.5rem;
 	margin: 20px 20px 10px;
 	text-align: center;
 }
 
-h2 { /* We rock! */
+h2 { /* <random tagline> */
 	border-bottom: 1px solid;
 	border-bottom-color: rgb(20 20 20 / 80%);
 	font-size: 1.1rem;
@@ -44,7 +44,7 @@ div#footer {
 	font-size: 0.8rem;
 	grid-template-columns: 1fr 1fr;
 	margin: 10px 20px 40px;
-	padding: 21px;
+	padding: 0;
 }
 
 @media screen and (width <= 600px) {
@@ -53,15 +53,15 @@ div#footer {
 	}
 }
 
-div#auteursrechten, div#copyright {
-	border: 1px solid rgb(20 20 20 / 80%);
-	background-color: rgb(20 20 20 / 40%);
+div#socials, div#sites {
+	border: 1px solid rgb(40 40 40 / 60%);
+	background-color: rgb(40 40 40 / 30%);
 	border-radius: 14px;
 	margin: 7px;
-	padding: 7px;
+	padding: 7px 7px 7px 21px;
 }
 
-div#auteursrechten h3, div#copyright h3 {
+div#socials h3, div#sites h3 {
 	border-bottom: 2px solid;
 	border-bottom-color: rgb(20 80 100);
 	display: inline;
@@ -78,14 +78,6 @@ div#sidegray {
 	padding: 14px;
 }
 
-div#socials {
-	border-top: 1px solid;
-	border-top-color: rgb(20 20 20 / 80%);
-	margin-top: 14px;
-	padding-top: 14px;
-	text-align: center;
-}
-
 div#content {
 	border: 1px solid rgb(20 20 20 / 80%);
 	background-color: rgb(20 20 20 / 40%);
@@ -93,6 +85,13 @@ div#content {
 	margin-left: 21px;
 	padding: 7px 7px 7px 21px;
 }
+
+@media screen and (width <= 600px) {
+	div#content {
+		margin-left: 0;
+		margin-top: 21px;
+	}
+} 
 
 div#content h1, div#content h2, div#content h3 {
 	margin: 0 0 21px;
@@ -130,8 +129,8 @@ div#pagenotfound {
 }
 
 div#by {
-	border: 1px solid rgb(60 60 60 / 80%);
-	background-color: rgb(60 60 60 / 40%);
+	border: 1px solid rgb(40 40 40 / 60%);
+	background-color: rgb(40 40 40 / 30%);
 	border-radius: 7px;
 	top: 10px;
 	color: rgb(180 180 180 / 60%);
@@ -140,6 +139,11 @@ div#by {
 	padding: 7px;
 	position: absolute;
 	right: 10px;
+}
+
+hr {
+	border: 1px dashed;
+	border-color: rgb(40 40 40 / 60%);
 }
 
 a {

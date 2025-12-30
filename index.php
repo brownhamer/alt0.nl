@@ -6,28 +6,21 @@ require_once($PATH_TO_ROOT.'/lib/vars.php');
 require_once($PATH_TO_ROOT.'/lib/Parsedown.php');
 
 #-------------------------------------------------------------------------------
-$rnd = array_rand($alt0tags);
-$tag = $alt0tags[$rnd][0];
-$url = $alt0tags[$rnd][1];
-startHtmlPage($PATH_TO_ROOT, $alt0links['alt0']['text'], $tag);
+startHtmlPage($PATH_TO_ROOT, $alt0links['alt0']['text'], "Hendrik");
 
 #============================================================================ ?>
 
 <h1><?php echo textLink('alt0'); ?></h1>
-<h2><?php echo $tag; if (!empty($url)) { echo " <small><a href=\"".$url."\">link</a></small>"; } ?></h2>
+<h2><?php echo oneLiner(); ?></h2>
 
 <div id="page">
 <div id="sidebar"><div id="sidegray">
     <div id="navigation">
+        <?php echo textLink('alt0'); ?><br />
+        <hr />
         &middot; <?php echo pageLink('me'); ?><br />
         &middot; <?php echo pageLink('linux'); ?><br />
         &middot; <?php echo pageLink('on'); ?><br />
-    </div>
-    <div id="socials">
-        <?php echo iconLink('asml'); ?>
-        <?php echo iconLink('github'); ?>
-        <?php echo iconLink('mastodon'); ?>
-        <?php echo iconLink('mail'); ?>
     </div>
 </div></div>
 <div id="content">
@@ -48,16 +41,22 @@ startHtmlPage($PATH_TO_ROOT, $alt0links['alt0']['text'], $tag);
 </div>
 </div>
 
-<!--<div id="footer">
-    <div id="auteursrechten">
-        <h3>Auteursrechten</h3><br /><br />
-        ...
+<div id="footer">
+    <div id="socials">
+        <h3>Links</h3><br /><br />
+        <?php echo textLink('asml'); ?> &raquo; Werk
+        &middot; <?php echo textLink('github'); ?> &raquo; Sites
+        &middot; <?php echo textLink('mastodon'); ?> &raquo; Social
+        &middot; <?php echo textLink('mail'); ?> &raquo; Contact
     </div>
-    <div id="copyright">
-        <h3>Copyright</h3><br /><br />
-        ...
+    <div id="sites">
+        <h3>Sites</h3><br /><br />
+        <?php echo textLink('alt0'); ?> &raquo; Hendrik
+        &middot; <?php echo textLink('bob'); ?> &raquo; Band
+        &middot; <?php echo textLink('dgt'); ?> &raquo; Rik &amp; Tim
+        &middot; <?php echo textLink('nieklin'); ?> &raquo; Sandra
     </div>
-</div>-->
+</div>
 
 <div id="by">
     <?php randomHtmlMusicSymbol(); ?> site by <?php echo textLink('alt0'); ?>

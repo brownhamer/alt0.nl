@@ -4,6 +4,7 @@ $HOME = onLocalhost() ? 'http://localhost/alt0.nl' : 'https://alt0.nl';
 
 #-------------------------------------------------------------------------------
 $alt0pages = [
+    'alt0' => "home",
     'me' => "Me",
     'linux' => "Linux",
     'on' => "On",
@@ -25,36 +26,31 @@ $alt0links = [
     'asml' => [
         'url'  => 'https://www.asml.com/',
         'text' => 'ASML',
-        'icon' => $PATH_TO_ROOT.'/images/asml.png',
+    ],
+    'bob' => [
+        'url'  => 'https://bunchofbunk.nl/',
+        'text' => 'BunchOfBunk.nl',
+    ],
+    'dgt' => [
+        'url'  => 'https://degoedetweeling.net/',
+        'text' => 'deGoedeTweeling.net',
     ],
     'github' => [
         'url'  => 'http://github.com/brownhamer',
         'text' => 'GitHub',
-        'icon' => $PATH_TO_ROOT.'/images/github.png',
+    ],
+    'mastodon' => [
+        'url'  => 'https://mastodon.nl/@brownhamer',
+        'text' => 'Mastodon',
+    ],
+    'nieklin' => [
+        'url'  => 'https://nieklin.nl/',
+        'text' => 'Nieklin.nl',
     ],
     'mail' => [
-        'url'  => 'mailto:band@bunchofbunk.nl',
+        'url'  => 'mailto:hendrik@alt0.nl',
         'text' => 'Mail',
-        'icon' => $PATH_TO_ROOT.'/images/mail.png',
     ],
 ];
-
-# Various site taglines
-$alt0tags = array(
-    array("2b || !2b = ?", ""),
-    array("All we see is in the past.", ""),
-    array("Be less negative.", ""),
-    array("If all fails, call Chuck Norris!", ""),
-    array("If you can't service the solution, it's broken", ""),
-    array("Just because you don't see the rot, doesn't mean it's not broken", ""),
-    array("Knowledge sharing should not be a lecture, but an internship", ""),
-    array("Never attribute to malice that which is adequately explained by stupidity", ""),
-    array("Not to say null.", ""),
-    array("Something is wrong, anything is good.", ""),
-    array("Bunch of Bunk", "https://bunchofbunk.nl"),
-    array("Je weet niet wat fout is", "https://decorrespondent.nl/209/nee-je-hebt-wel-iets-te-verbergen/6428004-ab2d5fc2"),
-    array("Niemand doet nooit niks fout", "https://decorrespondent.nl/209/nee-je-hebt-wel-iets-te-verbergen/6428004-ab2d5fc2"),
-    array("Rik en Tim", "https://degoedetweeling.net"),
-); 
 
 #============================================================================ ?>
