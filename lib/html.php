@@ -10,6 +10,7 @@ function startHtmlPage($ptr, $title, $line) {
 	echo '<style type="text/css">'."\n";
 	echo 'body { background-image: url("'.$ptr.'/images/Alt0.nl-background.png"); }'."\n";
 	echo '</style>'."\n";
+	echo '<!-- ****** faviconit.com favicons ****** -->'."\n";
 	echo '<link rel="shortcut icon" href="'.$ptr.'/favicon.ico">'."\n";
 	echo '<link rel="icon" sizes="16x16 32x32 64x64" href="'.$ptr.'/favicon.ico">'."\n";
 	echo '<link rel="icon" type="image/png" sizes="196x196" href="'.$ptr.'/images/favicon/favicon-192.png">'."\n";
@@ -30,6 +31,7 @@ function startHtmlPage($ptr, $title, $line) {
 	echo '<meta name="msapplication-TileColor" content="#FFFFFF">'."\n";
 	echo '<meta name="msapplication-TileImage" content="'.$ptr.'/images/favicon/favicon-144.png">'."\n";
 	echo '<meta name="msapplication-config" content="'.$ptr.'/images/favicon/browserconfig.xml">'."\n";
+	echo '<!-- ****** faviconit.com favicons ****** -->'."\n";
 	echo '</head>'."\n";
     echo '<body>'."\n";
 }
