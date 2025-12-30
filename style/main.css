@@ -94,9 +94,12 @@ div#content {
 } 
 
 div#content h1, div#content h2, div#content h3 {
+	border: 0 none;
 	margin: 0 0 21px;
 	padding: 0;
 	text-align: left;
+	text-decoration: underline;
+	text-decoration-color: rgb(20 80 100);
 }
 
 div#content h1 {

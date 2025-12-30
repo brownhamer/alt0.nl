@@ -4,9 +4,9 @@ Minder Big Tech, meer EU, meer open, meer privacy.
 
 ## Linux
 
-- Ja
+- [Manjaro](https://manjaro.org/)
 
-## Alternatives
+### Lists
 
 Overzichten en lijsten van Big Tech alternatieven. 
 
@@ -26,7 +26,6 @@ Overzichten en lijsten van Big Tech alternatieven.
 - [Exit 50](https://www.exit50.com/)
 - [Go European](https://www.goeuropean.org/)
 - [Go Hug EU](https://gohug.eu/)
-- [LibrePhone](https://librephone.fsf.org/site/)
 - [Made in Canada Directory](https://madeincanadadirectory.ca/)
 - [Open Source Alternatives](https://www.opensourcealternative.to/)
 - [Opt out of global surveillance](https://prism-break.org/en/)
