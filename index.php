@@ -19,7 +19,7 @@ startHtmlPage($PATH_TO_ROOT, $alt0links['alt0']['text'], "Hendrik");
         <?php echo textLink('alt0'); ?><br />
         <hr />
         &middot; <?php echo pageLink('me'); ?><br />
-        &middot; <?php echo pageLink('linux'); ?><br />
+        &middot; <?php echo pageLink('alternatives'); ?><br />
         &middot; <?php echo pageLink('on'); ?><br />
     </div>
 </div></div>
