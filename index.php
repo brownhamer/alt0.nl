@@ -6,12 +6,15 @@ require_once($PATH_TO_ROOT.'/lib/vars.php');
 require_once($PATH_TO_ROOT.'/lib/Parsedown.php');
 
 #-------------------------------------------------------------------------------
-startHtmlPage($PATH_TO_ROOT, $alt0links['alt0']['text'], $alt0links['alt0']['tag']);
+$rnd = array_rand($alt0tags);
+$tag = $alt0tags[$rnd][0];
+$url = $alt0tags[$rnd][1];
+startHtmlPage($PATH_TO_ROOT, $alt0links['alt0']['text'], $tag);
 
 #============================================================================ ?>
 
 <h1><?php echo textLink('alt0'); ?></h1>
-<h2><?php echo $alt0links['alt0']['tag']; ?></h2>
+<h2><?php echo $tag; if (!empty($url)) { echo " <small><a href=\"".$url."\">link</a></small>"; } ?></h2>
 
 <div id="page">
 <div id="sidebar"><div id="sidegray">
