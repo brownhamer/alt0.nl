@@ -10,18 +10,18 @@ Zelf ben ik bezig om van Windows over te stappen op Linux. Daarbij zijn sommige 
 
 ### Opgelost
 
-- 2FA &raquo; Ente Auth: [beschikbaar](https://ente.io/download)
-- Browser &raquo; Firefox: [beschikbaar](https://www.firefox.com/en-US/browsers/desktop/linux/)
-- Cloud opslag &raquo; NextCloud: [beschikbaar](https://nextcloud.com/install/#desktop-files)
-- IDE &raquo; VS Codium [beschikbaar](https://vscodium.com/#install)
-- Git GUI &raquo; GitHub Desktop: [via AUR](https://aur.archlinux.org/packages/github-desktop)
-- Mail &raquo; Thunderbird: [beschikbaar](https://www.thunderbird.net/en-US/thunderbird/all/)
-- Messenger &raquo; Signal: [beschikbaar](https://signal.org/download/linux/)
-- Notities &raquo; Nextcloud notes: [Iotas](https://apps.gnome.org/Iotas/)
-- Social &raquo; Mastodon [Tuba](https://github.com/GeopJr/Tuba)
-- Todo &raquo; [als WebApp](https://todo.zenkit.com)
-- VPN &raquo; Mullvad: [beschikbaar](https://mullvad.net/en/help/install-mullvad-app-linux)
-- Wachtwoorden &raquo; 1Password [beschikbaar](https://1password.com/downloads/linux)
+- 2FA &raquo; Ente Auth &raquo; [beschikbaar](https://ente.io/download)
+- Browser &raquo; Firefox &raquo; [beschikbaar](https://www.firefox.com/en-US/browsers/desktop/linux/)
+- Cloud opslag &raquo; NextCloud &raquo; [beschikbaar](https://nextcloud.com/install/#desktop-files)
+- IDE &raquo; VS Codium &raquo; [beschikbaar](https://vscodium.com/#install)
+- Git GUI &raquo; GitHub Desktop &raquo; [via AUR](https://aur.archlinux.org/packages/github-desktop)
+- Mail &raquo; Thunderbird &raquo; [beschikbaar](https://www.thunderbird.net/en-US/thunderbird/all/)
+- Messenger &raquo; Signal &raquo; [beschikbaar](https://signal.org/download/linux/)
+- Notities &raquo; Nextcloud notes &raquo; [Iotas](https://apps.gnome.org/Iotas/)
+- Social &raquo; Mastodon &raquo; [Tuba](https://github.com/GeopJr/Tuba)
+- Todo &raquo; Zenkit To Do &raquo; [als WebApp](https://todo.zenkit.com)
+- VPN &raquo; Mullvad &raquo; [beschikbaar](https://mullvad.net/en/help/install-mullvad-app-linux)
+- Wachtwoorden &raquo; 1Password &raquo; [beschikbaar](https://1password.com/downloads/linux)
 
 ### Overstappen
 
