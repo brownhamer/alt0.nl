@@ -1,7 +1,12 @@
 # Hendrik
 
-Ik dus
+Hier komt informatie over mij, soort van CV.
 
 ## Werk
 
-Hier
+- Acer
+- GfK
+- JvH
+- ASML (via ENTER)
+- Robot
+- ASML
