@@ -45,7 +45,7 @@ Ik ben zoveel mogelijk over aan het stappen op niet Big Tech, en meer non-US en 
 - Bookmarks: ~~Firefox~~ &raquo; [NextCloud](https://nextcloud.com/) met [Floccus](https://floccus.org/)
 - Browser: ~~Google Chrome~~ &raquo; [Firefox](https://www.firefox.com/)
 - Cloud opslag: ~~OneDrive~~ &raquo; [NextCloud](https://nextcloud.com/) via [oCloud](https://ocloud.de/)
-- IDE: ~~VS Code~~ &raquo; [VS Codium](https://vscodium.com/)
+- IDE: ~~Visual Studio Code~~ &raquo; [VS Codium](https://vscodium.com/)
 - Mail: ~~Gmail~~ &raquo; IMAP met [Thunderbird](https://www.thunderbird.net/)
 - Messenger: ~~WhatsApp~~ &raquo; [Signal](https://signal.org/)
 - Navigatie: ~~Google Maps~~ &raquo; [HERE WeGo](https://wego.here.com/) en [CoMaps](https://www.comaps.app/)
