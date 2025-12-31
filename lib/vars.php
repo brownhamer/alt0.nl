@@ -40,6 +40,10 @@ $alt0links = [
         'url'  => 'https://degoedetweeling.net/',
         'text' => 'deGoedeTweeling.net',
     ],
+    'fearless' => [
+        'url'  => 'https://bunchofbunk.nl//?page=fearless',
+        'text' => 'Fearless',
+    ],
     'github' => [
         'url'  => 'http://github.com/brownhamer',
         'text' => 'GitHub',
