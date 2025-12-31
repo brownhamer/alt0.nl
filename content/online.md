@@ -18,7 +18,7 @@ Diverse 'handige' websites met online tools en informatie.
 - [stux.me](https://stux.me/)
 - [Ultimate Guitar](https://www.ultimate-guitar.com/)
 
-## Muziekanten
+## Muzikanten
 
 - [Andre Antunes](https://www.youtube.com/@AndreAntunesofficial)
 - [Ben Eller](https://www.patreon.com/BenEllerGuitars)

@@ -43,6 +43,7 @@ Ik ben zoveel mogelijk over aan het stappen op niet Big Tech, en meer non-US en 
 - Messenger: ~~WhatsApp~~ &raquo; [Signal](https://signal.org/)
 - Navigatie: ~~Google Maps~~ &raquo; [HERE WeGo](https://wego.here.com/) en [CoMaps](https://www.comaps.app/)
 - Notities: ~~Simplenote~~ &raquo; [NextCloud Notes](https://apps.nextcloud.com/apps/notes) en [Iotas](https://apps.gnome.org/Iotas/)
+- Pasjes: ~~Google Waller~~ &raquo; [Catima](https://catima.app/)
 - Todo: ~~Microsoft To Do~~ &raquo; [ZenKit To Do](https://zenkit.com/en/todo/)
 - Wachtwoorden: ~~Lastpass~~ &raquo; [1Password](https://1password.com/)
 - Zoeken: ~~Google~~ &raquo; [DuckDuckGo](https://noai.duckduckgo.com/)
