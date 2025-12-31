@@ -13,6 +13,7 @@ Zelf ben ik bezig om van Windows over te stappen op Linux. Daarbij zijn sommige 
 - 2FA &raquo; Ente Auth: [beschikbaar](https://ente.io/download)
 - Browser &raquo; Firefox: [beschikbaar](https://www.firefox.com/en-US/browsers/desktop/linux/)
 - Cloud opslag &raquo; NextCloud: [beschikbaar](https://nextcloud.com/install/#desktop-files)
+- Git GUI &raquo; GitHub Desktop: [via AUR](https://aur.archlinux.org/packages/github-desktop)
 - Mail &raquo; Thunderbird: [beschikbaar](https://www.thunderbird.net/en-US/thunderbird/all/)
 - Messenger &raquo; Signal: [beschikbaar](https://signal.org/download/linux/)
 - Notities &raquo; Nextcloud notes: [Iotas](https://apps.gnome.org/Iotas/)
