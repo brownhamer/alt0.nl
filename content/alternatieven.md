@@ -42,6 +42,7 @@ Het is te installeren via iets als [Bottles](https://usebottles.com/), maar in L
 Ik ben zoveel mogelijk over aan het stappen op niet Big Tech, en meer non-US en Open Source gebaseerde oplossingen. Hieronder wat keuzes die ik hierin al gemaakt heb.
 
 - 2FA: ~~Authy~~ &raquo; [Ente Auth](https://ente.io/auth/">)
+- Bookmarks: ~~Firefox~~ &raquo; [NextCloud](https://nextcloud.com/) met [Floccus](https://floccus.org/)
 - Browser: ~~Google Chrome~~ &raquo; [Firefox](https://www.firefox.com/)
 - Cloud opslag: ~~OneDrive~~ &raquo; [NextCloud](https://nextcloud.com/) via [oCloud](https://ocloud.de/)
 - IDE: ~~VS Code~~ &raquo; [VS Codium](https://vscodium.com/)
