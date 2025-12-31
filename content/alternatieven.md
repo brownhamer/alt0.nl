@@ -1,10 +1,34 @@
-# Alternatives
+# Alternatieven
 
-Minder Big Tech, meer EU, meer open, meer privacy.
+Minder Big Tech, meer EU, meer open, meer privacy, meer in-control.
 
 ## Linux
 
-- [Manjaro](https://manjaro.org/)
+Zelf ben ik bezig om van Windows over te stappen op Linux. Daarbij zijn sommige stukken software die gebruik(te) op Windows ook beschikbaar op Linux, soms ben ik overgestapt op een alternatief, en soms is er nog een uitdaging om op te lossen.
+
+- [Manjaro](https://manjaro.org/), de distributie waar ik voor gekozen heb, rolling-release, gnome optie, EU based, redelijk populair.
+
+### Opgelost
+
+- 2FA &rarr; Ente Auth: [beschikbaar](https://ente.io/download)
+- Browser &rarr; Firefox: [beschikbaar](https://www.firefox.com/en-US/browsers/desktop/linux/)
+- Cloud storage &rarr; NextCloud: [beschikbaar](https://nextcloud.com/install/#desktop-files)
+- Mail &rarr; Thunderbird: [beschikbaar](https://www.thunderbird.net/en-US/thunderbird/all/)
+- Messenger &rarr; Signal: [beschikbaar](https://signal.org/download/linux/)
+- Notes &rarr; Nextcloud notes: [Iotas](https://apps.gnome.org/Iotas/)
+- VPN &rarr; Mullvad: [beschikbaar](https://mullvad.net/en/help/install-mullvad-app-linux)
+
+### Overstappen
+
+Voor het opnemen van muziek thuis gebruik(te) ik op Windows [Cubase](https://www.steinberg.net/cubase/), wat helaas niet beschikbaar is voor Linux. Gelukkig zijn er alternatieven beschikbaar, waarvan er 3 zijn die het DAW formaat ondersteunen voor import zodat ik oude opnames over kan zetten.
+
+- [Bitwig](https://www.bitwig.com/)
+- [n-Track](https://ntrack.com/)
+- [Studio One](https://www.presonus.com/pages/studio-one-pro)
+
+### Uitdagingen
+
+Als multi-effect pedaal gebruik ik de [Neural DSP](https://neuraldsp.com/) [Quad Cortex](https://neuraldsp.com/quad-cortex), waarover ik toch wel prima tevreden ben. Alleen, helaas is [Cortex Control](https://neuraldsp.com/cortex-control) niet beschikbaar op Linux, ondanks dat meerdere mensen [hierom vragen](https://unity.neuraldsp.com/t/linux-drivers-and-cortex-control-support/15149). Het is te installeren via iets als Bottles, maar in Linux wordt het board niet als USB device gezien.
 
 ### Lists
 
