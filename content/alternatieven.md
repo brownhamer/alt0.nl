@@ -30,7 +30,9 @@ Voor het opnemen van muziek thuis gebruik(te) ik op Windows [Cubase](https://www
 
 ### Uitdagingen
 
-Als multi-effect pedaal gebruik ik de [Neural DSP](https://neuraldsp.com/) [Quad Cortex](https://neuraldsp.com/quad-cortex), waarover ik toch wel prima tevreden ben. Alleen, helaas is [Cortex Control](https://neuraldsp.com/cortex-control) niet beschikbaar op Linux, ondanks dat meerdere mensen [hierom vragen](https://unity.neuraldsp.com/t/linux-drivers-and-cortex-control-support/15149). Het is te installeren via iets als [Bottles](https://usebottles.com/), maar in Linux wordt het multi-effect pedaal niet als USB device gezien.
+Als multi-effect pedaal gebruik ik de [Neural DSP](https://neuraldsp.com/) [Quad Cortex](https://neuraldsp.com/quad-cortex), waarover ik toch wel prima tevreden ben.
+Alleen, helaas is [Cortex Control](https://neuraldsp.com/cortex-control) niet beschikbaar op Linux, ondanks dat meerdere mensen [hierom vragen](https://unity.neuraldsp.com/t/linux-drivers-and-cortex-control-support/15149).
+Het is te installeren via iets als [Bottles](https://usebottles.com/), maar in Linux wordt het multi-effect pedaal niet als USB device gezien.
 
 ## Overgestapt
 
@@ -50,7 +52,7 @@ Ik ben zoveel mogelijk over aan het stappen op niet Big Tech, en meer non-US en 
 
 ## Lijsten
 
-Overzichten en lijsten van Big Tech alternatieven. 
+Overzichten en lijsten van Big Tech alternatieven.
 
 - [Alternatieven voor Amerikaanse producten & diensten](https://gathering.tweakers.net/forum/list_messages/2285628/0)
 - [Alternatives in the UK](https://alternatives-in.uk/)
