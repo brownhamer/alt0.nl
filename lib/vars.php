@@ -9,9 +9,9 @@ $alt0pages = [
     'data' => "Data",
     'alternatieven' => "Alternatieven",
     'ai' => "AI",
-    'fsd' => "FSD",
-    'meta' => "Meta",
     'privacy' => "Privacy",
+    'meta' => "Meta",
+    'tesla' => "Tesla",
 ];
 
 #-------------------------------------------------------------------------------

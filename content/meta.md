@@ -1,6 +1,6 @@
 # Meta
 
-Diverser artikelen en videos waarom je liever niets met Meta te maken hebt, het bedrijf achter Facebook, Instagram, Threads en WhatsApp. En ja, er zijn [ALT0PAGE_alternatieven].
+Diverse artikelen en videos waarom je liever niets met Meta te maken hebt, het bedrijf achter Facebook, Instagram, Threads en WhatsApp. En ja, er zijn [ALT0PAGE_alternatieven].
 
 - [Censuur door Meta? Na het blokkeren van lhbti-accounts willen politici uitleg](https://nos.nl/artikel/2594321-censuur-door-meta-na-het-blokkeren-van-lhbti-accounts-willen-politici-uitleg)
 - [Court Filings Allege Meta Downplayed Risks to Children and Misled the Public](https://time.com/7336204/meta-lawsuit-files-child-safety/)
@@ -12,6 +12,7 @@ Diverser artikelen en videos waarom je liever niets met Meta te maken hebt, het 
 - [Intern document: tien procent jaaromzet Meta komt van scams op Insta en Facebook](https://tweakers.net/nieuws/241198/intern-document-tien-procent-jaaromzet-meta-komt-van-scams-op-insta-en-facebook.html)
 - [Israeli AI using WhatsApp data to target Gaza families for bomb strikes](https://skwawkbox.org/2024/04/28/israeli-ai-using-whatsapp-data-to-target-gaza-families-for-bomb-strikes/)
 - [Mag Meta bepalen wat jij ziet op Instagram en Facebook? Nee, vindt de rechter](https://decorrespondent.nl/16421/mag-meta-bepalen-wat-jij-ziet-op-instagram-en-facebook-nee-vindt-de-rechter/3a5ebc2a-ba4a-0a90-22f6-cb9a2c021dc5)
+- [Meta - FB, Insta, WhatsApp - will read your DMs and AI chats, rolling out from Dec](https://www.thecanary.co/skwawkbox/2025/11/07/meta-ai-chats/)
 - [Meta had vanaf september inzage in surfgedrag van Android-gebruikers](https://tweakers.net/nieuws/235760/meta-had-vanaf-september-inzage-in-surfgedrag-van-android-gebruikers.html)
 - [Meta krijgt 265 miljoen euro AVG-boete om gescrapete data van 533 miljoen users](https://tweakers.net/nieuws/203926/meta-krijgt-265-miljoen-euro-avg-boete-om-gescrapete-data-van-533-miljoen-users.html)
 - [Meta moet Duitser 5000 euro schadevergoeding betalen vanwege illegale tracking](https://tweakers.net/nieuws/237058/meta-moet-duitser-5000-euro-schadevergoeding-betalen-vanwege-illegale-tracking.html)

@@ -27,9 +27,9 @@ startHtmlPage($PATH_TO_ROOT, $alt0links['alt0']['text'], "Hendrik");
         <hr />
         Over<br />
         &middot; <?php echo pageLink('ai'); ?><br />
-        &middot; <?php echo pageLink('fsd'); ?><br />
-        &middot; <?php echo pageLink('meta'); ?><br />
         &middot; <?php echo pageLink('privacy'); ?><br />
+        &middot; <?php echo pageLink('meta'); ?><br />
+        &middot; <?php echo pageLink('tesla'); ?><br />
     </div>
 </div></div>
 <div id="content">
