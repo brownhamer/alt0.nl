@@ -1,0 +1,52 @@
+# AI
+
+Als techniek is AI bijzonder mooi en krachtig. Echter de diverse LLM gebaseerde initiatieven die vanuit Big Tech gepusht worden, daar zitten toch wel wat haken en ogen aan.
+
+## Oplossingen
+
+- [AI CEO](https://replaceyourboss.ai/)
+- [ai.robots.txt](https://github.com/ai-robots-txt/ai.robots.txt/tree/main)
+- [Disable AI (Firefox)](https://addons.mozilla.org/en-US/firefox/addon/disable-ai/)
+- [How to disable Gemini on Android, Gmail, Chrome, Photos, and Google apps. Opt out of AI tracking now!](https://tuta.com/blog/how-to-disable-gemini-on-android)
+- [Remove Windows Ai](https://github.com/zoicware/RemoveWindowsAI)
+
+## Uitdagingen
+
+- [A Comprehensive Benchmark for Large Language Model Factuality](https://storage.googleapis.com/deepmind-media/FACTS/FACTS_benchmark_suite_paper.pdf)
+- [A small number of samples can poison LLMs of any size](https://www.anthropic.com/research/small-samples-poison)
+- [AI agents get office tasks wrong around 70% of the time, and a lot of them aren't AI at all](https://www.theregister.com/2025/06/29/ai_agents_fail_a_lot/)
+- [AI code assistants make developers more efficient at creating security problems](https://www.theregister.com/2025/09/05/ai_code_assistants_security_problems/)
+- [AI deletes database](https://www.reddit.com/r/vibecoding/comments/1mo0j3p/never_touching_cursor_again/)
+- [AI hallucinations: ChatGPT created a fake child murderer](https://noyb.eu/en/ai-hallucinations-chatgpt-created-fake-child-murderer)
+- [AI hard op weg om grootste energieverbruiker te worden](https://vu.nl/nl/nieuws/2025/ai-hard-op-weg-om-grootste-energieverbruiker-te-worden)
+- [AI Is Inventing Academic Papers That Don’t Exist — And They’re Being Cited in Real Journals](https://www.rollingstone.com/culture/culture-features/ai-chatbot-journal-research-fake-citations-1235485484/)
+- [AI verlaagt de productiviteit van ervaren programmeurs](https://os-sci.nl/blog/dutch-blogs-3/ai-verlaagt-de-productiviteit-van-ervaren-programmeurs-120)
+- [AI-beveiligingssysteem ziet zak chips aan voor pistool: tiener in boeien](https://www.bright.nl/nieuws/1705093/ai-beveiligingssysteem-ziet-zak-chips-aan-voor-pistool-tiener-in-boeien.html)
+- [AI-browser van Perplexity trapt in simpele en bekende phishingtrucs](https://tweakers.net/nieuws/238390/ai-browser-van-perplexity-trapt-in-simpele-en-bekende-phishingtrucs.html)
+- [AI-browsers zijn bijzonder kwetsbaar: prompts in screenshots verstopt](https://www.bright.nl/nieuws/1704264/ai-browsers-zijn-bijzonder-kwetsbaar-prompts-in-screenshots-verstopt.html)
+- [AI-powered penetration tool, an attacker's dream, downloaded 10K times in 2 months](https://www.theregister.com/2025/09/11/cobalt_strikes_ai_successor_downloaded/)
+- [AMOS Stealer Exploits AI Trust: Malware Delivered Through ChatGPT and Grok](https://www.huntress.com/blog/amos-stealer-chatgpt-grok-ai-trust)
+- [Anthropic's Claude Code runs code to test if it is safe - which might be a big mistake](https://www.theregister.com/2025/09/09/ai_security_review_risks/)
+- [Chatbots verspreiden verkeerde nieuwsinformatie, zelfs uit juiste artikelen](https://tweakers.net/nieuws/240610/chatbots-verspreiden-verkeerde-nieuwsinformatie-zelfs-uit-juiste-artikelen.html)
+- [ChatGPT is fuelling psychosis, doctors warn](https://www.independent.co.uk/tech/chatgpt-psychosis-nhs-doctors-ai-b2797174.html)
+- [ChatGPT's Atlas: The Browser That's Anti-Web](https://www.anildash.com/2025/10/22/atlas-anti-web-browser/)
+- [Datalek: gemeente Eindhoven deelt persoonsgegevens met openbare AI-websites](https://www.omroepbrabant.nl/nieuws/6001041/datalek-gemeente-eindhoven-deelt-persoonsgegevens-met-openbare-ai-websites)
+- [De nietsontziende race naar kunstmatige intelligentie](https://www.youtube.com/watch?v=ucl6yBFKnBQ)
+- [Een derde van de antwoorden van AI-chatbots kun je niet vertrouwen](https://archive.ph/sxLgV)
+- [Employees regularly paste company secrets into ChatGPT](https://www.theregister.com/2025/10/07/gen_ai_shadow_it_secrets/)
+- [Felienne](https://www.felienne.nl/) schrijft regelmatig over AI
+- [Grok is spreading inaccurate info again, this time about the Bondi Beach shooting](https://www.engadget.com/ai/grok-is-spreading-inaccurate-info-again-this-time-about-the-bondi-beach-shooting-203946515.html?src=rss)
+- [IBM CEO says there is 'no way' spending trillions on AI data centers will pay off at today's infrastructure costs](https://www.businessinsider.com/ibm-ceo-big-tech-ai-capex-data-center-spending-2025-12)
+- [Kunstmatige intelligentie is niet kunstmatig. En al helemaal niet intelligent](https://decorrespondent.nl/14393/kunstmatige-intelligentie-is-niet-kunstmatig-en-al-helemaal-niet-intelligent/d7f55cb1-49fc-0a49-24f9-66533dc63b2c)
+- [LLMs Data-Control Path Insecurity](https://www.schneier.com/essays/archives/2024/05/llms-data-control-path-insecurity.html)
+- [Major AI conference flooded with peer reviews written fully by AI](https://www.nature.com/articles/d41586-025-03506-6)
+- [No AI Slops! GNOME Now Forbids Vibe Coded Extensions](https://itsfoss.com/news/no-ai-extension-gnome/)
+- [OpenAI admits AI hallucinations are mathematically inevitable, not just engineering flaws](https://www.computerworld.com/article/4059383/openai-admits-ai-hallucinations-are-mathematically-inevitable-not-just-engineering-flaws.html)
+- [Personas in System Prompts Do Not Improve Performances of Large Language Models](https://arxiv.org/html/2311.10054v3)
+- [Scottish data centres powering AI already using enough water to fill 27 million bottles a year](https://www.bbc.com/news/articles/c77zxx43x4vo)
+- [Study finds AI tools made open source software developers 19 percent slower](https://arstechnica.com/ai/2025/07/study-finds-ai-tools-made-open-source-software-developers-19-percent-slower/)
+- [The glaring security risks with AI browser agents](https://techcrunch.com/2025/10/25/the-glaring-security-risks-with-ai-browser-agents/)
+- [The irony of this is that Perplexity is posting this one](https://mastodon.social/@nixCraft/115387473218466349)
+- [Verzekeraars weigeren de risico's van AI-agents te dekken](https://www.agconnect.nl/business/artificial-intelligence/verzekeraars-weigeren-de-risicos-van-ai-agents-te-dekken)
+- [Waarom je telefoonnummers voor klantenservice in AI-antwoorden niet mag vertrouwen](https://www.bright.nl/nieuws/1720538/waarom-je-telefoonnummers-voor-klantenservice-in-ai-antwoorden-niet-mag-vertrouwen.html)
+- [Your Brain on ChatGPT](https://www.media.mit.edu/publications/your-brain-on-chatgpt/)

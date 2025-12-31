@@ -1,155 +1,182 @@
 body {
-	background-color: rgb(51 68 102);
+	background-color: rgb(30 30 30);
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-position: bottom right;
-	font-family: sans-serif;
+    background-position: bottom left;
+	color: rgb(170 170 170);
+	font-family: Lora, 'Playfair Display', Georgia, serif;
 	margin: 0;
 	padding: 0;
 }
 
-h1 { /* Alt0.nl */
-	margin: 10px 0 0;
+h1 { /* Alt0 */
+	font-size: 2.5rem;
+	margin: 20px 20px 10px;
 	text-align: center;
 }
 
-h2 { /* sections */
-	margin: 0 0 100px;
-	text-align: center;
-}
-
-h3 { /* Not to say null. */
-	color: rgb(255 255 255 / 15%);
-	font-size: 9pt;
+h2 { /* <random tagline> */
+	border-bottom: 1px solid;
+	border-bottom-color: rgb(20 20 20 / 80%);
+	font-size: 1.1rem;
 	font-style: italic;
-	margin: 0 0 30px;
-	text-align: center;
-	text-shadow: 1px 1px 1px rgb(0 0 0 / 10%);
-}
-
-h5 { /* links */
-	color: rgb(255 255 255 / 25%);
-	font-variant: small-caps;
-	font-size: 10pt;
-	margin: 0;
-	text-align: left;
-	text-shadow: 1px 1px 1px rgb(0 0 0 / 10%);
-}
-
-.full {
-	width: 100%;
-}
-
-.note {
-	color: rgb(255 255 255 / 30%);
-	font-size: small;
-	font-style: italic;
-}
-
-div#spacer {
-	margin-bottom: 60px;
-}
-
-div#buttons {
-	font-size: small;
-	margin: 0 0 10px;
+	font-weight: lighter;
+	margin: 10px 20px 20px;
+	padding-bottom: 10px;
 	text-align: center;
 }
+
+div#page {
+	display: grid;
+	grid-template-columns: 2fr 7fr;
+	margin: 10px 20px 40px;
+}
+
+@media screen and (width <= 600px) {
+	div#page {
+		display: block;
+	}
+} 
 
 div#footer {
-	background-color: rgb(0 0 0 / 5%);
-	bottom: 10px;
-	color: rgb(255 255 255 / 10%);
-	font-size: small;
-	padding: 7px;
-	position: absolute;
-	right: 10px;
+	display: grid;
+	font-family: 'Open Sans', Helvetica, sans-serif;
+	font-size: 0.8rem;
+	grid-template-columns: 1fr 1fr;
+	margin: 10px 20px 40px;
+	padding: 0;
 }
 
-div#linksside, div#links, div#choices {
-	background-color: rgb(0 0 0 / 5%);
-	color: rgb(255 255 255 / 25%);
-	padding: 7px;
+@media screen and (width <= 600px) {
+	div#footer {
+		display: block;
+	}
 }
 
-div#linksside {
-	font-size: small;
-	position: absolute;
-	right: 10px;
-	top: 10px;
+div#socials, div#sites {
+	border: 1px solid rgb(40 40 40 / 60%);
+	background-color: rgb(40 40 40 / 30%);
+	border-radius: 14px;
+	margin: 7px;
+	padding: 7px 7px 7px 21px;
 }
 
-div#links, div#choices {
-	margin-left: 50px;
-	margin-right: 250px;
+div#socials h3, div#sites h3 {
+	border-bottom: 2px solid;
+	border-bottom-color: rgb(20 80 100);
+	display: inline;
 }
 
-div#linksside div, div#links div, div#choices div {
-	padding-left: 5px;
+div#sidebar {
+	font-family: 'Open Sans', Helvetica, sans-serif;
 }
 
-.link-button {
-	border: 1px solid rgb(0 0 0 / 10%);
-	color: rgb(255 255 255 / 90%);
-	display: inline-block;
+div#sidegray {
+	border: 1px solid rgb(20 20 20 / 80%);
+	background-color: rgb(20 20 20 / 40%);
+	border-radius: 14px;
+	padding: 14px;
+}
+
+div#content {
+	border: 1px solid rgb(20 20 20 / 80%);
+	background-color: rgb(20 20 20 / 40%);
+	border-radius: 7px;
+	margin-left: 21px;
+	padding: 7px 7px 7px 21px;
+}
+
+@media screen and (width <= 600px) {
+	div#content {
+		margin-left: 0;
+		margin-top: 21px;
+	}
+} 
+
+div#content h1, div#content h2, div#content h3 {
+	border: 0 none;
+	margin: 0 0 21px;
+	padding: 0;
+	text-align: left;
+	text-decoration: underline;
+	text-decoration-color: rgb(20 80 100);
+}
+
+div#content h1 {
+	font-size: 2rem;
+}
+
+div#content h2 {
+	border: 0 none;
+	font-size: 1.3rem;
+	font-style: normal;
 	font-weight: bold;
-	padding: 2px 5px;
-	text-shadow: 1px 1px 1px rgb(0 0 0 / 30%);
-    border-radius: 4px;
 }
 
-h1 span.link-button {
-	background-color: rgb(68 85 119);
-	padding: 4px 50px;
+div#content p {
+	line-height: 1.5;
+	margin: 0 0 42px;
+	padding: 0;
 }
 
-a.link-button {
-    text-decoration: none;
+div#content ol, div#content ul {
+	line-height: 2;
+	margin-bottom: 42px;
 }
 
-a.link-button:hover {
-	border: 1px solid rgb(255 255 255 / 10%);
-	color: rgb(255 255 255);
-	text-shadow: 1px 1px 2px rgb(0 0 0 / 70%);
-}
-
-h3 a {
-	color: rgb(255 255 255 / 15%);
-    text-decoration: none;
-}
-
-h3 a:hover {
-	color: rgb(255 255 255 / 35%);
-    text-decoration: underline;
-}
-
-div#footer a, div#linksside a, div#links a {
-	color: rgb(255 255 255 / 15%);
-    text-decoration: none;
-}
-
-div#choices a {
-	color: rgb(255 255 255 / 35%);
-	font-weight: bold;
-    text-decoration: none;
-}
-
-div#footer a:hover, div#linksside a:hover, div#links a:hover {
-	color: rgb(255 255 255 / 35%);
-    text-decoration: underline;
-}
-
-div#choices a:hover {
-	color: rgb(255 255 255 / 75%);
-    text-decoration: underline;
-}
-
-table#alternatives td {
-	padding: 10px;
-	vertical-align: top;
-}
-
-.del {
+div#pagenotfound {
+	color: rgb(115 115 115);
+	font-size: 0.6rem;
 	font-style: italic;
-	text-decoration: line-through double;
+	text-align: right;
+}
+
+div#by {
+	border: 1px solid rgb(40 40 40 / 60%);
+	background-color: rgb(40 40 40 / 30%);
+	border-radius: 7px;
+	top: 10px;
+	color: rgb(180 180 180 / 60%);
+	font-family: 'Open Sans', Helvetica, sans-serif;
+	font-size: 0.7rem;
+	padding: 7px;
+	position: absolute;
+	right: 10px;
+}
+
+img[src*="#bandlogo"] {
+	border: 1px solid rgb(40 40 40 / 30%);
+	border-radius: 14px;
+	float: right;
+	padding: 7px;
+}
+
+hr {
+	border: 1px dashed;
+	border-color: rgb(40 40 40 / 60%);
+}
+
+a {
+	color: rgb(80 140 180);
+	text-decoration: none;
+}
+
+h1 a {
+	color: rgb(130 170 190);
+}
+
+a:hover {
+	color: rgb(190 100 30);
+}
+
+div#navigation a {
+	color: rgb(80 140 180);
+}
+
+div#content a {
+	font-weight: bold;
+}
+
+div#navigation a:hover {
+	color: rgb(190 100 30);
 }
