@@ -10,13 +10,15 @@ Zelf ben ik bezig om van Windows over te stappen op Linux. Daarbij zijn sommige 
 
 ### Opgelost
 
-- 2FA &rarr; Ente Auth: [beschikbaar](https://ente.io/download)
-- Browser &rarr; Firefox: [beschikbaar](https://www.firefox.com/en-US/browsers/desktop/linux/)
-- Cloud storage &rarr; NextCloud: [beschikbaar](https://nextcloud.com/install/#desktop-files)
-- Mail &rarr; Thunderbird: [beschikbaar](https://www.thunderbird.net/en-US/thunderbird/all/)
-- Messenger &rarr; Signal: [beschikbaar](https://signal.org/download/linux/)
-- Notes &rarr; Nextcloud notes: [Iotas](https://apps.gnome.org/Iotas/)
-- VPN &rarr; Mullvad: [beschikbaar](https://mullvad.net/en/help/install-mullvad-app-linux)
+- 2FA &raquo; Ente Auth: [beschikbaar](https://ente.io/download)
+- Browser &raquo; Firefox: [beschikbaar](https://www.firefox.com/en-US/browsers/desktop/linux/)
+- Cloud opslag &raquo; NextCloud: [beschikbaar](https://nextcloud.com/install/#desktop-files)
+- Mail &raquo; Thunderbird: [beschikbaar](https://www.thunderbird.net/en-US/thunderbird/all/)
+- Messenger &raquo; Signal: [beschikbaar](https://signal.org/download/linux/)
+- Notities &raquo; Nextcloud notes: [Iotas](https://apps.gnome.org/Iotas/)
+- Todo &raquo; [als WebApp](https://todo.zenkit.com)
+- VPN &raquo; Mullvad: [beschikbaar](https://mullvad.net/en/help/install-mullvad-app-linux)
+- Wachtwoorden &raquo; 1Password [beschikbaar](https://1password.com/downloads/linux)
 
 ### Overstappen
 
@@ -28,9 +30,24 @@ Voor het opnemen van muziek thuis gebruik(te) ik op Windows [Cubase](https://www
 
 ### Uitdagingen
 
-Als multi-effect pedaal gebruik ik de [Neural DSP](https://neuraldsp.com/) [Quad Cortex](https://neuraldsp.com/quad-cortex), waarover ik toch wel prima tevreden ben. Alleen, helaas is [Cortex Control](https://neuraldsp.com/cortex-control) niet beschikbaar op Linux, ondanks dat meerdere mensen [hierom vragen](https://unity.neuraldsp.com/t/linux-drivers-and-cortex-control-support/15149). Het is te installeren via iets als Bottles, maar in Linux wordt het board niet als USB device gezien.
+Als multi-effect pedaal gebruik ik de [Neural DSP](https://neuraldsp.com/) [Quad Cortex](https://neuraldsp.com/quad-cortex), waarover ik toch wel prima tevreden ben. Alleen, helaas is [Cortex Control](https://neuraldsp.com/cortex-control) niet beschikbaar op Linux, ondanks dat meerdere mensen [hierom vragen](https://unity.neuraldsp.com/t/linux-drivers-and-cortex-control-support/15149). Het is te installeren via iets als [Bottles](https://usebottles.com/), maar in Linux wordt het multi-effect pedaal niet als USB device gezien.
 
-### Lists
+## Overgestapt
+
+Ik ben zoveel mogelijk over aan het stappen op niet Big Tech, en meer non-US en Open Source gebaseerde oplossingen. Hieronder wat keuzes die ik hierin al gemaakt heb.
+
+- 2FA: ~~Authy~~ &raquo; [Ente Auth](https://ente.io/auth/">)
+- Browser: ~~Google Chrome~~ &raquo; [Firefox](https://www.firefox.com/)
+- Cloud opslag: ~~OneDrive~~ &raquo; [NextCloud](https://nextcloud.com/) via [oCloud](https://ocloud.de/)
+- Mail: ~~Gmail~~ &raquo; IMAP met [Thunderbird](https://www.thunderbird.net/)
+- Messenger: ~~WhatsApp~~ &raquo; [Signal](https://signal.org/)
+- Navigatie: ~~Google Maps~~ &raquo; [HERE WeGo](https://wego.here.com/) en [CoMaps](https://www.comaps.app/)
+- Notities: ~~Simplenote~~ &raquo; [NextCloud Notes](https://apps.nextcloud.com/apps/notes) en [Iotas](https://apps.gnome.org/Iotas/)
+- Todo: ~~Microsoft To Do~~ &raquo; [ZenKit To Do](https://zenkit.com/en/todo/)
+- Wachtwoorden: ~~Lastpass~~ &raquo; [1Password](https://1password.com/)
+- Zoeken: ~~Google~~ &raquo; [DuckDuckGo](https://noai.duckduckgo.com/)
+
+## Lijsten
 
 Overzichten en lijsten van Big Tech alternatieven. 
 
