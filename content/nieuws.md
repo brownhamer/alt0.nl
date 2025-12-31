@@ -1,6 +1,6 @@
 # Nieuws
 
-Diverse nieuws gerelateerde websites.
+Diverse nieuws gerelateerde sites.
 
 - [Associated Press](https://apnews.com/)
 - [De Speld](https://speld.nl/)

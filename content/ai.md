@@ -30,7 +30,7 @@ Als techniek is AI bijzonder mooi en krachtig. Echter de diverse LLM gebaseerde 
 - [Chatbots verspreiden verkeerde nieuwsinformatie, zelfs uit juiste artikelen](https://tweakers.net/nieuws/240610/chatbots-verspreiden-verkeerde-nieuwsinformatie-zelfs-uit-juiste-artikelen.html)
 - [ChatGPT is fuelling psychosis, doctors warn](https://www.independent.co.uk/tech/chatgpt-psychosis-nhs-doctors-ai-b2797174.html)
 - [ChatGPT's Atlas: The Browser That's Anti-Web](https://www.anildash.com/2025/10/22/atlas-anti-web-browser/)
-- [Datalek: gemeente Eindhoven deelt persoonsgegevens met openbare AI-websites](https://www.omroepbrabant.nl/nieuws/6001041/datalek-gemeente-eindhoven-deelt-persoonsgegevens-met-openbare-ai-websites)
+- [Datalek: gemeente Eindhoven deelt persoonsgegevens met openbare AI-sites](https://www.omroepbrabant.nl/nieuws/6001041/datalek-gemeente-eindhoven-deelt-persoonsgegevens-met-openbare-ai-websites)
 - [De nietsontziende race naar kunstmatige intelligentie](https://www.youtube.com/watch?v=ucl6yBFKnBQ)
 - [Een derde van de antwoorden van AI-chatbots kun je niet vertrouwen](https://archive.ph/sxLgV)
 - [Employees regularly paste company secrets into ChatGPT](https://www.theregister.com/2025/10/07/gen_ai_shadow_it_secrets/)

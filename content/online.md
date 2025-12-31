@@ -1,6 +1,6 @@
 # Online
 
-Diverse 'handige' websites met online tools en informatie.
+Diverse 'handige' sites met online tools en informatie.
 
 - [Chris Klomp](https://chrisklomp.nl/)
 - [Creative Music Lab](https://lab.creativemusiclab.com/)
