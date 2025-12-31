@@ -16,12 +16,16 @@ startHtmlPage($PATH_TO_ROOT, $alt0links['alt0']['text'], "Hendrik");
 <div id="page">
 <div id="sidebar"><div id="sidegray">
     <div id="navigation">
-        <?php echo textLink('alt0'); ?><br />
+        <?php echo textLink('alt0'); ?> &raquo; <?php echo pageLink('hendrik'); ?><br />
         <hr />
-        &middot; <?php echo pageLink('hendrik'); ?><br />
+        Informatie<br />
         &middot; <?php echo pageLink('nieuws'); ?><br />
         &middot; <?php echo pageLink('data'); ?><br />
+        <hr />
+        Technologie<br />
         &middot; <?php echo pageLink('alternatieven'); ?><br />
+        <hr />
+        Over<br />
         &middot; <?php echo pageLink('ai'); ?><br />
         &middot; <?php echo pageLink('fsd'); ?><br />
         &middot; <?php echo pageLink('meta'); ?><br />
@@ -33,7 +37,7 @@ startHtmlPage($PATH_TO_ROOT, $alt0links['alt0']['text'], "Hendrik");
     $page = htmlspecialchars(getGet('page', 'alt0'));
     if (!is_readable($PATH_TO_ROOT.'/content/'.$page.'.md')) {
         echo '<div id="pagenotfound">Page ['.$page.'] not found, assuming homepage</div>'."\n";
-        $page = 'home';
+        $page = 'alt0';
     }
 
     $file = $PATH_TO_ROOT.'/content/'.$page.'.md';

@@ -1,0 +1,12 @@
+# Nieuws
+
+Diverse nieuws gerelateerde websites.
+
+- [Associated Press](https://apnews.com/)
+- [De Speld](https://speld.nl/)
+- [It's FOSS News](https://news.itsfoss.com/)
+- [Nieuwspaal](https://nieuwspaal.nl/)
+- [Nu.nl](https://nu.nl/)
+- [Scientias](https://scientias.nl/)
+- [Security.NL](https://security.nl/)
+- [Tweakers](https://tweakers.nl/)
