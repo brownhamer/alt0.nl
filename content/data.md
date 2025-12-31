@@ -16,5 +16,7 @@ Diverse websites die inzicht geven in meerdere soorten informatie op basis van o
 - [OpenTK NL](https://berthub.eu/tkconv/)
 - [Our World in Data](https://ourworldindata.org/)
 - [Spurious correlations](https://www.tylervigen.com/spurious-correlations)
+- [The Climate Dashboard Dashboard](https://jjk-code-otter.github.io/dashboard-dashboard/)
+- [Thuisarts.nl](https://www.thuisarts.nl/)
 - [Verkiezingsuitslagen NL](https://www.verkiezingsuitslagen.nl/)
 - [Worldometer](https://www.worldometers.info/)

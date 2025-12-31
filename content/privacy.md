@@ -2,6 +2,21 @@
 
 Vrijheid en privacy zijn belangrijk om als mens jezelf te kunnen zijn. Daarbij is privacy erg persoonlijk, en dus belangrijk dat je hierin zelf keuzes kan maken. Het gaat daarbij niet over verbergen, maar over veiligheid van jou persoonlijke informatie.
 
+## Oplossingen
+
+- [Am I Unique ?](https://amiunique.org/)
+- [BrowserLeaks.com](https://browserleaks.com/)
+- [Have I been pwned?](https://haveibeenpwned.com/)
+- [Just Delete Me](https://backgroundchecks.org/justdeleteme/)
+- [Password Security info](https://passwordsecurity.info/)
+- [Privacy Guides](https://www.privacyguides.org/)
+- [Privacy Tools](https://privacytools.io/)
+- [The No More Ransom Project](https://www.nomoreransom.org)
+- [VirusTotal](https://virustotal.com/)
+- [VPN Comparison](https://thatoneprivacysite.net/vpn-comparison-chart/)
+
+## Uitdagingen
+
 - [7 Privacy Wins You Can Get This Weekend](https://itsfoss.com/privacy-wins-linux/)
 - [Billionaires Should Not Exist](https://www.teenvogue.com/story/billionaires-should-not-exist)
 - [Botte afperspraktijken door het Amerika van Trump](https://www.nrc.nl/nieuws/2025/12/19/botte-afperspraktijken-door-het-amerika-van-trump-a4915587?gift_token=4915587~1766912635~PHWgLp0IEeKfgABQVoV_mg~EXhD6fZyipnHUt_EejN_JTEgkqPU-tS0tGgGLdBK5_k)

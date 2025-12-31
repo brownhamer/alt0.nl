@@ -20,6 +20,7 @@ startHtmlPage($PATH_TO_ROOT, $alt0links['alt0']['text'], "Hendrik");
         <hr />
         Informatie<br />
         &middot; <?php echo pageLink('nieuws'); ?><br />
+        &middot; <?php echo pageLink('online'); ?><br />
         &middot; <?php echo pageLink('data'); ?><br />
         <hr />
         Technologie<br />

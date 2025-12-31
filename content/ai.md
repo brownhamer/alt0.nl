@@ -2,6 +2,13 @@
 
 Als techniek is AI bijzonder mooi en krachtig. Echter de diverse LLM gebaseerde initiatieven die vanuit Big Tech gepusht worden, daar zitten toch wel wat haken en ogen aan.
 
+## Oplossingen
+
+- [AI CEO](https://replaceyourboss.ai/)
+- [Disable AI (Firefox)](https://addons.mozilla.org/en-US/firefox/addon/disable-ai/)
+- [How to disable Gemini on Android, Gmail, Chrome, Photos, and Google apps. Opt out of AI tracking now!](https://tuta.com/blog/how-to-disable-gemini-on-android)
+- [Remove Windows Ai](https://github.com/zoicware/RemoveWindowsAI)
+
 ## Uitdagingen
 
 - [A Comprehensive Benchmark for Large Language Model Factuality](https://storage.googleapis.com/deepmind-media/FACTS/FACTS_benchmark_suite_paper.pdf)
@@ -42,9 +49,3 @@ Als techniek is AI bijzonder mooi en krachtig. Echter de diverse LLM gebaseerde 
 - [Verzekeraars weigeren de risico's van AI-agents te dekken](https://www.agconnect.nl/business/artificial-intelligence/verzekeraars-weigeren-de-risicos-van-ai-agents-te-dekken)
 - [Waarom je telefoonnummers voor klantenservice in AI-antwoorden niet mag vertrouwen](https://www.bright.nl/nieuws/1720538/waarom-je-telefoonnummers-voor-klantenservice-in-ai-antwoorden-niet-mag-vertrouwen.html)
 - [Your Brain on ChatGPT](https://www.media.mit.edu/publications/your-brain-on-chatgpt/)
-
-## Oplossingen
-
-- [Disable AI (Firefox)](https://addons.mozilla.org/en-US/firefox/addon/disable-ai/)
-- [How to disable Gemini on Android, Gmail, Chrome, Photos, and Google apps. Opt out of AI tracking now!](https://tuta.com/blog/how-to-disable-gemini-on-android)
-- [Remove Windows Ai](https://github.com/zoicware/RemoveWindowsAI)
