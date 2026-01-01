@@ -6,6 +6,7 @@ Overzicht van handige sites over software en programma's die ik niet altijd zelf
 
 - [alternativeTo](https://alternativeto.net/platform/linux/)
 - [DistroWatch.com](https://distrowatch.com/)
+- [Flahub](https://flathub.org/)
 - [Fossdroid](https://fossdroid.com/)
 - [Fossify](https://www.fossify.org/)
 - [Softpedia](https://linux.softpedia.com/)
