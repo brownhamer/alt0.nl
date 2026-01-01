@@ -8,6 +8,7 @@ Diverse sites die inzicht geven in meerdere soorten informatie op basis van open
 - [Datagraver](https://datagraver.com/)
 - [Dataregister NL](https://data.overheid.nl/)
 - [De Data Dame](https://www.datadame.nl/)
+- [FediDB](https://fedidb.com/)
 - [HowTheyVote.eu](https://howtheyvote.eu/)
 - [LobbyFacts.eu](https://www.lobbyfacts.eu/)
 - [Open data Tweede Kamer NL](https://opendata.tweedekamer.nl/)
