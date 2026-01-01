@@ -44,7 +44,7 @@ Het is te installeren via iets als [Bottles](https://usebottles.com/), maar in L
 Ik ben zoveel mogelijk over aan het stappen op niet Big Tech, en meer non-US en Open Source gebaseerde oplossingen. Hieronder wat keuzes die ik hierin al gemaakt heb.
 
 - 2FA: ~~Authy~~ &raquo; [Ente Auth](https://ente.io/auth/">)
-* Agenda: ~~Google Calendar~~ &raquo; [NextCloud Calendar](https://apps.nextcloud.com/apps/calendar) met [CalDAV](https://en.wikipedia.org/wiki/CalDAV) voor [GNOME Calendar](https://apps.gnome.org/Calendar/) en [Etar Calendar](https://github.com/Etar-Group/Etar-Calendar)
+* Agenda: ~~Google Calendar~~ &raquo; [NextCloud Calendar](https://apps.nextcloud.com/apps/calendar) met [CalDAV](https://en.wikipedia.org/wiki/CalDAV) en [DAVx5](https://www.davx5.com/) voor [GNOME Calendar](https://apps.gnome.org/Calendar/) en [Etar Calendar](https://github.com/Etar-Group/Etar-Calendar)
 - Bookmarks: ~~Firefox~~ &raquo; [NextCloud](https://nextcloud.com/) met [Floccus](https://floccus.org/)
 - Browser: ~~Google Chrome~~ &raquo; [Firefox](https://www.firefox.com/)
 - Cloud opslag: ~~OneDrive~~ &raquo; [NextCloud](https://nextcloud.com/) via [oCloud](https://ocloud.de/)
