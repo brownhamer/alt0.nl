@@ -45,7 +45,7 @@ Ik ben zoveel mogelijk over aan het stappen op niet Big Tech, en meer non-US en 
 
 - 2FA: ~~Authy~~ &raquo; [Ente Auth](https://ente.io/auth/">)
 * Agenda: ~~Google Calendar~~ &raquo; [NextCloud Calendar](https://apps.nextcloud.com/apps/calendar) met [GNOME Calendar](https://apps.gnome.org/Calendar/) en [CalDAV](https://en.wikipedia.org/wiki/CalDAV) plus [DAVx5](https://www.davx5.com/) voor en [Etar Calendar](https://github.com/Etar-Group/Etar-Calendar)
-- Bookmarks: ~~Firefox~~ &raquo; [NextCloud](https://nextcloud.com/) met [Floccus](https://floccus.org/)
+- Bookmarks: ~~Firefox~~ &raquo; [NextCloud Bookmarks](https://github.com/nextcloud/bookmarks) met [Floccus](https://floccus.org/)
 - Browser: ~~Google Chrome~~ &raquo; [Firefox](https://www.firefox.com/)
 - Cloud opslag: ~~OneDrive~~ &raquo; [NextCloud](https://nextcloud.com/) via [oCloud](https://ocloud.de/)
 - Contacten: ~~Google Contacts~~ &raquo; [NextCloud Contacts](https://github.com/nextcloud/contacts) met [GNOME Contacts](https://apps.gnome.org/Contacts/) en [CardDAV](https://en.wikipedia.org/wiki/CardDAV) plus [DAVx5](https://www.davx5.com/) voor [Fossify Contacts](https://github.com/FossifyOrg/Contacts)
