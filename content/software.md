@@ -24,6 +24,7 @@ Overzicht van handige sites over software en programma's die ik niet altijd zelf
 - [DAVx5](https://www.davx5.com/)
 - [elementary OS](https://elementary.io/)
 - [ExifCleaner](https://exifcleaner.com/)
+- [FairEmail](https://email.faircode.eu/)
 - [Fedistar](https://fedistar.net/)
 - [Floorp](https://floorp.app/)
 - [Fossil](https://fossil-scm.org/)
