@@ -14,7 +14,7 @@ Zelf ben ik bezig om van Windows over te stappen op Linux. Daarbij zijn sommige 
 - Agenda &raquo; [NextCloud Calendar](https://apps.nextcloud.com/apps/calendar) &raquo; [GNOME Calendar](https://apps.gnome.org/Calendar/)
 - Browser &raquo; [Firefox](https://www.firefox.com/) &raquo; [beschikbaar](https://www.firefox.com/en-US/browsers/desktop/linux/)
 - Cloud opslag &raquo; [NextCloud](https://nextcloud.com) &raquo; [beschikbaar](https://nextcloud.com/install/#desktop-files)
-- Contacten &raquo; [NextCloud Contacts](https://github.com/nextcloud/contacts) met [CardDAV](https://en.wikipedia.org/wiki/CardDAV) &raquo; [GNOME Contacts](https://apps.gnome.org/Contacts/)
+- Contacten &raquo; [NextCloud Contacts](https://github.com/nextcloud/contacts) &raquo; [GNOME Contacts](https://apps.gnome.org/Contacts/)
 - IDE &raquo; [VS Codium](https://vscodium.com) &raquo; [beschikbaar](https://vscodium.com/#install)
 - Git GUI &raquo; [GitHub Desktop](https://github.com/apps/desktop) &raquo; [via AUR](https://aur.archlinux.org/packages/github-desktop)
 - Mail &raquo; [Thunderbird](https://www.thunderbird.net) &raquo; [beschikbaar](https://www.thunderbird.net/en-US/thunderbird/all/)
@@ -44,11 +44,11 @@ Het is te installeren via iets als [Bottles](https://usebottles.com/), maar in L
 Ik ben zoveel mogelijk over aan het stappen op niet Big Tech, en meer non-US en Open Source gebaseerde oplossingen. Hieronder wat keuzes die ik hierin al gemaakt heb.
 
 - 2FA: ~~Authy~~ &raquo; [Ente Auth](https://ente.io/auth/">)
-* Agenda: ~~Google Calendar~~ &raquo; [NextCloud Calendar](https://apps.nextcloud.com/apps/calendar) met [CalDAV](https://en.wikipedia.org/wiki/CalDAV) en [DAVx5](https://www.davx5.com/) voor [GNOME Calendar](https://apps.gnome.org/Calendar/) en [Etar Calendar](https://github.com/Etar-Group/Etar-Calendar)
+* Agenda: ~~Google Calendar~~ &raquo; [NextCloud Calendar](https://apps.nextcloud.com/apps/calendar) met [GNOME Calendar](https://apps.gnome.org/Calendar/) en [CalDAV](https://en.wikipedia.org/wiki/CalDAV) plus [DAVx5](https://www.davx5.com/) voor en [Etar Calendar](https://github.com/Etar-Group/Etar-Calendar)
 - Bookmarks: ~~Firefox~~ &raquo; [NextCloud](https://nextcloud.com/) met [Floccus](https://floccus.org/)
 - Browser: ~~Google Chrome~~ &raquo; [Firefox](https://www.firefox.com/)
 - Cloud opslag: ~~OneDrive~~ &raquo; [NextCloud](https://nextcloud.com/) via [oCloud](https://ocloud.de/)
-- Contacten: ~~Google Contacts~~ &raquo; [NextCloud Contacts](https://github.com/nextcloud/contacts) [GNOME Contacts](https://apps.gnome.org/Contacts/) en [Fossify Contacts](https://github.com/FossifyOrg/Contacts)
+- Contacten: ~~Google Contacts~~ &raquo; [NextCloud Contacts](https://github.com/nextcloud/contacts) met [GNOME Contacts](https://apps.gnome.org/Contacts/) en [CardDAV](https://en.wikipedia.org/wiki/CardDAV) plus [DAVx5](https://www.davx5.com/) voor [Fossify Contacts](https://github.com/FossifyOrg/Contacts)
 - IDE: ~~Visual Studio Code~~ &raquo; [VS Codium](https://vscodium.com/)
 - Mail: ~~Gmail~~ &raquo; IMAP met [Thunderbird](https://www.thunderbird.net/)
 - Messenger: ~~WhatsApp~~ &raquo; [Signal](https://signal.org/)
