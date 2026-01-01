@@ -5,6 +5,7 @@ Als techniek is AI bijzonder mooi en krachtig. Echter de diverse LLM gebaseerde 
 ## Oplossingen
 
 - [AI CEO](https://replaceyourboss.ai/)
+- [AI Darwin Awards](https://aidarwinawards.org/)
 - [ai.robots.txt](https://github.com/ai-robots-txt/ai.robots.txt/tree/main)
 - [Disable AI (Firefox)](https://addons.mozilla.org/en-US/firefox/addon/disable-ai/)
 - [How to disable Gemini on Android, Gmail, Chrome, Photos, and Google apps. Opt out of AI tracking now!](https://tuta.com/blog/how-to-disable-gemini-on-android)
