@@ -3,6 +3,7 @@
 Diverse nieuws gerelateerde sites.
 
 - [Associated Press](https://apnews.com/)
+- [DutchNews](https://www.dutchnews.nl/)
 - [De Speld](https://speld.nl/)
 - [It's FOSS News](https://news.itsfoss.com/)
 - [Nieuwspaal](https://nieuwspaal.nl/)
