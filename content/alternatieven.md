@@ -11,8 +11,10 @@ Zelf ben ik bezig om van Windows over te stappen op Linux. Daarbij zijn sommige 
 ### Opgelost
 
 - 2FA &raquo; Ente Auth &raquo; [beschikbaar](https://ente.io/download)
+- Agenda &raquo; NextCloud Calendar met CalDav &raquo; [beschikbaar](https://apps.gnome.org/Calendar/)
 - Browser &raquo; Firefox &raquo; [beschikbaar](https://www.firefox.com/en-US/browsers/desktop/linux/)
 - Cloud opslag &raquo; NextCloud &raquo; [beschikbaar](https://nextcloud.com/install/#desktop-files)
+- Contacten &raquo; NextCloud Contacts met CardDAV &raquo; [beschikbaar](https://apps.gnome.org/Contacts/)
 - IDE &raquo; VS Codium &raquo; [beschikbaar](https://vscodium.com/#install)
 - Git GUI &raquo; GitHub Desktop &raquo; [via AUR](https://aur.archlinux.org/packages/github-desktop)
 - Mail &raquo; Thunderbird &raquo; [beschikbaar](https://www.thunderbird.net/en-US/thunderbird/all/)
@@ -42,9 +44,11 @@ Het is te installeren via iets als [Bottles](https://usebottles.com/), maar in L
 Ik ben zoveel mogelijk over aan het stappen op niet Big Tech, en meer non-US en Open Source gebaseerde oplossingen. Hieronder wat keuzes die ik hierin al gemaakt heb.
 
 - 2FA: ~~Authy~~ &raquo; [Ente Auth](https://ente.io/auth/">)
+* Agenda: ~~Google Calendar~~ &raquo; [NextCloud Calendar](https://apps.nextcloud.com/apps/calendar) met [CalDAV](https://en.wikipedia.org/wiki/CalDAV) voor [GNOME Calendar](https://apps.gnome.org/Calendar/) en [Etar Calendar](https://github.com/Etar-Group/Etar-Calendar)
 - Bookmarks: ~~Firefox~~ &raquo; [NextCloud](https://nextcloud.com/) met [Floccus](https://floccus.org/)
 - Browser: ~~Google Chrome~~ &raquo; [Firefox](https://www.firefox.com/)
 - Cloud opslag: ~~OneDrive~~ &raquo; [NextCloud](https://nextcloud.com/) via [oCloud](https://ocloud.de/)
+- Contacten: ~~Google Contacts~~ &raquo; [NextCloud Contacts](https://github.com/nextcloud/contacts) met [CardDAV](https://en.wikipedia.org/wiki/CardDAV) naar [GNOME Contacts](https://apps.gnome.org/Contacts/) en [Fossify Contacts](https://github.com/FossifyOrg/Contacts)
 - IDE: ~~Visual Studio Code~~ &raquo; [VS Codium](https://vscodium.com/)
 - Mail: ~~Gmail~~ &raquo; IMAP met [Thunderbird](https://www.thunderbird.net/)
 - Messenger: ~~WhatsApp~~ &raquo; [Signal](https://signal.org/)
