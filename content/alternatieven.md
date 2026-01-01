@@ -10,20 +10,20 @@ Zelf ben ik bezig om van Windows over te stappen op Linux. Daarbij zijn sommige 
 
 ### Opgelost
 
-- 2FA &raquo; Ente Auth &raquo; [beschikbaar](https://ente.io/download)
-- Agenda &raquo; NextCloud Calendar met CalDav &raquo; [beschikbaar](https://apps.gnome.org/Calendar/)
-- Browser &raquo; Firefox &raquo; [beschikbaar](https://www.firefox.com/en-US/browsers/desktop/linux/)
-- Cloud opslag &raquo; NextCloud &raquo; [beschikbaar](https://nextcloud.com/install/#desktop-files)
-- Contacten &raquo; NextCloud Contacts met CardDAV &raquo; [beschikbaar](https://apps.gnome.org/Contacts/)
-- IDE &raquo; VS Codium &raquo; [beschikbaar](https://vscodium.com/#install)
-- Git GUI &raquo; GitHub Desktop &raquo; [via AUR](https://aur.archlinux.org/packages/github-desktop)
-- Mail &raquo; Thunderbird &raquo; [beschikbaar](https://www.thunderbird.net/en-US/thunderbird/all/)
-- Messenger &raquo; Signal &raquo; [beschikbaar](https://signal.org/download/linux/)
-- Notities &raquo; Nextcloud notes &raquo; [Iotas](https://apps.gnome.org/Iotas/)
-- Social &raquo; Mastodon &raquo; [Tuba](https://github.com/GeopJr/Tuba)
-- Todo &raquo; Zenkit To Do &raquo; [als WebApp](https://todo.zenkit.com)
-- VPN &raquo; Mullvad &raquo; [beschikbaar](https://mullvad.net/en/help/install-mullvad-app-linux)
-- Wachtwoorden &raquo; 1Password &raquo; [beschikbaar](https://1password.com/downloads/linux)
+- 2FA &raquo; [Ente Auth](https://ente.io/auth/) &raquo; [beschikbaar](https://ente.io/download)
+- Agenda &raquo; [NextCloud Calendar](https://apps.nextcloud.com/apps/calendar) met [CalDAV](https://en.wikipedia.org/wiki/CalDAV) &raquo; [GNOME Calendar](https://apps.gnome.org/Calendar/)
+- Browser &raquo; [Firefox](https://www.firefox.com/) &raquo; [beschikbaar](https://www.firefox.com/en-US/browsers/desktop/linux/)
+- Cloud opslag &raquo; [NextCloud](https://nextcloud.com) &raquo; [beschikbaar](https://nextcloud.com/install/#desktop-files)
+- Contacten &raquo; [NextCloud Contacts](https://github.com/nextcloud/contacts) met [CardDAV](https://en.wikipedia.org/wiki/CardDAV) &raquo; [GNOME Contacts](https://apps.gnome.org/Contacts/)
+- IDE &raquo; [VS Codium](https://vscodium.com) &raquo; [beschikbaar](https://vscodium.com/#install)
+- Git GUI &raquo; [GitHub Desktop](https://github.com/apps/desktop) &raquo; [via AUR](https://aur.archlinux.org/packages/github-desktop)
+- Mail &raquo; [Thunderbird](https://www.thunderbird.net) &raquo; [beschikbaar](https://www.thunderbird.net/en-US/thunderbird/all/)
+- Messenger &raquo; [Signal](https://signal.org) &raquo; [beschikbaar](https://signal.org/download/linux/)
+- Notities &raquo; [Nextcloud notes](https://apps.nextcloud.com/apps/notes) &raquo; [Iotas](https://apps.gnome.org/Iotas/)
+- Social &raquo; [Mastodon](https://mastodon.nl) &raquo; [Tuba](https://github.com/GeopJr/Tuba)
+- Todo &raquo; [Zenkit To Do](https://zenkit.com/en/todo/) &raquo; [als WebApp](https://todo.zenkit.com)
+- VPN &raquo; [Mullvad](https://mullvad.net) &raquo; [beschikbaar](https://mullvad.net/en/help/install-mullvad-app-linux)
+- Wachtwoorden &raquo; [1Password](https://1password.com) &raquo; [beschikbaar](https://1password.com/downloads/linux)
 
 ### Overstappen
 
