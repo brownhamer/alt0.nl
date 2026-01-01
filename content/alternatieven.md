@@ -11,7 +11,7 @@ Zelf ben ik bezig om van Windows over te stappen op Linux. Daarbij zijn sommige 
 ### Opgelost
 
 - 2FA &raquo; [Ente Auth](https://ente.io/auth/) &raquo; [beschikbaar](https://ente.io/download)
-- Agenda &raquo; [NextCloud Calendar](https://apps.nextcloud.com/apps/calendar) met [CalDAV](https://en.wikipedia.org/wiki/CalDAV) &raquo; [GNOME Calendar](https://apps.gnome.org/Calendar/)
+- Agenda &raquo; [NextCloud Calendar](https://apps.nextcloud.com/apps/calendar) &raquo; [GNOME Calendar](https://apps.gnome.org/Calendar/)
 - Browser &raquo; [Firefox](https://www.firefox.com/) &raquo; [beschikbaar](https://www.firefox.com/en-US/browsers/desktop/linux/)
 - Cloud opslag &raquo; [NextCloud](https://nextcloud.com) &raquo; [beschikbaar](https://nextcloud.com/install/#desktop-files)
 - Contacten &raquo; [NextCloud Contacts](https://github.com/nextcloud/contacts) met [CardDAV](https://en.wikipedia.org/wiki/CardDAV) &raquo; [GNOME Contacts](https://apps.gnome.org/Contacts/)

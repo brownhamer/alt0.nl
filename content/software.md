@@ -21,6 +21,7 @@ Overzicht van handige sites over software en programma's die ik niet altijd zelf
 - [ClearURLs](https://docs.clearurls.xyz)
 - [Consent-O-Matic](https://consentomatic.au.dk/)
 - [Cryptomater](https://cryptomator.org/)
+- [DAVx5](https://www.davx5.com/)
 - [elementary OS](https://elementary.io/)
 - [ExifCleaner](https://exifcleaner.com/)
 - [Fedistar](https://fedistar.net/)
