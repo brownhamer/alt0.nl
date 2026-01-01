@@ -12,6 +12,7 @@ Diverse 'handige' sites met online tools en informatie.
 - [Fossify](https://www.fossify.org/)
 - [Galgo Project](https://galgoproject.nl/)
 - [Lago & Urdaneta](https://lagourdaneta.com/)
+- [Melroy](https://melroy.org/)
 - [Partij voor de Dieren](https://www.partijvoordedieren.nl/)
 - [Pedal Playground](https://pedalplayground.com/)
 - [RegExr](https://regexr.com/)
