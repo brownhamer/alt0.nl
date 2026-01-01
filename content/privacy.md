@@ -5,6 +5,8 @@ Vrijheid en privacy zijn belangrijk om als mens jezelf te kunnen zijn. Daarbij i
 ## Oplossingen
 
 - [Am I Unique ?](https://amiunique.org/)
+- [Awesome Privacy](https://pluja.github.io/awesome-privacy/)
+- [Awesome Privacy](https://awesome-privacy.xyz/) xyz
 - [BrowserLeaks.com](https://browserleaks.com/)
 - [Have I been pwned?](https://haveibeenpwned.com/)
 - [Just Delete Me](https://backgroundchecks.org/justdeleteme/)
