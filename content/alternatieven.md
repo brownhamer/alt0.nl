@@ -48,7 +48,7 @@ Ik ben zoveel mogelijk over aan het stappen op niet Big Tech, en meer non-US en 
 - Bookmarks: ~~Firefox~~ &raquo; [NextCloud](https://nextcloud.com/) met [Floccus](https://floccus.org/)
 - Browser: ~~Google Chrome~~ &raquo; [Firefox](https://www.firefox.com/)
 - Cloud opslag: ~~OneDrive~~ &raquo; [NextCloud](https://nextcloud.com/) via [oCloud](https://ocloud.de/)
-- Contacten: ~~Google Contacts~~ &raquo; [NextCloud Contacts](https://github.com/nextcloud/contacts) met [CardDAV](https://en.wikipedia.org/wiki/CardDAV) naar [GNOME Contacts](https://apps.gnome.org/Contacts/) en [Fossify Contacts](https://github.com/FossifyOrg/Contacts)
+- Contacten: ~~Google Contacts~~ &raquo; [NextCloud Contacts](https://github.com/nextcloud/contacts) [GNOME Contacts](https://apps.gnome.org/Contacts/) en [Fossify Contacts](https://github.com/FossifyOrg/Contacts)
 - IDE: ~~Visual Studio Code~~ &raquo; [VS Codium](https://vscodium.com/)
 - Mail: ~~Gmail~~ &raquo; IMAP met [Thunderbird](https://www.thunderbird.net/)
 - Messenger: ~~WhatsApp~~ &raquo; [Signal](https://signal.org/)
