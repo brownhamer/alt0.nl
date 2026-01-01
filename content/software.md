@@ -26,6 +26,7 @@ Overzicht van handige sites over software en programma's die ik niet altijd zelf
 - [Fedistar](https://fedistar.net/)
 - [Floorp](https://floorp.app/)
 - [Fossil](https://fossil-scm.org/)
+- [GNU Make](https://www.gnu.org/software/make/)
 - [Guitar Pro](https://www.guitar-pro.com/)
 - [Josh](https://github.com/josh-project/josh)
 - [KeeWeb](https://keeweb.info/)
