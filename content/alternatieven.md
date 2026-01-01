@@ -73,6 +73,7 @@ Overzichten en lijsten van Big Tech alternatieven.
 - [Choose the EU Cloud](https://www.eucloud.tech/)
 - [Dutch Alternatives Landscape](https://dutch-alternatives.nl/)
 - [Ethical Alternatives](https://ethical.net/resources/)
+- [EU Cloud](https://www.eucloud.tech/)
 - [EUPL](https://interoperable-europe.ec.europa.eu/collection/eupl)
 - [European AI atlas](https://www.aiatlas.eu/)
 - [European Alternatives](https://euroalternative.co/)
