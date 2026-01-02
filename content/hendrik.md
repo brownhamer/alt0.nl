@@ -23,7 +23,7 @@ Analyseren van problematische constructies in het software archief, en op basis 
 
 Als systeem architect verantwoordelijk voor het project om de TwinScan en EUV lichtbron software ontwikkel omgeving te moderniseren en standariseren.
 Opstellen van roadmap en migratie plannen, alswel software archief opschoon acties ter voorbereiding op de diverse migraties.
-Onderzoeken van (standaard) oplossingen om te komen tot onderbouwde keuzes voor de nieuwe software ontwikkel omgeving, waarbij de keuze is gemaakt voor GitHub en Bazel als basis. 
+Onderzoeken van (standaard) oplossingen om te komen tot onderbouwde keuzes voor de nieuwe software ontwikkel omgeving, waarbij de keuze is gemaakt voor GitHub en Bazel als basis.
 
 #### Build architect &raquo; December 2015 - April 2019
 
@@ -59,7 +59,7 @@ Standardisatie van ontwikkel processen gerealiseerd voor de verschillende softwa
 
 Tweedelijns ondersteuning voor software build fouten.
 Onderhouden van het software build systeem op basis van ClearCase en ClearMake met custom PERL en Linux shell scripting.
-Betrokken bij meerdere korte projecten voor het verbeteren van performance en onderhoudbaarheid van diverse scripting. 
+Betrokken bij meerdere korte projecten voor het verbeteren van performance en onderhoudbaarheid van diverse scripting.
 
 ### JVH gaming products B.V. &raquo; Juni 1997 - Oktober 2011
 
@@ -74,7 +74,7 @@ Na deze ontwikkeling ben ik me steeds meer met de processen om de ontwikkeling h
 Standaard tooling op de schop genomen en samengevoegd in een installatie CD, welke onder revisie beheer staat zodat verificatie door overheden eenvoudiger verloopt.
 Meerdere applicaties voor deze CD ontwikkeld in C (command line) en AutoIt (gui).
 Nauw betrokken bij het nieuw te ontwikkelen, PC gebaseerde, platform.
-Mede hiervoor een nieuwe bouw omgeving opgezet die platform onafhankelijk is, geïmplementeerd in GNU Make en als open source vrijgegeven op http://jum.sourceforge.net.
+Mede hiervoor een nieuwe bouw omgeving opgezet die platform onafhankelijk is, geïmplementeerd in GNU Make en als open source vrijgegeven op [SourceForge](http://jum.sourceforge.net).
 Tevens voorzitter van het Platform CCB dat platform CR/PR zaken beoordeeld en inplant.
 Verder neem ik deel aan de Procedure CCB voor proces verbetering en het Software Q/A proces ter verbetering van de code kwaliteit (o.a. door gebruik te maken van tools als TICS en PC-lint).
 Ten behoeve van het nieuw te ontwikkelen platform begonnen aan het gelijk trekken van de diverse spellen en land specifieke modules (qua interface), zodat deze pan-Europees bruikbaar zijn.
