@@ -1,6 +1,6 @@
 # AI
 
-Als techniek is AI bijzonder mooi en krachtig. Echter de diverse LLM gebaseerde initiatieven die vanuit Big Tech gepusht worden, daar zitten toch wel wat haken en ogen aan.
+Als (verzamel) techniek is [AI](https://nl.wikipedia.org/wiki/Kunstmatige_intelligentie) bijzonder mooi en krachtig. Echter de diverse LLM gebaseerde initiatieven die vanuit Big Tech gepusht worden, daar zitten toch wel wat haken en ogen aan.
 
 ## Oplossingen
 
