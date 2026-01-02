@@ -117,7 +117,7 @@ Opstellen benodigde documentatie voor het behalen van ISO-9002 certificatie.
 | Leadership Essential Program                         | ASML (IBM)               | 2016           | -   |
 | ArchiMate 2 Practitioner                             | BiZZdesign               | Juni 2016      | C   |
 | ArchiMate 2 Foundation                               | BiZZdesign               | Mei 2016       | C   |
-| Time- and projectmanagement                          | CroanConsult             | Mei 204        | C   |
+| Time- and projectmanagement                          | CroanConsult             | Mei 2014       | C   |
 | ClearCase admin                                      | ASML (IBM)               | 2014           | -   |
 | C++ Advanced                                         | TU/e                     | December 2009  | C   |
 | C++                                                  | TU/e                     | September 2009 | C   |
