@@ -10,6 +10,7 @@ Diverse sites die inzicht geven in meerdere soorten informatie op basis van open
 - [De Data Dame](https://www.datadame.nl/)
 - [FediDB](https://fedidb.com/)
 - [HowTheyVote.eu](https://howtheyvote.eu/)
+- [Information is Beautiful](https://informationisbeautiful.net/)
 - [LobbyFacts.eu](https://www.lobbyfacts.eu/)
 - [Open data Tweede Kamer NL](https://opendata.tweedekamer.nl/)
 - [Open Kamer NL](https://www.openkamer.org/)
