@@ -35,6 +35,7 @@ Overzicht van handige sites over software en programma's die ik niet altijd zelf
 - [KeeWeb](https://keeweb.info/)
 - [LibreWolf](https://librewolf.net/)
 - [Meld](https://meldmerge.org/)
+- [Memories](https://memories.gallery/)
 - [meta](https://github.com/mateodelnorte/meta) (nee, niet [ALT0PAGE_meta])
 - [Ninja](https://ninja-build.org/)
 - [Notesnook](https://notesnook.com/)
