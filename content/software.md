@@ -7,12 +7,12 @@ Zie verder ook [ALT0PAGE_alternatieven] voor wat ik sowieso wel gebruik.
 
 - [alternativeTo](https://alternativeto.net/platform/linux/)
 - [DistroWatch.com](https://distrowatch.com/)
-- [Flahub](https://flathub.org/)
+- [Flathub](https://flathub.org/)
 - [Fossdroid](https://fossdroid.com/)
 - [Fossify](https://www.fossify.org/)
 - [Softpedia](https://linux.softpedia.com/)
 
-## Porgramma's
+## Programma's
 
 - [7-Zip](https://7-zip.org/)
 - [Bazel](https://bazel.build/)

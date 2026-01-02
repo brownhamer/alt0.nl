@@ -5,7 +5,7 @@ Minder Big Tech, meer EU, meer open, meer privacy, meer in-control.
 ## Linux
 
 Zelf ben ik bezig om van Windows over te stappen op Linux.
-Daarbij zijn sommige stukken software die gebruik(te) op Windows ook beschikbaar op Linux, soms ben ik overgestapt op een alternatief, en soms is er nog een uitdaging om op te lossen.
+Daarbij zijn sommige stukken software die ik gebruik(te) op Windows ook beschikbaar op Linux, soms ben ik overgestapt op een alternatief, en soms is er nog een uitdaging om op te lossen.
 
 - [Manjaro](https://manjaro.org/), de distributie waar ik voor gekozen heb, rolling-release, gnome optie, EU based, redelijk populair.
 
@@ -44,7 +44,7 @@ Het is te installeren via iets als [Bottles](https://usebottles.com/), maar in L
 
 ## Overgestapt
 
-Ik ben zoveel mogelijk over aan het stappen op niet Big Tech, en meer non-US en Open Source gebaseerde oplossingen.
+Ik ben zoveel mogelijk over aan het stappen op niet Big Tech, meer non-US en Open Source gebaseerde oplossingen.
 Hieronder wat keuzes die ik hierin al gemaakt heb.
 
 - 2FA: ~~Authy~~ &raquo; [Ente Auth](https://ente.io/auth/">)
