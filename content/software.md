@@ -26,6 +26,7 @@ Overzicht van handige sites over software en programma's die ik niet altijd zelf
 - [ExifCleaner](https://exifcleaner.com/)
 - [FairEmail](https://email.faircode.eu/)
 - [Fedistar](https://fedistar.net/)
+- [Files](https://files.community/)
 - [Floorp](https://floorp.app/)
 - [Fossil](https://fossil-scm.org/)
 - [GNU Make](https://www.gnu.org/software/make/)
