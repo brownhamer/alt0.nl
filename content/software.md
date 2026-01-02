@@ -1,6 +1,7 @@
 # Software
 
-Overzicht van handige sites over software en programma's die ik niet altijd zelf gebruik maar wel handig kunnen zijn. Zie verder ook [ALT0PAGE_alternatieven] voor wat ik sowieso wel gebruik.
+Overzicht van handige sites over software en programma's die ik niet altijd zelf gebruik maar wel handig kunnen zijn.
+Zie verder ook [ALT0PAGE_alternatieven] voor wat ik sowieso wel gebruik.
 
 ## Lijsten
 

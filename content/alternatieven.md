@@ -4,7 +4,8 @@ Minder Big Tech, meer EU, meer open, meer privacy, meer in-control.
 
 ## Linux
 
-Zelf ben ik bezig om van Windows over te stappen op Linux. Daarbij zijn sommige stukken software die gebruik(te) op Windows ook beschikbaar op Linux, soms ben ik overgestapt op een alternatief, en soms is er nog een uitdaging om op te lossen.
+Zelf ben ik bezig om van Windows over te stappen op Linux.
+Daarbij zijn sommige stukken software die gebruik(te) op Windows ook beschikbaar op Linux, soms ben ik overgestapt op een alternatief, en soms is er nog een uitdaging om op te lossen.
 
 - [Manjaro](https://manjaro.org/), de distributie waar ik voor gekozen heb, rolling-release, gnome optie, EU based, redelijk populair.
 
@@ -28,7 +29,8 @@ Zelf ben ik bezig om van Windows over te stappen op Linux. Daarbij zijn sommige 
 
 ### Overstappen
 
-Voor het opnemen van muziek thuis gebruik(te) ik op Windows [Cubase](https://www.steinberg.net/cubase/), wat helaas niet beschikbaar is voor Linux. Gelukkig zijn er alternatieven beschikbaar, waarvan er 3 zijn die het DAW formaat ondersteunen voor import zodat ik oude opnames over kan zetten.
+Voor het opnemen van muziek thuis gebruik(te) ik op Windows [Cubase](https://www.steinberg.net/cubase/), wat helaas niet beschikbaar is voor Linux.
+Gelukkig zijn er alternatieven beschikbaar, waarvan er 3 zijn die het DAW formaat ondersteunen voor import zodat ik oude opnames over kan zetten.
 
 - [Bitwig](https://www.bitwig.com/)
 - [n-Track](https://ntrack.com/)
@@ -42,7 +44,8 @@ Het is te installeren via iets als [Bottles](https://usebottles.com/), maar in L
 
 ## Overgestapt
 
-Ik ben zoveel mogelijk over aan het stappen op niet Big Tech, en meer non-US en Open Source gebaseerde oplossingen. Hieronder wat keuzes die ik hierin al gemaakt heb.
+Ik ben zoveel mogelijk over aan het stappen op niet Big Tech, en meer non-US en Open Source gebaseerde oplossingen.
+Hieronder wat keuzes die ik hierin al gemaakt heb.
 
 - 2FA: ~~Authy~~ &raquo; [Ente Auth](https://ente.io/auth/">)
 * Agenda: ~~Google Calendar~~ &raquo; [NextCloud Calendar](https://apps.nextcloud.com/apps/calendar) met [GNOME Calendar](https://apps.gnome.org/Calendar/) en [CalDAV](https://en.wikipedia.org/wiki/CalDAV) plus [DAVx5](https://www.davx5.com/) voor en [Etar Calendar](https://github.com/Etar-Group/Etar-Calendar)

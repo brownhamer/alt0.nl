@@ -1,6 +1,7 @@
 # Tesla
 
-Een bedrijf dat een mooie 'revolutie' heeft gestart richting elctrische auto's. Alleen jammer dat de baas gaandeweg wat minder prettig is geworden en bijzondere keuzes heeft gemaakt.
+Een bedrijf dat een mooie 'revolutie' heeft gestart richting elctrische auto's.
+Alleen jammer dat de baas gaandeweg wat minder prettig is geworden en bijzondere keuzes heeft gemaakt.
 
 ## FSD
 

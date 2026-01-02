@@ -1,6 +1,7 @@
 # Meta
 
-Diverse artikelen en videos waarom je liever niets met Meta te maken hebt, het bedrijf achter Facebook, Instagram, Threads en WhatsApp. En ja, er zijn [ALT0PAGE_alternatieven].
+Diverse artikelen en videos waarom je liever niets met Meta te maken hebt, het bedrijf achter Facebook, Instagram, Threads en WhatsApp.
+En ja, er zijn [ALT0PAGE_alternatieven].
 
 - [Censuur door Meta? Na het blokkeren van lhbti-accounts willen politici uitleg](https://nos.nl/artikel/2594321-censuur-door-meta-na-het-blokkeren-van-lhbti-accounts-willen-politici-uitleg)
 - [Court Filings Allege Meta Downplayed Risks to Children and Misled the Public](https://time.com/7336204/meta-lawsuit-files-child-safety/)

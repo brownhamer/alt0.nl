@@ -1,6 +1,8 @@
 # Privacy
 
-Vrijheid en privacy zijn belangrijk om als mens jezelf te kunnen zijn. Daarbij is privacy erg persoonlijk, en dus belangrijk dat je hierin zelf keuzes kan maken. Het gaat daarbij niet over verbergen, maar over veiligheid van jou persoonlijke informatie.
+Vrijheid en privacy zijn belangrijk om als mens jezelf te kunnen zijn.
+Daarbij is privacy erg persoonlijk, en dus belangrijk dat je hierin zelf keuzes kan maken.
+Het gaat daarbij niet over verbergen, maar over veiligheid van jou persoonlijke informatie.
 
 ## Oplossingen
 
