@@ -6,7 +6,12 @@ require_once($PATH_TO_ROOT.'/lib/vars.php');
 require_once($PATH_TO_ROOT.'/lib/Parsedown.php');
 
 #-------------------------------------------------------------------------------
-startHtmlPage($PATH_TO_ROOT, $alt0links['alt0']['text'], "Hendrik");
+$getpage = htmlspecialchars(getGet('page', 'alt0'));
+$usepage = is_readable($PATH_TO_ROOT.'/content/'.$getpage.'.md') ? $getpage : 'alt0';
+$tagpage = ($usepage == 'alt0') ? "[home]" : $alt0pages[$usepage];
+
+#-------------------------------------------------------------------------------
+startHtmlPage($PATH_TO_ROOT, $alt0links['alt0']['text'], $tagpage);
 
 #============================================================================ ?>
 
@@ -37,18 +42,16 @@ startHtmlPage($PATH_TO_ROOT, $alt0links['alt0']['text'], "Hendrik");
 </div></div>
 <div id="content">
 <?php
-    $page = htmlspecialchars(getGet('page', 'alt0'));
-    if (!is_readable($PATH_TO_ROOT.'/content/'.$page.'.md')) {
-        echo '<div id="pagenotfound">Page ['.$page.'] not found, assuming homepage</div>'."\n";
-        $page = 'alt0';
+    if ($getpage != $usepage)) {
+        echo '<div id="pagenotfound">Page ['.$getpage.'] not found, using ['.$usepage.'] instead</div>'."\n";
     }
 
-    $file = $PATH_TO_ROOT.'/content/'.$page.'.md';
-    echo "\n".'<!-- start ['.$page.'] content from ['.$file.'] -->'."\n";
+    $file = $PATH_TO_ROOT.'/content/'.$usepage.'.md';
+    echo "\n".'<!-- start ['.$usepage.'] content from ['.$file.'] -->'."\n";
     $markdown = file_get_contents($file);
     $parsedown = new Parsedown();
     echo replacealt0links($parsedown->text($markdown));
-    echo "\n".'<!-- end ['.$page.'] content from ['.$file.'] -->'."\n";
+    echo "\n".'<!-- end ['.$usepage.'] content from ['.$file.'] -->'."\n";
 ?>
 </div>
 </div>
