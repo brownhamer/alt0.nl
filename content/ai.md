@@ -36,6 +36,7 @@ Als techniek is AI bijzonder mooi en krachtig. Echter de diverse LLM gebaseerde 
 - [Een derde van de antwoorden van AI-chatbots kun je niet vertrouwen](https://archive.ph/sxLgV)
 - [Employees regularly paste company secrets into ChatGPT](https://www.theregister.com/2025/10/07/gen_ai_shadow_it_secrets/)
 - [Felienne](https://www.felienne.nl/) schrijft regelmatig over AI
+- [Generalization bias in large language model summarization of scientific research](https://royalsocietypublishing.org/rsos/article/12/4/241776/235656/Generalization-bias-in-large-language-model)
 - [Grok is spreading inaccurate info again, this time about the Bondi Beach shooting](https://www.engadget.com/ai/grok-is-spreading-inaccurate-info-again-this-time-about-the-bondi-beach-shooting-203946515.html?src=rss)
 - [IBM CEO says there is 'no way' spending trillions on AI data centers will pay off at today's infrastructure costs](https://www.businessinsider.com/ibm-ceo-big-tech-ai-capex-data-center-spending-2025-12)
 - [Kunstmatige intelligentie is niet kunstmatig. En al helemaal niet intelligent](https://decorrespondent.nl/14393/kunstmatige-intelligentie-is-niet-kunstmatig-en-al-helemaal-niet-intelligent/d7f55cb1-49fc-0a49-24f9-66533dc63b2c)
