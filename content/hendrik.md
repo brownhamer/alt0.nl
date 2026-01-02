@@ -72,7 +72,7 @@ Wederom een aantal jaren later, samen met 2 collega’s dit platform omgebouwd n
 Hierbij eveneens ter ondersteuning een bug-tracking systeem opgezet in PHP met MySQL.
 Na deze ontwikkeling ben ik me steeds meer met de processen om de ontwikkeling heen gaan bemoeien.
 Standaard tooling op de schop genomen en samengevoegd in een installatie CD, welke onder revisie beheer staat zodat verificatie door overheden eenvoudiger verloopt.
-Meerdere applicaties voor deze CD ontwikkeld in C (command line) en AutoIt (gui).
+Meerdere applicaties voor deze CD ontwikkeld in C (command line) en AutoIt (GUI).
 Nauw betrokken bij het nieuw te ontwikkelen, PC gebaseerde, platform.
 Mede hiervoor een nieuwe bouw omgeving opgezet die platform onafhankelijk is, geïmplementeerd in GNU Make en als open source vrijgegeven op [SourceForge](http://jum.sourceforge.net).
 Tevens voorzitter van het Platform CCB dat platform CR/PR zaken beoordeeld en inplant.
@@ -84,13 +84,13 @@ verantwoordelijkheden in de software.
 ### PHP engineer &raquo; Februari 2009 - Maart 2010
 
 Op vrijwillige basis een kennis meegeholpen met het verbeteren van PHP code voor een CRM applicatie gebaseerd op ZEND.
-Hierbij zowel de front-end als de back-end onder handen genomen, gebruik makend van PHP, MySQL
+Hierbij zowel de frontend als de backend onder handen genomen, gebruik makend van PHP, MySQL
 en HTML.
 
-### Website engineer &raquo; 2003
+### Site engineer &raquo; 2003
 
-Voor een bevriende rock band een website opgezet met JavaScript nieuws ticker, PHP/MySQL gebaseerde back-end voor nieuws, agenda en forum.
-Verder HTML en CSS ondersteuning voor de front-end.
+Voor een bevriende rock band een Site opgezet met JavaScript nieuws ticker, PHP/MySQL gebaseerde backend voor nieuws, agenda en forum.
+Verder HTML en CSS ondersteuning voor de frontend.
 
 ### GfK Panel Service Benelux B.V. &raquo; Januari 1998 - Mei 1998
 
