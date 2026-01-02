@@ -4,68 +4,50 @@
 
 ## Werk
 
-### ASML Holding N.V.
-
-    December 2014 - nu
+### ASML Holding N.V. &raquo; December 2014 - nu
 
 Diverse rollen ingevuld binnen de DevOps afdeling ter ondersteuning van de software ontwikkeling voor de TwinScan systemen, EUV lichtbron en legacy PAS systemen.
 
-#### System architect
-
-    April 2024 - nu
+#### System architect &raquo; April 2024 - nu
 
 Verantwoordelijk voor het opstelle van de technische roadmap om software ontwikkeling mogelijk te houden voor de diverse legacy systemen tot voorbij 2035.
 Dit ten behoeven van Long-Term-Support en Mature Products & Services systemen als de PAS5500 die gebruik maken van oudere tools en software.
 
-#### Build architect
-
-    April 2023 - April 2024
+#### Build architect &raquo;  April 2023 - April 2024
 
 Focus op de software build migratie naar Bazel voor zowel de TwinScan als EUV lichtbron software ontwikkeling.
 Opstellen van aanpassingen in de huidige build systemen om de migratie te stroomlijnen.
 Analyseren van problematische constructies in het software archief, en op basis daarvan uitzetten en ondersteunen van opschoon acties om blokkades in de migratie te voorkomen.
 
-#### System architect
-
-    Mei 2019 - Maart 2023
+#### System architect &raquo; Mei 2019 - Maart 2023
 
 Als systeem architect verantwoordelijk voor het project om de TwinScan en EUV lichtbron software ontwikkel omgeving te moderniseren en standariseren.
 Opstellen van roadmap en migratie plannen, alswel software archief opschoon acties ter voorbereiding op de diverse migraties.
 Onderzoeken van (standaard) oplossingen om te komen tot onderbouwde keuzes voor de nieuwe software ontwikkel omgeving, waarbij de keuze is gemaakt voor GitHub en Bazel als basis. 
 
-#### Build architect
-
-    December 2015 - April 2019
+#### Build architect &raquo; December 2015 - April 2019
 
 Architect voor de diverse TwinScan en EUV lichtbron software build systemen.
 Opstellen van roadmap en verbeteringen om te migreren naar een minder divers landschap om hergebruik van code tussen de producten makkelijker te maken.
 Analyseren van performance problemen en uitwerken van voorstellen om deze op te lossen.
 
-### Robot Nederland B.V.
-
-    December 2014 - November 2015
+### Robot Nederland B.V. &raquo; December 2014 - November 2015
 
 Verbeteren van het software ontwikkel proces, automatisering en ondersteunings processen.
 Implementeren van diverse (geautomatiseerde) test en onderhouds scripting in PHP en PowerShell.
 Coordineren van freelancer voor de ontwikkeling van backend software in C#, review van code, specificeren van requirements en architectuur.
 
-### ENTER Mbedded &raquo; ASML Holding N.V.
-
-    November 2011 - November 2014
+### ASML Holding N.V. (ENTER Mbedded) &raquo; November 2011 - November 2014
 
 Via ENTER Mbedded gedetacheerd bij ASML Holding N.V.
 Diverse rollen ingevuld binnen de DevOps afdeling ter ondersteuning van de software ontwikkeling voor de TwinScan systemen en de EUV lichtbron.
 
-#### Build architect
-
-    Oktober 2014 - November 2014
+#### Build architect &raquo; Oktober 2014 - November 2014
 
 De diverse software build systemen geintegreerd in een GNU Make framework waarin stap voor stap gemigreerd kan worden naar het nieuwe systeem.
 Hierbij oplossingen als GNU Make, PERL, NSIS, cross-compilatie en dergelijke gecombineerd om een geintergeerd bouw proces te maken voor de gehele EUV lichtbron software.
 
-#### Solution architect
-
-    November 2012 - September 2014
+#### Solution architect &raquo; November 2012 - September 2014
 
 Verantwoordelijk voor de verbetering van de software ontwikkel omgeving voor de EUV lichtbron gemaakt voor Cymer.
 Meerdere software build systemen verbeterd met behulp van een GNU Make.
@@ -73,17 +55,13 @@ Nachtelijke builds met Jenkins geintroduceerd.
 Subversion management en SCM processen ontworpen en ondersteunende scripting geimplementeerd.
 Standardisatie van ontwikkel processen gerealiseerd voor de verschillende software componenten.
 
-#### Build engineer
-
-    November 2011 - November 2012
+#### Build engineer &raquo; November 2011 - November 2012
 
 Tweedelijns ondersteuning voor software build fouten.
 Onderhouden van het software build systeem op basis van ClearCase en ClearMake met custom PERL en Linux shell scripting.
 Betrokken bij meerdere korte projecten voor het verbeteren van performance en onderhoudbaarheid van diverse scripting. 
 
-### JVH gaming products B.V.
-
-    Juni 1997 - Oktober 2011
+### JVH gaming products B.V. &raquo; Juni 1997 - Oktober 2011
 
 Begonnen als spelprogrammeur voor de ontwikkeling van kansspelautomaten in de Nederlandse markt.
 Ontwikkeling in C op een ‘in house’ ontwikkeld OS.
@@ -103,32 +81,24 @@ Ten behoeve van het nieuw te ontwikkelen platform begonnen aan het gelijk trekke
 Dit betreft het (her)schrijven van C code, documentatie, verbeteren van interfaces en structureren van
 verantwoordelijkheden in de software.
 
-### PHP engineer
-
-    Februari 2009 - Maart 2010
+### PHP engineer &raquo; Februari 2009 - Maart 2010
 
 Op vrijwillige basis een kennis meegeholpen met het verbeteren van PHP code voor een CRM applicatie gebaseerd op ZEND.
 Hierbij zowel de front-end als de back-end onder handen genomen, gebruik makend van PHP, MySQL
 en HTML.
 
-### Website engineer
-
-    2003
+### Website engineer &raquo; 2003
 
 Voor een bevriende rock band een website opgezet met JavaScript nieuws ticker, PHP/MySQL gebaseerde back-end voor nieuws, agenda en forum.
 Verder HTML en CSS ondersteuning voor de front-end.
 
-### GfK Panel Service Benelux B.V.
-
-    Januari 1998 - Mei 1998
+### GfK Panel Service Benelux B.V. &raquo; Januari 1998 - Mei 1998
 
 Installeren nieuwe Pc's.
 Oplossen van problemen met applicaties.
 Verbeteren van automatisering processen.
 
-### Advanced Information Europe B.V. &raquo; Acer
-
-    April 1996 - Augustus 1997
+### Acer (Advanced Information Europe B.V.) &raquo; April 1996 - Augustus 1997
 
 Aansturen computer assemblage personeel.
 Verzamelen, verwerken en verstrekken aan management van productie informatie.
@@ -136,116 +106,78 @@ Opstellen benodigde documentatie voor het behalen van ISO-9002 certificatie.
 
 ## Opleidingen
 
-### BiZZdesign
-
-    2025 / certificaat oktober 2025
+### BiZZdesign &raquo; 2025 &raquo; certificaat Oktober 2025
 
 ArchiMate 3 Practitioner
 
-### BiZZdesign
-
-    2025 / certificaat oktober 2025
+### BiZZdesign &raquo; 2025 &raquo; certificaat Oktober 2025
 
 ArchiMate 3 Foundation
 
-### BiZZdesign
-
-    2025 / certificaat juli 2025
+### BiZZdesign &raquo; 2025 &raquo; certificaat Juli 2025
 
 TOGAF Enterprise Architecture (Applied) Practitioner
 
-### BiZZdesign
-
-    2025 / certificaat april 2025
+### BiZZdesign &raquo; 2025 &raquo; certificaat April 2025
 
 TOGAF Enterprise Architecture Foundation
 
-### ...
-
-    2022 / certificaat maart 2022
+### ... &raquo; 2022 &raquo; certificaat Maart 2022
 
 SAFe 5 Architect
 
-### Scrum.org
-
-    2019 / certificaat maart 2019
+### Scrum.org &raquo; 2019 &raquo; certificaat Maart 2019
 
 PSPO 1
 
-### ASML - IBM
-
-    2016
+### ASML (IBM) &raquo; 2016
 
 Leadership Essential Program
 
-### BiZZdesign
-
-    2016 / certificaat juni 2016
+### BiZZdesign &raquo; 2016 &raquo; certificaat Juni 2016
 
 ArchiMate 2 Practitioner
 
-### BiZZdesign
-
-    2016 / certificaat mei 2016
+### BiZZdesign &raquo; 2016 &raquo; certificaat Mei 2016
 
 ArchiMate 2 Foundation
 
-### CroanConsult
-
-    2014 / certificaat mei 2014
+### CroanConsult &raquo; 2014 &raquo; certificaat Mei 2014
 
 Time- and projectmanagement
 
-### ASML
-
-    2014
+### ASML &raquo; 2014
 
 ClearCase admin
 
-### TU/e
-
-   2009 / certificaat december 2009
+### TU/e &raquo; 2009 &raquo; certificaat December 2009
 
 C++ Advanced
 
-### TU/e
-
-   2009 / certificaat september 2009
+### TU/e &raquo; 2009 &raquo; certificaat September 2009
 
 C++
 
-### TASS
-
-    2008 / certificaat december 2008
+### TASS &raquo; 2008 &raquo; certificaat December 2008
 
 Structured Analysis & Structured Design
 
-### Atos Origin
-
-    2006 / certificaat oktober 2006
+### Atos Origin &raquo; 2006 &raquo; certificaat Oktober 2006
 
 Safer C
 
-### De Rooi Pannen
-
-    1996
+### De Rooi Pannen &raquo; 1996
 
 Praktisch Leiding Geven
 
-### Hogeshool Midden-Brabant, Eindhoven
-
-    1993 - 1995
+### Hogeshool Midden-Brabant, Eindhoven &raquo; 1993 - 1995
 
 HEAO Bedrijfskundige Informatica
 
-### Hogeschool West-Brabant, Breda
-
-    1992 - 1993
+### Hogeschool West-Brabant, Breda &raquo; 1992 - 1993
 
 HEAO propedeuse
 
-### Triborgh College, Tilburg
-
-    1988 - 1992 / diploma juni 1992
+### Triborgh College, Tilburg &raquo; 1988 - 1992 &raquo; diploma Juni 1992
 
 MEAO Bedrijfskundige Informatica
