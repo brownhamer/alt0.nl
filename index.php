@@ -42,7 +42,7 @@ startHtmlPage($PATH_TO_ROOT, $alt0links['alt0']['text'], $tagpage);
 </div></div>
 <div id="content">
 <?php
-    if ($getpage != $usepage)) {
+    if ($getpage != $usepage) {
         echo '<div id="pagenotfound">Page ['.$getpage.'] not found, using ['.$usepage.'] instead</div>'."\n";
     }
 
