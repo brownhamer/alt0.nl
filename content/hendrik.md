@@ -136,3 +136,116 @@ Opstellen benodigde documentatie voor het behalen van ISO-9002 certificatie.
 
 ## Opleidingen
 
+### BiZZdesign
+
+    2025 / certificaat oktober 2025
+
+ArchiMate 3 Practitioner
+
+### BiZZdesign
+
+    2025 / certificaat oktober 2025
+
+ArchiMate 3 Foundation
+
+### BiZZdesign
+
+    2025 / certificaat juli 2025
+
+TOGAF Enterprise Architecture (Applied) Practitioner
+
+### BiZZdesign
+
+    2025 / certificaat april 2025
+
+TOGAF Enterprise Architecture Foundation
+
+### ...
+
+    2022 / certificaat maart 2022
+
+SAFe 5 Architect
+
+### Scrum.org
+
+    2019 / certificaat maart 2019
+
+PSPO 1
+
+### ASML - IBM
+
+    2016
+
+Leadership Essential Program
+
+### BiZZdesign
+
+    2016 / certificaat juni 2016
+
+ArchiMate 2 Practitioner
+
+### BiZZdesign
+
+    2016 / certificaat mei 2016
+
+ArchiMate 2 Foundation
+
+### CroanConsult
+
+    2014 / certificaat mei 2014
+
+Time- and projectmanagement
+
+### ASML
+
+    2014
+
+ClearCase admin
+
+### TU/e
+
+   2009 / certificaat december 2009
+
+C++ Advanced
+
+### TU/e
+
+   2009 / certificaat september 2009
+
+C++
+
+### TASS
+
+    2008 / certificaat december 2008
+
+Structured Analysis & Structured Design
+
+### Atos Origin
+
+    2006 / certificaat oktober 2006
+
+Safer C
+
+### De Rooi Pannen
+
+    1996
+
+Praktisch Leiding Geven
+
+### Hogeshool Midden-Brabant, Eindhoven
+
+    1993 - 1995
+
+HEAO Bedrijfskundige Informatica
+
+### Hogeschool West-Brabant, Breda
+
+    1992 - 1993
+
+HEAO propedeuse
+
+### Triborgh College, Tilburg
+
+    1988 - 1992 / diploma juni 1992
+
+MEAO Bedrijfskundige Informatica
