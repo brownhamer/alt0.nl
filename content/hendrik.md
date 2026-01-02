@@ -106,78 +106,24 @@ Opstellen benodigde documentatie voor het behalen van ISO-9002 certificatie.
 
 ## Opleidingen
 
-### BiZZdesign &raquo; 2025 &raquo; certificaat Oktober 2025
-
-ArchiMate 3 Practitioner
-
-### BiZZdesign &raquo; 2025 &raquo; certificaat Oktober 2025
-
-ArchiMate 3 Foundation
-
-### BiZZdesign &raquo; 2025 &raquo; certificaat Juli 2025
-
-TOGAF Enterprise Architecture (Applied) Practitioner
-
-### BiZZdesign &raquo; 2025 &raquo; certificaat April 2025
-
-TOGAF Enterprise Architecture Foundation
-
-### ... &raquo; 2022 &raquo; certificaat Maart 2022
-
-SAFe 5 Architect
-
-### Scrum.org &raquo; 2019 &raquo; certificaat Maart 2019
-
-PSPO 1
-
-### ASML (IBM) &raquo; 2016
-
-Leadership Essential Program
-
-### BiZZdesign &raquo; 2016 &raquo; certificaat Juni 2016
-
-ArchiMate 2 Practitioner
-
-### BiZZdesign &raquo; 2016 &raquo; certificaat Mei 2016
-
-ArchiMate 2 Foundation
-
-### CroanConsult &raquo; 2014 &raquo; certificaat Mei 2014
-
-Time- and projectmanagement
-
-### ASML &raquo; 2014
-
-ClearCase admin
-
-### TU/e &raquo; 2009 &raquo; certificaat December 2009
-
-C++ Advanced
-
-### TU/e &raquo; 2009 &raquo; certificaat September 2009
-
-C++
-
-### TASS &raquo; 2008 &raquo; certificaat December 2008
-
-Structured Analysis & Structured Design
-
-### Atos Origin &raquo; 2006 &raquo; certificaat Oktober 2006
-
-Safer C
-
-### De Rooi Pannen &raquo; 1996
-
-Praktisch Leiding Geven
-
-### Hogeshool Midden-Brabant, Eindhoven &raquo; 1993 - 1995
-
-HEAO Bedrijfskundige Informatica
-
-### Hogeschool West-Brabant, Breda &raquo; 1992 - 1993
-
-HEAO propedeuse
-
-### Triborgh College, Tilburg &raquo; 1988 - 1992 &raquo; diploma Juni 1992
-
-MEAO Bedrijfskundige Informatica
+| Opleiding                                            | Opleider                 | Datum          | C/D |
+| ---------------------------------------------------- | ------------------------ | -------------- | :-: |
+| ArchiMate 3 Practitioner                             | BiZZdesign               | Oktober 2025   | C   |
+| ArchiMate 3 Foundation                               | BiZZdesign               | Oktober 2025   | C   |
+| TOGAF Enterprise Architecture (Applied) Practitioner | BiZZdesign               | Juli 2025      | C   |
+| TOGAF Enterprise Architecture Foundation             | BiZZdesign               | April 2025     | C   |
+| SAFe 5 Architect                                     | ...                      | Maart 2022     | C   |
+| PSPO 1                                               | Scrum.org                | Maart 2019     | C   |
+| Leadership Essential Program                         | ASML (IBM)               | 2016           | -   |
+| ArchiMate 2 Practitioner                             | BiZZdesign               | Juni 2016      | C   |
+| ArchiMate 2 Foundation                               | BiZZdesign               | Mei 2016       | C   |
+| Time- and projectmanagement                          | CroanConsult             | Mei 204        | C   |
+| ClearCase admin                                      | ASML (IBM)               | 2014           | -   |
+| C++ Advanced                                         | TU/e                     | December 2009  | C   |
+| C++                                                  | TU/e                     | September 2009 | C   |
+| Structured Analysis & Structured Design              | TASS                     | December 2008  | C   |
+| Safer C                                              | Atos                     | Oktober 2006   | C   |
+| Praktisch Leiding Geven                              | De Rooi Pannen           | 1996           | -   |
+| HEAO Bedrijfskundige Informatica (Eindhoven)         | Hogeshool Midden-Brabant | 1993 - 1995    | -   |
+| HEAO propedeuse (Breda)                              | Hogeschool West-Brabant  | 1992 - 1993    | -   |
+| MEAO Bedrijfskundige Informatica (Tilburg)           | Triborgh College         | 1988 - 1992    | D   |
