@@ -1,34 +1,77 @@
 # Hendrik
 
-__System Architect LTS & MPS DevEnv__
+    System Architect LTS & MPS DevEnv
 
 ## Werk
 
 ### ASML Holding N.V.
 
+    December 2014 - nu
+
+Diverse rollen ingevuld binnen de DevOps afdeling ter ondersteuning van de software ontwikkeling voor de TwinScan systemen, EUV lichtbron en legacy PAS systemen.
+
 #### System architect
+
+    April 2024 - nu
+
+Verantwoordelijk voor het opstelle van de technische roadmap om software ontwikkeling mogelijk te houden voor de diverse legacy systemen tot voorbij 2035.
+Dit ten behoeven van Long-Term-Support en Mature Products & Services systemen als de PAS5500 die gebruik maken van oudere tools en software.
 
 #### Build architect
 
+    April 2023 - April 2024
+
+Focus op de software build migratie naar Bazel voor zowel de TwinScan als EUV lichtbron software ontwikkeling.
+Opstellen van aanpassingen in de huidige build systemen om de migratie te stroomlijnen.
+Analyseren van problematische constructies in het software archief, en op basis daarvan uitzetten en ondersteunen van opschoon acties om blokkades in de migratie te voorkomen.
+
 #### System architect
 
+    Mei 2019 - Maart 2023
+
+Als systeem architect verantwoordelijk voor het project om de TwinScan en EUV lichtbron software ontwikkel omgeving te moderniseren en standariseren.
+Opstellen van roadmap en migratie plannen, alswel software archief opschoon acties ter voorbereiding op de diverse migraties.
+Onderzoeken van (standaard) oplossingen om te komen tot onderbouwde keuzes voor de nieuwe software ontwikkel omgeving, waarbij de keuze is gemaakt voor GitHub en Bazel als basis. 
+
 #### Build architect
+
+    December 2015 - April 2019
+
+Architect voor de diverse TwinScan en EUV lichtbron software build systemen.
+Opstellen van roadmap en verbeteringen om te migreren naar een minder divers landschap om hergebruik van code tussen de producten makkelijker te maken.
+Analyseren van performance problemen en uitwerken van voorstellen om deze op te lossen.
 
 ### Robot Nederland B.V.
+
+    December 2014 - November 2015
+
+Verbeteren van het software ontwikkel proces, automatisering en ondersteunings processen.
+Implementeren van diverse (geautomatiseerde) test en onderhouds scripting in PHP en PowerShell.
+Coordineren van freelancer voor de ontwikkeling van backend software in C#, review van code, specificeren van requirements en architectuur.
 
 ### ENTER Mbedded &raquo; ASML Holding N.V.
 
     November 2011 - November 2014
 
+Via ENTER Mbedded gedetacheerd bij ASML Holding N.V.
 Diverse rollen ingevuld binnen de DevOps afdeling ter ondersteuning van de software ontwikkeling voor de TwinScan systemen en de EUV lichtbron.
 
 #### Build architect
 
     Oktober 2014 - November 2014
 
+De diverse software build systemen geintegreerd in een GNU Make framework waarin stap voor stap gemigreerd kan worden naar het nieuwe systeem.
+Hierbij oplossingen als GNU Make, PERL, NSIS, cross-compilatie en dergelijke gecombineerd om een geintergeerd bouw proces te maken voor de gehele EUV lichtbron software.
+
 #### Solution architect
 
     November 2012 - September 2014
+
+Verantwoordelijk voor de verbetering van de software ontwikkel omgeving voor de EUV lichtbron gemaakt voor Cymer.
+Meerdere software build systemen verbeterd met behulp van een GNU Make.
+Nachtelijke builds met Jenkins geintroduceerd.
+Subversion management en SCM processen ontworpen en ondersteunende scripting geimplementeerd.
+Standardisatie van ontwikkel processen gerealiseerd voor de verschillende software componenten.
 
 #### Build engineer
 
