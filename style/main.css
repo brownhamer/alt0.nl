@@ -132,6 +132,16 @@ div#content code {
 	padding: 5px 7px;
 }
 
+div#content table {
+	border-collapse: collapse;
+	border-spacing: 3px;
+}
+
+div#content th {
+	background-color: rgb(20 80 100 / 15%);
+	text-align: left;
+}
+
 div#pagenotfound {
 	color: rgb(115 115 115);
 	font-size: 0.6rem;
