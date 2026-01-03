@@ -27,3 +27,4 @@ Diverse sites die zich bezighouden met controleren van feiten.
 - [Nieuwscheckers](https://nieuwscheckers.nl/)
 - [PolitiFact](https://www.politifact.com/)
 - [Reuters Fact Check](https://www.reuters.com/fact-check/)
+- [Snopes](https://www.snopes.com/fact-check/)
