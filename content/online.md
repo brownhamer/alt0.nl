@@ -17,6 +17,7 @@ Diverse 'handige' sites met online tools en informatie.
 - [Open With](https://www.openwith.org/)
 - [Partij voor de Dieren](https://www.partijvoordedieren.nl/)
 - [Pedal Playground](https://pedalplayground.com/)
+- [RefSeek](https://www.refseek.com/)
 - [RegExr](https://regexr.com/)
 - [SoftBits](http://softbits.nl/)
 - [stux.me](https://stux.me/)
