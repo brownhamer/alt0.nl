@@ -20,6 +20,7 @@ Diverse sites die inzicht geven in meerdere soorten informatie op basis van open
 - [Open Raadsinformatie](https://zoek.openraadsinformatie.nl/)
 - [OpenTK NL](https://berthub.eu/tkconv/)
 - [Our World in Data](https://ourworldindata.org/)
+- [Partijgedrag](https://partijgedrag.nl/)
 - [Reuters Graphics](https://www.reuters.com/graphics/)
 - [Spurious correlations](https://www.tylervigen.com/spurious-correlations)
 - [The Climate Dashboard Dashboard](https://jjk-code-otter.github.io/dashboard-dashboard/)
