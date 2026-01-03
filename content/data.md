@@ -22,4 +22,5 @@ Diverse sites die inzicht geven in meerdere soorten informatie op basis van open
 - [Thuisarts.nl](https://www.thuisarts.nl/)
 - [Verkiezingsuitslagen NL](https://www.verkiezingsuitslagen.nl/)
 - [Waarzitwatin.nl](https://waarzitwatin.nl/)
+- [WHO Dashboards](https://data.who.int/dashboards/dashboards)
 - [Worldometer](https://www.worldometers.info/)
