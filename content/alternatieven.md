@@ -68,8 +68,9 @@ Hieronder wat keuzes die ik hierin al gemaakt heb.
 
 ## Kandidaten
 
-Een aantal alternatieven die ik overweeg, of zelfs geprobeerd heb maar die voor mij niet brachten wat ik zocht op dat moment.
+Een aantal alternatieven die ik overweeg, of zelfs geprobeerd heb maar die voor mij niet brachten wat ik zocht op dat moment, maar wie weet wel in de toekomst.
 
+- [Element](https://element.io/en)
 - [elementary OS](https://elementary.io/)
 - [FairEmail](https://email.faircode.eu/)
 - [Firefox Translator](https://github.com/DavidVentura/offline-translator)
