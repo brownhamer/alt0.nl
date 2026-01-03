@@ -70,8 +70,17 @@ Hieronder wat keuzes die ik hierin al gemaakt heb.
 
 Een aantal alternatieven die ik overweeg, of zelfs geprobeerd heb maar die voor mij niet brachten wat ik zocht op dat moment.
 
+- [elementary OS](https://elementary.io/)
+- [FairEmail](https://email.faircode.eu/)
+- [Floorp](https://floorp.app/)
 - [GrapheneOS](https://grapheneos.org/)
+- [Jolla](https://commerce.jolla.com/)
+- [KeeWeb](https://keeweb.info/)
+- [LibreWolf](https://librewolf.net/)
 - [Murena](https://murena.com/)
+- [Notesnook](https://notesnook.com/)
+- [Sailfish OS](https://sailfishos.org/)
+- [Servo](https://servo.org/)
 - [Soverin](https://soverin.com/)
 - [The Good Cloud](https://thegood.cloud/individuals/)
 - [Tuta](https://tuta.com/)
