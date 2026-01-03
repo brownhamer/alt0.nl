@@ -101,6 +101,7 @@ Overzichten en lijsten van Big Tech alternatieven.
 - [Alternatives in the UK](https://alternatives-in.uk/)
 - [alternativeTo](https://alternativeto.net/)
 - [Android-based Operating Systems](https://eylenburg.github.io/android_comparison.htm)
+- [App compatibility on de-Googled devices](https://plexus.techlore.tech/)
 - [Awesome Privacy](https://awesome-privacy.xyz/)
 - [Buy European.net](https://buy-european.net/en)
 - [Buy European](https://buyeuropean.io/)
