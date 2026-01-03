@@ -81,6 +81,7 @@ Een aantal alternatieven die ik overweeg, of zelfs geprobeerd heb maar die voor 
 - [heylogin](https://www.heylogin.com/en)
 - [Jolla](https://commerce.jolla.com/)
 - [KeeWeb](https://keeweb.info/)
+- [Lapce](https://lap.dev/lapce/)
 - [LibreWolf](https://librewolf.net/)
 - [Murena](https://murena.com/)
 - [Notesnook](https://notesnook.com/)
