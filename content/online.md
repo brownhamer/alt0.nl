@@ -11,6 +11,7 @@ Diverse 'handige' sites met online tools en informatie.
 - [feedle](https://feedle.world/)
 - [Figment Stories](https://figmentstories.nl/)
 - [FindMyGuitar](https://findmyguitar.com/)
+- [Firefox Profilemaker](https://ffprofile.com/)
 - [Fossify](https://www.fossify.org/)
 - [Galgo Project](https://galgoproject.nl/)
 - [Iconmonstr](https://iconmonstr.com/)
