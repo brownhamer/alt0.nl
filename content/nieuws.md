@@ -8,7 +8,6 @@ Diverse nieuws gerelateerde sites.
 - [De Speld](https://speld.nl/)
 - [It's FOSS News](https://news.itsfoss.com/)
 - [New Scientist](https://www.newscientist.com/)
-- [Nieuwscheckers](https://nieuwscheckers.nl/)
 - [Nieuwspaal](https://nieuwspaal.nl/)
 - [NL Times](https://nltimes.nl/)
 - [Nu.nl](https://nu.nl/)
@@ -17,3 +16,10 @@ Diverse nieuws gerelateerde sites.
 - [Security.NL](https://security.nl/)
 - [Tweakers](https://tweakers.nl/)
 - [Wetenschap in Beeld](https://wibnet.nl/)
+
+## Fact Check
+
+Diverse sites die zich bezighouden met controleren van feiten.
+
+- [AP Fact Check](https://apnews.com/ap-fact-check)
+- [Nieuwscheckers](https://nieuwscheckers.nl/)
