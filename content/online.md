@@ -2,6 +2,7 @@
 
 Diverse 'handige' sites met online tools en informatie.
 
+- [Awesome Rust](https://github.com/rust-unofficial/awesome-rust)
 - [Chris Klomp](https://chrisklomp.nl/)
 - [Creative Music Lab](https://lab.creativemusiclab.com/)
 - [DistroSea](https://distrosea.com/)
