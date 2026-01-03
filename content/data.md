@@ -17,6 +17,7 @@ Diverse sites die inzicht geven in meerdere soorten informatie op basis van open
 - [Open Lobby NL](https://openlobby.nl/)
 - [OpenTK NL](https://berthub.eu/tkconv/)
 - [Our World in Data](https://ourworldindata.org/)
+- [Reuters Graphics](https://www.reuters.com/graphics/)
 - [Spurious correlations](https://www.tylervigen.com/spurious-correlations)
 - [The Climate Dashboard Dashboard](https://jjk-code-otter.github.io/dashboard-dashboard/)
 - [Thuisarts.nl](https://www.thuisarts.nl/)
