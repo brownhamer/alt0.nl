@@ -72,6 +72,7 @@ Een aantal alternatieven die ik overweeg, of zelfs geprobeerd heb maar die voor 
 
 - [elementary OS](https://elementary.io/)
 - [FairEmail](https://email.faircode.eu/)
+- [Firefox Translator](https://github.com/DavidVentura/offline-translator)
 - [Floorp](https://floorp.app/)
 - [GrapheneOS](https://grapheneos.org/)
 - [Jolla](https://commerce.jolla.com/)
