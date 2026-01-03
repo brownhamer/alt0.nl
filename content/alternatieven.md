@@ -93,6 +93,7 @@ Overzichten en lijsten van Big Tech alternatieven.
 - [Alternatieven voor Amerikaanse producten & diensten](https://gathering.tweakers.net/forum/list_messages/2285628/0)
 - [Alternatives in the UK](https://alternatives-in.uk/)
 - [alternativeTo](https://alternativeto.net/)
+- [Android-based Operating Systems](https://eylenburg.github.io/android_comparison.htm)
 - [Awesome Privacy](https://awesome-privacy.xyz/)
 - [Buy European.net](https://buy-european.net/en)
 - [Buy European](https://buyeuropean.io/)
