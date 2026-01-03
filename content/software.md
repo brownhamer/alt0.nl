@@ -10,7 +10,6 @@ Zie verder ook [ALT0PAGE_alternatieven] voor wat ik sowieso wel gebruik.
 - [F-Droid](https://f-droid.org/)
 - [Flathub](https://flathub.org/)
 - [Fossdroid](https://fossdroid.com/)
-- [Fossify](https://www.fossify.org/)
 - [Softpedia](https://linux.softpedia.com/)
 
 ## Programma's

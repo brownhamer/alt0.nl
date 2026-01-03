@@ -108,6 +108,7 @@ Overzichten en lijsten van Big Tech alternatieven.
 - [European Alternatives](https://euroalternative.co/)
 - [European Alternatives](https://european-alternatives.eu/)
 - [Exit 50](https://www.exit50.com/)
+- [Fossify](https://www.fossify.org/)
 - [Go European](https://www.goeuropean.org/)
 - [Go Hug EU](https://gohug.eu/)
 - [Made in Canada Directory](https://madeincanadadirectory.ca/)
