@@ -7,6 +7,7 @@ Zie verder ook [ALT0PAGE_alternatieven] voor wat ik sowieso wel gebruik.
 
 - [alternativeTo](https://alternativeto.net/platform/linux/)
 - [DistroWatch.com](https://distrowatch.com/)
+- [F-Droid](https://f-droid.org/)
 - [Flathub](https://flathub.org/)
 - [Fossdroid](https://fossdroid.com/)
 - [Fossify](https://www.fossify.org/)
