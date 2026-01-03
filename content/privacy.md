@@ -6,6 +6,7 @@ Het gaat daarbij niet over verbergen, maar over veiligheid van jou persoonlijke 
 
 ## Oplossingen
 
+- [15 alternatieven die beter zijn voor je privacy en welzijn](https://waag.org/nl/article/15-apps-die-beter-zijn-voor-je-privacy-en-welzijn/)
 - [Am I Unique ?](https://amiunique.org/)
 - [Awesome Privacy](https://pluja.github.io/awesome-privacy/)
 - [Awesome Privacy](https://awesome-privacy.xyz/) xyz
