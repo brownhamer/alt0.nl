@@ -22,6 +22,7 @@ Diverse 'handige' sites met online tools en informatie.
 - [RegExr](https://regexr.com/)
 - [Partij voor de Dieren](https://www.partijvoordedieren.nl/)
 - [Pedal Playground](https://pedalplayground.com/)
+- [Politici op Mastodon](https://www.politici-op-mastodon.nl/)
 - [RefSeek](https://www.refseek.com/)
 - [RegExr](https://regexr.com/)
 - [SoftBits](http://softbits.nl/)
