@@ -70,6 +70,7 @@ Hieronder wat keuzes die ik hierin al gemaakt heb.
 
 Een aantal alternatieven die ik overweeg, of zelfs geprobeerd heb maar die voor mij niet brachten wat ik zocht op dat moment.
 
+- [Murena](https://murena.com/)
 - [Soverin](https://soverin.com/)
 - [The Good Cloud](https://thegood.cloud/individuals/)
 - [Tuta](https://tuta.com/)
