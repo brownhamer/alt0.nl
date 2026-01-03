@@ -82,6 +82,7 @@ Een aantal alternatieven die ik overweeg, of zelfs geprobeerd heb maar die voor 
 - [Jolla](https://commerce.jolla.com/)
 - [KeeWeb](https://keeweb.info/)
 - [Lapce](https://lap.dev/lapce/)
+- [librephone](https://librephone.fsf.org/site/)
 - [LibreWolf](https://librewolf.net/)
 - [Murena](https://murena.com/)
 - [Notesnook](https://notesnook.com/)
