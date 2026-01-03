@@ -84,6 +84,7 @@ Een aantal alternatieven die ik overweeg, of zelfs geprobeerd heb maar die voor 
 - [Lapce](https://lap.dev/lapce/)
 - [librephone](https://librephone.fsf.org/site/)
 - [LibreWolf](https://librewolf.net/)
+- [Lunatask](https://lunatask.app/)
 - [Murena](https://murena.com/)
 - [Notesnook](https://notesnook.com/)
 - [Sailfish OS](https://sailfishos.org/)
