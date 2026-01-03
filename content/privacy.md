@@ -29,6 +29,7 @@ Het gaat daarbij niet over verbergen, maar over veiligheid van jou persoonlijke 
 - [Five Eyes, Nine Eyes, 14 Eyes](https://cyberinsider.com/5-eyes-9-eyes-14-eyes/)
 - [Hoe de EU kinderen gebruikt voor haar agenda](https://substack.com/home/post/p-170674285)
 - [How a French judge was digitally cut off by the USA](https://www.heise.de/en/news/How-a-French-judge-was-digitally-cut-off-by-the-USA-11087561.html)
+- [Insecam](http://www.insecam.org/)
 - [Meta - FB, Insta, WhatsApp - will read your DMs and AI chats, rolling out from Dec](https://www.thecanary.co/skwawkbox/2025/11/07/meta-ai-chats/)
 - [Nee, je hebt wél iets te verbergen](https://decorrespondent.nl/209/nee-je-hebt-wel-iets-te-verbergen/6428004-ab2d5fc2)
 - [Price of a bot army revealed across hundreds of online platforms](https://www.cam.ac.uk/stories/price-bot-army-global-index)
