@@ -10,6 +10,7 @@ Het gaat daarbij niet over verbergen, maar over veiligheid van jou persoonlijke 
 - [Awesome Privacy](https://pluja.github.io/awesome-privacy/)
 - [Awesome Privacy](https://awesome-privacy.xyz/) xyz
 - [BrowserLeaks.com](https://browserleaks.com/)
+- [Cover Your Tracks](https://coveryourtracks.eff.org/)
 - [Have I been pwned?](https://haveibeenpwned.com/)
 - [Just Delete Me](https://backgroundchecks.org/justdeleteme/)
 - [Password Security info](https://passwordsecurity.info/)
