@@ -95,6 +95,7 @@ Een aantal alternatieven die ik overweeg, of zelfs geprobeerd heb maar die voor 
 - [The Good Cloud](https://thegood.cloud/individuals/)
 - [Tuta](https://tuta.com/)
 - [Volla](https://volla.online/en/index.php)
+- [zeitkapsl](https://zeitkapsl.eu/en/)
 
 ## Lijsten
 
