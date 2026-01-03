@@ -11,6 +11,7 @@ Diverse nieuws gerelateerde sites.
 - [Nieuwspaal](https://nieuwspaal.nl/)
 - [NL Times](https://nltimes.nl/)
 - [Nu.nl](https://nu.nl/)
+- [Reporters Online](https://reportersonline.nl/)
 - [Scientias](https://scientias.nl/)
 - [Security.NL](https://security.nl/)
 - [Tweakers](https://tweakers.nl/)
