@@ -102,6 +102,7 @@ Een aantal alternatieven die ik overweeg, of zelfs geprobeerd heb maar die voor 
 
 Overzichten en lijsten van Big Tech alternatieven.
 
+- [15 alternatieven die beter zijn voor je privacy en welzijn](https://waag.org/nl/article/15-apps-die-beter-zijn-voor-je-privacy-en-welzijn/)
 - [Alternatieven voor Amerikaanse producten & diensten](https://gathering.tweakers.net/forum/list_messages/2285628/0)
 - [Alternatives in the UK](https://alternatives-in.uk/)
 - [alternativeTo](https://alternativeto.net/)
