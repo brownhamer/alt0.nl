@@ -23,5 +23,6 @@ Diverse sites die zich bezighouden met controleren van feiten.
 
 - [AP Fact Check](https://apnews.com/ap-fact-check)
 - [FactCheck.org](https://www.factcheck.org/)
+- [Investico](https://www.platform-investico.nl/)
 - [Nieuwscheckers](https://nieuwscheckers.nl/)
 - [Reuters Fact Check](https://www.reuters.com/fact-check/)
