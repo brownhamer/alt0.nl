@@ -24,6 +24,7 @@ Diverse sites die zich bezighouden met controleren van feiten.
 - [AP Fact Check](https://apnews.com/ap-fact-check)
 - [FactCheck.org](https://www.factcheck.org/)
 - [Investico](https://www.platform-investico.nl/)
+- [Lead Stories](https://leadstories.com/)
 - [Nieuwscheckers](https://nieuwscheckers.nl/)
 - [PolitiFact](https://www.politifact.com/)
 - [Reuters Fact Check](https://www.reuters.com/fact-check/)
