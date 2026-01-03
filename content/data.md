@@ -22,6 +22,7 @@ Diverse sites die inzicht geven in meerdere soorten informatie op basis van open
 - [Our World in Data](https://ourworldindata.org/)
 - [Partijgedrag](https://partijgedrag.nl/)
 - [Reuters Graphics](https://www.reuters.com/graphics/)
+- [RSF index](https://rsf.org/en/index)
 - [Spurious correlations](https://www.tylervigen.com/spurious-correlations)
 - [The Climate Dashboard Dashboard](https://jjk-code-otter.github.io/dashboard-dashboard/)
 - [Thuisarts.nl](https://www.thuisarts.nl/)
