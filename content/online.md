@@ -5,6 +5,7 @@ Diverse 'handige' sites met online tools en informatie.
 - [Awesome Rust](https://github.com/rust-unofficial/awesome-rust)
 - [Chris Klomp](https://chrisklomp.nl/)
 - [Creative Music Lab](https://lab.creativemusiclab.com/)
+- [David Zinn](https://zinnart.com/)
 - [DistroSea](https://distrosea.com/)
 - [Emojipedia](https://emojipedia.org/)
 - [F1 HOT or NOT](https://www.f1hotornot.com/)
