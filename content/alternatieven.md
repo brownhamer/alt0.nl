@@ -73,6 +73,7 @@ Een aantal alternatieven die ik overweeg, of zelfs geprobeerd heb maar die voor 
 - [Element](https://element.io/en)
 - [elementary OS](https://elementary.io/)
 - [FairEmail](https://email.faircode.eu/)
+- [Fairphone](https://www.fairphone.com/nl)
 - [Firefox Translator](https://github.com/DavidVentura/offline-translator)
 - [Floorp](https://floorp.app/)
 - [FlorisBoard](https://florisboard.org/)
