@@ -78,6 +78,7 @@ Een aantal alternatieven die ik overweeg, of zelfs geprobeerd heb maar die voor 
 - [FlorisBoard](https://florisboard.org/)
 - [FossWallet](https://github.com/SeineEloquenz/fosswallet)
 - [GrapheneOS](https://grapheneos.org/)
+- [heylogin](https://www.heylogin.com/en)
 - [Jolla](https://commerce.jolla.com/)
 - [KeeWeb](https://keeweb.info/)
 - [LibreWolf](https://librewolf.net/)
