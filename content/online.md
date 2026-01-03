@@ -30,6 +30,7 @@ Diverse 'handige' sites met online tools en informatie.
 - [stux.me](https://stux.me/)
 - [Tessel](https://play.tessel.at/)
 - [Ultimate Guitar](https://www.ultimate-guitar.com/)
+- [Work Chronicles](https://workchronicles.substack.com/archive)
 
 ## Muzikanten
 
