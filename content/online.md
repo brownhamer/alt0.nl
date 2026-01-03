@@ -11,6 +11,7 @@ Diverse 'handige' sites met online tools en informatie.
 - [FindMyGuitar](https://findmyguitar.com/)
 - [Fossify](https://www.fossify.org/)
 - [Galgo Project](https://galgoproject.nl/)
+- [Iconmonstr](https://iconmonstr.com/)
 - [Lago & Urdaneta](https://lagourdaneta.com/)
 - [Melroy](https://melroy.org/)
 - [Partij voor de Dieren](https://www.partijvoordedieren.nl/)
