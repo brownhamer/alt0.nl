@@ -76,6 +76,7 @@ Een aantal alternatieven die ik overweeg, of zelfs geprobeerd heb maar die voor 
 - [Firefox Translator](https://github.com/DavidVentura/offline-translator)
 - [Floorp](https://floorp.app/)
 - [FlorisBoard](https://florisboard.org/)
+- [FossWallet](https://github.com/SeineEloquenz/fosswallet)
 - [GrapheneOS](https://grapheneos.org/)
 - [Jolla](https://commerce.jolla.com/)
 - [KeeWeb](https://keeweb.info/)
