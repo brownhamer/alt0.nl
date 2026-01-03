@@ -87,6 +87,7 @@ Een aantal alternatieven die ik overweeg, of zelfs geprobeerd heb maar die voor 
 - [Lunatask](https://lunatask.app/)
 - [Murena](https://murena.com/)
 - [Notesnook](https://notesnook.com/)
+- [Pebble](https://repebble.com/)
 - [Sailfish OS](https://sailfishos.org/)
 - [Servo](https://servo.org/)
 - [Soverin](https://soverin.com/)
