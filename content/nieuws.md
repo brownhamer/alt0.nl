@@ -6,6 +6,7 @@ Diverse nieuws gerelateerde sites.
 - [DutchNews](https://www.dutchnews.nl/)
 - [De Speld](https://speld.nl/)
 - [It's FOSS News](https://news.itsfoss.com/)
+- [New Scientist](https://www.newscientist.com/)
 - [Nieuwspaal](https://nieuwspaal.nl/)
 - [NL Times](https://nltimes.nl/)
 - [Nu.nl](https://nu.nl/)
