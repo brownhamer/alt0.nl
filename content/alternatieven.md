@@ -66,6 +66,12 @@ Hieronder wat keuzes die ik hierin al gemaakt heb.
 - Wachtwoorden: ~~Lastpass~~ &raquo; [1Password](https://1password.com/)
 - Zoeken: ~~Google~~ &raquo; [DuckDuckGo](https://noai.duckduckgo.com/)
 
+## Kandidaten
+
+Een aantal alternatieven die ik overweeg, of zelfs geprobeerd heb maar die voor mij niet brachten wat ik zocht op dat moment.
+
+- [Tuta](https://tuta.com/)
+
 ## Lijsten
 
 Overzichten en lijsten van Big Tech alternatieven.
