@@ -16,6 +16,7 @@ Diverse 'handige' sites met online tools en informatie.
 - [Lago & Urdaneta](https://lagourdaneta.com/)
 - [Melroy](https://melroy.org/)
 - [Open With](https://www.openwith.org/)
+- [RegExr](https://regexr.com/)
 - [Partij voor de Dieren](https://www.partijvoordedieren.nl/)
 - [Pedal Playground](https://pedalplayground.com/)
 - [RefSeek](https://www.refseek.com/)
