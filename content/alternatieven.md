@@ -62,6 +62,7 @@ Hieronder wat keuzes die ik hierin al gemaakt heb.
 - Pasjes: ~~Google Waller~~ &raquo; [Catima](https://catima.app/)
 - Social: ~~Twitter~~ &raquo; [Mastodon](https://mastodon.nl/)
 - Todo: ~~Microsoft To Do~~ &raquo; [ZenKit To Do](https://zenkit.com/en/todo/)
+- Vertalen: ~~Google Translate~~ &raquo; [DeepL](https://www.deepl.com/en/translator)
 - Wachtwoorden: ~~Lastpass~~ &raquo; [1Password](https://1password.com/)
 - Zoeken: ~~Google~~ &raquo; [DuckDuckGo](https://noai.duckduckgo.com/)
 
