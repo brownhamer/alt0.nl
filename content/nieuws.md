@@ -25,4 +25,5 @@ Diverse sites die zich bezighouden met controleren van feiten.
 - [FactCheck.org](https://www.factcheck.org/)
 - [Investico](https://www.platform-investico.nl/)
 - [Nieuwscheckers](https://nieuwscheckers.nl/)
+- [PolitiFact](https://www.politifact.com/)
 - [Reuters Fact Check](https://www.reuters.com/fact-check/)
