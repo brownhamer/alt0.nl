@@ -12,3 +12,4 @@ Diverse nieuws gerelateerde sites.
 - [Scientias](https://scientias.nl/)
 - [Security.NL](https://security.nl/)
 - [Tweakers](https://tweakers.nl/)
+- [Wetenschap in Beeld](https://wibnet.nl/)
