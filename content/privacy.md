@@ -27,6 +27,7 @@ Het gaat daarbij niet over verbergen, maar over veiligheid van jou persoonlijke 
 ## Uitdagingen
 
 - [7 Privacy Wins You Can Get This Weekend](https://itsfoss.com/privacy-wins-linux/)
+- [Beveiligingsexpert waarschuwt voor gevaarlijke vakantiefoto](https://www.metronieuws.nl/lifestyle/reizen/2025/07/waarschuwt-voor-gevaarlijke-vakantiefoto/)
 - [Billionaires Should Not Exist](https://www.teenvogue.com/story/billionaires-should-not-exist)
 - [Botte afperspraktijken door het Amerika van Trump](https://www.nrc.nl/nieuws/2025/12/19/botte-afperspraktijken-door-het-amerika-van-trump-a4915587?gift_token=4915587~1766912635~PHWgLp0IEeKfgABQVoV_mg~EXhD6fZyipnHUt_EejN_JTEgkqPU-tS0tGgGLdBK5_k)
 - [Chat Control Belgium](https://chatcontrol.be/en)
@@ -42,3 +43,4 @@ Het gaat daarbij niet over verbergen, maar over veiligheid van jou persoonlijke 
 - [Privacyexpert: overheid dringt steeds dieper het privéleven van burgers binnen](https://www.security.nl/posting/910437/Privacyexpert%3A+overheid+dringt+steeds+dieper+het+priv%C3%A9leven+van+burgers+binnen)
 - [Seizure of Sally Mann photographs in Texas revives old debates about obscenity and freedom of expression](https://theconversation.com/seizure-of-sally-manns-photographs-in-texas-revives-old-debates-about-obscenity-and-freedom-of-expression-247321)
 - [VN-privacychef: wereld nu erger dan 1984 voorspelde](https://www.security.nl/posting/440963/VN-rapporteur%3A+wereld+nu+erger+dan+1984+voorspelde)
+- [Waarom nooit een foto van je boarding pass op social media zetten | Digiwijzer](https://digiwijzer.nl/foto-boarding-pass-social-media/)
