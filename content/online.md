@@ -48,3 +48,6 @@ Diverse 'handige' sites met online tools en informatie.
 - [Joe Satriani - Made of Tears](https://www.youtube.com/watch?v=M4lsB-B1O7U)
 - [Joe Satriani - Satch Boogie](https://www.youtube.com/watch?v=mlkbT4GDYAQ)
 - [Steve Vai - Tender Surrender](https://www.youtube.com/watch?v=Yw74sDWPH7U)
+
+## Technologie
+- [The Ridiculous Engineering Of The World's Most Important Machine](https://youtube.com/watch?v=MiUHjLxm3V0&si=CB_3drBJgANxNoJe)
