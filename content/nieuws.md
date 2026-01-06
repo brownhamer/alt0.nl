@@ -6,6 +6,7 @@ Diverse nieuws gerelateerde sites.
 - [Digitale Overheid](https://www.digitaleoverheid.nl/actueel/)
 - [DutchNews](https://www.dutchnews.nl/)
 - [De Speld](https://speld.nl/)
+- [EOS Wetenschap](https://www.eoswetenschap.eu/)
 - [It's FOSS News](https://news.itsfoss.com/)
 - [New Scientist](https://www.newscientist.com/)
 - [Nieuwspaal](https://nieuwspaal.nl/)
