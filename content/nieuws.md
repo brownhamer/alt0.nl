@@ -13,6 +13,7 @@ Diverse nieuws gerelateerde sites.
 - [NL Times](https://nltimes.nl/)
 - [Nu.nl](https://nu.nl/)
 - [RaWePo](https://rawepo.be/)
+- [Rechtspraak](https://www.rechtspraak.nl/Nieuwsoverzicht)
 - [Reporters Online](https://reportersonline.nl/)
 - [Scientias](https://scientias.nl/)
 - [Security.NL](https://security.nl/)
