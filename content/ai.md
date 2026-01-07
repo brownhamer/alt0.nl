@@ -11,6 +11,7 @@ Echter de diverse LLM gebaseerde initiatieven die vanuit Big Tech gepusht worden
 - [Disable AI (Firefox)](https://addons.mozilla.org/en-US/firefox/addon/disable-ai/)
 - [How to disable Gemini on Android, Gmail, Chrome, Photos, and Google apps. Opt out of AI tracking now!](https://tuta.com/blog/how-to-disable-gemini-on-android)
 - [Huge AI blocklist](https://raw.githubusercontent.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/main/list.txt)
+- [Open Source AI](https://opensource.org/ai)
 - [Remove Windows Ai](https://github.com/zoicware/RemoveWindowsAI)
 
 ## Uitdagingen
