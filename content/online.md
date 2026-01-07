@@ -18,6 +18,7 @@ Diverse 'handige' sites met online tools en informatie.
 - [Iconmonstr](https://iconmonstr.com/)
 - [Lago & Urdaneta](https://lagourdaneta.com/)
 - [Melroy](https://melroy.org/)
+- [Muzikantenbank.NET](https://www.muzikantenbank.net)
 - [Open With](https://www.openwith.org/)
 - [Organisations Using ActivityPub](https://jaz.co.uk/projects/orgs-using-ap/)
 - [RegExr](https://regexr.com/)
