@@ -10,6 +10,7 @@ Het gaat daarbij niet over verbergen, maar over veiligheid van jou persoonlijke 
 - [Am I Unique ?](https://amiunique.org/)
 - [Awesome Privacy](https://pluja.github.io/awesome-privacy/)
 - [Awesome Privacy](https://awesome-privacy.xyz/) xyz
+- [Betterfox](https://github.com/yokoffing/Betterfox)
 - [BrowserLeaks.com](https://browserleaks.com/)
 - [Cover Your Tracks](https://coveryourtracks.eff.org/)
 - [Exodus Privacy](https://exodus-privacy.eu.org/en/)
