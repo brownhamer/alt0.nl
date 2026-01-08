@@ -27,7 +27,7 @@ Zie verder ook [ALT0PAGE_alternatieven] voor wat ik sowieso wel gebruik.
 - [Fedistar](https://fedistar.net/)
 - [Files](https://files.community/)
 - [Fossil](https://fossil-scm.org/)
-- [GNU Make](https://www.gnu.org/software/make/)
+- [GNU make](https://www.gnu.org/software/make/)
 - [Guitar Pro](https://www.guitar-pro.com/)
 - [Josh](https://github.com/josh-project/josh)
 - [Meld](https://meldmerge.org/)
