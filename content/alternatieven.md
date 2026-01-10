@@ -70,33 +70,34 @@ Hieronder wat keuzes die ik hierin al gemaakt heb.
 
 Een aantal alternatieven die ik overweeg, of zelfs geprobeerd heb maar die voor mij niet brachten wat ik zocht op dat moment, maar wie weet wel in de toekomst.
 
-- [Element](https://element.io/en)
-- [elementary OS](https://elementary.io/)
-- [Ente Photos](https://ente.io/)
-- [FairEmail](https://email.faircode.eu/)
-- [Fairphone](https://www.fairphone.com/nl)
+- [Codeberg](https://codeberg.org/) &raquo; Over een tijdje, als alternatief voor [GitHub](https://github.com/).
+- [Element](https://element.io/en) &raquo; Vooralsnog is [Signal](https://signal.org/) goed genoeg.
+- [elementary OS](https://elementary.io/) &raquo; Qua uiterlijk erg mooi, maar toch gekozen voor [Manjaro](https://manjaro.org/).
+- [Ente Photos](https://ente.io/) &raquo; Bij voorkeur heb ik mijn foto's lokaal staan, vooralsnog gekozen voor [Nextcloud](https://nextcloud.com/) via [oCloud](https://ocloud.de/).
+- [FairEmail](https://email.faircode.eu/) &raquo; Werkt fijn, maar gekozen om [Thunderbid](https://www.thunderbird.net/) te gebruiken net als de rest in mijn gezin om ze makkelijker te kunnen ondersteunen.
+- [Fairphone](https://www.fairphone.com/nl) &raquo; Nederlands, maar nog wel [Android](https://www.android.com/) gebaseerd, ook als je de [/e/OS](https://e.foundation/e-os/) variant kiest, dus maar ingeschreven voor de volgende [Jolla](https://jolla.com/) telefoon.
 - [Firefox Translator](https://github.com/DavidVentura/offline-translator)
-- [Floorp](https://floorp.app/)
-- [FlorisBoard](https://florisboard.org/)
-- [FossWallet](https://github.com/SeineEloquenz/fosswallet)
-- [GrapheneOS](https://grapheneos.org/)
-- [heylogin](https://www.heylogin.com/en)
-- [Jolla](https://commerce.jolla.com/)
-- [KeeWeb](https://keeweb.info/)
-- [Lapce](https://lap.dev/lapce/)
-- [librephone](https://librephone.fsf.org/site/)
-- [LibreWolf](https://librewolf.net/)
-- [Lunatask](https://lunatask.app/)
-- [Murena](https://murena.com/)
-- [Notesnook](https://notesnook.com/)
-- [Pebble](https://repebble.com/)
-- [Sailfish OS](https://sailfishos.org/)
-- [Servo](https://servo.org/)
-- [Soverin](https://soverin.com/)
-- [The Good Cloud](https://thegood.cloud/individuals/)
-- [Tuta](https://tuta.com/)
-- [Volla](https://volla.online/en/index.php)
-- [zeitkapsl](https://zeitkapsl.eu/en/)
+- [Floorp](https://floorp.app/) &raquo; Voorlopig blijf ik nog trouw aan [Firefox](https://www.firefox.com/nl/).
+- [FlorisBoard](https://florisboard.org/) &raquo; Nog niet af genoeg.
+- [FossWallet](https://github.com/SeineEloquenz/fosswallet) &raquo; Was al over gegaan naar [Catima](https://catima.app/) en dat bevalt eigenlijk prima, ofschoon ik het eigenlijk nooit gebruik.
+- [GrapheneOS](https://grapheneos.org/) &raquo; Beter dan [Android](https://www.android.com/), maar toch.
+- [heylogin](https://www.heylogin.com/en) &raquo; [1Password](https://1password.com/) bevalt prima, voor het hele gezin, en Canadees is ook ok (vind ik).
+- [immich](https://immich.app/) &raquo; Bij voorkeur heb ik mijn foto's lokaal staan, vooralsnog gekozen voor [Nextcloud](https://nextcloud.com/) via [oCloud](https://ocloud.de/).
+- [Jolla](https://commerce.jolla.com/) &raquo; Ingeschreven voor de volgende Jolla phone, maar dat duurt nog even.
+- [KeeWeb](https://keeweb.info/) &raquo; [1Password](https://1password.com/) bevalt prima, voor het hele gezin, en Canadees is ook ok (vind ik).
+- [Lapce](https://lap.dev/lapce/) &raquo; Nog niet echt geprobeerd.
+- [librephone](https://librephone.fsf.org/site/) &raquo; Verre van af, net begonnen zelfs.
+- [LibreWolf](https://librewolf.net/) &raquo; Voorlopig blijf ik nog trouw aan [Firefox](https://www.firefox.com/nl/).
+- [Lunatask](https://lunatask.app/) &raquo; Mooi, breed beschikbaar, [ZenKit To Do](https://zenkit.com/en/todo/) werkt voor mij alleen al meer dan voldoende.
+- [Notesnook](https://notesnook.com/) &raquo; Prima, meer dan ik nodig had, [Nextcloud Notes](https://apps.nextcloud.com/apps/notes) is goed genoeg (en gewoon [Markdown]|(https://en.wikipedia.org/wiki/Markdown) gebaseerd).
+- [Pebble](https://repebble.com/) &raquo; Leuk, maar ervaring heeft me geleerd dat ik geen horloge draag.
+- [Sailfish OS](https://sailfishos.org/) &raquo; Als de Jolla[Jolla](https://commerce.jolla.com/) er is, ik ben benieuwd.
+- [Servo](https://servo.org/) &raquo; Actief in de gaten aan het houden als echt alternatief voor [Firefox](https://www.firefox.com/nl/).
+- [Soverin](https://soverin.com/) &raquo; Had al gekozen voor [Posteo](https://posteo.de/en).
+- [The Good Cloud](https://thegood.cloud/individuals/) &raquo; Had al gekozen voor [oCloud](https://ocloud.de/).
+- [Tuta](https://tuta.com/) &raquo; Had al gekozen voor [Posteo](https://posteo.de/en).
+- [Volla](https://volla.online/en/index.php) &raquo; Qua naam bijna hetzelfde, maar dus gekozen voor [Jolla](https://jolla.com/).
+- [zeitkapsl](https://zeitkapsl.eu/en/) &raquo; Bij voorkeur heb ik mijn foto's lokaal staan, vooralsnog gekozen voor [Nextcloud](https://nextcloud.com/) via [oCloud](https://ocloud.de/).
 
 ## Lijsten
 
