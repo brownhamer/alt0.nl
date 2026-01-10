@@ -11,8 +11,8 @@ Het gaat daarbij niet over verbergen, maar over veiligheid van jou persoonlijke 
 - [Redirector](https://einaregilsson.com/redirector/) &raquo; [No-AI DuchDuckGo](data/Redirector.json)
 - Tweaked [user.js](data/user.js) with no-ai, privacy and security tweaks
 - [uBlock Origin](https://addons.mozilla.org/nl/firefox/addon/ublock-origin)
-    - [HUGE AI Blocklist](https://raw.githubusercontent.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/main/list.txt)
-    - [Legitimate URL Shortener](https://raw.githubusercontent.com/DandelionSprout/adfilt/master/LegitimateURLShortener.txt)
+  - [HUGE AI Blocklist](https://raw.githubusercontent.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/main/list.txt)
+  - [Legitimate URL Shortener](https://raw.githubusercontent.com/DandelionSprout/adfilt/master/LegitimateURLShortener.txt)
 
 ## Oplossingen
 
