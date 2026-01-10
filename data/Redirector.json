@@ -1,0 +1,23 @@
+{
+    "createdBy": "Redirector v3.5.3",
+    "createdAt": "2025-10-17T17:41:21.561Z",
+    "redirects": [
+        {
+            "description": "ddg noi",
+            "exampleUrl": "https://duckduckgo.com/?q=%s",
+            "exampleResult": "https://noai.duckduckgo.com/?q=%s",
+            "error": null,
+            "includePattern": "https://duckduckgo.com/*",
+            "excludePattern": "",
+            "patternDesc": "",
+            "redirectUrl": "https://noai.duckduckgo.com/$1",
+            "patternType": "W",
+            "processMatches": "noProcessing",
+            "disabled": false,
+            "grouped": false,
+            "appliesTo": [
+                "main_frame"
+            ]
+        }
+    ]
+}

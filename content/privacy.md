@@ -4,6 +4,16 @@ Vrijheid en privacy zijn belangrijk om als mens jezelf te kunnen zijn.
 Daarbij is privacy erg persoonlijk, en dus belangrijk dat je hierin zelf keuzes kan maken.
 Het gaat daarbij niet over verbergen, maar over veiligheid van jou persoonlijke informatie.
 
+## Firefox
+
+- [ClearURLs](https://docs.clearurls.xyz)
+- [Consent-O-Matic](https://consentomatic.au.dk/)
+- [Redirector](https://einaregilsson.com/redirector/) &raquo; [No-AI DuchDuckGo](data/Redirector.json)
+- [uBlock Origin](https://addons.mozilla.org/nl/firefox/addon/ublock-origin)
+    - [HUGE AI Blocklist](https://raw.githubusercontent.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/main/list.txt)
+    - [Legitimate URL Shortener](https://raw.githubusercontent.com/DandelionSprout/adfilt/master/LegitimateURLShortener.txt)
+- [user.js](data/user.js) with no-ai, privacy and security tweaks
+
 ## Oplossingen
 
 - [15 alternatieven die beter zijn voor je privacy en welzijn](https://waag.org/nl/article/15-apps-die-beter-zijn-voor-je-privacy-en-welzijn/)
