@@ -76,7 +76,7 @@ Een aantal alternatieven die ik overweeg, of zelfs geprobeerd heb maar die voor 
 - [Ente Photos](https://ente.io/) &raquo; Bij voorkeur heb ik mijn foto's lokaal staan, vooralsnog gekozen voor [Nextcloud](https://nextcloud.com/) via [oCloud](https://ocloud.de/).
 - [FairEmail](https://email.faircode.eu/) &raquo; Werkt fijn, maar gekozen om [Thunderbid](https://www.thunderbird.net/) te gebruiken net als de rest in mijn gezin om ze makkelijker te kunnen ondersteunen.
 - [Fairphone](https://www.fairphone.com/nl) &raquo; Nederlands, maar nog wel [Android](https://www.android.com/) gebaseerd, ook als je de [/e/OS](https://e.foundation/e-os/) variant kiest, dus maar ingeschreven voor de volgende [Jolla](https://jolla.com/) telefoon.
-- [Firefox Translator](https://github.com/DavidVentura/offline-translator)
+- [Firefox Translator](https://github.com/DavidVentura/offline-translator) &raquo; Nog niet af genoeg.
 - [Floorp](https://floorp.app/) &raquo; Voorlopig blijf ik nog trouw aan [Firefox](https://www.firefox.com/nl/).
 - [FlorisBoard](https://florisboard.org/) &raquo; Nog niet af genoeg.
 - [FossWallet](https://github.com/SeineEloquenz/fosswallet) &raquo; Was al over gegaan naar [Catima](https://catima.app/) en dat bevalt eigenlijk prima, ofschoon ik het eigenlijk nooit gebruik.
