@@ -27,6 +27,31 @@ Daarbij zijn sommige stukken software die ik gebruik(te) op Windows ook beschikb
 - VPN &raquo; [Mullvad](https://mullvad.net) &raquo; [beschikbaar](https://mullvad.net/en/help/install-mullvad-app-linux)
 - Wachtwoorden &raquo; [1Password](https://1password.com) &raquo; [beschikbaar](https://1password.com/downloads/linux)
 
+### Handig
+
+Naast bovengenoemde applicaties zijn er diverse andere handige programma's die ik gebruik.
+
+- [Apostrophe](https://apps.gnome.org/nl/Apostrophe/) &raquo; Linux &raquo; Bewerken van Markdown met preview.
+- [Calculator](https://github.com/FossifyOrg/Calculator) by Fossify &raquo; Android &raquo; Als hoofdrekenen te veel gevraagd is.
+- [Clock](https://github.com/FossifyOrg/Clock) by Fossify &raquo; Android &raquo; Mijn wekker.
+- [Compass](https://github.com/Kr0oked/Compass) &raquo; Android &raquo; De naam zegt het al, simpelweg een kompas.
+- [Contacts' Brithdays](https://play.google.com/store/apps/details?id=org.xjiop.contactsbirthdays) &raquo; Android &raquo; Noooit meer een verjaardag vergeten.
+- [Device Info](https://www.deviceinfo.app/) &raquo; Android &raquo; Veel informatie overzichtelijk gepresenteerd.
+- [Easy Voice Recorder](https://www.digipom.com/) &raquo; Android &raquo; Als ik vlug even een deuntje op wil nemen.
+- [Firefox Focus](https://www.firefox.com/nl/browsers/mobile/focus/) &raquo; Android &raquo; Simpele browser zonder tracking.
+- [Launcher](https://github.com/FossifyOrg/Launcher) by Fossify &raquo; Android (tablet) &raquo; Omdat Lawnchair (nog) niet op mijn Samsung tablet werkt.
+- [Lawnchair](https://lawnchair.app/) &raquo; Android (telefoon) &raquo; Prettige, simpele launcher.
+- [MailViewer](https://github.com/alescdb/mailviewer) &raquo; Linux &raquo; Omdat ik de meeste mail als losse ".eml" bestanden bewaar.
+- [Messages](https://github.com/FossifyOrg/Messages) by Fossify &raquo; Android &raquo; Simpele SMS applicatie.
+- [Moshidon](https://lucasggamerm.github.io/moshidon/) &raquo; Android &raquo; Mooi vormgegeven, prettige [Mastodon](https://joinmastodon.org/nl-NL) client.
+- [Music-Player](https://github.com/FossifyOrg/Music-Player) by Fossify &raquo; Android &raquo; Lokale muziek afspelen, meestal opnames voor nieuwe nummers van de band.
+- [Phone](https://github.com/FossifyOrg/Phone) by Fossify &raquo; Android &raquo; Gewoon bellen, zonder de nummers door te geven aan Google.
+- [Resources](https://apps.gnome.org/nl/Resources/) &raquo; Linux &raquo; Mooi vormgegeven systeem bron monitor.
+- [Secure PDF Viewer](https://github.com/GrapheneOS/PdfViewer) &raquo; Android &raquo; Simpele PDF viewer.
+- [Shotwell](https://shotwell-project.org/) &raquo; Linux &raquo; Foto's beheren, voor zover ik dat doe.
+- [Tack](https://patrickzedler.com/tack/) &raquo; Android &raquo; Omdat ik niet heel goed ben in maat houden.
+- [Yr](https://www.yr.no/nb) &raquo; Android &raquo; Het weer.
+
 ### Overstappen
 
 Voor het opnemen van muziek thuis gebruik(te) ik op Windows [Cubase](https://www.steinberg.net/cubase/), wat helaas niet beschikbaar is voor Linux.
