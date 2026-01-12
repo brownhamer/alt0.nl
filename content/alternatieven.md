@@ -71,6 +71,8 @@ Als multi-effect pedaal gebruik ik de [Neural DSP](https://neuraldsp.com/) [Quad
 Alleen, helaas is [Cortex Control](https://neuraldsp.com/cortex-control) niet beschikbaar op Linux, ondanks dat meerdere mensen [hierom vragen](https://unity.neuraldsp.com/t/linux-drivers-and-cortex-control-support/15149).
 Het is te installeren via iets als [Bottles](https://usebottles.com/), maar in Linux wordt het multi-effect pedaal niet als USB device gezien.
 
+Ondertussen maar [NodeAudio](https://node97.com/) in de gaten houden als mogelijke vervanging van de Quad Cortex.
+
 ## Overgestapt
 
 Ik ben zoveel mogelijk over aan het stappen op niet Big Tech, meer non-US en Open Source gebaseerde oplossingen.
