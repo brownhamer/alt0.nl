@@ -53,6 +53,7 @@ Echter de diverse LLM gebaseerde initiatieven die vanuit Big Tech gepusht worden
 - [OpenAI admits AI hallucinations are mathematically inevitable, not just engineering flaws](https://www.computerworld.com/article/4059383/openai-admits-ai-hallucinations-are-mathematically-inevitable-not-just-engineering-flaws.html)
 - [Personas in System Prompts Do Not Improve Performances of Large Language Models](https://arxiv.org/html/2311.10054v3)
 - [Privacyexperts bezorgd over delen van medische gegevens met ChatGPT](https://www.security.nl/posting/920272/Privacyexperts+bezorgd+over+delen+van+medische+gegevens+met+ChatGPT)
+- [Rector universiteit Gent gebruikte door AI gegenereerd nep-citaat van Einstein](https://nos.nl/artikel/2597395-rector-universiteit-gent-gebruikte-door-ai-gegenereerd-nep-citaat-van-einstein)
 - [Scottish data centres powering AI already using enough water to fill 27 million bottles a year](https://www.bbc.com/news/articles/c77zxx43x4vo)
 - [Study finds AI tools made open source software developers 19 percent slower](https://arstechnica.com/ai/2025/07/study-finds-ai-tools-made-open-source-software-developers-19-percent-slower/)
 - [The glaring security risks with AI browser agents](https://techcrunch.com/2025/10/25/the-glaring-security-risks-with-ai-browser-agents/)
