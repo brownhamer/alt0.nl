@@ -50,6 +50,7 @@ Naast bovengenoemde applicaties zijn er diverse andere handige programma's die i
 - [Secure PDF Viewer](https://github.com/GrapheneOS/PdfViewer) &raquo; Android &raquo; Simpele PDF viewer.
 - [Shotwell](https://shotwell-project.org/) &raquo; Linux &raquo; Foto's beheren, voor zover ik dat doe.
 - [Tack](https://patrickzedler.com/tack/) &raquo; Android &raquo; Omdat ik niet heel goed ben in maat houden.
+- [Tessel](https://play.tessel.at/) &raquo; Android &raquo; Het enige computerspelletje dat ik wel eens speel.
 - [Yr](https://www.yr.no/nb) &raquo; Android &raquo; Het weer.
 
 ### Overstappen
