@@ -36,5 +36,5 @@ Diverse sites die zich bezighouden met controleren van feiten.
 ## Satire
 
 - [De Speld](https://speld.nl/)
-- [NewsThump]https://newsthump.com/
+- [NewsThump](https://newsthump.com/)
 - [Nieuwspaal](https://nieuwspaal.nl/)
