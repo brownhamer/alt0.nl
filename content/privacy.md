@@ -41,6 +41,7 @@ Het gaat daarbij niet over verbergen, maar over veiligheid van jou persoonlijke 
 - [Beveiligingsexpert waarschuwt voor gevaarlijke vakantiefoto](https://www.metronieuws.nl/lifestyle/reizen/2025/07/waarschuwt-voor-gevaarlijke-vakantiefoto/)
 - [Billionaires Should Not Exist](https://www.teenvogue.com/story/billionaires-should-not-exist)
 - [Botte afperspraktijken door het Amerika van Trump](https://www.nrc.nl/nieuws/2025/12/19/botte-afperspraktijken-door-het-amerika-van-trump-a4915587?gift_token=4915587~1766912635~PHWgLp0IEeKfgABQVoV_mg~EXhD6fZyipnHUt_EejN_JTEgkqPU-tS0tGgGLdBK5_k)
+- [Break all the rules](https://workchronicles.substack.com/p/comic-break-all-the-rules-38e) zoals Big Tech over wetgeving denkt.
 - [Chat Control Belgium](https://chatcontrol.be/en)
 - [De Amerikaanse overheid gebruikt FISA 702 en EO 12333 om andere overheden af te luisteren.](https://mastodon.nl/@bert_hubert/115646029814078518)
 - [Executive Paywatch](https://aflcio.org/paywatch)
