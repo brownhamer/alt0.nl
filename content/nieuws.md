@@ -5,11 +5,9 @@ Diverse nieuws gerelateerde sites.
 - [Associated Press](https://apnews.com/)
 - [Digitale Overheid](https://www.digitaleoverheid.nl/actueel/)
 - [DutchNews](https://www.dutchnews.nl/)
-- [De Speld](https://speld.nl/)
 - [EOS Wetenschap](https://www.eoswetenschap.eu/)
 - [It's FOSS News](https://news.itsfoss.com/)
 - [New Scientist](https://www.newscientist.com/)
-- [Nieuwspaal](https://nieuwspaal.nl/)
 - [NL Times](https://nltimes.nl/)
 - [Nu.nl](https://nu.nl/)
 - [RaWePo](https://rawepo.be/)
@@ -34,3 +32,9 @@ Diverse sites die zich bezighouden met controleren van feiten.
 - [Reuters Fact Check](https://www.reuters.com/fact-check/)
 - [Science feedback](https://science.feedback.org)
 - [Snopes](https://www.snopes.com/fact-check/)
+
+## Satire
+
+- [De Speld](https://speld.nl/)
+- [NewsThump]https://newsthump.com/
+- [Nieuwspaal](https://nieuwspaal.nl/)
