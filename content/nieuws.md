@@ -16,6 +16,7 @@ Diverse nieuws gerelateerde sites.
 - [Scientias](https://scientias.nl/)
 - [Security.NL](https://security.nl/)
 - [Tweakers](https://tweakers.nl/)
+- [VRT NWS](https://www.vrt.be/vrtnws/nl/)
 - [Wetenschap in Beeld](https://wibnet.nl/)
 
 ## Fact Check
@@ -28,6 +29,7 @@ Diverse sites die zich bezighouden met controleren van feiten.
 - [Knack Factcheck](https://www.knack.be/factcheck/)
 - [Lead Stories](https://leadstories.com/)
 - [Nieuwscheckers](https://nieuwscheckers.nl/)
+- [nws check](https://www.vrt.be/vrtnws/nl/rubrieken/nws-check/)
 - [PolitiFact](https://www.politifact.com/)
 - [Reuters Fact Check](https://www.reuters.com/fact-check/)
 - [Science feedback](https://science.feedback.org)
