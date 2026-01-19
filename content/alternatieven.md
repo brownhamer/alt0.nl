@@ -66,6 +66,8 @@ Gelukkig zijn er alternatieven beschikbaar, waarvan er 3 zijn die het DAW formaa
 
 Sinds de overstap naar IMAP bewaar ik de meeste mail als losse ".eml" bestanden, om het archief op de server wat schoner te houden. Ik moet alleen nog een script schrijven dat nieuwe ".eml" bestanden hernoemt naar "yyyy-mm-dd hh:mm subject ..." formaat, met als datum tijd het moment van verzende/ontvangen van de email.
 
+Daarnaast wil ik (ingescande) documenten fatsoenlijk gaan beheren. Daarvoor wil ik iig kijken naar [Paperless-ngx](https://docs.paperless-ngx.com/) en [Papra](https://papra.app/en/).
+
 ### Uitdagingen
 
 Als multi-effect pedaal gebruik ik de [Neural DSP](https://neuraldsp.com/) [Quad Cortex](https://neuraldsp.com/quad-cortex), waarover ik toch wel prima tevreden ben.
