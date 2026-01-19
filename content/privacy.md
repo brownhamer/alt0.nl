@@ -26,6 +26,7 @@ Het gaat daarbij niet over verbergen, maar over veiligheid van jou persoonlijke 
 - [Exodus Privacy](https://exodus-privacy.eu.org/en/)
 - [Have I been pwned?](https://haveibeenpwned.com/)
 - [Just Delete Me](https://backgroundchecks.org/justdeleteme/)
+- [Just the Browser](https://justthebrowser.com/)
 - [NOYB](https://noyb.eu/nl)
 - [Password Security info](https://passwordsecurity.info/)
 - [Privacy Guides](https://www.privacyguides.org/)
