@@ -44,6 +44,8 @@ Het gaat daarbij niet over verbergen, maar over veiligheid van jou persoonlijke 
 - [Botte afperspraktijken door het Amerika van Trump](https://www.nrc.nl/nieuws/2025/12/19/botte-afperspraktijken-door-het-amerika-van-trump-a4915587?gift_token=4915587~1766912635~PHWgLp0IEeKfgABQVoV_mg~EXhD6fZyipnHUt_EejN_JTEgkqPU-tS0tGgGLdBK5_k)
 - [Break all the rules](https://workchronicles.substack.com/p/comic-break-all-the-rules-38e) zoals Big Tech over wetgeving denkt.
 - [Chat Control Belgium](https://chatcontrol.be/en)
+- [China and the European Union: The End of Strategic Ambiguity](https://lansinginstitute.org/2025/07/24/china-and-the-european-union-the-end-of-strategic-ambiguity/)
+- [Chinese groep plaatste in mei blijvende backdoors op Citrix NetScaler-systemen](https://tweakers.net/nieuws/238610/chinese-groep-plaatste-in-mei-blijvende-backdoors-op-citrix-netscaler-systemen.html)
 - [De Amerikaanse overheid gebruikt FISA 702 en EO 12333 om andere overheden af te luisteren.](https://mastodon.nl/@bert_hubert/115646029814078518)
 - [Executive Paywatch](https://aflcio.org/paywatch)
 - [Five Eyes, Nine Eyes, 14 Eyes](https://cyberinsider.com/5-eyes-9-eyes-14-eyes/)
@@ -55,6 +57,7 @@ Het gaat daarbij niet over verbergen, maar over veiligheid van jou persoonlijke 
 - [Price of a bot army revealed across hundreds of online platforms](https://www.cam.ac.uk/stories/price-bot-army-global-index)
 - [Privacy preserving age verification” is bullshit](https://pluralistic.net/2025/08/14/bellovin/#wont-someone-think-of-the-cryptographers)
 - [Privacyexpert: overheid dringt steeds dieper het privéleven van burgers binnen](https://www.security.nl/posting/910437/Privacyexpert%3A+overheid+dringt+steeds+dieper+het+priv%C3%A9leven+van+burgers+binnen)
+- [Rogue communication devices found in Chinese solar power inverters](https://www.reuters.com/sustainability/climate-energy/ghost-machine-rogue-communication-devices-found-chinese-inverters-2025-05-14/)
 - [Seizure of Sally Mann photographs in Texas revives old debates about obscenity and freedom of expression](https://theconversation.com/seizure-of-sally-manns-photographs-in-texas-revives-old-debates-about-obscenity-and-freedom-of-expression-247321)
 - [VN-privacychef: wereld nu erger dan 1984 voorspelde](https://www.security.nl/posting/440963/VN-rapporteur%3A+wereld+nu+erger+dan+1984+voorspelde)
 - [Waarom nooit een foto van je boarding pass op social media zetten | Digiwijzer](https://digiwijzer.nl/foto-boarding-pass-social-media/)
