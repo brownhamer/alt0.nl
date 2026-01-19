@@ -17,6 +17,7 @@ Zie verder ook [ALT0PAGE_alternatieven] voor wat ik sowieso wel gebruik.
 - [7-Zip](https://7-zip.org/)
 - [Audile](https://github.com/aleksey-saenko/MusicRecognizer)
 - [Bazel](https://bazel.build/)
+- [Blur my Shell](https://extensions.gnome.org/extension/3193/blur-my-shell/)
 - [BuildBuddy](https://www.buildbuddy.io/)
 - [Bvckup 2](https://bvckup2.com/)
 - [clang](https://clang.llvm.org/)
