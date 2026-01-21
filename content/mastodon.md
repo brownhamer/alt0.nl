@@ -1,0 +1,3 @@
+# Mastodon
+
+Gedistribueerde sociale media.

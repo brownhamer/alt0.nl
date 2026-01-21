@@ -10,6 +10,7 @@ $alt0pages = [
     'data' => "Data",
     'alternatieven' => "Alternatieven",
     'software' => "Software",
+    'mastodon' => "Mastodon",
     'meshcore' => "MeshCore",
     'privacy' => "Privacy",
     'ai' => "AI",

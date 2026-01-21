@@ -31,6 +31,7 @@ startHtmlPage($PATH_TO_ROOT, $alt0links['alt0']['text'], $tagpage);
         Technologie<br />
         &middot; <?php echo pageLink('alternatieven'); ?><br />
         &middot; <?php echo pageLink('software'); ?><br />
+        &middot; <?php echo pageLink('mastodon'); ?><br />
         &middot; <?php echo pageLink('meshcore'); ?><br />
         <hr />
         Over<br />
