@@ -104,6 +104,7 @@ Hieronder wat keuzes die ik hierin al gemaakt heb.
 
 Een aantal alternatieven die ik overweeg, of zelfs geprobeerd heb maar die voor mij niet brachten wat ik zocht op dat moment, maar wie weet wel in de toekomst.
 
+- [Bandcamp](https://bandcamp.com/) &raquo; Misshien als alternatief voor [Spotify](https://open.spotify.com/), ik ben niet van de AI muziek en daar lijkt Spotify toch wel van te zijn de laatste tijd.
 - [Codeberg](https://codeberg.org/) &raquo; Over een tijdje, als alternatief voor [GitHub](https://github.com/).
 - [Element](https://element.io/en) &raquo; Vooralsnog is [Signal](https://signal.org/) goed genoeg.
 - [elementary OS](https://elementary.io/) &raquo; Qua uiterlijk erg mooi, maar toch gekozen voor [Manjaro](https://manjaro.org/).
