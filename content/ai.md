@@ -40,7 +40,7 @@ Echter de diverse LLM gebaseerde initiatieven die vanuit Big Tech gepusht worden
 - [ChatGPT is fuelling psychosis, doctors warn](https://www.independent.co.uk/tech/chatgpt-psychosis-nhs-doctors-ai-b2797174.html)
 - [ChatGPT's Atlas: The Browser That's Anti-Web](https://www.anildash.com/2025/10/22/atlas-anti-web-browser/)
 - [Cop Transforms Into Frog, According To AI-Generated Police Report](https://www.forbes.com/sites/larsdaniel/2026/01/04/cop-transforms-into-frog-according-to-ai-generated-police-report/)
-- [Curl stopt met bugbountyprogramma door 'AI-slop'](https://tweakers.net/nieuws/243634/curl-stopt-met-bugbountyprogramma-door-ai-slop.html)
+- [CURL stopt met bugbountyprogramma door 'AI-slop'](https://tweakers.net/nieuws/243634/curl-stopt-met-bugbountyprogramma-door-ai-slop.html)
 - [Datalek: gemeente Eindhoven deelt persoonsgegevens met openbare AI-sites](https://www.omroepbrabant.nl/nieuws/6001041/datalek-gemeente-eindhoven-deelt-persoonsgegevens-met-openbare-ai-websites)
 - [De nietsontziende race naar kunstmatige intelligentie](https://www.youtube.com/watch?v=ucl6yBFKnBQ)
 - [Een derde van de antwoorden van AI-chatbots kun je niet vertrouwen](https://archive.ph/sxLgV)
