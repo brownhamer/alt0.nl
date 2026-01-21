@@ -4,17 +4,17 @@ $HOME = onLocalhost() ? 'http://localhost:8000' : 'https://alt0.nl';
 
 #-------------------------------------------------------------------------------
 $alt0pages = [
-    'hendrik' => "Hendrik",
-    'nieuws' => "Nieuws",
-    'online' => "Online",
-    'data' => "Data",
+    'ai' => "AI",
     'alternatieven' => "Alternatieven",
-    'software' => "Software",
+    'data' => "Data",
+    'hendrik' => "Hendrik",
     'mastodon' => "Mastodon",
     'meshcore' => "MeshCore",
-    'privacy' => "Privacy",
-    'ai' => "AI",
     'meta' => "Meta",
+    'nieuws' => "Nieuws",
+    'online' => "Online",
+    'privacy' => "Privacy",
+    'software' => "Software",
     'tesla' => "Tesla",
 ];
 
