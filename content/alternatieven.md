@@ -44,8 +44,8 @@ Naast bovengenoemde applicaties zijn er diverse andere handige programma's die i
 - [Lawnchair](https://lawnchair.app/) &raquo; Android (telefoon) &raquo; Prettige, simpele launcher.
 - [MailViewer](https://github.com/alescdb/mailviewer) &raquo; Linux &raquo; Omdat ik de meeste mail als losse ".eml" bestanden bewaar.
 - [Messages](https://github.com/FossifyOrg/Messages) by Fossify &raquo; Android &raquo; Simpele SMS applicatie.
-- [Odyssey Music Player](https://play.google.com/store/apps/details?id=org.gateshipone.odyssey) &raquo; Android &raquo; Lokale muziek afspelen, meestal opnames voor nieuwe nummers van de band.
 - [Moshidon](https://lucasggamerm.github.io/moshidon/) &raquo; Android &raquo; Mooi vormgegeven, prettige [Mastodon](https://joinmastodon.org/nl-NL) client.
+- [Music Player](https://github.com/FossifyOrg/Music-Player) by Fossify &raquo; Android &raquo; Lokale muziek afspelen, meestal opnames voor nieuwe nummers van de band.
 - [Phone](https://github.com/FossifyOrg/Phone) by Fossify &raquo; Android &raquo; Gewoon bellen, zonder de nummers door te geven aan Google.
 - [Resources](https://apps.gnome.org/nl/Resources/) &raquo; Linux &raquo; Mooi vormgegeven systeem bron monitor.
 - [Secure PDF Viewer](https://github.com/GrapheneOS/PdfViewer) &raquo; Android &raquo; Simpele PDF viewer.
