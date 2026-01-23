@@ -13,6 +13,7 @@ Diverse nieuws gerelateerde sites.
 - [RaWePo](https://rawepo.be/)
 - [Rechtspraak](https://www.rechtspraak.nl/Nieuwsoverzicht)
 - [Reporters Online](https://reportersonline.nl/)
+- [Rijksoverheid.nl](https://www.rijksoverheid.nl/actueel/nieuws)
 - [Scientias](https://scientias.nl/)
 - [Security.NL](https://security.nl/)
 - [Tweakers](https://tweakers.nl/)
