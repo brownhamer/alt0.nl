@@ -1,6 +1,7 @@
 # Alternatieven
 
 Minder Big Tech, meer EU, meer open, meer privacy, meer in-control.
+Maar ja, als ik dan over ben blijft als de vraag [zijn we al autonoom?](https://zijnwealautonoom.nl/)
 
 ## Linux
 
