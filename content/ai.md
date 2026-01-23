@@ -54,6 +54,7 @@ Echter de diverse LLM gebaseerde initiatieven die vanuit Big Tech gepusht worden
 - [Kunstmatige intelligentie is niet kunstmatig. En al helemaal niet intelligent](https://decorrespondent.nl/14393/kunstmatige-intelligentie-is-niet-kunstmatig-en-al-helemaal-niet-intelligent/d7f55cb1-49fc-0a49-24f9-66533dc63b2c)
 - [LLMs Data-Control Path Insecurity](https://www.schneier.com/essays/archives/2024/05/llms-data-control-path-insecurity.html)
 - [Major AI conference flooded with peer reviews written fully by AI](https://www.nature.com/articles/d41586-025-03506-6)
+- [Majority of CEOs report zero payoff from AI splurge](https://www.theregister.com/2026/01/20/pwc_ai_ceo_survey/)
 - [Met AI kan de macht bij een kleine groep terechtkomen](https://www.eoswetenschap.eu/technologie/met-ai-kan-de-macht-bij-een-kleine-groep-terechtkomen)
 - [No AI Slops! GNOME Now Forbids Vibe Coded Extensions](https://itsfoss.com/news/no-ai-extension-gnome/)
 - [OpenAI admits AI hallucinations are mathematically inevitable, not just engineering flaws](https://www.computerworld.com/article/4059383/openai-admits-ai-hallucinations-are-mathematically-inevitable-not-just-engineering-flaws.html)
