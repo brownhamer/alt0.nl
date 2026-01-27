@@ -47,6 +47,7 @@ Echter de diverse LLM gebaseerde initiatieven die vanuit Big Tech gepusht worden
 - [Employees regularly paste company secrets into ChatGPT](https://www.theregister.com/2025/10/07/gen_ai_shadow_it_secrets/)
 - [Felienne](https://www.felienne.nl/) schrijft regelmatig over AI
 - [Generalization bias in large language model summarization of scientific research](https://royalsocietypublishing.org/rsos/article/12/4/241776/235656/Generalization-bias-in-large-language-model)
+- [Google AI Overviews cite YouTube more than any medical site for health queries, study suggests](https://www.theguardian.com/technology/2026/jan/24/google-ai-overviews-youtube-medical-citations-study)
 - [Grok is spreading inaccurate info again, this time about the Bondi Beach shooting](https://www.engadget.com/ai/grok-is-spreading-inaccurate-info-again-this-time-about-the-bondi-beach-shooting-203946515.html?src=rss)
 - [Hoeveel tijd verliezen we door AI te gebruiken? De ‘prutsfactor’ geeft het weer](https://www.eoswetenschap.eu/gezondheid/hoeveel-tijd-verliezen-we-door-ai-te-gebruiken-de-prutsfactor-geeft-het-weer)
 - [IBM CEO says there is 'no way' spending trillions on AI data centers will pay off at today's infrastructure costs](https://www.businessinsider.com/ibm-ceo-big-tech-ai-capex-data-center-spending-2025-12)
