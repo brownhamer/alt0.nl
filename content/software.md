@@ -26,6 +26,7 @@ Zie verder ook [ALT0PAGE_alternatieven] voor wat ik sowieso wel gebruik.
 - [Cryptomater](https://cryptomator.org/)
 - [ExifCleaner](https://exifcleaner.com/)
 - [Fedistar](https://fedistar.net/)
+- [Ferrite](https://github.com/OlaProeis/Ferrite)
 - [Files](https://files.community/)
 - [Fossil](https://fossil-scm.org/)
 - [GNU make](https://www.gnu.org/software/make/)
