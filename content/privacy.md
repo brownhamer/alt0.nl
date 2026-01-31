@@ -47,6 +47,7 @@ Het gaat daarbij niet over verbergen, maar over veiligheid van jou persoonlijke 
 - [China and the European Union: The End of Strategic Ambiguity](https://lansinginstitute.org/2025/07/24/china-and-the-european-union-the-end-of-strategic-ambiguity/)
 - [Chinese groep plaatste in mei blijvende backdoors op Citrix NetScaler-systemen](https://tweakers.net/nieuws/238610/chinese-groep-plaatste-in-mei-blijvende-backdoors-op-citrix-netscaler-systemen.html)
 - [De Amerikaanse overheid gebruikt FISA 702 en EO 12333 om andere overheden af te luisteren.](https://mastodon.nl/@bert_hubert/115646029814078518)
+- [Euro firms must ditch Uncle Sam's clouds and go EU-native](https://www.theregister.com/2026/01/30/euro_firms_must_ditch_us/)
 - [Executive Paywatch](https://aflcio.org/paywatch)
 - [Five Eyes, Nine Eyes, 14 Eyes](https://cyberinsider.com/5-eyes-9-eyes-14-eyes/)
 - [Gmail, Microsoft, Meta, LinkedIn: They already scan your messages - voluntarily!](https://tuta.com/blog/voluntary-scanning-google-microsoft#the-good-and-the-bad)
