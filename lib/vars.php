@@ -59,6 +59,10 @@ $alt0links = [
         'url'  => 'https://nieklin.nl/',
         'text' => 'Nieklin.nl',
     ],
+    'nolto' => [
+        'url'  => 'https://nolto.social/profile/hendrik',
+        'text' => 'Nolto',
+    ],
     'mail' => [
         'url'  => 'mailto:hendrik@alt0.nl',
         'text' => 'Mail',
