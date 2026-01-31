@@ -45,3 +45,4 @@ Zie verder ook [ALT0PAGE_alternatieven] voor wat ik sowieso wel gebruik.
 - [Unchecky](https://unchecky.com/)
 - [Why is this running?](https://github.com/pranshuparmar/witr)
 - [WinSCP](https://winscp.net/)
+- [Zettlr](https://zettlr.com/)
