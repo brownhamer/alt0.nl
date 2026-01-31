@@ -42,4 +42,5 @@ Zie verder ook [ALT0PAGE_alternatieven] voor wat ik sowieso wel gebruik.
 - [ToS;DR](https://tosdr.org/en)
 - [uBlock Origin](https://addons.mozilla.org/nl/firefox/addon/ublock-origin)
 - [Unchecky](https://unchecky.com/)
+- [Why is this running?](https://github.com/pranshuparmar/witr)
 - [WinSCP](https://winscp.net/)
