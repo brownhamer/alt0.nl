@@ -127,6 +127,7 @@ Een aantal alternatieven die ik overweeg, of zelfs geprobeerd heb maar die voor 
 - [Lunatask](https://lunatask.app/) &raquo; Mooi, breed beschikbaar, [ZenKit To Do](https://zenkit.com/en/todo/) werkt voor mij alleen al meer dan voldoende.
 - [Notesnook](https://notesnook.com/) &raquo; Prima, meer dan ik nodig had, [Nextcloud Notes](https://apps.nextcloud.com/apps/notes) is goed genoeg (en gewoon [Markdown](https://en.wikipedia.org/wiki/Markdown) gebaseerd).
 - [Pebble](https://repebble.com/) &raquo; Leuk, maar ervaring heeft me geleerd dat ik geen horloge draag.
+- [RelaGit](https://rela.dev/) &raquo; Misschien voor als ik van GitHub af ben.
 - [Sailfish OS](https://sailfishos.org/) &raquo; Als de [Jolla](https://commerce.jolla.com/) er is, ik ben benieuwd.
 - [Servo](https://servo.org/) &raquo; Actief in de gaten aan het houden als echt alternatief voor [Firefox](https://www.firefox.com/nl/).
 - [Soverin](https://soverin.com/) &raquo; Had al gekozen voor [Posteo](https://posteo.de/en).
