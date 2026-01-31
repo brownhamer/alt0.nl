@@ -125,6 +125,7 @@ Een aantal alternatieven die ik overweeg, of zelfs geprobeerd heb maar die voor 
 - [librephone](https://librephone.fsf.org/site/) &raquo; Verre van af, net begonnen zelfs.
 - [LibreWolf](https://librewolf.net/) &raquo; Voorlopig blijf ik nog trouw aan [Firefox](https://www.firefox.com/nl/).
 - [Lunatask](https://lunatask.app/) &raquo; Mooi, breed beschikbaar, [ZenKit To Do](https://zenkit.com/en/todo/) werkt voor mij alleen al meer dan voldoende.
+- [mosa.cloud](https://mosa.cloud/) &raquo; Nog in beta en waarschijnlijk meer dan ik nodig heb.
 - [Notesnook](https://notesnook.com/) &raquo; Prima, meer dan ik nodig had, [Nextcloud Notes](https://apps.nextcloud.com/apps/notes) is goed genoeg (en gewoon [Markdown](https://en.wikipedia.org/wiki/Markdown) gebaseerd).
 - [Pebble](https://repebble.com/) &raquo; Leuk, maar ervaring heeft me geleerd dat ik geen horloge draag.
 - [RelaGit](https://rela.dev/) &raquo; Misschien voor als ik van GitHub af ben.
