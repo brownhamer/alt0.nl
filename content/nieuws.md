@@ -29,6 +29,7 @@ Diverse sites die zich bezighouden met controleren van feiten.
 - [Investico](https://www.platform-investico.nl/)
 - [Knack Factcheck](https://www.knack.be/factcheck/)
 - [Lead Stories](https://leadstories.com/)
+- [Media Bias/Fact Check](https://mediabiasfactcheck.com/)
 - [Nieuwscheckers](https://nieuwscheckers.nl/)
 - [nws check](https://www.vrt.be/vrtnws/nl/rubrieken/nws-check/)
 - [PolitiFact](https://www.politifact.com/)
