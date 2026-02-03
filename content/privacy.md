@@ -64,3 +64,4 @@ Het gaat daarbij niet over verbergen, maar over veiligheid van jou persoonlijke 
 - [Seizure of Sally Mann photographs in Texas revives old debates about obscenity and freedom of expression](https://theconversation.com/seizure-of-sally-manns-photographs-in-texas-revives-old-debates-about-obscenity-and-freedom-of-expression-247321)
 - [VN-privacychef: wereld nu erger dan 1984 voorspelde](https://www.security.nl/posting/440963/VN-rapporteur%3A+wereld+nu+erger+dan+1984+voorspelde)
 - [Waarom nooit een foto van je boarding pass op social media zetten | Digiwijzer](https://digiwijzer.nl/foto-boarding-pass-social-media/)
+- [X makes cuts to disinformation and election integrity team](https://www.nbcnews.com/tech/tech-news/x-makes-cuts-disinformation-election-integrity-team-rcna117744)
