@@ -128,6 +128,7 @@ Een aantal alternatieven die ik overweeg, of zelfs geprobeerd heb maar die voor 
 - [mosa.cloud](https://mosa.cloud/) &raquo; Nog in beta en waarschijnlijk meer dan ik nodig heb.
 - [Notesnook](https://notesnook.com/) &raquo; Prima, meer dan ik nodig had, [Nextcloud Notes](https://apps.nextcloud.com/apps/notes) is goed genoeg (en gewoon [Markdown](https://en.wikipedia.org/wiki/Markdown) gebaseerd).
 - [Pebble](https://repebble.com/) &raquo; Leuk, maar ervaring heeft me geleerd dat ik geen horloge draag.
+- [Redox](https://redox-os.org/) &raquo; Iets om in de gaten te houden, maar nog niet klaar voor dagelijks gebruik.
 - [RelaGit](https://rela.dev/) &raquo; Misschien voor als ik van GitHub af ben.
 - [Sailfish OS](https://sailfishos.org/) &raquo; Als de [Jolla](https://commerce.jolla.com/) er is, ik ben benieuwd.
 - [Servo](https://servo.org/) &raquo; Actief in de gaten aan het houden als echt alternatief voor [Firefox](https://www.firefox.com/nl/).
