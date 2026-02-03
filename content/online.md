@@ -16,6 +16,7 @@ Diverse 'handige' sites met online tools en informatie.
 - [Firefox Profilemaker](https://ffprofile.com/)
 - [Fossify](https://www.fossify.org/)
 - [Galgo Project](https://galgoproject.nl/)
+- [good first issue](https://goodfirstissue.dev/)
 - [Iconify](https://icon-sets.iconify.design/)
 - [Iconmonstr](https://iconmonstr.com/)
 - [Lago & Urdaneta](https://lagourdaneta.com/)
