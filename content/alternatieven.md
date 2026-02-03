@@ -73,7 +73,7 @@ Daarnaast wil ik (ingescande) documenten fatsoenlijk gaan beheren. Daarvoor wil 
 
 Als multi-effect pedaal gebruik ik de [Neural DSP](https://neuraldsp.com/) [Quad Cortex](https://neuraldsp.com/quad-cortex), waarover ik toch wel prima tevreden ben.
 Alleen, helaas is [Cortex Control](https://neuraldsp.com/cortex-control) niet beschikbaar op Linux, ondanks dat meerdere mensen [hierom vragen](https://unity.neuraldsp.com/t/linux-drivers-and-cortex-control-support/15149).
-Het is te installeren via iets als [Bottles](https://usebottles.com/), maar in Linux wordt het multi-effect pedaal niet als USB device gezien.
+Het is te installeren via iets als [Bottles](https://usebottles.com/), maar in Linux wordt het multi-effect pedaal niet als USB device gezien. Nu schijnt het wel te kunnen door [WinApps](https://github.com/winapps-org/winapps) te gebruiken, maar dat heb ik nog niet getest.
 
 Ondertussen maar [NodeAudio](https://node97.com/) in de gaten houden als mogelijke vervanging van de Quad Cortex.
 
