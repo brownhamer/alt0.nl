@@ -60,6 +60,7 @@ Het gaat daarbij niet over verbergen, maar over veiligheid van jou persoonlijke 
 - [Price of a bot army revealed across hundreds of online platforms](https://www.cam.ac.uk/stories/price-bot-army-global-index)
 - [Privacy preserving age verification” is bullshit](https://pluralistic.net/2025/08/14/bellovin/#wont-someone-think-of-the-cryptographers)
 - [Privacyexpert: overheid dringt steeds dieper het privéleven van burgers binnen](https://www.security.nl/posting/910437/Privacyexpert%3A+overheid+dringt+steeds+dieper+het+priv%C3%A9leven+van+burgers+binnen)
+- [Resist and Unsubscribe](https://www.resistandunsubscribe.com/)
 - [Rogue communication devices found in Chinese solar power inverters](https://www.reuters.com/sustainability/climate-energy/ghost-machine-rogue-communication-devices-found-chinese-inverters-2025-05-14/)
 - [Seizure of Sally Mann photographs in Texas revives old debates about obscenity and freedom of expression](https://theconversation.com/seizure-of-sally-manns-photographs-in-texas-revives-old-debates-about-obscenity-and-freedom-of-expression-247321)
 - [VN-privacychef: wereld nu erger dan 1984 voorspelde](https://www.security.nl/posting/440963/VN-rapporteur%3A+wereld+nu+erger+dan+1984+voorspelde)
