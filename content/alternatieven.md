@@ -89,6 +89,7 @@ Hieronder wat keuzes die ik hierin al gemaakt heb.
 - Cloud opslag: ~~OneDrive~~ &raquo; [NextCloud](https://nextcloud.com/) via [oCloud](https://ocloud.de/)
 - Contacten: ~~Google Contacts~~ &raquo; [NextCloud Contacts](https://github.com/nextcloud/contacts) met [GNOME Contacts](https://apps.gnome.org/Contacts/) en [CardDAV](https://en.wikipedia.org/wiki/CardDAV) plus [DAVx5](https://www.davx5.com/) voor [Fossify Contacts](https://github.com/FossifyOrg/Contacts)
 - IDE: ~~Visual Studio Code~~ &raquo; [VS Codium](https://vscodium.com/)
+- Keyboard ~~Gboard~~ &raquo; [FUTO Keyboard](https://keyboard.futo.org/)
 - Mail: ~~Gmail~~ &raquo; IMAP met [Thunderbird](https://www.thunderbird.net/)
 - Messenger: ~~WhatsApp~~ &raquo; [Signal](https://signal.org/)
 - Navigatie: ~~Google Maps~~ &raquo; [HERE WeGo](https://wego.here.com/) en [CoMaps](https://www.comaps.app/)
