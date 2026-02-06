@@ -139,6 +139,7 @@ Een aantal alternatieven die ik overweeg, of zelfs geprobeerd heb maar die voor 
 - [Tuta](https://tuta.com/) &raquo; Had al gekozen voor [Posteo](https://posteo.de/en).
 - [Vivaldi](https://vivaldi.com/) &raquo; Gebruikt helaas nog de chromium engine.
 - [Volla](https://volla.online/en/index.php) &raquo; Qua naam bijna hetzelfde, maar dus gekozen voor [Jolla](https://jolla.com/).
+- [Volla Tablet](https://volla.online/de/shop/volla-tablet/) &raquo; Als telefoon gekozen voor [Jolla](https://jolla.com/), maar Volla is een van de weinige leveranciers van een Linux tablet.
 - [zeitkapsl](https://zeitkapsl.eu/en/) &raquo; Bij voorkeur heb ik mijn foto's lokaal staan, vooralsnog gekozen voor [Nextcloud](https://nextcloud.com/) via [oCloud](https://ocloud.de/).
 
 ## Lijsten
