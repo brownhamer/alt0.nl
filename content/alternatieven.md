@@ -118,6 +118,7 @@ Een aantal alternatieven die ik overweeg, of zelfs geprobeerd heb maar die voor 
 - [FlorisBoard](https://florisboard.org/) &raquo; Nog niet af genoeg.
 - [FossWallet](https://github.com/SeineEloquenz/fosswallet) &raquo; Was al over gegaan naar [Catima](https://catima.app/) en dat bevalt eigenlijk prima, ofschoon ik het eigenlijk nooit gebruik.
 - [GrapheneOS](https://grapheneos.org/) &raquo; Beter dan [Android](https://www.android.com/), maar toch.
+- [Hazelnut](https://hazelnut.ricardodantas.me/) &raquo; Nog niet aan toe gekomen, maar lijkt me erg handig.
 - [heylogin](https://www.heylogin.com/en) &raquo; [1Password](https://1password.com/) bevalt prima, voor het hele gezin, en Canadees is ook OK (vind ik).
 - [immich](https://immich.app/) &raquo; Bij voorkeur heb ik mijn foto's lokaal staan, vooralsnog gekozen voor [Nextcloud](https://nextcloud.com/) via [oCloud](https://ocloud.de/).
 - [Jolla](https://commerce.jolla.com/) &raquo; Ingeschreven voor de volgende Jolla phone, maar dat duurt nog even.
