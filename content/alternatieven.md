@@ -163,7 +163,6 @@ Overzichten en lijsten van Big Tech alternatieven.
 - [Exit 50](https://www.exit50.com/)
 - [Fossify](https://www.fossify.org/)
 - [Go European](https://www.goeuropean.org/)
-- [Go Hug EU](https://gohug.eu/)
 - [Made in Canada Directory](https://madeincanadadirectory.ca/)
 - [Open Source Alternatives](https://www.opensourcealternative.to/)
 - [Opt out of global surveillance](https://prism-break.org/en/)
