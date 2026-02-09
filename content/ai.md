@@ -57,6 +57,7 @@ Echter de diverse LLM gebaseerde initiatieven die vanuit Big Tech gepusht worden
 - [Grok is spreading inaccurate info again, this time about the Bondi Beach shooting](https://www.engadget.com/ai/grok-is-spreading-inaccurate-info-again-this-time-about-the-bondi-beach-shooting-203946515.html?src=rss)
 - [Grok-chatbot valt door de mand: AI-blunder onderstreept gebrekkige beveiliging](https://draadbreuk.nl/typisch-draadbreuk/grok-chatbot-valt-door-de-mand-ai-blunder-onderstreept-gebrekkige-beveiliging/)
 - [Hoeveel tijd verliezen we door AI te gebruiken? De ‘prutsfactor’ geeft het weer](https://www.eoswetenschap.eu/gezondheid/hoeveel-tijd-verliezen-we-door-ai-te-gebruiken-de-prutsfactor-geeft-het-weer)
+- [How malicious AI swarms can threaten democracy: The fusion of agentic AI and LLMs marks a new frontier in information warfare](https://arxiv.org/abs/2506.06299)
 - [IBM CEO says there is 'no way' spending trillions on AI data centers will pay off at today's infrastructure costs](https://www.businessinsider.com/ibm-ceo-big-tech-ai-capex-data-center-spending-2025-12)
 - [In Grok we don’t trust: academics assess Elon Musk’s AI-powered encyclopedia](https://www.theguardian.com/technology/2025/nov/03/grokipedia-academics-assess-elon-musk-ai-powered-encyclopedia)
 - [Kunstmatige intelligentie heeft wel heel veel nevenschade](https://www.volkskrant.nl/columns-opinie/kunstmatige-intelligentie-heeft-wel-heel-veel-nevenschade~bc1214b3/)
