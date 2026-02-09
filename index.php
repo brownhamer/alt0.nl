@@ -64,7 +64,6 @@ startHtmlPage($PATH_TO_ROOT, $alt0links['alt0']['text'], $tagpage);
         &middot; <?php echo textLink('github'); ?> &raquo; Sites
         &middot; <?php echo textLink('mastodon'); ?> &raquo; Social
         &middot; <?php echo textLink('mail'); ?> &raquo; Contact
-        &middot; <?php echo textLink('nolto'); ?> &raquo; Netwerk
     </div>
     <div id="sites">
         <h3>Wij</h3><br /><br />
