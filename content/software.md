@@ -25,6 +25,7 @@ Zie verder ook [ALT0PAGE_alternatieven] voor wat ik sowieso wel gebruik.
 - [Consent-O-Matic](https://consentomatic.au.dk/)
 - [Cryptomater](https://cryptomator.org/)
 - [ExifCleaner](https://exifcleaner.com/)
+- [FairScan](https://fairscan.org/)
 - [Fedistar](https://fedistar.net/)
 - [Ferrite](https://github.com/OlaProeis/Ferrite)
 - [Files](https://files.community/)
