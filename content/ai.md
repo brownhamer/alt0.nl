@@ -47,6 +47,7 @@ Echter de diverse LLM gebaseerde initiatieven die vanuit Big Tech gepusht worden
 - [De nietsontziende race naar kunstmatige intelligentie](https://www.youtube.com/watch?v=ucl6yBFKnBQ)
 - [De onzin die het AI-overzicht van Google presenteert...](https://nl.linkedin.com/posts/piek-knijff_de-onzin-die-het-ai-overzicht-van-google-activity-7400790703372656640-lzs3)
 - [Deepfake-as-a-service to fuel surge in corporate fraud](https://www.scworld.com/brief/report-deepfake-as-a-service-to-fuel-surge-in-corporate-fraud)
+- [DIY AI bot farm OpenClaw is a security 'dumpster fire'](https://www.theregister.com/2026/02/03/openclaw_security_problems/)
 - [Docent bouwt AI-tool die studentgegevens naar ChatGPT stuurt](https://www.omroepbrabant.nl/nieuws/6002910/docent-bouwt-ai-tool-die-studentgegevens-naar-chatgpt-stuurt)
 - [Een derde van de antwoorden van AI-chatbots kun je niet vertrouwen](https://archive.ph/sxLgV)
 - [Elon Musk door eigen AI 'grootste verspreider van nepnieuws' genoemd](https://www.bnnvara.nl/joop/artikelen/elon-musk-door-eigen-ai-grootste-verspreider-van-nepnieuws-genoemd)
@@ -55,6 +56,7 @@ Echter de diverse LLM gebaseerde initiatieven die vanuit Big Tech gepusht worden
 - [Felienne](https://www.felienne.nl/) schrijft regelmatig over AI
 - [Finance worker pays out $25 million after video call with deepfake ‘chief financial officer’](https://edition.cnn.com/2024/02/04/asia/deepfake-cfo-scam-hong-kong-intl-hnk)
 - [Generalization bias in large language model summarization of scientific research](https://royalsocietypublishing.org/rsos/article/12/4/241776/235656/Generalization-bias-in-large-language-model)
+- [GitHub ponders kill switch for pull requests to stop AI slop](https://www.theregister.com/2026/02/03/github_kill_switch_pull_requests_ai/)
 - [Google AI Overviews cite YouTube more than any medical site for health queries, study suggests](https://www.theguardian.com/technology/2026/jan/24/google-ai-overviews-youtube-medical-citations-study)
 - [Grok is spreading inaccurate info again, this time about the Bondi Beach shooting](https://www.engadget.com/ai/grok-is-spreading-inaccurate-info-again-this-time-about-the-bondi-beach-shooting-203946515.html?src=rss)
 - [Grok-chatbot valt door de mand: AI-blunder onderstreept gebrekkige beveiliging](https://draadbreuk.nl/typisch-draadbreuk/grok-chatbot-valt-door-de-mand-ai-blunder-onderstreept-gebrekkige-beveiliging/)
@@ -68,6 +70,7 @@ Echter de diverse LLM gebaseerde initiatieven die vanuit Big Tech gepusht worden
 - [Major AI conference flooded with peer reviews written fully by AI](https://www.nature.com/articles/d41586-025-03506-6)
 - [Majority of CEOs report zero payoff from AI splurge](https://www.theregister.com/2026/01/20/pwc_ai_ceo_survey/)
 - [Met AI kan de macht bij een kleine groep terechtkomen](https://www.eoswetenschap.eu/technologie/met-ai-kan-de-macht-bij-een-kleine-groep-terechtkomen)
+- [Misleading text in the physical world can hijack AI-enabled robots, cybersecurity study shows](https://news.ucsc.edu/2026/01/misleading-text-can-hijack-ai-enabled-robots/)
 - [Musk negeerde waarschuwingen veiligheidsteam X over pornografisch AI-gebruik](https://tweakers.net/nieuws/244260/musk-negeerde-waarschuwingen-veiligheidsteam-x-over-pornografisch-ai-gebruik.html)
 - [No AI Slops! GNOME Now Forbids Vibe Coded Extensions](https://itsfoss.com/news/no-ai-extension-gnome/)
 - [North Korean Operatives Use Deepfakes in IT Job Interviews](https://www.darkreading.com/remote-workforce/north-korean-operatives-deepfakes-it-job-interviews)
