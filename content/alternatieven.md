@@ -140,6 +140,7 @@ Een aantal alternatieven die ik overweeg, of zelfs geprobeerd heb maar die voor 
 - [Vivaldi](https://vivaldi.com/) &raquo; Gebruikt helaas nog de chromium engine.
 - [Volla](https://volla.online/en/index.php) &raquo; Qua naam bijna hetzelfde, maar dus gekozen voor [Jolla](https://jolla.com/).
 - [Volla Tablet](https://volla.online/de/shop/volla-tablet/) &raquo; Als telefoon gekozen voor [Jolla](https://jolla.com/), maar Volla is een van de weinige leveranciers van een Linux tablet.
+- [WebBeef browser](https://tangled.org/me.webbeef.org/browser.html/) &raquo; [Servo](https://servo.org/) gebaseerde browser, maar nog niet klaar voor productie.
 - [zeitkapsl](https://zeitkapsl.eu/en/) &raquo; Bij voorkeur heb ik mijn foto's lokaal staan, vooralsnog gekozen voor [Nextcloud](https://nextcloud.com/) via [oCloud](https://ocloud.de/).
 
 ## Lijsten
