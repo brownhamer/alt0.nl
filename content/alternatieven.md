@@ -133,6 +133,7 @@ Een aantal alternatieven die ik overweeg, of zelfs geprobeerd heb maar die voor 
 - [Redox](https://redox-os.org/) &raquo; Iets om in de gaten te houden, maar nog niet klaar voor dagelijks gebruik.
 - [RelaGit](https://rela.dev/) &raquo; Misschien voor als ik van GitHub af ben.
 - [Sailfish OS](https://sailfishos.org/) &raquo; Als de [Jolla](https://commerce.jolla.com/) er is, ik ben benieuwd.
+- [scrcpy](https://github.com/Genymobile/scrcpy) &raquo; Handig om je Android telefoon te bedienen vanaf je computer, maar zelf heb ik daar niet echt behoefte aan.
 - [Servo](https://servo.org/) &raquo; Actief in de gaten aan het houden als echt alternatief voor [Firefox](https://www.firefox.com/nl/).
 - [Soverin](https://soverin.com/) &raquo; Had al gekozen voor [Posteo](https://posteo.de/en).
 - [The Good Cloud](https://thegood.cloud/individuals/) &raquo; Had al gekozen voor [oCloud](https://ocloud.de/).
