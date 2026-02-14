@@ -9,6 +9,7 @@ Alleen jammer dat de baas gaandeweg wat minder prettig is geworden en bijzondere
 - [Deze Tesla gaat het vaakst stuk van alle geteste autos in de laatste tien jaar](https://www.bright.nl/nieuws/1718186/deze-tesla-gaat-het-vaakst-stuk-van-alle-geteste-auto-s-in-de-laatste-tien-jaar.html)
 - [How Self-Driving Cars will Destroy Cities (and what to do about it)](https://youtu.be/040ejWnFkj0?si=p8-gtRIRx-siUOtN)
 - [Keurings­dien­sten slaan alarm: populair­ste elektri­sche auto massaal afgekeurd. Wat is er aan de hand en wat kan je doen?](https://www.hln.be/mobiliteit/keuringsdiensten-slaan-alarm-populairste-elektrische-auto-massaal-afgekeurd-wat-is-er-aan-de-hand-en-wat-kan-je-doen~a23a3bf0c/)
+- [List of predictions for autonomous Tesla vehicles by Elon Musk](https://en.wikipedia.org/wiki/List_of_predictions_for_autonomous_Tesla_vehicles_by_Elon_Musk)
 - [Major FSD issue](https://teslamotorsclub.com/tmc/threads/major-fsd-issue.344805/)
 - [Tesla Autopilot and Full Self-Driving linked to hundreds of crashes, dozens of deaths](https://www.theverge.com/2024/4/26/24141361/tesla-autopilot-fsd-nhtsa-investigation-report-crash-death)
 - [Tesla FSD gets worse at driving, NHTSA opens new investigation](https://arstechnica.com/cars/2025/10/tesla-fsd-gets-worse-at-driving-nhtsa-opens-new-investigation/)
