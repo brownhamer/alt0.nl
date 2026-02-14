@@ -31,6 +31,7 @@ Het gaat daarbij niet over verbergen, maar over veiligheid van jou persoonlijke 
 - [Password Security info](https://passwordsecurity.info/)
 - [Privacy Guides](https://www.privacyguides.org/)
 - [Privacy Tools](https://privacytools.io/)
+- [Privacy voor een beginner](https://privacy.vooreenbeginner.nl/)
 - [PrivacyPack](https://privacypack.org/)
 - [The No More Ransom Project](https://www.nomoreransom.org)
 - [VirusTotal](https://virustotal.com/)
