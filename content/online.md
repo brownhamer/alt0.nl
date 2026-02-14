@@ -55,4 +55,6 @@ Diverse 'handige' sites met online tools en informatie.
 - [Steve Vai - Tender Surrender](https://www.youtube.com/watch?v=Yw74sDWPH7U)
 
 ## Technologie
+
+- [A Petabyte in the Palm of My Hand](https://youtu.be/ivLvsTnp9fI?si=ooaipYezM7LhEk21)
 - [The Ridiculous Engineering Of The World's Most Important Machine](https://youtube.com/watch?v=MiUHjLxm3V0&si=CB_3drBJgANxNoJe)
