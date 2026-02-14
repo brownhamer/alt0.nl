@@ -37,6 +37,7 @@ Echter de diverse LLM gebaseerde initiatieven die vanuit Big Tech gepusht worden
 - [Anthropic's Claude Code runs code to test if it is safe - which might be a big mistake](https://www.theregister.com/2025/09/09/ai_security_review_risks/)
 - [Britse politie deelde rapport met door AI gehallucineerde voetbalwedstrijd](https://tweakers.net/geek/243638/britse-politie-deelde-rapport-met-door-ai-gehallucineerde-voetbalwedstrijd.html)
 - [Canadian musician's show cancelled after AI wrongly labels him a sex offender](https://www.nme.com/news/music/canadian-musicians-show-cancelled-after-ai-wrongly-labels-him-a-sex-offender-3920542)
+- [CCC vs GCC](https://harshanu.space/en/tech/ccc-vs-gcc/)
 - [Chatbots verspreiden verkeerde nieuwsinformatie, zelfs uit juiste artikelen](https://tweakers.net/nieuws/240610/chatbots-verspreiden-verkeerde-nieuwsinformatie-zelfs-uit-juiste-artikelen.html)
 - [ChatGPT is een slijmbal die liegt, verdraait en bedriegt](https://www.nrc.nl/nieuws/2026/01/12/chatgpt-begint-steeds-meer-op-een-irritante-collega-te-lijken-hij-slijmt-liegt-en-bedriegt-a4917392?gift_token=4917392~1768894407~kph7e9dCQOS2MFAoyX-S2A~46lkbF_oPUU47nchQpxiG3_YoA8WYyOaYkvrZHrTbHw)
 - [ChatGPT is fuelling psychosis, doctors warn](https://www.independent.co.uk/tech/chatgpt-psychosis-nhs-doctors-ai-b2797174.html)
