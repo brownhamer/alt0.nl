@@ -18,6 +18,7 @@ Echter de diverse LLM gebaseerde initiatieven die vanuit Big Tech gepusht worden
 
 - [A Comprehensive Benchmark for Large Language Model Factuality](https://storage.googleapis.com/deepmind-media/FACTS/FACTS_benchmark_suite_paper.pdf)
 - [A small number of samples can poison LLMs of any size](https://www.anthropic.com/research/small-samples-poison)
+- [Advocaten hebben extra werk aan foute info die klanten uit AI-chatbots halen](https://tweakers.net/nieuws/244756/advocaten-hebben-extra-werk-aan-foute-info-die-klanten-uit-ai-chatbots-halen.html)
 - [AI agents get office tasks wrong around 70% of the time, and a lot of them aren't AI at all](https://www.theregister.com/2025/06/29/ai_agents_fail_a_lot/)
 - [AI code assistants make developers more efficient at creating security problems](https://www.theregister.com/2025/09/05/ai_code_assistants_security_problems/)
 - [AI deletes database](https://www.reddit.com/r/vibecoding/comments/1mo0j3p/never_touching_cursor_again/)
