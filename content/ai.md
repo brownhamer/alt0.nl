@@ -58,6 +58,7 @@ Echter de diverse LLM gebaseerde initiatieven die vanuit Big Tech gepusht worden
 - [Felienne](https://www.felienne.nl/) schrijft regelmatig over AI
 - [Finance worker pays out $25 million after video call with deepfake ‘chief financial officer’](https://edition.cnn.com/2024/02/04/asia/deepfake-cfo-scam-hong-kong-intl-hnk)
 - [Generalization bias in large language model summarization of scientific research](https://royalsocietypublishing.org/rsos/article/12/4/241776/235656/Generalization-bias-in-large-language-model)
+- [Gentoo Linux ruilt Microsofts GitHub in voor Codeberg vanwege Copilot](https://tweakers.net/nieuws/244818/gentoo-linux-ruilt-microsofts-github-in-voor-codeberg-vanwege-copilot.html)
 - [GitHub ponders kill switch for pull requests to stop AI slop](https://www.theregister.com/2026/02/03/github_kill_switch_pull_requests_ai/)
 - [Google AI Overviews cite YouTube more than any medical site for health queries, study suggests](https://www.theguardian.com/technology/2026/jan/24/google-ai-overviews-youtube-medical-citations-study)
 - [Grok is spreading inaccurate info again, this time about the Bondi Beach shooting](https://www.engadget.com/ai/grok-is-spreading-inaccurate-info-again-this-time-about-the-bondi-beach-shooting-203946515.html?src=rss)
