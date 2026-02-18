@@ -20,4 +20,5 @@ En ja, er zijn [ALT0PAGE_alternatieven].
 - [Meta verdient miljarden aan frauduleuze advertenties op Facebook en Instagram](https://www.rtl.nl/nieuws/buitenland/artikel/5537555/meta-verdient-miljarden-aan-frauduleuze-advertenties-op-facebook)
 - [Meta verstopte onderzoek dat wees op negatieve effecten Facebook en Instagram](https://tweakers.net/nieuws/241810/meta-verstopte-onderzoek-dat-wees-op-negatieve-effecten-facebook-en-instagram.html)
 - [Noorse privacywaakhond geeft Meta 88.000 euro boete per dag voor overtreden AVG](https://tweakers.net/nieuws/211816/noorse-privacywaakhond-geeft-meta-88000-euro-boete-per-dag-voor-overtreden-avg.html)
+- [Social media adolescent addition/personal injury products liability litigation](https://www.lieffcabraser.com/pdf/2025-11-21-Brief-dckt-2480_0.pdf)
 - [Unsealed court documents reveal data anarchy at Meta](https://www.iccl.ie/news/unsealed-court-documents-reveal-data-anarchy-at-meta/)
