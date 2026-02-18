@@ -144,6 +144,7 @@ Een aantal alternatieven die ik overweeg, of zelfs geprobeerd heb maar die voor 
 - [Volla](https://volla.online/en/index.php) &raquo; Qua naam bijna hetzelfde, maar dus gekozen voor [Jolla](https://jolla.com/).
 - [Volla Tablet](https://volla.online/de/shop/volla-tablet/) &raquo; Als telefoon gekozen voor [Jolla](https://jolla.com/), maar Volla is een van de weinige leveranciers van een Linux tablet.
 - [WebBeef browser](https://tangled.org/me.webbeef.org/browser.html/) &raquo; [Servo](https://servo.org/) gebaseerde browser, maar nog niet klaar voor productie.
+- [Wike](https://hugolabe.github.io/Wike/) &raquo; Lokale [Wikipedia](https://nl.wikipedia.org/wiki/Hoofdpagina), met [GNOME Shell](https://en.wikipedia.org/wiki/GNOME_Shell) zoek integratie. Nog niet aan toe gekomen, maar dat gaan we zeker gebruiken.
 - [zeitkapsl](https://zeitkapsl.eu/en/) &raquo; Bij voorkeur heb ik mijn foto's lokaal staan, vooralsnog gekozen voor [Nextcloud](https://nextcloud.com/) via [oCloud](https://ocloud.de/).
 
 ## Lijsten
