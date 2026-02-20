@@ -12,6 +12,7 @@ En ja, er zijn [ALT0PAGE_alternatieven].
 - [FBI Document Says the Feds Can Get Your WhatsApp Data — in Real Time](https://www.rollingstone.com/politics/politics-features/whatsapp-imessage-facebook-apple-fbi-privacy-1261816/)
 - [Intern document: tien procent jaaromzet Meta komt van scams op Insta en Facebook](https://tweakers.net/nieuws/241198/intern-document-tien-procent-jaaromzet-meta-komt-van-scams-op-insta-en-facebook.html)
 - [Israeli AI using WhatsApp data to target Gaza families for bomb strikes](https://skwawkbox.org/2024/04/28/israeli-ai-using-whatsapp-data-to-target-gaza-families-for-bomb-strikes/)
+- [Judge scolds Mark Zuckerberg's team for wearing Meta glasses to social media trial](https://www.cbsnews.com/news/meta-trial-mark-zuckerberg-ai-glasses/)
 - [Mag Meta bepalen wat jij ziet op Instagram en Facebook? Nee, vindt de rechter](https://decorrespondent.nl/16421/mag-meta-bepalen-wat-jij-ziet-op-instagram-en-facebook-nee-vindt-de-rechter/3a5ebc2a-ba4a-0a90-22f6-cb9a2c021dc5)
 - [Meta - FB, Insta, WhatsApp - will read your DMs and AI chats, rolling out from Dec](https://www.thecanary.co/skwawkbox/2025/11/07/meta-ai-chats/)
 - [Meta had vanaf september inzage in surfgedrag van Android-gebruikers](https://tweakers.net/nieuws/235760/meta-had-vanaf-september-inzage-in-surfgedrag-van-android-gebruikers.html)
