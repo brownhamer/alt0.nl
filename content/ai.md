@@ -80,6 +80,7 @@ Echter de diverse LLM gebaseerde initiatieven die vanuit Big Tech gepusht worden
 - [North Korean Operatives Use Deepfakes in IT Job Interviews](https://www.darkreading.com/remote-workforce/north-korean-operatives-deepfakes-it-job-interviews)
 - [Open source has a big AI slop problem](https://leaddev.com/software-quality/open-source-has-a-big-ai-slop-problem)
 - [OpenAI admits AI hallucinations are mathematically inevitable, not just engineering flaws](https://www.computerworld.com/article/4059383/openai-admits-ai-hallucinations-are-mathematically-inevitable-not-just-engineering-flaws.html)
+- [Personal AI-agents zijn - voorlopig - een cybernachtmerrie](https://www.agconnect.nl/tech-en-toekomst/artificial-intelligence/personal-ai-agents-zijn-voorlopig-een-cybernachtmerrie)
 - [Personas in System Prompts Do Not Improve Performances of Large Language Models](https://arxiv.org/html/2311.10054v3)
 - [Privacyexperts bezorgd over delen van medische gegevens met ChatGPT](https://www.security.nl/posting/920272/Privacyexperts+bezorgd+over+delen+van+medische+gegevens+met+ChatGPT)
 - [Rector universiteit Gent gebruikte door AI gegenereerd nep-citaat van Einstein](https://nos.nl/artikel/2597395-rector-universiteit-gent-gebruikte-door-ai-gegenereerd-nep-citaat-van-einstein)
