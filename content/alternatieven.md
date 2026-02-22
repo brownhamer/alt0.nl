@@ -45,8 +45,8 @@ Naast bovengenoemde applicaties zijn er diverse andere handige programma's die i
 - [MailViewer](https://github.com/alescdb/mailviewer) &raquo; Linux &raquo; Omdat ik de meeste mail als losse ".eml" bestanden bewaar.
 - [Messages](https://github.com/FossifyOrg/Messages) by Fossify &raquo; Android &raquo; Simpele SMS applicatie.
 - [Moshidon](https://lucasggamerm.github.io/moshidon/) &raquo; Android &raquo; Mooi vormgegeven, prettige [Mastodon](https://joinmastodon.org/nl-NL) client.
-- [Musicolet](https://krosbits.in/musicolet/) &raquo; Android &raquo; Lokale muziek afspelen, meestal opnames voor nieuwe nummers van de band.
 - [Phone](https://github.com/FossifyOrg/Phone) by Fossify &raquo; Android &raquo; Gewoon bellen, zonder de nummers door te geven aan Google.
+- [Power Ampache 2](https://power.ampache.dev/) &raquo; Android &raquo; Muziek afspelen via [Nextloud Music](https://apps.nextcloud.com/apps/music), meestal opnames voor nieuwe nummers van de band.
 - [Resources](https://apps.gnome.org/nl/Resources/) &raquo; Linux &raquo; Mooi vormgegeven systeem bron monitor.
 - [Secure PDF Viewer](https://github.com/GrapheneOS/PdfViewer) &raquo; Android &raquo; Simpele PDF viewer.
 - [Shotwell](https://shotwell-project.org/) &raquo; Linux &raquo; Foto's beheren, voor zover ik dat doe.
