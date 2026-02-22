@@ -37,6 +37,7 @@ Zie verder ook [ALT0PAGE_alternatieven] voor wat ik sowieso wel gebruik.
 - [Memories](https://memories.gallery/)
 - [meta](https://github.com/mateodelnorte/meta) (nee, niet [ALT0PAGE_meta])
 - [Ninja](https://ninja-build.org/)
+- [Notepad4](https://github.com/zufuliu/notepad4)
 - [ParseDown](https://parsedown.org/)
 - [Redirector](https://einaregilsson.com/redirector/)
 - [Rust](https://rust-lang.org/en-US/)
