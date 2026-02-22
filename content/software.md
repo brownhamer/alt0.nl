@@ -39,6 +39,7 @@ Zie verder ook [ALT0PAGE_alternatieven] voor wat ik sowieso wel gebruik.
 - [Ninja](https://ninja-build.org/)
 - [Notepad4](https://github.com/zufuliu/notepad4)
 - [ParseDown](https://parsedown.org/)
+- [Pi-hole](https://pi-hole.net/)
 - [Redirector](https://einaregilsson.com/redirector/)
 - [Rust](https://rust-lang.org/en-US/)
 - [Tack](https://patrickzedler.com/tack/)
