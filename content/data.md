@@ -7,6 +7,7 @@ Diverse sites die inzicht geven in meerdere soorten informatie op basis van open
 - [CBS NL](https://www.cbs.nl/nl-nl)
 - [Datagraver](https://datagraver.com/)
 - [Dataregister NL](https://data.overheid.nl/)
+- [DataReportal](https://datareportal.com/)
 - [De Data Dame](https://www.datadame.nl/)
 - [Delpher](https://www.delpher.nl/)
 - [developer.overheid.nl](https://developer.overheid.nl/)
