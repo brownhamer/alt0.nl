@@ -12,6 +12,7 @@ Diverse sites die inzicht geven in meerdere soorten informatie op basis van open
 - [Delpher](https://www.delpher.nl/)
 - [developer.overheid.nl](https://developer.overheid.nl/)
 - [Eurostat](https://ec.europa.eu/eurostat)
+- [F-Droid Top Downloads](https://grote.gitlab.io/fdroid-metrics-distilled/)
 - [FediDB](https://fedidb.com/)
 - [HowTheyVote.eu](https://howtheyvote.eu/)
 - [Information is Beautiful](https://informationisbeautiful.net/)
