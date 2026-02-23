@@ -41,6 +41,7 @@ Het gaat daarbij niet over verbergen, maar over veiligheid van jou persoonlijke 
 
 - [1 billion personal records in 26 nations just leaked online](https://tech.yahoo.com/cybersecurity/articles/1-billion-personal-records-26-010036242.html)
 - [7 Privacy Wins You Can Get This Weekend](https://itsfoss.com/privacy-wins-linux/)
+- [Age Verification: What countries require you to perform ID checks & for what websites and platforms?](https://tuta.com/blog/age-verification-kills-anonymity)
 - [Beveiligingsexpert waarschuwt voor gevaarlijke vakantiefoto](https://www.metronieuws.nl/lifestyle/reizen/2025/07/waarschuwt-voor-gevaarlijke-vakantiefoto/)
 - [Billionaires Should Not Exist](https://www.teenvogue.com/story/billionaires-should-not-exist)
 - [Botte afperspraktijken door het Amerika van Trump](https://www.nrc.nl/nieuws/2025/12/19/botte-afperspraktijken-door-het-amerika-van-trump-a4915587?gift_token=4915587~1766912635~PHWgLp0IEeKfgABQVoV_mg~EXhD6fZyipnHUt_EejN_JTEgkqPU-tS0tGgGLdBK5_k)
