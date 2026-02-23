@@ -23,6 +23,7 @@ Echter de diverse LLM gebaseerde initiatieven die vanuit Big Tech gepusht worden
 - [AI code assistants make developers more efficient at creating security problems](https://www.theregister.com/2025/09/05/ai_code_assistants_security_problems/)
 - [AI deletes database](https://www.reddit.com/r/vibecoding/comments/1mo0j3p/never_touching_cursor_again/)
 - [AI Doesn’t Reduce Work—It Intensifies It](https://hbr.org/2026/02/ai-doesnt-reduce-work-it-intensifies-it)
+- [AI energy efficiency comparisons ‘unfair’ bleats Sam Altman, citing amount of energy needed to evolve, then train a human — one ‘takes like 20 years of life and all of the food you eat during that time before you get smart’ he argues](https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-energy-efficiency-comparisons-unfair-bleats-sam-altman-citing-amount-of-energy-needed-to-evolve-then-train-a-human-one-takes-like-20-years-of-life-and-all-of-the-food-you-eat-during-that-time-before-you-get-smart-he-argues)
 - [AI hallucinations: ChatGPT created a fake child murderer](https://noyb.eu/en/ai-hallucinations-chatgpt-created-fake-child-murderer)
 - [AI hard op weg om grootste energieverbruiker te worden](https://vu.nl/nl/nieuws/2025/ai-hard-op-weg-om-grootste-energieverbruiker-te-worden)
 - [AI in operatiekamers leidt tot stortvloed aan medische missers](https://www.bnnvara.nl/joop/artikelen/ai-in-operatiekamers-leidt-tot-stortvloed-aan-medische-missers)
