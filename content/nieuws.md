@@ -13,6 +13,7 @@ Diverse nieuws gerelateerde sites.
 - [RaWePo](https://rawepo.be/)
 - [Rechtspraak](https://www.rechtspraak.nl/Nieuwsoverzicht)
 - [Reporters Online](https://reportersonline.nl/)
+- [Reporters Online - Trump](https://reportersonline.nl/besluiten-trump-impact/)
 - [Rijksoverheid.nl](https://www.rijksoverheid.nl/actueel/nieuws)
 - [Scientias](https://scientias.nl/)
 - [Security.NL](https://security.nl/)
