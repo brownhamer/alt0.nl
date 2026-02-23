@@ -39,6 +39,7 @@ Het gaat daarbij niet over verbergen, maar over veiligheid van jou persoonlijke 
 
 ## Uitdagingen
 
+- [1 billion personal records in 26 nations just leaked online](https://tech.yahoo.com/cybersecurity/articles/1-billion-personal-records-26-010036242.html)
 - [7 Privacy Wins You Can Get This Weekend](https://itsfoss.com/privacy-wins-linux/)
 - [Beveiligingsexpert waarschuwt voor gevaarlijke vakantiefoto](https://www.metronieuws.nl/lifestyle/reizen/2025/07/waarschuwt-voor-gevaarlijke-vakantiefoto/)
 - [Billionaires Should Not Exist](https://www.teenvogue.com/story/billionaires-should-not-exist)
