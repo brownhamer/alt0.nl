@@ -57,4 +57,5 @@ Diverse 'handige' sites met online tools en informatie.
 ## Technologie
 
 - [A Petabyte in the Palm of My Hand](https://youtu.be/ivLvsTnp9fI?si=ooaipYezM7LhEk21)
+- [Hier worden de nieuwe chips voor jouw game-pc uitgevonden! Achter de schermen bij imec](https://youtu.be/O-bSi_y5pYU?si=lU9IpFP-q9636T9U)
 - [The Ridiculous Engineering Of The World's Most Important Machine](https://youtube.com/watch?v=MiUHjLxm3V0&si=CB_3drBJgANxNoJe)
