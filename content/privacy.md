@@ -27,6 +27,7 @@ Het gaat daarbij niet over verbergen, maar over veiligheid van jou persoonlijke 
 - [Have I been pwned?](https://haveibeenpwned.com/)
 - [Just Delete Me](https://backgroundchecks.org/justdeleteme/)
 - [Just the Browser](https://justthebrowser.com/)
+- [Nearby Glasses](https://github.com/yjeanrenaud/yj_nearbyglasses)
 - [NOYB](https://noyb.eu/nl)
 - [Password Security info](https://passwordsecurity.info/)
 - [Privacy Guides](https://www.privacyguides.org/)
