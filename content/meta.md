@@ -18,6 +18,7 @@ En ja, er zijn [ALT0PAGE_alternatieven].
 - [Meta had vanaf september inzage in surfgedrag van Android-gebruikers](https://tweakers.net/nieuws/235760/meta-had-vanaf-september-inzage-in-surfgedrag-van-android-gebruikers.html)
 - [Meta krijgt 265 miljoen euro AVG-boete om gescrapete data van 533 miljoen users](https://tweakers.net/nieuws/203926/meta-krijgt-265-miljoen-euro-avg-boete-om-gescrapete-data-van-533-miljoen-users.html)
 - [Meta moet Duitser 5000 euro schadevergoeding betalen vanwege illegale tracking](https://tweakers.net/nieuws/237058/meta-moet-duitser-5000-euro-schadevergoeding-betalen-vanwege-illegale-tracking.html)
+- [Meta users survey found 19% of young teens on Instagram report seeing unwanted nude images](https://www.reuters.com/legal/litigation/meta-survey-found-19-young-teen-instagram-users-saw-unwanted-nude-or-sexual-2026-02-23/)
 - [Meta verdient miljarden aan frauduleuze advertenties op Facebook en Instagram](https://www.rtl.nl/nieuws/buitenland/artikel/5537555/meta-verdient-miljarden-aan-frauduleuze-advertenties-op-facebook)
 - [Meta verstopte onderzoek dat wees op negatieve effecten Facebook en Instagram](https://tweakers.net/nieuws/241810/meta-verstopte-onderzoek-dat-wees-op-negatieve-effecten-facebook-en-instagram.html)
 - [Noorse privacywaakhond geeft Meta 88.000 euro boete per dag voor overtreden AVG](https://tweakers.net/nieuws/211816/noorse-privacywaakhond-geeft-meta-88000-euro-boete-per-dag-voor-overtreden-avg.html)
