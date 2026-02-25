@@ -33,7 +33,7 @@ Echter de diverse LLM gebaseerde initiatieven die vanuit Big Tech gepusht worden
 - [AI-browser van Perplexity trapt in simpele en bekende phishingtrucs](https://tweakers.net/nieuws/238390/ai-browser-van-perplexity-trapt-in-simpele-en-bekende-phishingtrucs.html)
 - [AI-browsers zijn bijzonder kwetsbaar: prompts in screenshots verstopt](https://www.bright.nl/nieuws/1704264/ai-browsers-zijn-bijzonder-kwetsbaar-prompts-in-screenshots-verstopt.html)
 - [AI-powered penetration tool, an attacker's dream, downloaded 10K times in 2 months](https://www.theregister.com/2025/09/11/cobalt_strikes_ai_successor_downloaded/)
-- [AI-topvrouw Meta wist per ongeluk honderden e-mails met OpenClaw](https://tweakers.net/geek/245068/ai-topvrouw-meta-wist-per-ongeluk-honderden-e-mails-met-openclaw.html)
+- [AI-topvrouw Meta wist per ongeluk honderden emails met OpenClaw](https://tweakers.net/geek/245068/ai-topvrouw-meta-wist-per-ongeluk-honderden-e-mails-met-openclaw.html)
 - [AIs can generate near-verbatim copies of novels from training data](https://arstechnica.com/ai/2026/02/ais-can-generate-near-verbatim-copies-of-novels-from-training-data/)
 - [Al mijn argumenten tegen LLMs op een rijtje](https://www.felienne.nl/2026-02/)
 - [All my arguments against LLMs combined](https://www.felienne.nl/2026-02/#all-my-arguments-against-llms-combined)
