@@ -44,6 +44,7 @@ Echter de diverse LLM gebaseerde initiatieven die vanuit Big Tech gepusht worden
 - [Chatbots verspreiden verkeerde nieuwsinformatie, zelfs uit juiste artikelen](https://tweakers.net/nieuws/240610/chatbots-verspreiden-verkeerde-nieuwsinformatie-zelfs-uit-juiste-artikelen.html)
 - [ChatGPT is een slijmbal die liegt, verdraait en bedriegt](https://www.nrc.nl/nieuws/2026/01/12/chatgpt-begint-steeds-meer-op-een-irritante-collega-te-lijken-hij-slijmt-liegt-en-bedriegt-a4917392?gift_token=4917392~1768894407~kph7e9dCQOS2MFAoyX-S2A~46lkbF_oPUU47nchQpxiG3_YoA8WYyOaYkvrZHrTbHw)
 - [ChatGPT is fuelling psychosis, doctors warn](https://www.independent.co.uk/tech/chatgpt-psychosis-nhs-doctors-ai-b2797174.html)
+- [ChatGPT, Claude en Gemini kiezen nucleaire wapens in 95% van wargamesimulaties](https://tweakers.net/nieuws/245098/chatgpt-claude-en-gemini-kiezen-nucleaire-wapens-in-95-procent-van-wargamesimulaties.html#reacties)
 - [ChatGPT's Atlas: The Browser That's Anti-Web](https://www.anildash.com/2025/10/22/atlas-anti-web-browser/)
 - [Cop Transforms Into Frog, According To AI-Generated Police Report](https://www.forbes.com/sites/larsdaniel/2026/01/04/cop-transforms-into-frog-according-to-ai-generated-police-report/)
 - [CURL stopt met bugbountyprogramma door 'AI-slop'](https://tweakers.net/nieuws/243634/curl-stopt-met-bugbountyprogramma-door-ai-slop.html)
