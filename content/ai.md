@@ -96,4 +96,6 @@ Echter de diverse LLM gebaseerde initiatieven die vanuit Big Tech gepusht worden
 - [UGent-rector De Sutter neemt eredoctoraat van Universiteit Amsterdam niet in ontvangst na hetze over valse citaten in speech](https://www.vrt.be/vrtnws/nl/2026/01/08/rector-ugent-petra-de-sutter-artificiele-intelligentie-hallucina/)
 - [Verzekeraars weigeren de risico's van AI-agents te dekken](https://www.agconnect.nl/business/artificial-intelligence/verzekeraars-weigeren-de-risicos-van-ai-agents-te-dekken)
 - [Waarom je telefoonnummers voor klantenservice in AI-antwoorden niet mag vertrouwen](https://www.bright.nl/nieuws/1720538/waarom-je-telefoonnummers-voor-klantenservice-in-ai-antwoorden-niet-mag-vertrouwen.html)
+- [We Will Not Be Divided](https://notdivided.org/)
+- [Yale economists see no evidence of AI displacing jobs, raising concerns of employers ‘AI washing’](https://fortune.com/2026/02/02/ai-labor-market-yale-budget-lab-ai-washing/)
 - [Your Brain on ChatGPT](https://www.media.mit.edu/publications/your-brain-on-chatgpt/)
