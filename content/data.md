@@ -35,3 +35,4 @@ Diverse sites die inzicht geven in meerdere soorten informatie op basis van open
 - [Waarzitwatin.nl](https://waarzitwatin.nl/)
 - [WHO Dashboards](https://data.who.int/dashboards/dashboards)
 - [Worldometer](https://www.worldometers.info/)
+- [Ziekenhuischeck](https://www.ziekenhuischeck.nl/)
