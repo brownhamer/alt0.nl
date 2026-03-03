@@ -48,6 +48,7 @@ Het gaat daarbij niet over verbergen, maar over veiligheid van jou persoonlijke 
 - [Billionaires Should Not Exist](https://www.teenvogue.com/story/billionaires-should-not-exist)
 - [Botte afperspraktijken door het Amerika van Trump](https://www.nrc.nl/nieuws/2025/12/19/botte-afperspraktijken-door-het-amerika-van-trump-a4915587?gift_token=4915587~1766912635~PHWgLp0IEeKfgABQVoV_mg~EXhD6fZyipnHUt_EejN_JTEgkqPU-tS0tGgGLdBK5_k)
 - [Break all the rules](https://workchronicles.substack.com/p/comic-break-all-the-rules-38e) zoals Big Tech over wetgeving denkt.
+- [CBP Tapped Into the Online Advertising Ecosystem To Track Peoples’ Movements](https://www.404media.co/cbp-tapped-into-the-online-advertising-ecosystem-to-track-peoples-movements/?Fedizen.EU=)
 - [Chat Control Belgium](https://chatcontrol.be/en)
 - [China and the European Union: The End of Strategic Ambiguity](https://lansinginstitute.org/2025/07/24/china-and-the-european-union-the-end-of-strategic-ambiguity/)
 - [Chinese groep plaatste in mei blijvende backdoors op Citrix NetScaler-systemen](https://tweakers.net/nieuws/238610/chinese-groep-plaatste-in-mei-blijvende-backdoors-op-citrix-netscaler-systemen.html)
@@ -60,6 +61,7 @@ Het gaat daarbij niet over verbergen, maar over veiligheid van jou persoonlijke 
 - [Hoe de EU kinderen gebruikt voor haar agenda](https://substack.com/home/post/p-170674285)
 - [How a French judge was digitally cut off by the USA](https://www.heise.de/en/news/How-a-French-judge-was-digitally-cut-off-by-the-USA-11087561.html)
 - [Insecam](http://www.insecam.org/)
+- [Kenianen kunnen meekijken met wc-bezoek via slimme bril Meta](https://tweakers.net/nieuws/245294/kenianen-kunnen-meekijken-met-wc-bezoek-via-slimme-bril-meta.html)
 - [Meta - FB, Insta, WhatsApp - will read your DMs and AI chats, rolling out from Dec](https://www.thecanary.co/skwawkbox/2025/11/07/meta-ai-chats/)
 - [Microsoft Gave FBI BitLocker Encryption Keys, Exposing Privacy Flaw](https://www.forbes.com/sites/thomasbrewster/2026/01/22/microsoft-gave-fbi-keys-to-unlock-bitlocker-encrypted-data/)
 - [Nee, je hebt wél iets te verbergen](https://decorrespondent.nl/209/nee-je-hebt-wel-iets-te-verbergen/6428004-ab2d5fc2)
