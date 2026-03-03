@@ -1,6 +1,6 @@
 # Alternatieven
 
-Minder Big Tech, meer EU, meer open, meer privacy, meer in-control.
+Minder Big Tech, meer EU, meer open, meer privacy, meer in-control, minder [enshittificatie](https://vimeo.com/1168468796?__cf_chl_tk=u4ufcXt17oXkLH0MFgq5HBNatL0L8iYD20BWpir_hCg-1772481807-1.0.1.1-_MT9CokJ0zR57o34seVuXliK_e4rluLzZ9Yp2VLDczQ).
 Maar ja, als ik dan over ben blijft alsnog de vraag [zijn we al autonoom?](https://zijnwealautonoom.nl/)
 
 ## Linux
