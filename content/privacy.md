@@ -6,7 +6,7 @@ Het gaat daarbij niet over verbergen, maar over veiligheid van jou persoonlijke 
 
 ## Firefox
 
-- [Redirector](https://einaregilsson.com/redirector/) &raquo; [No-AI DuchDuckGo](data/Redirector.json)
+- [Redirector](https://einaregilsson.com/redirector/) &raquo; [No-AI DuckDuckGo](data/Redirector.json)
 - Tweaked [user.js](data/user.js) with no-ai, privacy and security tweaks
 - [uBlock Origin](https://addons.mozilla.org/nl/firefox/addon/ublock-origin)
   - [My configuration](data/ublock.txt) including the following
