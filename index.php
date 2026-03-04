@@ -8,7 +8,7 @@ require_once($PATH_TO_ROOT.'/lib/Parsedown.php');
 #-------------------------------------------------------------------------------
 $getpage = htmlspecialchars(getGet('page', 'alt0'));
 $usepage = is_readable($PATH_TO_ROOT.'/content/'.$getpage.'.md') ? $getpage : 'alt0';
-$tagpage = ($usepage == 'alt0') ? "[home]" : $alt0pages[$usepage];
+$tagpage = ($usepage == 'alt0') ? "" : $alt0pages[$usepage];
 
 #-------------------------------------------------------------------------------
 startHtmlPage($PATH_TO_ROOT, $alt0links['alt0']['text'], $tagpage);
