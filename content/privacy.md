@@ -8,10 +8,9 @@ Het gaat daarbij niet over verbergen, maar over veiligheid van jou persoonlijke 
 
 - [Redirector](https://einaregilsson.com/redirector/) &raquo; [No-AI DuckDuckGo](data/Redirector.json)
 - Tweaked [user.js](data/user.js) with no-ai, privacy and security tweaks
-- [uBlock Origin](https://addons.mozilla.org/nl/firefox/addon/ublock-origin)
-  - [My configuration](data/ublock.txt) including the following
-    - [HUGE AI Blocklist](https://raw.githubusercontent.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/main/list.txt)
-    - [Legitimate URL Shortener](https://raw.githubusercontent.com/DandelionSprout/adfilt/master/LegitimateURLShortener.txt)
+- [uBlock Origin](https://addons.mozilla.org/nl/firefox/addon/ublock-origin) &raquo; [My configuration](data/ublock.txt) including
+  - [HUGE AI Blocklist](https://raw.githubusercontent.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/main/list.txt)
+   - [Legitimate URL Shortener](https://raw.githubusercontent.com/DandelionSprout/adfilt/master/LegitimateURLShortener.txt)
 
 ## Oplossingen
 
