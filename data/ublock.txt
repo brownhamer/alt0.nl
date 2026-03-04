@@ -1,0 +1,63 @@
+{
+  "timeStamp": 1772010895983,
+  "version": "1.69.0",
+  "userSettings": {
+    "externalLists": "https://raw.githubusercontent.com/DandelionSprout/adfilt/master/LegitimateURLShortener.txt\nhttps://raw.githubusercontent.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/main/list.txt",
+    "importedLists": [
+      "https://raw.githubusercontent.com/DandelionSprout/adfilt/master/LegitimateURLShortener.txt",
+      "https://raw.githubusercontent.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/main/list.txt"
+    ]
+  },
+  "selectedFilterLists": [
+    "user-filters",
+    "ublock-filters",
+    "ublock-badware",
+    "ublock-privacy",
+    "ublock-quick-fixes",
+    "ublock-unbreak",
+    "easylist",
+    "adguard-generic",
+    "easyprivacy",
+    "adguard-spyware-url",
+    "block-lan",
+    "urlhaus-1",
+    "curben-phishing",
+    "plowe-0",
+    "fanboy-cookiemonster",
+    "ublock-cookies-easylist",
+    "adguard-cookies",
+    "ublock-cookies-adguard",
+    "fanboy-thirdparty_social",
+    "DEU-0",
+    "NLD-0",
+    "https://raw.githubusercontent.com/DandelionSprout/adfilt/master/LegitimateURLShortener.txt",
+    "https://raw.githubusercontent.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/main/list.txt"
+  ],
+  "hiddenSettings": {},
+  "whitelist": [
+    "alt0.nl",
+    "asml.com",
+    "bunchofbunk.nl",
+    "chrome-extension-scheme",
+    "cm.be",
+    "degoedetweeling.net",
+    "digid.nl",
+    "duckduckgo.com",
+    "here.com",
+    "hetcak.nl",
+    "ing.nl",
+    "itsme-id.com",
+    "kbc.be",
+    "moz-extension-scheme",
+    "nieklin.nl",
+    "ocloud.de",
+    "tweakers.net",
+    "vimexx.nl",
+    "wikipedia.org",
+    "zilverenkruis.nl"
+  ],
+  "dynamicFilteringString": "behind-the-scene * * noop\nbehind-the-scene * inline-script noop\nbehind-the-scene * 1p-script noop\nbehind-the-scene * 3p-script noop\nbehind-the-scene * 3p-frame noop\nbehind-the-scene * image noop\nbehind-the-scene * 3p noop",
+  "urlFilteringString": "",
+  "hostnameSwitchesString": "no-large-media: behind-the-scene false\nno-csp-reports: * true",
+  "userFilters": ""
+}
