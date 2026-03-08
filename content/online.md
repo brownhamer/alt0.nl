@@ -20,6 +20,7 @@ Diverse 'handige' sites met online tools en informatie.
 - [Iconify](https://icon-sets.iconify.design/)
 - [Iconmonstr](https://iconmonstr.com/)
 - [Lago & Urdaneta](https://lagourdaneta.com/)
+- [LibreSpeed](https://librespeed.org/)
 - [Melroy](https://melroy.org/)
 - [Muzikantenbank.NET](https://www.muzikantenbank.net)
 - [Open With](https://www.openwith.org/)
