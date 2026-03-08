@@ -80,6 +80,7 @@ Echter de diverse LLM gebaseerde initiatieven die vanuit Big Tech gepusht worden
 - [Major AI conference flooded with peer reviews written fully by AI](https://www.nature.com/articles/d41586-025-03506-6)
 - [Majority of CEOs report zero payoff from AI splurge](https://www.theregister.com/2026/01/20/pwc_ai_ceo_survey/)
 - [Met AI kan de macht bij een kleine groep terechtkomen](https://www.eoswetenschap.eu/technologie/met-ai-kan-de-macht-bij-een-kleine-groep-terechtkomen)
+- [Microsoft gaat licentiekosten rekenen voor AI-agents, net als voor gebruikers](https://tweakers.net/nieuws/245370/microsoft-gaat-licentiekosten-rekenen-voor-ai-agents-net-als-voor-gebruikers.html)
 - [Microsoft says Office bug exposed customers' confidential emails to Copilot AI](https://techcrunch.com/2026/02/18/microsoft-says-office-bug-exposed-customers-confidential-emails-to-copilot-ai/)
 - [Misleading text in the physical world can hijack AI-enabled robots, cybersecurity study shows](https://news.ucsc.edu/2026/01/misleading-text-can-hijack-ai-enabled-robots/)
 - [Musk negeerde waarschuwingen veiligheidsteam X over pornografisch AI-gebruik](https://tweakers.net/nieuws/244260/musk-negeerde-waarschuwingen-veiligheidsteam-x-over-pornografisch-ai-gebruik.html)
