@@ -28,6 +28,7 @@ Het gaat daarbij niet over verbergen, maar over veiligheid van jou persoonlijke 
 - [Just the Browser](https://justthebrowser.com/)
 - [Nearby Glasses](https://github.com/yjeanrenaud/yj_nearbyglasses)
 - [NOYB](https://noyb.eu/nl)
+- [O&O ShutUp10++](https://www.oo-software.com/en/shutup10)
 - [Password Security info](https://passwordsecurity.info/)
 - [Privacy Guides](https://www.privacyguides.org/)
 - [Privacy Tools](https://privacytools.io/)
