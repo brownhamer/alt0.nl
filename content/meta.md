@@ -27,3 +27,4 @@ En ja, er zijn [ALT0PAGE_alternatieven].
 - [Noorse privacywaakhond geeft Meta 88.000 euro boete per dag voor overtreden AVG](https://tweakers.net/nieuws/211816/noorse-privacywaakhond-geeft-meta-88000-euro-boete-per-dag-voor-overtreden-avg.html)
 - [Social media adolescent addition/personal injury products liability litigation](https://www.lieffcabraser.com/pdf/2025-11-21-Brief-dckt-2480_0.pdf)
 - [Unsealed court documents reveal data anarchy at Meta](https://www.iccl.ie/news/unsealed-court-documents-reveal-data-anarchy-at-meta/)
+- [Uploading Pirated Books via BitTorrent Qualifies as Fair Use, Meta Argues](https://torrentfreak.com/uploading-pirated-books-via-bittorrent-qualifies-as-fair-use-meta/)
