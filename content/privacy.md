@@ -78,4 +78,5 @@ Het gaat daarbij niet over verbergen, maar over veiligheid van jou persoonlijke 
 - [Tire pressure sensors are a huge privacy risk](https://boingboing.net/2026/02/27/tire-pressure-sensors-are-a-huge-privacy-risk.html)
 - [VN-privacychef: wereld nu erger dan 1984 voorspelde](https://www.security.nl/posting/440963/VN-rapporteur%3A+wereld+nu+erger+dan+1984+voorspelde)
 - [Waarom nooit een foto van je boarding pass op social media zetten | Digiwijzer](https://digiwijzer.nl/foto-boarding-pass-social-media/)
+- [White-Box Attacks on PhotoDNA Perceptual Hash Function](https://eprint.iacr.org/2026/486)
 - [X makes cuts to disinformation and election integrity team](https://www.nbcnews.com/tech/tech-news/x-makes-cuts-disinformation-election-integrity-team-rcna117744)
