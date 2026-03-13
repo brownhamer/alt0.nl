@@ -26,6 +26,7 @@ Diverse nieuws gerelateerde sites.
 Diverse sites die zich bezighouden met controleren van feiten.
 
 - [AP Fact Check](https://apnews.com/ap-fact-check)
+- [BBC Verify](https://www.bbc.com/news/bbcverify)
 - [deCheckers](https://decheckers.be/)
 - [FactCheck.org](https://www.factcheck.org/)
 - [Investico](https://www.platform-investico.nl/)
