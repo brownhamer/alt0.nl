@@ -36,3 +36,7 @@ Diverse sites die inzicht geven in meerdere soorten informatie op basis van open
 - [WHO Dashboards](https://data.who.int/dashboards/dashboards)
 - [Worldometer](https://www.worldometers.info/)
 - [Ziekenhuischeck](https://www.ziekenhuischeck.nl/)
+
+## Zo zit het
+
+- [Weak Gun Laws Are Driving Increases in Violent Crime](https://www.americanprogress.org/article/fact-sheet-weak-gun-laws-are-driving-increases-in-violent-crime/)
