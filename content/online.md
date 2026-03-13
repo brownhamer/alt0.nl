@@ -5,6 +5,7 @@ Diverse 'handige' sites met online tools en informatie.
 - [7 String Guitar](https://chord.rocks/7-string-guitar/)
 - [Awesome Rust](https://github.com/rust-unofficial/awesome-rust)
 - [Chris Klomp](https://chrisklomp.nl/)
+- [Code Europe](https://code.europa.eu/)
 - [Creative Music Lab](https://lab.creativemusiclab.com/)
 - [David Zinn](https://zinnart.com/)
 - [DistroSea](https://distrosea.com/)
