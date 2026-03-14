@@ -42,6 +42,7 @@ Naast bovengenoemde applicaties zijn er diverse andere handige programma's die i
 - [Firefox Focus](https://www.firefox.com/nl/browsers/mobile/focus/) &raquo; Android &raquo; Simpele browser zonder tracking.
 - [Launcher](https://github.com/FossifyOrg/Launcher) by Fossify &raquo; Android (tablet) &raquo; Omdat Lawnchair (nog) niet op mijn Samsung tablet werkt.
 - [Lawnchair](https://lawnchair.app/) &raquo; Android (telefoon) &raquo; Prettige, simpele launcher.
+- [LocalSend](https://localsend.org/) &raquo; Android, Linux, Windows &raquo; Snel bestanden overzetten tussen systemen.
 - [MailViewer](https://github.com/alescdb/mailviewer) &raquo; Linux &raquo; Omdat ik de meeste mail als losse ".eml" bestanden bewaar.
 - [Messages](https://github.com/FossifyOrg/Messages) by Fossify &raquo; Android &raquo; Simpele SMS applicatie.
 - [Moshidon](https://lucasggamerm.github.io/moshidon/) &raquo; Android &raquo; Mooi vormgegeven, prettige [Mastodon](https://joinmastodon.org/nl-NL) client.
