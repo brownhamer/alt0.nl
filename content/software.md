@@ -35,6 +35,7 @@ Zie verder ook [ALT0PAGE_alternatieven] voor wat ik sowieso wel gebruik.
 - [GRAM](https://gram.liten.app/)
 - [Guitar Pro](https://www.guitar-pro.com/)
 - [Josh](https://github.com/josh-project/josh)
+- [Maolan](https://maolan.github.io/)
 - [Meld](https://meldmerge.org/)
 - [Memories](https://memories.gallery/)
 - [meta](https://github.com/mateodelnorte/meta) (nee, niet [ALT0PAGE_meta])
