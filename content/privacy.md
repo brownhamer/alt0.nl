@@ -47,6 +47,7 @@ Het gaat daarbij niet over verbergen, maar over veiligheid van jou persoonlijke 
 - [Age Verification: What countries require you to perform ID checks & for what sites and platforms?](https://tuta.com/blog/age-verification-kills-anonymity)
 - [Bedrijf dat leeftijdsverificatie regelt krijgt AVG-boete van bijna 1 miljoen euro](https://www.security.nl/posting/928793/Bedrijf+dat+leeftijdsverificatie+regelt+krijgt+AVG-boete+van+bijna+1+miljoen+euro)
 - [Beveiligingsexpert waarschuwt voor gevaarlijke vakantiefoto](https://www.metronieuws.nl/lifestyle/reizen/2025/07/waarschuwt-voor-gevaarlijke-vakantiefoto/)
+- [Bye bye WhatsApp: Belgische overheid gaat soeverein met Matrix-app BEAM](https://tweakers.net/reviews/14528/bye-bye-whatsapp-belgische-overheid-gaat-soeverein-met-matrix-app-beam.html)
 - [Billionaires Should Not Exist](https://www.teenvogue.com/story/billionaires-should-not-exist)
 - [Botte afperspraktijken door het Amerika van Trump](https://www.nrc.nl/nieuws/2025/12/19/botte-afperspraktijken-door-het-amerika-van-trump-a4915587?gift_token=4915587~1766912635~PHWgLp0IEeKfgABQVoV_mg~EXhD6fZyipnHUt_EejN_JTEgkqPU-tS0tGgGLdBK5_k)
 - [Break all the rules](https://workchronicles.substack.com/p/comic-break-all-the-rules-38e) zoals Big Tech over wetgeving denkt.
