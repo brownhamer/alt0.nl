@@ -115,7 +115,7 @@ Echter de diverse LLM gebaseerde initiatieven die vanuit Big Tech gepusht worden
 - [The new face of fraud: Deepfakes and Impersonation Fraud Risk Guide](https://cee.pwc.com/pdf-nf/Deepfakes_and_Impersonation_Fraud_Combating.pdf)
 - [UGent-rector De Sutter neemt eredoctoraat van Universiteit Amsterdam niet in ontvangst na hetze over valse citaten in speech](https://www.vrt.be/vrtnws/nl/2026/01/08/rector-ugent-petra-de-sutter-artificiele-intelligentie-hallucina/)
 - [US AI giants seem fine with their tech being used to spy on Europeans](https://www.euractiv.com/news/us-ai-giants-seem-fine-with-their-tech-being-used-to-spy-on-europeans/)
-[Valt het onderwijs nog te redden van AI?](https://youtube.com/watch?v=xpedFIZFmhc&is=uQfll-td8bZ28Wcr)
+- [Valt het onderwijs nog te redden van AI?](https://youtube.com/watch?v=xpedFIZFmhc&is=uQfll-td8bZ28Wcr)
 - [Verzekeraars weigeren de risico's van AI-agents te dekken](https://www.agconnect.nl/business/artificial-intelligence/verzekeraars-weigeren-de-risicos-van-ai-agents-te-dekken)
 - [Waarom je AI niet om dieetadvies moet vragen](https://scientias.nl/waarom-je-ai-niet-om-dieetadvies-moet-vragen/)
 - [Waarom je telefoonnummers voor klantenservice in AI-antwoorden niet mag vertrouwen](https://www.bright.nl/nieuws/1720538/waarom-je-telefoonnummers-voor-klantenservice-in-ai-antwoorden-niet-mag-vertrouwen.html)
