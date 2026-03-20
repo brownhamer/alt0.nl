@@ -19,6 +19,7 @@ En ja, er zijn [ALT0PAGE_alternatieven].
 - [Meta - FB, Insta, WhatsApp - will read your DMs and AI chats, rolling out from Dec](https://www.thecanary.co/skwawkbox/2025/11/07/meta-ai-chats/)
 - [Meta and TikTok let harmful content rise after evidence outrage drove engagement - whistleblowers](https://www.bbc.com/news/articles/cqj9kgxqjwjo)
 - [Meta had vanaf september inzage in surfgedrag van Android-gebruikers](https://tweakers.net/nieuws/235760/meta-had-vanaf-september-inzage-in-surfgedrag-van-android-gebruikers.html)
+- [Meta handhaafde advertentieregels te weinig tijdens verkiezingen](https://ibestuur.nl/digitale-toekomst-eu/eu-wetgeving/meta-handhaafde-advertentieregels-te-weinig)
 - [Meta krijgt 265 miljoen euro AVG-boete om gescrapete data van 533 miljoen users](https://tweakers.net/nieuws/203926/meta-krijgt-265-miljoen-euro-avg-boete-om-gescrapete-data-van-533-miljoen-users.html)
 - [Meta moet Duitser 5000 euro schadevergoeding betalen vanwege illegale tracking](https://tweakers.net/nieuws/237058/meta-moet-duitser-5000-euro-schadevergoeding-betalen-vanwege-illegale-tracking.html)
 - [Meta on Trial: How New Mexico's Child-Safety Case Could Change Social Media Forever](https://kancelaria-skarbiec.pl/en/meta-newmexico-trial/)
