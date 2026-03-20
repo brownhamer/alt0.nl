@@ -59,6 +59,7 @@ Echter de diverse LLM gebaseerde initiatieven die vanuit Big Tech gepusht worden
 - [Cop Transforms Into Frog, According To AI-Generated Police Report](https://www.forbes.com/sites/larsdaniel/2026/01/04/cop-transforms-into-frog-according-to-ai-generated-police-report/)
 - [CURL stopt met bugbountyprogramma door 'AI-slop'](https://tweakers.net/nieuws/243634/curl-stopt-met-bugbountyprogramma-door-ai-slop.html)
 - [Datalek: gemeente Eindhoven deelt persoonsgegevens met openbare AI-sites](https://www.omroepbrabant.nl/nieuws/6001041/datalek-gemeente-eindhoven-deelt-persoonsgegevens-met-openbare-ai-websites)
+- [De letter A lijkt te verdwijnen uit AI](https://www.nrc.nl/nieuws/2026/03/20/de-letter-a-lijkt-te-verdwijnen-uit-ai-a4923492), in de toekomst moet je intelligentie kopen...
 - [De nietsontziende race naar kunstmatige intelligentie](https://www.youtube.com/watch?v=ucl6yBFKnBQ)
 - [De onzin die het AI-overzicht van Google presenteert...](https://nl.linkedin.com/posts/piek-knijff_de-onzin-die-het-ai-overzicht-van-google-activity-7400790703372656640-lzs3)
 - [Deepfake-as-a-service to fuel surge in corporate fraud](https://www.scworld.com/brief/report-deepfake-as-a-service-to-fuel-surge-in-corporate-fraud)
@@ -101,6 +102,7 @@ Echter de diverse LLM gebaseerde initiatieven die vanuit Big Tech gepusht worden
 - [Musk negeerde waarschuwingen veiligheidsteam X over pornografisch AI-gebruik](https://tweakers.net/nieuws/244260/musk-negeerde-waarschuwingen-veiligheidsteam-x-over-pornografisch-ai-gebruik.html)
 - [No AI Slops! GNOME Now Forbids Vibe Coded Extensions](https://itsfoss.com/news/no-ai-extension-gnome/)
 - [North Korean Operatives Use Deepfakes in IT Job Interviews](https://www.darkreading.com/remote-workforce/north-korean-operatives-deepfakes-it-job-interviews)
+- [Onderzoekers vinden kwetsbaarheden in systeem dat kinderporno moet opsporen](https://datanews.knack.be/nieuws/security/kwetsbaarheden/onderzoekers-vinden-kwetsbaarheden-in-systeem-dat-kinderporno-moet-opsporen/)
 - [Open source has a big AI slop problem](https://leaddev.com/software-quality/open-source-has-a-big-ai-slop-problem)
 - [OpenAI admits AI hallucinations are mathematically inevitable, not just engineering flaws](https://www.computerworld.com/article/4059383/openai-admits-ai-hallucinations-are-mathematically-inevitable-not-just-engineering-flaws.html)
 - [Oud-hoofdredacteur van NRC gebruikte citaten uit AI-hallucinaties](https://tweakers.net/nieuws/245926/oud-hoofdredacteur-van-nrc-gebruikte-citaten-uit-ai-hallucinaties.html)
