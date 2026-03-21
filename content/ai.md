@@ -79,6 +79,7 @@ Echter de diverse LLM gebaseerde initiatieven die vanuit Big Tech gepusht worden
 - [GitHub ponders kill switch for pull requests to stop AI slop](https://www.theregister.com/2026/02/03/github_kill_switch_pull_requests_ai/)
 - [Google AI Overviews cite YouTube more than any medical site for health queries, study suggests](https://www.theguardian.com/technology/2026/jan/24/google-ai-overviews-youtube-medical-citations-study)
 - [Google API Keys Weren't Secrets. But then Gemini Changed the Rules.](https://trufflesecurity.com/blog/google-api-keys-werent-secrets-but-then-gemini-changed-the-rules)
+- [Google test AI-titels bij nieuwsartikelen in zoekresultaten](https://tweakers.net/nieuws/245966/google-test-ai-titels-bij-nieuwsartikelen-in-zoekresultaten.html)
 - [Grok is spreading inaccurate info again, this time about the Bondi Beach shooting](https://www.engadget.com/ai/grok-is-spreading-inaccurate-info-again-this-time-about-the-bondi-beach-shooting-203946515.html?src=rss)
 - [Grok-chatbot valt door de mand: AI-blunder onderstreept gebrekkige beveiliging](https://draadbreuk.nl/typisch-draadbreuk/grok-chatbot-valt-door-de-mand-ai-blunder-onderstreept-gebrekkige-beveiliging/)
 - [Hoeveel tijd verliezen we door AI te gebruiken? De ‘prutsfactor’ geeft het weer](https://www.eoswetenschap.eu/gezondheid/hoeveel-tijd-verliezen-we-door-ai-te-gebruiken-de-prutsfactor-geeft-het-weer)
