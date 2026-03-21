@@ -38,6 +38,7 @@ Het gaat daarbij niet over verbergen, maar over veiligheid van jou persoonlijke 
 - [PrivacyPack](https://privacypack.org/)
 - [The No More Ransom Project](https://www.nomoreransom.org)
 - [VirusTotal](https://virustotal.com/)
+- [Vrijwel moeiteloos weg van big tech](https://tweakers.net/reviews/14416/fairphone-6-met-e-os-vrijwel-moeiteloos-weg-van-big-tech.html)
 - [VPN Comparison](https://thatoneprivacysite.net/vpn-comparison-chart/)
 
 ## Uitdagingen
@@ -61,6 +62,7 @@ Het gaat daarbij niet over verbergen, maar over veiligheid van jou persoonlijke 
 - [Executive Paywatch](https://aflcio.org/paywatch)
 - [Five Eyes, Nine Eyes, 14 Eyes](https://cyberinsider.com/5-eyes-9-eyes-14-eyes/)
 - [Gmail, Microsoft, Meta, LinkedIn: They already scan your messages - voluntarily!](https://tuta.com/blog/voluntary-scanning-google-microsoft#the-good-and-the-bad)
+- [Google Fulfilled ICE Subpoena Demanding Student Journalist Credit Card Number](https://theintercept.com/2026/02/10/google-ice-subpoena-student-journalist/)
 - [Hackers Expose The Massive Surveillance Stack Hiding Inside Your “Age Verification” Check](https://www.techdirt.com/2026/02/25/hackers-expose-the-massive-surveillance-stack-hiding-inside-your-age-verification-check/)
 - [Historic Chat Control Vote in the EU Parliament: MEPs Vote to End Untargeted Mass Scanning of Private Chats](https://www.patrick-breyer.de/en/historic-chat-control-vote-in-the-eu-parliament-meps-vote-to-end-untargeted-mass-scanning-of-private-chats/)
 - [Hoe de EU kinderen gebruikt voor haar agenda](https://substack.com/home/post/p-170674285)
