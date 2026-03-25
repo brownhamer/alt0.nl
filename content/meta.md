@@ -21,7 +21,7 @@ En ja, er zijn [ALT0PAGE_alternatieven].
 - [Meta had vanaf september inzage in surfgedrag van Android-gebruikers](https://tweakers.net/nieuws/235760/meta-had-vanaf-september-inzage-in-surfgedrag-van-android-gebruikers.html)
 - [Meta handhaafde advertentieregels te weinig tijdens verkiezingen](https://ibestuur.nl/digitale-toekomst-eu/eu-wetgeving/meta-handhaafde-advertentieregels-te-weinig)
 - [Meta krijgt 265 miljoen euro AVG-boete om gescrapete data van 533 miljoen users](https://tweakers.net/nieuws/203926/meta-krijgt-265-miljoen-euro-avg-boete-om-gescrapete-data-van-533-miljoen-users.html)
-- [Meta moet 375 miljoen dollar schadevergoeding betalen na kinderuitbuitingszaak - Tweakers](https://tweakers.net/nieuws/246106/meta-moet-375-miljoen-dollar-schadevergoeding-betalen-na-kinderuitbuitingszaak.html)
+- [Meta moet 375 miljoen dollar schadevergoeding betalen na kinderuitbuitingszaak](https://tweakers.net/nieuws/246106/meta-moet-375-miljoen-dollar-schadevergoeding-betalen-na-kinderuitbuitingszaak.html)
 - [Meta moet Duitser 5000 euro schadevergoeding betalen vanwege illegale tracking](https://tweakers.net/nieuws/237058/meta-moet-duitser-5000-euro-schadevergoeding-betalen-vanwege-illegale-tracking.html)
 - [Meta on Trial: How New Mexico's Child-Safety Case Could Change Social Media Forever](https://kancelaria-skarbiec.pl/en/meta-newmexico-trial/)
 - [Meta users survey found 19% of young teens on Instagram report seeing unwanted nude images](https://www.reuters.com/legal/litigation/meta-survey-found-19-young-teen-instagram-users-saw-unwanted-nude-or-sexual-2026-02-23/)
