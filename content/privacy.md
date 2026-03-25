@@ -25,6 +25,7 @@ Het gaat daarbij niet over verbergen, maar over veiligheid van jou persoonlijke 
 - [Cover Your Tracks](https://coveryourtracks.eff.org/)
 - [Digitale Weerbaarheid](https://www.digitale-weerbaarheid.nl/)
 - [Exodus Privacy](https://exodus-privacy.eu.org/en/)
+- [Fairphone 6 met /e/ OS](https://tweakers.net/reviews/14416/fairphone-6-met-e-os-vrijwel-moeiteloos-weg-van-big-tech.html)
 - [Have I been pwned?](https://haveibeenpwned.com/)
 - [Just Delete Me](https://backgroundchecks.org/justdeleteme/)
 - [Just the Browser](https://justthebrowser.com/)
