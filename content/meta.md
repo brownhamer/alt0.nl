@@ -18,6 +18,7 @@ En ja, er zijn [ALT0PAGE_alternatieven].
 - [Mag Meta bepalen wat jij ziet op Instagram en Facebook? Nee, vindt de rechter](https://decorrespondent.nl/16421/mag-meta-bepalen-wat-jij-ziet-op-instagram-en-facebook-nee-vindt-de-rechter/3a5ebc2a-ba4a-0a90-22f6-cb9a2c021dc5)
 - [Meta - FB, Insta, WhatsApp - will read your DMs and AI chats, rolling out from Dec](https://www.thecanary.co/skwawkbox/2025/11/07/meta-ai-chats/)
 - [Meta and TikTok let harmful content rise after evidence outrage drove engagement - whistleblowers](https://www.bbc.com/news/articles/cqj9kgxqjwjo)
+- [Meta en Google zijn aansprakelijk voor schade door verslaving aan sociale media](https://tweakers.net/nieuws/246140/meta-en-google-zijn-aansprakelijk-voor-schade-door-verslaving-aan-sociale-media.html)
 - [Meta had vanaf september inzage in surfgedrag van Android-gebruikers](https://tweakers.net/nieuws/235760/meta-had-vanaf-september-inzage-in-surfgedrag-van-android-gebruikers.html)
 - [Meta handhaafde advertentieregels te weinig tijdens verkiezingen](https://ibestuur.nl/digitale-toekomst-eu/eu-wetgeving/meta-handhaafde-advertentieregels-te-weinig)
 - [Meta krijgt 265 miljoen euro AVG-boete om gescrapete data van 533 miljoen users](https://tweakers.net/nieuws/203926/meta-krijgt-265-miljoen-euro-avg-boete-om-gescrapete-data-van-533-miljoen-users.html)
