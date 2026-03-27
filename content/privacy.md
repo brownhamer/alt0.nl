@@ -88,6 +88,7 @@ Het gaat daarbij niet over verbergen, maar over veiligheid van jou persoonlijke 
 - [Starlink wijzigt privacy: uw data voedt nu AI](https://itinsights.nl/cybersecurity/starlink-wijzigt-privacy-uw-data-voedt-nu-ai/)
 - [Think of the children](https://en.wikipedia.org/wiki/Think_of_the_children)
 - [Tire pressure sensors are a huge privacy risk](https://boingboing.net/2026/02/27/tire-pressure-sensors-are-a-huge-privacy-risk.html)
+- [Uitspraak in rechtszaak VS legt bom onder verdienmodel YouTube, Insta en TikTok](https://tweakers.net/reviews/14560/uitspraak-in-rechtszaak-vs-legt-bom-onder-verdienmodel-youtube-insta-en-tiktok.html)
 - [VN-privacychef: wereld nu erger dan 1984 voorspelde](https://www.security.nl/posting/440963/VN-rapporteur%3A+wereld+nu+erger+dan+1984+voorspelde)
 - [VS eist bij techreuzen communicatie met Europese autoriteiten op over 'censuur'](https://tweakers.net/nieuws/245830/vs-eist-bij-techreuzen-communicatie-met-europese-autoriteiten-op-over-censuur.html)
 - [Waarom nooit een foto van je boarding pass op social media zetten | Digiwijzer](https://digiwijzer.nl/foto-boarding-pass-social-media/)
