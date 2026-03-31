@@ -92,5 +92,6 @@ Het gaat daarbij niet over verbergen, maar over veiligheid van jou persoonlijke 
 - [VN-privacychef: wereld nu erger dan 1984 voorspelde](https://www.security.nl/posting/440963/VN-rapporteur%3A+wereld+nu+erger+dan+1984+voorspelde)
 - [VS eist bij techreuzen communicatie met Europese autoriteiten op over 'censuur'](https://tweakers.net/nieuws/245830/vs-eist-bij-techreuzen-communicatie-met-europese-autoriteiten-op-over-censuur.html)
 - [Waarom nooit een foto van je boarding pass op social media zetten | Digiwijzer](https://digiwijzer.nl/foto-boarding-pass-social-media/)
+- [White House-app van regering VS blijkt locatie elke paar minuten door te sturen](https://tweakers.net/nieuws/246246/white-house-app-van-regering-vs-blijkt-locatie-elke-paar-minuten-door-te-sturen.html)
 - [White-Box Attacks on PhotoDNA Perceptual Hash Function](https://eprint.iacr.org/2026/486)
 - [X makes cuts to disinformation and election integrity team](https://www.nbcnews.com/tech/tech-news/x-makes-cuts-disinformation-election-integrity-team-rcna117744)
