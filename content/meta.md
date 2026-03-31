@@ -3,6 +3,7 @@
 Diverse artikelen en videos waarom je liever niets met Meta te maken hebt, het bedrijf achter Facebook, Instagram, Threads en WhatsApp.
 En ja, er zijn [ALT0PAGE_alternatieven].
 
+- [Belgische koningshuis vraagt Facebook nepvideo's kroonprinses te verwijderen](https://tweakers.net/nieuws/246250/belgische-koningshuis-vraagt-facebook-nepvideos-kroonprinses-te-verwijderen.html)
 - [Censuur door Meta? Na het blokkeren van lhbti-accounts willen politici uitleg](https://nos.nl/artikel/2594321-censuur-door-meta-na-het-blokkeren-van-lhbti-accounts-willen-politici-uitleg)
 - [Court Filings Allege Meta Downplayed Risks to Children and Misled the Public](https://time.com/7336204/meta-lawsuit-files-child-safety/)
 - [Dit gebeurt er als je ingaat op een nep-advertentie](https://www.youtube.com/watch?v=F8RH9XYCsjk)
