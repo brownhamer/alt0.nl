@@ -11,6 +11,7 @@ Alleen jammer dat de baas gaandeweg wat minder prettig is geworden en bijzondere
 - [Keurings­dien­sten slaan alarm: populair­ste elektri­sche auto massaal afgekeurd. Wat is er aan de hand en wat kan je doen?](https://www.hln.be/mobiliteit/keuringsdiensten-slaan-alarm-populairste-elektrische-auto-massaal-afgekeurd-wat-is-er-aan-de-hand-en-wat-kan-je-doen~a23a3bf0c/)
 - [List of predictions for autonomous Tesla vehicles by Elon Musk](https://en.wikipedia.org/wiki/List_of_predictions_for_autonomous_Tesla_vehicles_by_Elon_Musk)
 - [Major FSD issue](https://teslamotorsclub.com/tmc/threads/major-fsd-issue.344805/)
+- [Tesla Admits Its Robotaxis Are Sometimes Driven by Remote Humans](https://www.wired.com/story/tesla-says-its-robotaxis-are-sometimes-driven-by-humans/)
 - [Tesla Autopilot and Full Self-Driving linked to hundreds of crashes, dozens of deaths](https://www.theverge.com/2024/4/26/24141361/tesla-autopilot-fsd-nhtsa-investigation-report-crash-death)
 - [Tesla FSD gets worse at driving, NHTSA opens new investigation](https://arstechnica.com/cars/2025/10/tesla-fsd-gets-worse-at-driving-nhtsa-opens-new-investigation/)
 - [Tesla Full-Self Driving Software Is A Mess. Should It Be Legal?](https://www.forbes.com/sites/alanohnsman/2025/09/23/teslas-full-self-driving-software-is-a-mess-should-it-be-legal/)
