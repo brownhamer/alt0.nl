@@ -112,7 +112,7 @@ Opstellen benodigde documentatie voor het behalen van ISO-9002 certificatie.
 | ArchiMate 3 Foundation                               | BiZZdesign               | Oktober 2025   | C   |
 | TOGAF Enterprise Architecture (Applied) Practitioner | BiZZdesign               | Juli 2025      | C   |
 | TOGAF Enterprise Architecture Foundation             | BiZZdesign               | April 2025     | C   |
-| SAFe 5 Architect                                     | ...                      | Maart 2022     | C   |
+| SAFe 5 Architect                                     | Gladwell Academy         | Maart 2022     | C   |
 | PSPO 1                                               | Scrum.org                | Maart 2019     | C   |
 | Leadership Essential Program                         | ASML (IBM)               | 2016           | -   |
 | ArchiMate 2 Practitioner                             | BiZZdesign               | Juni 2016      | C   |
