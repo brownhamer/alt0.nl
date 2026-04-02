@@ -125,6 +125,7 @@ Echter de diverse LLM gebaseerde initiatieven die vanuit Big Tech gepusht worden
 - [The new face of fraud: Deepfakes and Impersonation Fraud Risk Guide](https://cee.pwc.com/pdf-nf/Deepfakes_and_Impersonation_Fraud_Combating.pdf)
 - [The Trillion-Dollar Oops](https://no01.substack.com/p/the-trillion-dollar-oops)
 - [UGent-rector De Sutter neemt eredoctoraat van Universiteit Amsterdam niet in ontvangst na hetze over valse citaten in speech](https://www.vrt.be/vrtnws/nl/2026/01/08/rector-ugent-petra-de-sutter-artificiele-intelligentie-hallucina/)
+- [Uitgever Penguin klaagt OpenAI aan om ChatGPT-kopie van Duits kinderboek](https://tweakers.net/nieuws/246370/uitgever-penguin-klaagt-openai-aan-om-chatgpt-kopie-van-duits-kinderboek.html?sort=rating-desc&niv=2&mode=nested&page=1#reacties)
 - [US AI giants seem fine with their tech being used to spy on Europeans](https://www.euractiv.com/news/us-ai-giants-seem-fine-with-their-tech-being-used-to-spy-on-europeans/)
 - [Valt het onderwijs nog te redden van AI?](https://youtube.com/watch?v=xpedFIZFmhc&is=uQfll-td8bZ28Wcr)
 - [Verkeerd advies van een AI-agent leidde tot securityincident bij Meta - Tweakers](https://tweakers.net/nieuws/245920/verkeerd-advies-van-een-ai-agent-leidde-tot-securityincident-bij-meta.html)
