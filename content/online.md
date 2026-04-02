@@ -20,6 +20,7 @@ Diverse 'handige' sites met online tools en informatie.
 - [good first issue](https://goodfirstissue.dev/)
 - [Iconify](https://icon-sets.iconify.design/)
 - [Iconmonstr](https://iconmonstr.com/)
+- [Industrial-Impression](https://industrial-impression.com/)
 - [Lago & Urdaneta](https://lagourdaneta.com/)
 - [LibreSpeed](https://librespeed.org/)
 - [Melroy](https://melroy.org/)
