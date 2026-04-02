@@ -64,6 +64,7 @@ Het gaat daarbij niet over verbergen, maar over veiligheid van jou persoonlijke 
 - [Five Eyes, Nine Eyes, 14 Eyes](https://cyberinsider.com/5-eyes-9-eyes-14-eyes/)
 - [Gmail, Microsoft, Meta, LinkedIn: They already scan your messages - voluntarily!](https://tuta.com/blog/voluntary-scanning-google-microsoft#the-good-and-the-bad)
 - [Google Fulfilled ICE Subpoena Demanding Student Journalist Credit Card Number](https://theintercept.com/2026/02/10/google-ice-subpoena-student-journalist/)
+- [Grandma Wrongly Arrested Due to Facial Recognition Software Finally Released After Months in Jail](https://www.privacyguides.org/news/2026/04/01/grandma-wrongly-arrested-due-to-facial-recognition-software-finally-released-after-months-in-jail/)
 - [Hackers Expose The Massive Surveillance Stack Hiding Inside Your “Age Verification” Check](https://www.techdirt.com/2026/02/25/hackers-expose-the-massive-surveillance-stack-hiding-inside-your-age-verification-check/)
 - [Historic Chat Control Vote in the EU Parliament: MEPs Vote to End Untargeted Mass Scanning of Private Chats](https://www.patrick-breyer.de/en/historic-chat-control-vote-in-the-eu-parliament-meps-vote-to-end-untargeted-mass-scanning-of-private-chats/)
 - [Hoe de EU kinderen gebruikt voor haar agenda](https://substack.com/home/post/p-170674285)
