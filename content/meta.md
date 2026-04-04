@@ -26,6 +26,7 @@ En ja, er zijn [ALT0PAGE_alternatieven].
 - [Meta moet 375 miljoen dollar schadevergoeding betalen na kinderuitbuitingszaak](https://tweakers.net/nieuws/246106/meta-moet-375-miljoen-dollar-schadevergoeding-betalen-na-kinderuitbuitingszaak.html)
 - [Meta moet Duitser 5000 euro schadevergoeding betalen vanwege illegale tracking](https://tweakers.net/nieuws/237058/meta-moet-duitser-5000-euro-schadevergoeding-betalen-vanwege-illegale-tracking.html)
 - [Meta on Trial: How New Mexico's Child-Safety Case Could Change Social Media Forever](https://kancelaria-skarbiec.pl/en/meta-newmexico-trial/)
+- [Meta overweegt stopzetten van financiering Oversight Board na 2028](https://tweakers.net/nieuws/246430/meta-overweegt-stopzetten-van-financiering-oversight-board-na-2028.html)
 - [Meta users survey found 19% of young teens on Instagram report seeing unwanted nude images](https://www.reuters.com/legal/litigation/meta-survey-found-19-young-teen-instagram-users-saw-unwanted-nude-or-sexual-2026-02-23/)
 - [Meta verdient miljarden aan frauduleuze advertenties op Facebook en Instagram](https://www.rtl.nl/nieuws/buitenland/artikel/5537555/meta-verdient-miljarden-aan-frauduleuze-advertenties-op-facebook)
 - [Meta verstopte onderzoek dat wees op negatieve effecten Facebook en Instagram](https://tweakers.net/nieuws/241810/meta-verstopte-onderzoek-dat-wees-op-negatieve-effecten-facebook-en-instagram.html)
