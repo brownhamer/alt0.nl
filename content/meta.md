@@ -33,6 +33,7 @@ En ja, er zijn [ALT0PAGE_alternatieven].
 - [Meta Wants to Scan Every Face You Walk Past](https://blog.adafruit.com/2026/02/14/meta-wants-to-scan-every-face-you-walk-past/)
 - [Nepwebshops kunnen nog volop adverteren bij Meta](https://www.consumentenbond.nl/nieuws/2026/nepwebshops-kunnen-nog-volop-adverteren-bij-meta)
 - [Noorse privacywaakhond geeft Meta 88.000 euro boete per dag voor overtreden AVG](https://tweakers.net/nieuws/211816/noorse-privacywaakhond-geeft-meta-88000-euro-boete-per-dag-voor-overtreden-avg.html)
+- [Plaats winst niet boven het welzijn van TikTok- en Instagram-gebruikers](https://www.bitsoffreedom.nl/2026/03/30/plaats-winst-niet-boven-het-welzijn-van-tiktok-en-instagram-gebruikers/)
 - [Social media adolescent addition/personal injury products liability litigation](https://www.lieffcabraser.com/pdf/2025-11-21-Brief-dckt-2480_0.pdf)
 - [Unsealed court documents reveal data anarchy at Meta](https://www.iccl.ie/news/unsealed-court-documents-reveal-data-anarchy-at-meta/)
 - [Uploading Pirated Books via BitTorrent Qualifies as Fair Use, Meta Argues](https://torrentfreak.com/uploading-pirated-books-via-bittorrent-qualifies-as-fair-use-meta/)
