@@ -21,6 +21,7 @@ Diverse sites die inzicht geven in meerdere soorten informatie op basis van open
 - [Open data Tweede Kamer NL](https://opendata.tweedekamer.nl/)
 - [Open Kamer NL](https://www.openkamer.org/)
 - [Open Lobby NL](https://openlobby.nl/)
+- [OpenFactBook](https://openfactbook.org/)
 - [Open Raadsinformatie](https://zoek.openraadsinformatie.nl/)
 - [OpenTK NL](https://berthub.eu/tkconv/)
 - [Our World in Data](https://ourworldindata.org/)
