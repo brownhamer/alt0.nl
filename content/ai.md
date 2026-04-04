@@ -72,6 +72,7 @@ Echter de diverse LLM gebaseerde initiatieven die vanuit Big Tech gepusht worden
 - [Employees regularly paste company secrets into ChatGPT](https://www.theregister.com/2025/10/07/gen_ai_shadow_it_secrets/)
 - [Encyclopædia Britannica klaagt OpenAI aan vanwege het 'stelen' van content](https://tweakers.net/nieuws/245798/encyclopaedia-britannica-klaagt-openai-aan-vanwege-het-stelen-van-content.html)
 - [Europese Unie werkt aan boete van 1 miljard voor X om desinformatie](https://www.rtl.nl/nieuws/economie/artikel/5502607/europese-unie-boete-x-1-miljard-nyt-desinformatie-overtreden-wet)
+- [Even Microsoft know Copilot can't be trusted](https://www.theregister.com/2026/04/02/copilot_terms_of_service/)
 - [Experts sound alarm after ChatGPT Health fails to recognise medical emergencies](https://www.theguardian.com/technology/2026/feb/26/chatgpt-health-fails-recognise-medical-emergencies)
 - [Felienne](https://www.felienne.nl/) schrijft regelmatig over AI
 - [Finance worker pays out $25 million after video call with deepfake ‘chief financial officer’](https://edition.cnn.com/2024/02/04/asia/deepfake-cfo-scam-hong-kong-intl-hnk)
@@ -134,6 +135,7 @@ Echter de diverse LLM gebaseerde initiatieven die vanuit Big Tech gepusht worden
 - [Waarom je telefoonnummers voor klantenservice in AI-antwoorden niet mag vertrouwen](https://www.bright.nl/nieuws/1720538/waarom-je-telefoonnummers-voor-klantenservice-in-ai-antwoorden-niet-mag-vertrouwen.html)
 - [Wat ChatGPT voor jou bedenkt, bedenkt die voor iedereen](https://scientias.nl/wat-chatgpt-voor-jou-bedenkt-bedenkt-die-voor-iedereen/)
 - [We Will Not Be Divided](https://notdivided.org/)
+- [Why AI lies, cheats and steals](https://www.computerworld.com/article/4153919/why-ai-lies-cheats-and-steals.html)
 - [Wikipedia Bans AI-Generated Content](https://www.404media.co/wikipedia-bans-ai-generated-content/)
 - [Wiz Research Discovers One in Five Organizations Exposed to Systemic Risks in Vibe-Coded Applications](https://www.wiz.io/blog/common-security-risks-in-vibe-coded-apps)
 - [Yale economists see no evidence of AI displacing jobs, raising concerns of employers ‘AI washing’](https://fortune.com/2026/02/02/ai-labor-market-yale-budget-lab-ai-washing/)
