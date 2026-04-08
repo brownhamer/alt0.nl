@@ -25,7 +25,7 @@ $alt0pages = [
 # Links to various sites, also useable in Markdown using [BOBLINK_<key>]
 $alt0links = [
     'alt0' => [
-        'url'  => $HOME.'/',
+        'url'  => $HOME,
         'text' => 'Alt0.nl',
         'icon' => $PATH_TO_ROOT.'/images/favicon/favicon-16.png',
         'tag'  => 'Not to say null!',
