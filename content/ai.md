@@ -49,6 +49,7 @@ Echter de diverse LLM gebaseerde initiatieven die vanuit Big Tech gepusht worden
 - [Anthropic's Claude Code runs code to test if it is safe - which might be a big mistake](https://www.theregister.com/2025/09/09/ai_security_review_risks/)
 - [AP: chatbots noemen bijna nooit lokale politieke partijen bij geven stemadvies - Tweakers](https://tweakers.net/nieuws/245668/ap-chatbots-noemen-bijna-nooit-lokale-politieke-partijen-bij-geven-stemadvies.html)
 - [Ars Technica Fires Reporter After AI Controversy Involving Fabricated Quotes](https://futurism.com/artificial-intelligence/ars-technica-fires-reporter-ai-quotes)
+- [Bankklant zelf verantwoordelijk voor opvolgen advies chatbot](https://www.security.nl/posting/931733/Kifid%3A+bankklant+zelf+verantwoordelijk+voor+opvolgen+advies+chatbot)
 - [Britse politie deelde rapport met door AI gehallucineerde voetbalwedstrijd](https://tweakers.net/geek/243638/britse-politie-deelde-rapport-met-door-ai-gehallucineerde-voetbalwedstrijd.html)
 - [Canadian musician's show cancelled after AI wrongly labels him a sex offender](https://www.nme.com/news/music/canadian-musicians-show-cancelled-after-ai-wrongly-labels-him-a-sex-offender-3920542)
 - [CCC vs GCC](https://harshanu.space/en/tech/ccc-vs-gcc/)
