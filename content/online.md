@@ -32,6 +32,7 @@ Diverse 'handige' sites met online tools en informatie.
 - [Pedal Playground](https://pedalplayground.com/)
 - [Politici op Mastodon](https://www.politici-op-mastodon.nl/)
 - [Prikkert](https://prikkert.nl/)
+- [Puter](https://github.com/HeyPuter/puter)
 - [RefSeek](https://www.refseek.com/)
 - [RegExr](https://regexr.com/)
 - [SoftBits](http://softbits.nl/)
