@@ -24,6 +24,7 @@ Diverse 'handige' sites met online tools en informatie.
 - [Lago & Urdaneta](https://lagourdaneta.com/)
 - [LibreSpeed](https://librespeed.org/)
 - [Melroy](https://melroy.org/)
+- [Museum of Lost Sounds](https://bigsoundbank.com/museumofsounds/)
 - [Muzikantenbank.NET](https://www.muzikantenbank.net)
 - [Open With](https://www.openwith.org/)
 - [Organisations Using ActivityPub](https://jaz.co.uk/projects/orgs-using-ap/)
