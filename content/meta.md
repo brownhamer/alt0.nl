@@ -39,3 +39,4 @@ En ja, er zijn [ALT0PAGE_alternatieven].
 - [The TBOTE Project](https://tboteproject.com/)
 - [Unsealed court documents reveal data anarchy at Meta](https://www.iccl.ie/news/unsealed-court-documents-reveal-data-anarchy-at-meta/)
 - [Uploading Pirated Books via BitTorrent Qualifies as Fair Use, Meta Argues](https://torrentfreak.com/uploading-pirated-books-via-bittorrent-qualifies-as-fair-use-meta/)
+- [WhatsApp-bèta verplaatst Status-posts (en daarmee reclames) naar Chats-tabblad](https://tweakers.net/nieuws/246658/whatsapp-beta-verplaatst-status-posts-en-daarmee-reclames-naar-chats-tabblad.html)
