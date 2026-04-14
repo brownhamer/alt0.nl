@@ -38,6 +38,7 @@ Diverse 'handige' sites met online tools en informatie.
 - [SoftBits](http://softbits.nl/)
 - [stux.me](https://stux.me/)
 - [Tessel](https://play.tessel.at/)
+- [TilburgAns](https://www.tilburgsans.nl/)
 - [Ultimate Guitar](https://www.ultimate-guitar.com/)
 - [Work Chronicles](https://workchronicles.substack.com/archive)
 - [Xikipedia](https://xikipedia.org/)
