@@ -27,6 +27,7 @@ Het gaat daarbij niet over verbergen, maar over veiligheid van jou persoonlijke 
 - [Digitale Weerbaarheid](https://www.digitale-weerbaarheid.nl/)
 - [Exodus Privacy](https://exodus-privacy.eu.org/en/)
 - [Fairphone 6 met /e/ OS](https://tweakers.net/reviews/14416/fairphone-6-met-e-os-vrijwel-moeiteloos-weg-van-big-tech.html)
+- [Global Social Media Age Restriction Tracker](https://social-media-age-tracker.onrender.com/)
 - [Have I been pwned?](https://haveibeenpwned.com/)
 - [Just Delete Me](https://backgroundchecks.org/justdeleteme/)
 - [Just the Browser](https://justthebrowser.com/)
