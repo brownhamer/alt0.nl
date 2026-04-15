@@ -132,6 +132,7 @@ Echter de diverse LLM gebaseerde initiatieven die vanuit Big Tech gepusht worden
 - [Rector universiteit Gent gebruikte door AI gegenereerd nep-citaat van Einstein](https://nos.nl/artikel/2597395-rector-universiteit-gent-gebruikte-door-ai-gegenereerd-nep-citaat-van-einstein)
 - [Scientists invented a fake disease. AI told people it was real](https://www.nature.com/articles/d41586-026-01100-y)
 - [Scottish data centres powering AI already using enough water to fill 27 million bottles a year](https://www.bbc.com/news/articles/c77zxx43x4vo)
+- [Shit](https://ibestuur.nl/data-en-ai/ethiek/shit)
 - [Study finds AI tools made open source software developers 19 percent slower](https://arstechnica.com/ai/2025/07/study-finds-ai-tools-made-open-source-software-developers-19-percent-slower/)
 - [Sycophantic AI decreases prosocial intentions and promotes dependence](https://www.science.org/doi/10.1126/science.aec8352)
 - [Texting a Random Stranger Better for Loneliness Than Talking to a Chatbot, Study Shows](https://www.404media.co/chatgpt-loneliness-study-college-students-random-strangers-texting/)
