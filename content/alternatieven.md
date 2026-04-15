@@ -169,8 +169,9 @@ Overzichten en lijsten van Big Tech alternatieven.
 - [EU Tech Map](https://europeantechmap.eu/)
 - [EUPL](https://interoperable-europe.ec.europa.eu/collection/eupl)
 - [European AI atlas](https://www.aiatlas.eu/)
-- [European Alternatives](https://euroalternative.co/)
-- [European Alternatives](https://european-alternatives.eu/)
+- [European Alternatives](https://euroalternative.co/).co
+- [European Alternatives](https://european-alternatives.cloud/).cloud
+- [European Alternatives](https://european-alternatives.eu/).eu
 - [Exit 50](https://www.exit50.com/)
 - [Fossify](https://www.fossify.org/)
 - [Go European](https://www.goeuropean.org/)
