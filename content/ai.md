@@ -63,6 +63,8 @@ Echter de diverse LLM gebaseerde initiatieven die vanuit Big Tech gepusht worden
 - [ChatGPT is fuelling psychosis, doctors warn](https://www.independent.co.uk/tech/chatgpt-psychosis-nhs-doctors-ai-b2797174.html)
 - [ChatGPT, Claude en Gemini kiezen nucleaire wapens in 95% van wargamesimulaties](https://tweakers.net/nieuws/245098/chatgpt-claude-en-gemini-kiezen-nucleaire-wapens-in-95-procent-van-wargamesimulaties.html#reacties)
 - [ChatGPT's Atlas: The Browser That's Anti-Web](https://www.anildash.com/2025/10/22/atlas-anti-web-browser/)
+- [Claude Code Security and Magecart: Getting the Threat Model Right](https://thehackernews.com/2026/03/claude-code-security-and-magecart.html?m=1)
+- [Claude Code's source reveals extent of system access](https://www.theregister.com/2026/04/01/claude_code_source_leak_privacy_nightmare/)
 - [Cop Transforms Into Frog, According To AI-Generated Police Report](https://www.forbes.com/sites/larsdaniel/2026/01/04/cop-transforms-into-frog-according-to-ai-generated-police-report/)
 - [CURL stopt met bugbountyprogramma door 'AI-slop'](https://tweakers.net/nieuws/243634/curl-stopt-met-bugbountyprogramma-door-ai-slop.html)
 - [Datalek: gemeente Eindhoven deelt persoonsgegevens met openbare AI-sites](https://www.omroepbrabant.nl/nieuws/6001041/datalek-gemeente-eindhoven-deelt-persoonsgegevens-met-openbare-ai-websites)
