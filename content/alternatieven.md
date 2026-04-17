@@ -160,6 +160,7 @@ Overzichten en lijsten van Big Tech alternatieven.
 - [Android-based Operating Systems](https://eylenburg.github.io/android_comparison.htm)
 - [App compatibility on de-Googled devices](https://plexus.techlore.tech/)
 - [Awesome Privacy](https://awesome-privacy.xyz/)
+- [BuiltInEu](https://builtineu.eu/)
 - [Buy European.net](https://buy-european.net/en)
 - [Buy European](https://buyeuropean.io/)
 - [Choose the EU Cloud](https://www.eucloud.tech/)
