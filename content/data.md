@@ -28,6 +28,7 @@ Diverse sites die inzicht geven in meerdere soorten informatie op basis van open
 - [Partijgedrag](https://partijgedrag.nl/)
 - [Reuters Graphics](https://www.reuters.com/graphics/)
 - [RSF index](https://rsf.org/en/index)
+- [RVO Duurzame Mobiliteit](https://duurzamemobiliteit.databank.nl/homeelektrischvervoer.aspx)
 - [Shipmap.org](https://www.shipmap.org/)
 - [Spurious correlations](https://www.tylervigen.com/spurious-correlations)
 - [The Climate Dashboard Dashboard](https://jjk-code-otter.github.io/dashboard-dashboard/)
