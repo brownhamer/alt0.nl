@@ -49,6 +49,7 @@ Het gaat daarbij niet over verbergen, maar over veiligheid van jou persoonlijke 
 - [1 billion personal records in 26 nations just leaked online](https://tech.yahoo.com/cybersecurity/articles/1-billion-personal-records-26-010036242.html)
 - [7 Privacy Wins You Can Get This Weekend](https://itsfoss.com/privacy-wins-linux/)
 - [Age Verification: What countries require you to perform ID checks & for what sites and platforms?](https://tuta.com/blog/age-verification-kills-anonymity)
+- [Atlassian Enables Default Data Collection to Train AI](https://letsdatascience.com/news/atlassian-enables-default-data-collection-to-train-ai-f71343d8)
 - [Bedrijf dat leeftijdsverificatie regelt krijgt AVG-boete van bijna 1 miljoen euro](https://www.security.nl/posting/928793/Bedrijf+dat+leeftijdsverificatie+regelt+krijgt+AVG-boete+van+bijna+1+miljoen+euro)
 - [Beveiligingsexpert waarschuwt voor gevaarlijke vakantiefoto](https://www.metronieuws.nl/lifestyle/reizen/2025/07/waarschuwt-voor-gevaarlijke-vakantiefoto/)
 - [Bye bye WhatsApp: Belgische overheid gaat soeverein met Matrix-app BEAM](https://tweakers.net/reviews/14528/bye-bye-whatsapp-belgische-overheid-gaat-soeverein-met-matrix-app-beam.html)
