@@ -44,4 +44,5 @@ Diverse sites die zich bezighouden met controleren van feiten.
 
 - [De Speld](https://speld.nl/)
 - [NewsThump](https://newsthump.com/)
-- [Nieuwspaal](https://nieuwspaal.nl/)
+- [Nieuwspaal](https://nieuwspaal.nl/
+- [The Vremde Mirror](https://vremdemirror.com/))
