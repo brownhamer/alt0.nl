@@ -115,7 +115,7 @@ Een aantal alternatieven die ik overweeg, of zelfs geprobeerd heb maar die voor 
 - [elementary OS](https://elementary.io/) &raquo; Qua uiterlijk erg mooi, maar toch gekozen voor [Manjaro](https://manjaro.org/).
 - [Ente Photos](https://ente.io/) &raquo; Bij voorkeur heb ik mijn foto's lokaal staan, vooralsnog gekozen voor [Nextcloud](https://nextcloud.com/) via [oCloud](https://ocloud.de/).
 - [FairEmail](https://email.faircode.eu/) &raquo; Werkt fijn, maar gekozen om [Thunderbid](https://www.thunderbird.net/) te gebruiken net als de rest in mijn gezin om ze makkelijker te kunnen ondersteunen.
-- [Fairphone](https://www.fairphone.com/nl) &raquo; Nederlands, maar nog wel [Android](https://www.android.com/) gebaseerd, ook als je de [/e/OS](https://e.foundation/e-os/) variant kiest, dus maar ingeschreven voor de volgende [Jolla](https://jolla.com/) telefoon.
+- [Fairphone](https://www.fairphone.com/nl) &raquo; Nederlands, maar nog wel [Android](https://www.android.com/) gebaseerd, ook als je de [/e/OS](https://e.foundation/e-os/) variant kiest, dus maar ingeschreven voor de volgende [ALT0PAGE_jolla] telefoon.
 - [Firefox Translator](https://github.com/DavidVentura/offline-translator) &raquo; Nog niet af genoeg.
 - [Floorp](https://floorp.app/) &raquo; Voorlopig blijf ik nog trouw aan [Firefox](https://www.firefox.com/nl/).
 - [FlorisBoard](https://florisboard.org/) &raquo; Nog niet af genoeg.
@@ -124,7 +124,7 @@ Een aantal alternatieven die ik overweeg, of zelfs geprobeerd heb maar die voor 
 - [Hazelnut](https://hazelnut.ricardodantas.me/) &raquo; Nog niet aan toe gekomen, maar lijkt me erg handig.
 - [heylogin](https://www.heylogin.com/en) &raquo; [1Password](https://1password.com/) bevalt prima, voor het hele gezin, en Canadees is ook OK (vind ik).
 - [immich](https://immich.app/) &raquo; Bij voorkeur heb ik mijn foto's lokaal staan, vooralsnog gekozen voor [Nextcloud](https://nextcloud.com/) via [oCloud](https://ocloud.de/).
-- [Jolla](https://commerce.jolla.com/) &raquo; Ingeschreven voor de volgende Jolla phone, maar dat duurt nog even.
+- [Jolla](https://commerce.jolla.com/) &raquo; Ingeschreven voor de volgende [ALT0PAGE_jolla] phone, maar dat duurt nog even.
 - [KeeWeb](https://keeweb.info/) &raquo; [1Password](https://1password.com/) bevalt prima, voor het hele gezin, en Canadees is ook OK (vind ik).
 - [Lapce](https://lap.dev/lapce/) &raquo; Nog niet echt geprobeerd.
 - [librephone](https://librephone.fsf.org/site/) &raquo; Verre van af, net begonnen zelfs.
@@ -136,15 +136,15 @@ Een aantal alternatieven die ik overweeg, of zelfs geprobeerd heb maar die voor 
 - [Pebble](https://repebble.com/) &raquo; Leuk, maar ervaring heeft me geleerd dat ik geen horloge draag.
 - [Redox](https://redox-os.org/) &raquo; Iets om in de gaten te houden, maar nog niet klaar voor dagelijks gebruik.
 - [RelaGit](https://rela.dev/) &raquo; Misschien voor als ik van GitHub af ben.
-- [Sailfish OS](https://sailfishos.org/) &raquo; Als de [Jolla](https://commerce.jolla.com/) er is, ik ben benieuwd.
+- [Sailfish OS](https://sailfishos.org/) &raquo; Als de [ALT0PAGE_jolla] er is, ik ben benieuwd.
 - [scrcpy](https://github.com/Genymobile/scrcpy) &raquo; Handig om je Android telefoon te bedienen vanaf je computer, maar zelf heb ik daar niet echt behoefte aan.
 - [Servo](https://servo.org/) &raquo; Actief in de gaten aan het houden als echt alternatief voor [Firefox](https://www.firefox.com/nl/).
 - [Soverin](https://soverin.com/) &raquo; Had al gekozen voor [Posteo](https://posteo.de/en).
 - [The Good Cloud](https://thegood.cloud/individuals/) &raquo; Had al gekozen voor [oCloud](https://ocloud.de/).
 - [Tuta](https://tuta.com/) &raquo; Had al gekozen voor [Posteo](https://posteo.de/en).
 - [Vivaldi](https://vivaldi.com/) &raquo; Gebruikt helaas nog de chromium engine.
-- [Volla](https://volla.online/en/index.php) &raquo; Qua naam bijna hetzelfde, maar dus gekozen voor [Jolla](https://jolla.com/).
-- [Volla Tablet](https://volla.online/de/shop/volla-tablet/) &raquo; Als telefoon gekozen voor [Jolla](https://jolla.com/), maar Volla is een van de weinige leveranciers van een Linux tablet.
+- [Volla](https://volla.online/en/index.php) &raquo; Qua naam bijna hetzelfde, maar dus gekozen voor [ALT0PAGE_jolla].
+- [Volla Tablet](https://volla.online/de/shop/volla-tablet/) &raquo; Als telefoon gekozen voor [ALT0PAGE_jolla], maar Volla is een van de weinige leveranciers van een Linux tablet.
 - [Waydroid](https://waydro.id/) &raquo; Android in een Linux container, geen idee of ik het nodig heb, maar klinkt potentieel handig.
 - [WebBeef browser](https://tangled.org/me.webbeef.org/browser.html/) &raquo; [Servo](https://servo.org/) gebaseerde browser, maar nog niet klaar voor productie.
 - [Wike](https://hugolabe.github.io/Wike/) &raquo; Lokale [Wikipedia](https://nl.wikipedia.org/wiki/Hoofdpagina), met [GNOME Shell](https://en.wikipedia.org/wiki/GNOME_Shell) zoek integratie. Nog niet aan toe gekomen, maar dat gaan we zeker gebruiken.
