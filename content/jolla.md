@@ -11,3 +11,4 @@ Allerlei willekeurige links die (indirect) met de Jolla telefoon of Sailfish OS 
 - [Android AppSupport](https://docs.sailfishos.org/Support/Help_Articles/Android_App_Support/)
 - [Aurora](https://auroraoss.com/)
 - [Jolla Harbour](https://harbour.jolla.com/)
+- Sailfish OS [Mastodon Starter Pack](https://fedidevs.com/s/ODY1/)
