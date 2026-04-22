@@ -79,6 +79,7 @@ Het gaat daarbij niet over verbergen, maar over veiligheid van jou persoonlijke 
 - [Kabinet wil tijdelijke maatregelen terrorismebestrijding permanent maken](https://www.security.nl/posting/929361/Kabinet+wil+tijdelijke+maatregelen+terrorismebestrijding+permanent+maken)
 - [Kenianen kunnen meekijken met wc-bezoek via slimme bril Meta](https://tweakers.net/nieuws/245294/kenianen-kunnen-meekijken-met-wc-bezoek-via-slimme-bril-meta.html)
 - [Meta - FB, Insta, WhatsApp - will read your DMs and AI chats, rolling out from Dec](https://www.thecanary.co/skwawkbox/2025/11/07/meta-ai-chats/)
+- [Meta gaat muisbewegingen en toetsaanslagen werknemers voor AI-training gebruiken](https://tweakers.net/nieuws/247060/meta-gaat-muisbewegingen-en-toetsaanslagen-werknemers-voor-ai-training-gebruiken.html)
 - [Microsoft Gave FBI BitLocker Encryption Keys, Exposing Privacy Flaw](https://www.forbes.com/sites/thomasbrewster/2026/01/22/microsoft-gave-fbi-keys-to-unlock-bitlocker-encrypted-data/)
 - [Nee, je hebt wél iets te verbergen](https://decorrespondent.nl/209/nee-je-hebt-wel-iets-te-verbergen/6428004-ab2d5fc2)
 - [Odido-router stuurde analyticsdata naar Turks AI-bedrijf](https://tweakers.net/nieuws/245620/odido-router-stuurde-analyticsdata-naar-turks-ai-bedrijf.html)
