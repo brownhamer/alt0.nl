@@ -84,6 +84,7 @@ Het gaat daarbij niet over verbergen, maar over veiligheid van jou persoonlijke 
 - [Nee, je hebt wél iets te verbergen](https://decorrespondent.nl/209/nee-je-hebt-wel-iets-te-verbergen/6428004-ab2d5fc2)
 - [Odido-router stuurde analyticsdata naar Turks AI-bedrijf](https://tweakers.net/nieuws/245620/odido-router-stuurde-analyticsdata-naar-turks-ai-bedrijf.html)
 - [OkCupid Settles After Selling 3 Million Photos to a Facial Recognition Company](https://www.privacyguides.org/news/2026/04/05/okcupid-settles-after-selling-3-million-photos-to-a-facial-recognition-company/)
+- [Ouders kunnen 'in komende weken' zien waar tieners over praten met Meta's AI-bot](https://tweakers.net/nieuws/247162/ouders-kunnen-in-komende-weken-zien-waar-tieners-over-praten-met-metas-ai-bot.html)
 - [Overheid VS kocht data van online advertenties om locatie mensen te volgen](https://www.security.nl/posting/927459/Overheid+VS+kocht+data+van+online+advertenties+om+locatie+mensen+te+volgen)
 - [Price of a bot army revealed across hundreds of online platforms](https://www.cam.ac.uk/stories/price-bot-army-global-index)
 - [Privacy preserving age verification” is bullshit](https://pluralistic.net/2025/08/14/bellovin/#wont-someone-think-of-the-cryptographers)
