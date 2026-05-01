@@ -53,7 +53,7 @@ Naast bovengenoemde applicaties zijn er diverse andere handige programma's die i
 - [Resources](https://apps.gnome.org/nl/Resources/) &raquo; Linux &raquo; Mooi vormgegeven systeem bron monitor.
 - [Secure PDF Viewer](https://github.com/GrapheneOS/PdfViewer) &raquo; Android &raquo; Simpele PDF viewer.
 - [Shotwell](https://shotwell-project.org/) &raquo; Linux &raquo; Foto's beheren, voor zover ik dat doe.
-- [Spider](https://github.com/Zaedus/spider) &raquo; Linux &raquo; Website als apps aanmaken, best handig.
+- [Spider](https://github.com/Zaedus/spider) &raquo; Linux &raquo; Site als apps aanmaken, best handig.
 - [Tack](https://patrickzedler.com/tack/) &raquo; Android &raquo; Omdat ik niet heel goed ben in maat houden.
 - [Tessel](https://play.tessel.at/) &raquo; Android &raquo; Het enige computerspelletje dat ik wel eens speel.
 
