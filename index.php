@@ -79,6 +79,14 @@ startHtmlPage($PATH_TO_ROOT, $alt0links['alt0']['text'], $tagpage);
     <?php randomHtmlMusicSymbol(); ?> site by <?php echo textLink('alt0'); ?>
 </div>
 
+<div id="pension"><?php
+$today   = new DateTime(time());
+$pension = new DateTime("2040-06-19");
+$days    = $pension->diff($today)->format("%a");
+
+echo "Nog $days dag(en) tot mijn pensioen.";
+?></div>
+
 <?php #=========================================================================
 endHtmlPage();
 

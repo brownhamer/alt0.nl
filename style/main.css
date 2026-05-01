@@ -67,6 +67,17 @@ div#socials h3, div#sites h3 {
 	display: inline;
 }
 
+div#pension {
+	border: 1px solid rgb(40 40 40 / 60%);
+	background-color: rgb(40 40 40 / 30%);
+	border-radius: 14px;
+	font-family: 'Open Sans', Helvetica, sans-serif;
+	font-size: 0.8rem;
+	margin: 10px 20px 40px;
+	padding: 7px 7px 7px 21px;
+	text-align: center;
+}
+
 div#sidebar {
 	font-family: 'Open Sans', Helvetica, sans-serif;
 }
