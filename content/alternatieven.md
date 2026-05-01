@@ -40,6 +40,7 @@ Naast bovengenoemde applicaties zijn er diverse andere handige programma's die i
 - [Device Info](https://www.deviceinfo.app/) &raquo; Android &raquo; Veel informatie overzichtelijk gepresenteerd.
 - [Easy Voice Recorder](https://www.digipom.com/) &raquo; Android &raquo; Als ik vlug even een deuntje op wil nemen.
 - [Firefox Focus](https://www.firefox.com/nl/browsers/mobile/focus/) &raquo; Android &raquo; Simpele browser zonder tracking.
+- [KMI Weather](https://play.google.com/store/apps/details?id=be.irm.kmi.meteo&hl=en) &raquo; Android &raquo; Het weer.
 - [Launcher](https://github.com/FossifyOrg/Launcher) by Fossify &raquo; Android (tablet) &raquo; Omdat Lawnchair (nog) niet op mijn Samsung tablet werkt.
 - [Lawnchair](https://lawnchair.app/) &raquo; Android (telefoon) &raquo; Prettige, simpele launcher.
 - [LocalSend](https://localsend.org/) &raquo; Android, Linux, Windows &raquo; Snel bestanden overzetten tussen systemen.
@@ -55,7 +56,6 @@ Naast bovengenoemde applicaties zijn er diverse andere handige programma's die i
 - [Spider](https://github.com/Zaedus/spider) &raquo; Linux &raquo; Website als apps aanmaken, best handig.
 - [Tack](https://patrickzedler.com/tack/) &raquo; Android &raquo; Omdat ik niet heel goed ben in maat houden.
 - [Tessel](https://play.tessel.at/) &raquo; Android &raquo; Het enige computerspelletje dat ik wel eens speel.
-- [Yr](https://www.yr.no/nb) &raquo; Android &raquo; Het weer.
 
 ### Overstappen
 
