@@ -36,7 +36,7 @@ Naast bovengenoemde applicaties zijn er diverse andere handige programma's die i
 - [Calculator](https://github.com/FossifyOrg/Calculator) by Fossify &raquo; Android &raquo; Als hoofdrekenen te veel gevraagd is.
 - [Clock](https://github.com/FossifyOrg/Clock) by Fossify &raquo; Android &raquo; Mijn wekker.
 - [Compass](https://github.com/Kr0oked/Compass) &raquo; Android &raquo; De naam zegt het al, simpelweg een kompas.
-- [Contacts' Brithdays](https://play.google.com/store/apps/details?id=org.xjiop.contactsbirthdays) &raquo; Android &raquo; Noooit meer een verjaardag vergeten.
+- [Contacts' Brithdays](https://play.google.com/store/apps/details?id=org.xjiop.contactsbirthdays) &raquo; Android &raquo; Nooit meer een verjaardag vergeten.
 - [Device Info](https://www.deviceinfo.app/) &raquo; Android &raquo; Veel informatie overzichtelijk gepresenteerd.
 - [Easy Voice Recorder](https://www.digipom.com/) &raquo; Android &raquo; Als ik vlug even een deuntje op wil nemen.
 - [Firefox Focus](https://www.firefox.com/nl/browsers/mobile/focus/) &raquo; Android &raquo; Simpele browser zonder tracking.
@@ -52,7 +52,7 @@ Naast bovengenoemde applicaties zijn er diverse andere handige programma's die i
 - [Resources](https://apps.gnome.org/nl/Resources/) &raquo; Linux &raquo; Mooi vormgegeven systeem bron monitor.
 - [Secure PDF Viewer](https://github.com/GrapheneOS/PdfViewer) &raquo; Android &raquo; Simpele PDF viewer.
 - [Shotwell](https://shotwell-project.org/) &raquo; Linux &raquo; Foto's beheren, voor zover ik dat doe.
-- [Spider](https://github.com/Zaedus/spider) &raquo; Linux &raquo; Web als apps aanmaken, best handig.
+- [Spider](https://github.com/Zaedus/spider) &raquo; Linux &raquo; Website als apps aanmaken, best handig.
 - [Tack](https://patrickzedler.com/tack/) &raquo; Android &raquo; Omdat ik niet heel goed ben in maat houden.
 - [Tessel](https://play.tessel.at/) &raquo; Android &raquo; Het enige computerspelletje dat ik wel eens speel.
 - [Yr](https://www.yr.no/nb) &raquo; Android &raquo; Het weer.
@@ -60,7 +60,7 @@ Naast bovengenoemde applicaties zijn er diverse andere handige programma's die i
 ### Overstappen
 
 Voor het opnemen van muziek thuis gebruik(te) ik op Windows [Cubase](https://www.steinberg.net/cubase/), wat helaas niet beschikbaar is voor Linux.
-Gelukkig zijn er alternatieven beschikbaar, waarvan er 3 zijn die het DAW formaat ondersteunen voor import zodat ik oude opnames over kan zetten.
+Gelukkig zijn er alternatieven beschikbaar, waarvan er 3 zijn die het DAW formaat ondersteunen voor import zodat ik oude opnames (makkelijker) over kan zetten.
 
 - [Bitwig](https://www.bitwig.com/)
 - [n-Track](https://ntrack.com/)
@@ -68,7 +68,8 @@ Gelukkig zijn er alternatieven beschikbaar, waarvan er 3 zijn die het DAW formaa
 
 ### Uitzoeken
 
-Sinds de overstap naar IMAP bewaar ik de meeste mail als losse ".eml" bestanden, om het archief op de server wat schoner te houden. Ik moet alleen nog een script schrijven dat nieuwe ".eml" bestanden hernoemt naar "yyyy-mm-dd hh:mm subject ..." formaat, met als datum tijd het moment van verzende/ontvangen van de email.
+Sinds de overstap naar IMAP bewaar ik de meeste mail als losse ".eml" bestanden, om het archief op de server wat schoner te houden.
+Ik moet alleen nog een script schrijven dat nieuwe ".eml" bestanden hernoemt naar "yyyy-mm-dd hh:mm subject ..." formaat, met als datum+tijd het moment van verzenden/ontvangen van de email.
 
 Daarnaast wil ik (ingescande) documenten fatsoenlijk gaan beheren. Daarvoor wil ik iig kijken naar [Paperless-ngx](https://docs.paperless-ngx.com/) en [Papra](https://papra.app/en/).
 
@@ -76,7 +77,8 @@ Daarnaast wil ik (ingescande) documenten fatsoenlijk gaan beheren. Daarvoor wil 
 
 Als multi-effect pedaal gebruik ik de [Neural DSP](https://neuraldsp.com/) [Quad Cortex](https://neuraldsp.com/quad-cortex), waarover ik toch wel prima tevreden ben.
 Alleen, helaas is [Cortex Control](https://neuraldsp.com/cortex-control) niet beschikbaar op Linux, ondanks dat meerdere mensen [hierom vragen](https://unity.neuraldsp.com/t/linux-drivers-and-cortex-control-support/15149).
-Het is te installeren via iets als [Bottles](https://usebottles.com/), maar in Linux wordt het multi-effect pedaal niet als USB device gezien. Nu schijnt het wel te kunnen door [WinApps](https://github.com/winapps-org/winapps) te gebruiken, maar dat heb ik nog niet getest.
+Het is te installeren via iets als [Bottles](https://usebottles.com/), maar in Linux wordt het multi-effect pedaal niet als USB device gezien.
+Nu schijnt het wel te kunnen door [WinApps](https://github.com/winapps-org/winapps) te gebruiken, maar dat is mij nog niet gelukt.
 
 Ondertussen maar [NodeAudio](https://node97.com/) in de gaten houden als mogelijke vervanging van de Quad Cortex.
 
@@ -109,7 +111,7 @@ Hieronder wat keuzes die ik hierin al gemaakt heb.
 
 Een aantal alternatieven die ik overweeg, of zelfs geprobeerd heb maar die voor mij niet brachten wat ik zocht op dat moment, maar wie weet wel in de toekomst.
 
-- [Aerion](https://aerion.3df.io/) &raquo; Intessant alternatief voor [Thunderbird](https://www.thunderbird.net/), ik mis sowieso nog wel de kalender en conacten plugin, maar die staan op de planning.
+- [Aerion](https://aerion.3df.io/) &raquo; Intessant alternatief voor [Thunderbird](https://www.thunderbird.net/), ik mis sowieso nog wel de kalender en contacten plugin, maar die staan op de planning.
 - [AsteroidOS](https://asteroidos.org/) &raquo; Linux voor smartwatches, alleen ik draag eigenlijk nooit een horloge want dat irriteert me tijdens het gitaar spelen.
 - [Bandcamp](https://bandcamp.com/) &raquo; Misshien als alternatief voor [Spotify](https://open.spotify.com/), ik ben niet van de AI muziek en daar lijkt Spotify toch wel van te zijn de laatste tijd.
 - [Codeberg](https://codeberg.org/) &raquo; Over een tijdje, als alternatief voor [GitHub](https://github.com/).
@@ -126,7 +128,7 @@ Een aantal alternatieven die ik overweeg, of zelfs geprobeerd heb maar die voor 
 - [Hazelnut](https://hazelnut.ricardodantas.me/) &raquo; Nog niet aan toe gekomen, maar lijkt me erg handig.
 - [heylogin](https://www.heylogin.com/en) &raquo; [1Password](https://1password.com/) bevalt prima, voor het hele gezin, en Canadees is ook OK (vind ik).
 - [immich](https://immich.app/) &raquo; Bij voorkeur heb ik mijn foto's lokaal staan, vooralsnog gekozen voor [Nextcloud](https://nextcloud.com/) via [oCloud](https://ocloud.de/).
-- [Jolla](https://commerce.jolla.com/) &raquo; Ingeschreven voor de volgende [ALT0PAGE_jolla] phone, maar dat duurt nog even.
+- [Jolla](https://commerce.jolla.com/) &raquo; Ingeschreven voor de volgende [ALT0PAGE_jolla] telefoon, maar dat duurt nog even.
 - [KeeWeb](https://keeweb.info/) &raquo; [1Password](https://1password.com/) bevalt prima, voor het hele gezin, en Canadees is ook OK (vind ik).
 - [Lapce](https://lap.dev/lapce/) &raquo; Nog niet echt geprobeerd.
 - [librephone](https://librephone.fsf.org/site/) &raquo; Verre van af, net begonnen zelfs.

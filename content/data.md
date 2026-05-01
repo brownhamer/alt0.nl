@@ -1,6 +1,6 @@
 # Data
 
-Diverse sites die inzicht geven in meerdere soorten informatie op basis van openbara databronnen.
+Diverse sites die inzicht geven in meerdere soorten informatie op basis van openbare databronnen.
 
 - [AlleCijfers BE](https://allecijfers.be/)
 - [AlleCijfers NL](https://allecijfers.nl/)

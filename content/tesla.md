@@ -1,6 +1,6 @@
 # Tesla
 
-Een bedrijf dat een mooie 'revolutie' heeft gestart richting elctrische auto's.
+Een bedrijf dat een mooie 'revolutie' heeft gestart richting electrische auto's.
 Alleen jammer dat de baas gaandeweg wat minder prettig is geworden en bijzondere keuzes heeft gemaakt.
 
 ## FSD
@@ -23,6 +23,7 @@ Alleen jammer dat de baas gaandeweg wat minder prettig is geworden en bijzondere
 
 ## X
 
-Tja, ook X, het oude Twitter, is niet altijd bepaald een fijn bedrijf. Maar wat wil je met zo'n eigenaar.
+Tja, ook X, het oude Twitter, is niet altijd bepaald een fijn bedrijf.
+Maar wat wil je met zo'n eigenaar.
 
 - [Brusselse rechter geeft X 24.000 euro boete na online laten verkrachtingsvideo](https://tweakers.net/nieuws/246432/brusselse-rechter-geeft-x-24000-euro-boete-na-online-laten-verkrachtingsvideo.html)

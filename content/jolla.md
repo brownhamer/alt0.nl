@@ -1,6 +1,6 @@
 # Jolla
 
-Ik heb me dus ingescherven voor de volgende [Jolla](https://commerce.jolla.com/) telefoon.
+Ik heb me dus ingeschreven voor de volgende [Jolla](https://commerce.jolla.com/) telefoon.
 Deze moet ergens halverwege 2026 binnenkomen.
 Op deze pagina alvast wat informatie die ik aan het verzamelen ben over de Jolla en [Sailfish OS](https://sailfishos.org/).
 
