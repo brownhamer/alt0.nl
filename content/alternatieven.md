@@ -122,7 +122,7 @@ Een aantal alternatieven die ik overweeg, of zelfs geprobeerd heb maar die voor 
 - [Fairphone](https://www.fairphone.com/nl) &raquo; Nederlands, maar nog wel [Android](https://www.android.com/) gebaseerd, ook als je de [/e/OS](https://e.foundation/e-os/) variant kiest, dus maar ingeschreven voor de volgende [ALT0PAGE_jolla] telefoon.
 - [Firefox Translator](https://github.com/DavidVentura/offline-translator) &raquo; Nog niet af genoeg.
 - [Floorp](https://floorp.app/) &raquo; Voorlopig blijf ik nog trouw aan [Firefox](https://www.firefox.com/nl/).
-- [FlorisBoard](https://florisboard.org/) &raquo; Nog niet af genoeg.
+- [FlorisBoard](https://florisboard.org/) &raquo; Nog niet af genoeg, gebruik nu [FUTO Keyboard](https://keyboard.futo.org/).
 - [FossWallet](https://github.com/SeineEloquenz/fosswallet) &raquo; Was al over gegaan naar [Catima](https://catima.app/) en dat bevalt eigenlijk prima, ofschoon ik het eigenlijk nooit gebruik.
 - [GrapheneOS](https://grapheneos.org/) &raquo; Beter dan [Android](https://www.android.com/), maar toch.
 - [Hazelnut](https://hazelnut.ricardodantas.me/) &raquo; Nog niet aan toe gekomen, maar lijkt me erg handig.
