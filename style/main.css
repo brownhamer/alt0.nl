@@ -71,8 +71,9 @@ div#pension {
 	border: 1px solid rgb(40 40 40 / 60%);
 	background-color: rgb(40 40 40 / 30%);
 	border-radius: 14px;
+	color: rgb(180 180 180 / 60%);
 	font-family: 'Open Sans', Helvetica, sans-serif;
-	font-size: 0.8rem;
+	font-size: 0.7rem;
 	margin: 10px 20px 40px;
 	padding: 7px 7px 7px 21px;
 	text-align: center;
