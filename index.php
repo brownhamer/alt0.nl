@@ -80,11 +80,11 @@ startHtmlPage($PATH_TO_ROOT, $alt0links['alt0']['text'], $tagpage);
 </div>
 
 <div id="pension">Nog <?php
-#$today   = new DateTime(time());
-#$pension = new DateTime("2040-06-19");
-#$days    = $pension->diff($today)->format("%a");
+$today   = new DateTime();
+$pension = new DateTime("2040-06-19");
+$days    = $pension->diff($today)->format("%a");
 
-#echo $days;
+echo $days+1; # calculation seems off for some reason?
 ?> dag(en) tot mijn pensioen.</div>
 
 <?php #=========================================================================
