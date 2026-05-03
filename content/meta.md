@@ -4,6 +4,7 @@ Diverse artikelen en videos waarom je liever niets met Meta te maken hebt, het b
 En ja, er zijn [ALT0PAGE_alternatieven].
 
 - [Belgische koningshuis vraagt Facebook nepvideo's kroonprinses te verwijderen](https://tweakers.net/nieuws/246250/belgische-koningshuis-vraagt-facebook-nepvideos-kroonprinses-te-verwijderen.html)
+- [Careless People](https://en.wikipedia.org/wiki/Careless_People)
 - [Censuur door Meta? Na het blokkeren van lhbti-accounts willen politici uitleg](https://nos.nl/artikel/2594321-censuur-door-meta-na-het-blokkeren-van-lhbti-accounts-willen-politici-uitleg)
 - [Court Filings Allege Meta Downplayed Risks to Children and Misled the Public](https://time.com/7336204/meta-lawsuit-files-child-safety/)
 - [Dit gebeurt er als je ingaat op een nep-advertentie](https://www.youtube.com/watch?v=F8RH9XYCsjk)
@@ -11,6 +12,7 @@ En ja, er zijn [ALT0PAGE_alternatieven].
 - [Facebook schandalen](https://www.dedigitaletuin.nl/overig/facebook-schandalen/) (165+)
 - [Facebook, Insta en WhatsApp hebben meer illegale ads na ingrijpen Zuckerberg](https://tweakers.net/nieuws/242656/facebook-insta-en-whatsapp-hebben-meer-illegale-ads-na-ingrijpen-zuckerberg.html)
 - [FBI Document Says the Feds Can Get Your WhatsApp Data — in Real Time](https://www.rollingstone.com/politics/politics-features/whatsapp-imessage-facebook-apple-fbi-privacy-1261816/)
+- [Insta en Facebook voldoen niet aan EU-wet, boete van max 12 miljard euro dreigt](https://tweakers.net/nieuws/247288/insta-en-facebook-voldoen-niet-aan-eu-wet-boete-van-max-12-miljard-euro-dreigt.html)
 - [Intern document: tien procent jaaromzet Meta komt van scams op Insta en Facebook](https://tweakers.net/nieuws/241198/intern-document-tien-procent-jaaromzet-meta-komt-van-scams-op-insta-en-facebook.html)
 - [Israeli AI using WhatsApp data to target Gaza families for bomb strikes](https://skwawkbox.org/2024/04/28/israeli-ai-using-whatsapp-data-to-target-gaza-families-for-bomb-strikes/)
 - [I traced $2 billion in nonprofit grants and 45 states of lobbying records to figure out who's behind the age verification bills](https://old.reddit.com/r/linux/comments/1rshc1f/i_traced_2_billion_in_nonprofit_grants_and_45/)
