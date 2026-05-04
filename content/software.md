@@ -31,6 +31,7 @@ Zie verder ook [ALT0PAGE_alternatieven] voor wat ik wel gebruik (of overweeg).
 - [Files](https://files.community/)
 - [Fossil](https://fossil-scm.org/)
 - [GitSyncMarks](https://github.com/d0dg3r/GitSyncMarks)
+- [Gitte](https://codeberg.org/ckruse/gitte)
 - [GNU make](https://www.gnu.org/software/make/)
 - [GRAM](https://gram.liten.app/)
 - [Guitar Pro](https://www.guitar-pro.com/)
