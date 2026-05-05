@@ -56,6 +56,7 @@ Het gaat daarbij niet over verbergen, maar over veiligheid van jouw persoonlijke
 - [Billionaires Should Not Exist](https://www.teenvogue.com/story/billionaires-should-not-exist)
 - [Botte afperspraktijken door het Amerika van Trump](https://www.nrc.nl/nieuws/2025/12/19/botte-afperspraktijken-door-het-amerika-van-trump-a4915587?gift_token=4915587~1766912635~PHWgLp0IEeKfgABQVoV_mg~EXhD6fZyipnHUt_EejN_JTEgkqPU-tS0tGgGLdBK5_k)
 - [Break all the rules](https://workchronicles.substack.com/p/comic-break-all-the-rules-38e) zoals Big Tech over wetgeving denkt.
+- [Canadian Trump Critic Sues to Stop Google from Sharing Personal Information with Department of Homeland Security](https://www.aclu.org/press-releases/canadian-trump-critic-sues-to-stop-google-from-sharing-personal-information-with-department-of-homeland-security)
 - [CBP Tapped Into the Online Advertising Ecosystem To Track Peoples’ Movements](https://www.404media.co/cbp-tapped-into-the-online-advertising-ecosystem-to-track-peoples-movements/?Fedizen.EU=)
 - [Chat Control Belgium](https://chatcontrol.be/en)
 - [China and the European Union: The End of Strategic Ambiguity](https://lansinginstitute.org/2025/07/24/china-and-the-european-union-the-end-of-strategic-ambiguity/)
@@ -79,6 +80,7 @@ Het gaat daarbij niet over verbergen, maar over veiligheid van jouw persoonlijke
 - [Insecam](http://www.insecam.org/)
 - [Kabinet wil tijdelijke maatregelen terrorismebestrijding permanent maken](https://www.security.nl/posting/929361/Kabinet+wil+tijdelijke+maatregelen+terrorismebestrijding+permanent+maken)
 - [Kenianen kunnen meekijken met wc-bezoek via slimme bril Meta](https://tweakers.net/nieuws/245294/kenianen-kunnen-meekijken-met-wc-bezoek-via-slimme-bril-meta.html)
+- [Kort geding om verkoop DigiD-leverancier gaat woensdag van start](https://tweakers.net/nieuws/247488/kort-geding-om-verkoop-digid-leverancier-gaat-woensdag-van-start.html)
 - [Meta - FB, Insta, WhatsApp - will read your DMs and AI chats, rolling out from Dec](https://www.thecanary.co/skwawkbox/2025/11/07/meta-ai-chats/)
 - [Meta gaat muisbewegingen en toetsaanslagen werknemers voor AI-training gebruiken](https://tweakers.net/nieuws/247060/meta-gaat-muisbewegingen-en-toetsaanslagen-werknemers-voor-ai-training-gebruiken.html)
 - [Microsoft Gave FBI BitLocker Encryption Keys, Exposing Privacy Flaw](https://www.forbes.com/sites/thomasbrewster/2026/01/22/microsoft-gave-fbi-keys-to-unlock-bitlocker-encrypted-data/)
