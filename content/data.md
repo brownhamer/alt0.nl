@@ -18,6 +18,7 @@ Diverse sites die inzicht geven in meerdere soorten informatie op basis van open
 - [Information is Beautiful](https://informationisbeautiful.net/)
 - [KNMI Weerpluimen](https://www.knmi.nl/nederland-nu/weer/waarschuwingen-en-verwachtingen/weer-en-klimaatpluim)
 - [LobbyFacts.eu](https://www.lobbyfacts.eu/)
+- [Maps on the Web](https://mapsontheweb.zoom-maps.com/)
 - [Open data Tweede Kamer NL](https://opendata.tweedekamer.nl/)
 - [Open Kamer NL](https://www.openkamer.org/)
 - [Open Lobby NL](https://openlobby.nl/)
