@@ -114,7 +114,7 @@ Een aantal alternatieven die ik overweeg, of zelfs geprobeerd heb maar die voor 
 - [Aerion](https://aerion.3df.io/) &raquo; Intessant alternatief voor [Thunderbird](https://www.thunderbird.net/), ik mis sowieso nog wel de kalender en contacten plugin, maar die staan op de planning.
 - [AsteroidOS](https://asteroidos.org/) &raquo; Linux voor smartwatches, alleen ik draag eigenlijk nooit een horloge want dat irriteert me tijdens het gitaar spelen.
 - [Bandcamp](https://bandcamp.com/) &raquo; Misshien als alternatief voor [Spotify](https://open.spotify.com/), ik ben niet van de AI muziek en daar lijkt Spotify toch wel van te zijn de laatste tijd.
-- [Codeberg](https://codeberg.org/) &raquo; Over een tijdje, als alternatief voor [GitHub](https://github.com/), mogelijk met [GitNex](https://gitnex.com/) als client op mobiel.
+- [Codeberg](https://codeberg.org/) &raquo; Over een tijdje, als alternatief voor [GitHub](https://github.com/), zeker vanwege [Days Without GitHub Incident](https://www.dayswithoutgithubincident.com/), mogelijk met [GitNex](https://gitnex.com/) als client op mobiel.
 - [Element](https://element.io/en) &raquo; Vooralsnog is [Signal](https://signal.org/) goed genoeg.
 - [elementary OS](https://elementary.io/) &raquo; Qua uiterlijk erg mooi, maar toch gekozen voor [Manjaro](https://manjaro.org/).
 - [Ente Photos](https://ente.io/) &raquo; Bij voorkeur heb ik mijn foto's lokaal staan, vooralsnog gekozen voor [Nextcloud](https://nextcloud.com/) via [oCloud](https://ocloud.de/).
