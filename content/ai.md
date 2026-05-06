@@ -161,7 +161,7 @@ Echter de diverse LLM gebaseerde initiatieven die vanuit Big Tech gepusht worden
 - [The irony of this is that Perplexity is posting this one](https://mastodon.social/@nixCraft/115387473218466349)
 - [The new face of fraud: Deepfakes and Impersonation Fraud Risk Guide](https://cee.pwc.com/pdf-nf/Deepfakes_and_Impersonation_Fraud_Combating.pdf)
 - [The Trillion-Dollar Oops](https://no01.substack.com/p/the-trillion-dollar-oops)
-- [Typical Microsoft! Turns Out VS Code Was Adding Copilot as a Git Co-Author Without Telling Anyone](https://itsfoss.com/news/vs-code-credits-copilot-for-human-work/)
+- [Typical Microsoft! Turns Out Visual Studio Code Was Adding Copilot as a Git Co-Author Without Telling Anyone](https://itsfoss.com/news/vs-code-credits-copilot-for-human-work/)
 - [UGent-rector De Sutter neemt eredoctoraat van Universiteit Amsterdam niet in ontvangst na hetze over valse citaten in speech](https://www.vrt.be/vrtnws/nl/2026/01/08/rector-ugent-petra-de-sutter-artificiele-intelligentie-hallucina/)
 - [Uitgever Penguin klaagt OpenAI aan om ChatGPT-kopie van Duits kinderboek](https://tweakers.net/nieuws/246370/uitgever-penguin-klaagt-openai-aan-om-chatgpt-kopie-van-duits-kinderboek.html?sort=rating-desc&niv=2&mode=nested&page=1#reacties)
 - [US AI giants seem fine with their tech being used to spy on Europeans](https://www.euractiv.com/news/us-ai-giants-seem-fine-with-their-tech-being-used-to-spy-on-europeans/)
