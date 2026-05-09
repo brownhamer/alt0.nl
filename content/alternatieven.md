@@ -45,6 +45,7 @@ Naast bovengenoemde applicaties zijn er diverse andere handige programma's die i
 - [Lawnchair](https://lawnchair.app/) &raquo; Android (telefoon) &raquo; Prettige, simpele launcher.
 - [LocalSend](https://localsend.org/) &raquo; Android, Linux, Windows &raquo; Snel bestanden overzetten tussen systemen.
 - [MailViewer](https://github.com/alescdb/mailviewer) &raquo; Linux &raquo; Omdat ik de meeste mail als losse ".eml" bestanden bewaar.
+- [MakeACopy](https://github.com/egdels/makeacopy) &raquo; Android &raquo; Foto naar document met OCR.
 - [Messages](https://github.com/FossifyOrg/Messages) by Fossify &raquo; Android &raquo; Simpele SMS applicatie.
 - [Moshidon](https://lucasggamerm.github.io/moshidon/) &raquo; Android &raquo; Mooi vormgegeven, prettige [Mastodon](https://joinmastodon.org/nl-NL) client.
 - [Phone](https://github.com/FossifyOrg/Phone) by Fossify &raquo; Android &raquo; Gewoon bellen, zonder de nummers door te geven aan Google.
