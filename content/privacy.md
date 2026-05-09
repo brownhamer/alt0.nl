@@ -39,6 +39,7 @@ Het gaat daarbij niet over verbergen, maar over veiligheid van jouw persoonlijke
 - [Privacy Tools](https://privacytools.io/)
 - [Privacy voor een beginner](https://privacy.vooreenbeginner.nl/)
 - [PrivacyPack](https://privacypack.org/)
+- [taken](https://sinceyouarrived.world/taken)
 - [The No More Ransom Project](https://www.nomoreransom.org)
 - [VirusTotal](https://virustotal.com/)
 - [Vrijwel moeiteloos weg van big tech](https://tweakers.net/reviews/14416/fairphone-6-met-e-os-vrijwel-moeiteloos-weg-van-big-tech.html)
