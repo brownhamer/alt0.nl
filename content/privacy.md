@@ -79,6 +79,7 @@ Het gaat daarbij niet over verbergen, maar over veiligheid van jouw persoonlijke
 - [How a French judge was digitally cut off by the USA](https://www.heise.de/en/news/How-a-French-judge-was-digitally-cut-off-by-the-USA-11087561.html)
 - [I Verified My LinkedIn Identity. Here's What I Actually Handed Over.](https://thelocalstack.eu/posts/linkedin-identity-verification-privacy/)
 - [Insecam](http://www.insecam.org/)
+- [Jouw Samsung of LG smart-tv bespioneert je: privacy te koop voor een goedkopere televisie?](https://www.totaaltv.nl/nieuws/jouw-samsung-of-lg-smarttv-bespioneert-je-privacy-te-koop-voor-een-goedkopere-televisie/)
 - [Kabinet wil tijdelijke maatregelen terrorismebestrijding permanent maken](https://www.security.nl/posting/929361/Kabinet+wil+tijdelijke+maatregelen+terrorismebestrijding+permanent+maken)
 - [Kenianen kunnen meekijken met wc-bezoek via slimme bril Meta](https://tweakers.net/nieuws/245294/kenianen-kunnen-meekijken-met-wc-bezoek-via-slimme-bril-meta.html)
 - [Kort geding om verkoop DigiD-leverancier gaat woensdag van start](https://tweakers.net/nieuws/247488/kort-geding-om-verkoop-digid-leverancier-gaat-woensdag-van-start.html)
