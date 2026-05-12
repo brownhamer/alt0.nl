@@ -45,7 +45,7 @@ Echter de diverse LLM gebaseerde initiatieven die vanuit Big Tech gepusht worden
 - [AI-browsers zijn bijzonder kwetsbaar: prompts in screenshots verstopt](https://www.bright.nl/nieuws/1704264/ai-browsers-zijn-bijzonder-kwetsbaar-prompts-in-screenshots-verstopt.html)
 - [AI-gebruik door verzekeraars leidt tot onverklaarbare prijsverschillen](https://www.security.nl/posting/936040/%27AI-gebruik+door+verzekeraars+leidt+tot+onverklaarbare+prijsverschillen%27)
 - [AI-powered penetration tool, an attacker's dream, downloaded 10K times in 2 months](https://www.theregister.com/2025/09/11/cobalt_strikes_ai_successor_downloaded/)
-- [AI-securitytool Mythos claimt 5 kwetsbaarheden in curl, maar 4 zijn onterecht](https://tweakers.net/nieuws/247684/ai-securitytool-mythos-claimt-5-kwetsbaarheden-in-curl-maar-4-zijn-onterecht.html)
+- [AI-securitytool Mythos claimt 5 kwetsbaarheden in cURL, maar 4 zijn onterecht](https://tweakers.net/nieuws/247684/ai-securitytool-mythos-claimt-5-kwetsbaarheden-in-curl-maar-4-zijn-onterecht.html)
 - [AI-slop bedelft opensource onder rommelcode: 'Niet beperken wie kan bijdragen' - Achtergrond](https://tweakers.net/reviews/14468/ai-slop-bedelft-opensource-onder-rommelcode-niet-beperken-wie-kan-bijdragen.html)
 - [AI-topvrouw Meta wist per ongeluk honderden emails met OpenClaw](https://tweakers.net/geek/245068/ai-topvrouw-meta-wist-per-ongeluk-honderden-e-mails-met-openclaw.html)
 - [AI‑video blijkt te duur om te bestaan: waarom OpenAI stopt met Sora](https://tweakers.net/reviews/14558/ai-video-blijkt-te-duur-om-te-bestaan-waarom-openai-stopt-met-sora.html)
