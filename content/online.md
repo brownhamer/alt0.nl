@@ -41,6 +41,7 @@ Diverse 'handige' sites met online tools en informatie.
 - [Tessel](https://play.tessel.at/)
 - [TilburgAns](https://www.tilburgsans.nl/)
 - [Ultimate Guitar](https://www.ultimate-guitar.com/)
+- [Wandelroutes](https://www.kempen.be/wandelroutes)
 - [Work Chronicles](https://workchronicles.substack.com/archive)
 - [Xikipedia](https://xikipedia.org/)
 

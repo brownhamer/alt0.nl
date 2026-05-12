@@ -19,6 +19,7 @@ Diverse sites die inzicht geven in meerdere soorten informatie op basis van open
 - [KNMI Weerpluimen](https://www.knmi.nl/nederland-nu/weer/waarschuwingen-en-verwachtingen/weer-en-klimaatpluim)
 - [LobbyFacts.eu](https://www.lobbyfacts.eu/)
 - [Maps on the Web](https://mapsontheweb.zoom-maps.com/)
+- [Mededelingen](https://mijn.overheid.nl/mededelingen)
 - [Open data Tweede Kamer NL](https://opendata.tweedekamer.nl/)
 - [Open Kamer NL](https://www.openkamer.org/)
 - [Open Lobby NL](https://openlobby.nl/)
