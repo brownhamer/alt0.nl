@@ -49,6 +49,7 @@ Het gaat daarbij niet over verbergen, maar over veiligheid van jouw persoonlijke
 
 - [1 billion personal records in 26 nations just leaked online](https://tech.yahoo.com/cybersecurity/articles/1-billion-personal-records-26-010036242.html)
 - [7 Privacy Wins You Can Get This Weekend](https://itsfoss.com/privacy-wins-linux/)
+- [113 Zelfmoordpreventie zet analysetools uit, deelde gegevens bezoeker met derden](https://tweakers.net/nieuws/247816/113-zelfmoordpreventie-zet-analysetools-uit-deelde-gegevens-bezoeker-met-derden.html)
 - [Age Verification: What countries require you to perform ID checks & for what sites and platforms?](https://tuta.com/blog/age-verification-kills-anonymity)
 - [Atlassian Enables Default Data Collection to Train AI](https://letsdatascience.com/news/atlassian-enables-default-data-collection-to-train-ai-f71343d8)
 - [Bedrijf dat leeftijdsverificatie regelt krijgt AVG-boete van bijna 1 miljoen euro](https://www.security.nl/posting/928793/Bedrijf+dat+leeftijdsverificatie+regelt+krijgt+AVG-boete+van+bijna+1+miljoen+euro)
@@ -99,6 +100,7 @@ Het gaat daarbij niet over verbergen, maar over veiligheid van jouw persoonlijke
 - [Rogue communication devices found in Chinese solar power inverters](https://www.reuters.com/sustainability/climate-energy/ghost-machine-rogue-communication-devices-found-chinese-inverters-2025-05-14/)
 - [Ruim 60 procent gemeentewebsites deelt illegaal data met Google](https://tweakers.net/nieuws/245784/ruim-60-procent-gemeentewebsites-deelt-illegaal-data-met-google.html?sort=rating-desc&niv=2&mode=nested&page=1)
 - [Seizure of Sally Mann photographs in Texas revives old debates about obscenity and freedom of expression](https://theconversation.com/seizure-of-sally-manns-photographs-in-texas-revives-old-debates-about-obscenity-and-freedom-of-expression-247321)
+- [Smart glasses are 'an invasion of privacy' - Meta's are selling better than ever](https://www.bbc.com/news/articles/cj37z8357e5o)
 - [Starlink wijzigt privacy: uw data voedt nu AI](https://itinsights.nl/cybersecurity/starlink-wijzigt-privacy-uw-data-voedt-nu-ai/)
 - [Think of the children](https://en.wikipedia.org/wiki/Think_of_the_children)
 - [Tire pressure sensors are a huge privacy risk](https://boingboing.net/2026/02/27/tire-pressure-sensors-are-a-huge-privacy-risk.html)
