@@ -4,6 +4,7 @@ Diverse sites die inzicht geven in meerdere soorten informatie op basis van open
 
 - [AlleCijfers BE](https://allecijfers.be/)
 - [AlleCijfers NL](https://allecijfers.nl/)
+- [arXiv.org](https://arxiv.org/)
 - [CBS NL](https://www.cbs.nl/nl-nl)
 - [Datagraver](https://datagraver.com/)
 - [Dataregister NL](https://data.overheid.nl/)
