@@ -12,6 +12,7 @@ Diverse sites die inzicht geven in meerdere soorten informatie op basis van open
 - [De Data Dame](https://www.datadame.nl/)
 - [Delpher](https://www.delpher.nl/)
 - [developer.overheid.nl](https://developer.overheid.nl/)
+- [EU Budget Transparency Dashboard](https://eubudget.com/)
 - [Eurostat](https://ec.europa.eu/eurostat)
 - [F-Droid Top Downloads](https://grote.gitlab.io/fdroid-metrics-distilled/)
 - [FediDB](https://fedidb.com/)
