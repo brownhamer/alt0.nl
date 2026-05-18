@@ -33,6 +33,7 @@ Daarbij zijn sommige stukken software die ik gebruik(te) op Windows ook beschikb
 Naast bovengenoemde applicaties zijn er diverse andere handige programma's die ik gebruik.
 
 - [Apostrophe](https://apps.gnome.org/nl/Apostrophe/) &raquo; Linux &raquo; Bewerken van Markdown met preview.
+- [Bazaar](https://flathub.org/en/apps/io.github.kolunmi.Bazaar/) &raquo; Linux &raquo; Flatpak marktplaats, soms net wat handiger dan [Pamac](https://github.com/manjaro/pamac).
 - [Calculator](https://github.com/FossifyOrg/Calculator) by Fossify &raquo; Android &raquo; Als hoofdrekenen te veel gevraagd is.
 - [Clock](https://github.com/FossifyOrg/Clock) by Fossify &raquo; Android &raquo; Mijn wekker.
 - [Compass](https://github.com/Kr0oked/Compass) &raquo; Android &raquo; De naam zegt het al, simpelweg een kompas.
@@ -115,7 +116,7 @@ Een aantal alternatieven die ik overweeg, of zelfs geprobeerd heb maar die voor 
 - [Aerion](https://aerion.3df.io/) &raquo; Intessant alternatief voor [Thunderbird](https://www.thunderbird.net/), ik mis sowieso nog wel de kalender en contacten plugin, maar die staan op de planning.
 - [AsteroidOS](https://asteroidos.org/) &raquo; Linux voor smartwatches, alleen ik draag eigenlijk nooit een horloge want dat irriteert me tijdens het gitaar spelen.
 - [Bandcamp](https://bandcamp.com/) &raquo; Misshien als alternatief voor [Spotify](https://open.spotify.com/), ik ben niet van de AI muziek en daar lijkt Spotify toch wel van te zijn de laatste tijd.
-- [Codeberg](https://codeberg.org/) &raquo; Over een tijdje, als alternatief voor [GitHub](https://github.com/), zeker vanwege [Days Without GitHub Incident](https://www.dayswithoutgithubincident.com/), mogelijk met [GitNex](https://gitnex.com/) als client op mobiel.
+- [Codeberg](https://codeberg.org/) &raquo; Over een tijdje, als alternatief voor [GitHub](https://github.com/), zeker vanwege [Days Without GitHub Incident](https://www.dayswithoutgithubincident.com/), mogelijk met [GitNex](https://gitnex.com/) als client op mobiel en [Gitte](https://codeberg.org/ckruse/Gitte) op de desktop.
 - [Element](https://element.io/en) &raquo; Vooralsnog is [Signal](https://signal.org/) goed genoeg.
 - [elementary OS](https://elementary.io/) &raquo; Qua uiterlijk erg mooi, maar toch gekozen voor [Manjaro](https://manjaro.org/).
 - [Ente Photos](https://ente.io/) &raquo; Bij voorkeur heb ik mijn foto's lokaal staan, vooralsnog gekozen voor [Nextcloud](https://nextcloud.com/) via [oCloud](https://ocloud.de/).
