@@ -38,6 +38,7 @@ En ja, er zijn [ALT0PAGE_alternatieven].
 - [Meta verdient miljarden aan frauduleuze advertenties op Facebook en Instagram](https://www.rtl.nl/nieuws/buitenland/artikel/5537555/meta-verdient-miljarden-aan-frauduleuze-advertenties-op-facebook)
 - [Meta verstopte onderzoek dat wees op negatieve effecten Facebook en Instagram](https://tweakers.net/nieuws/241810/meta-verstopte-onderzoek-dat-wees-op-negatieve-effecten-facebook-en-instagram.html)
 - [Meta Wants to Scan Every Face You Walk Past](https://blog.adafruit.com/2026/02/14/meta-wants-to-scan-every-face-you-walk-past/)
+- [Nederlandse politie waarschuwt voor nepwinkels in ads op Instagram en Facebook](https://tweakers.net/nieuws/247918/nederlandse-politie-waarschuwt-voor-nepwinkels-in-ads-op-instagram-en-facebook.html)
 - [Nepwebshops kunnen nog volop adverteren bij Meta](https://www.consumentenbond.nl/nieuws/2026/nepwebshops-kunnen-nog-volop-adverteren-bij-meta)
 - [Noorse privacywaakhond geeft Meta 88.000 euro boete per dag voor overtreden AVG](https://tweakers.net/nieuws/211816/noorse-privacywaakhond-geeft-meta-88000-euro-boete-per-dag-voor-overtreden-avg.html)
 - [Ouders kunnen 'in komende weken' zien waar tieners over praten met Meta's AI-bot](https://tweakers.net/nieuws/247162/ouders-kunnen-in-komende-weken-zien-waar-tieners-over-praten-met-metas-ai-bot.html)
