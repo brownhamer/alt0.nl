@@ -40,6 +40,7 @@ Diverse sites die inzicht geven in meerdere soorten informatie op basis van open
 - [The Climate Dashboard Dashboard](https://jjk-code-otter.github.io/dashboard-dashboard/)
 - [Thuisarts.nl](https://www.thuisarts.nl/)
 - [Verkiezingsuitslagen NL](https://www.verkiezingsuitslagen.nl/)
+- [Wetboek Plus](https://wetboekplus.nl/)
 - [Waarzitwatin.nl](https://waarzitwatin.nl/)
 - [WHO Dashboards](https://data.who.int/dashboards/dashboards)
 - [Worldometer](https://www.worldometers.info/)
