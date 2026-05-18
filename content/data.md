@@ -2,6 +2,7 @@
 
 Diverse sites die inzicht geven in meerdere soorten informatie op basis van openbare databronnen.
 
+- [Algoritmeregister](https://algoritmes.overheid.nl/nl)
 - [AlleCijfers BE](https://allecijfers.be/)
 - [AlleCijfers NL](https://allecijfers.nl/)
 - [arXiv.org](https://arxiv.org/)
