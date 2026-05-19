@@ -3,6 +3,7 @@
 Diverse artikelen en videos waarom je liever niets met Meta te maken hebt, het bedrijf achter Facebook, Instagram, Threads en WhatsApp.
 En ja, er zijn [ALT0PAGE_alternatieven].
 
+- [BanRay.eu — Your face is not inventory](https://banray.eu/en/index.html)
 - [Belgische koningshuis vraagt Facebook nepvideo's kroonprinses te verwijderen](https://tweakers.net/nieuws/246250/belgische-koningshuis-vraagt-facebook-nepvideos-kroonprinses-te-verwijderen.html)
 - [Careless People](https://en.wikipedia.org/wiki/Careless_People)
 - [Censuur door Meta? Na het blokkeren van lhbti-accounts willen politici uitleg](https://nos.nl/artikel/2594321-censuur-door-meta-na-het-blokkeren-van-lhbti-accounts-willen-politici-uitleg)

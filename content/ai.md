@@ -64,6 +64,7 @@ Echter de diverse LLM gebaseerde initiatieven die vanuit Big Tech gepusht worden
 - [As if the plate wasn't already full, AI is about to worsen the global e-waste crisis](https://www.digitaltrends.com/cool-tech/as-if-the-plate-wasnt-already-full-ai-is-about-to-worsen-the-global-e-waste-crisis/)
 - [Atlassian Enables Default Data Collection to Train AI](https://letsdatascience.com/news/atlassian-enables-default-data-collection-to-train-ai-f71343d8)
 - [Bankklant zelf verantwoordelijk voor opvolgen advies chatbot](https://www.security.nl/posting/931733/Kifid%3A+bankklant+zelf+verantwoordelijk+voor+opvolgen+advies+chatbot)
+- [BanRay.eu — Your face is not inventory](https://banray.eu/en/index.html)
 - [Bosses Are Blowing More Money on AI Agents Than It'd Cost Them to Just Pay Human Workers](https://futurism.com/artificial-intelligence/bosses-more-money-ai-agents-human-salary)
 - [Britse politie deelde rapport met door AI gehallucineerde voetbalwedstrijd](https://tweakers.net/geek/243638/britse-politie-deelde-rapport-met-door-ai-gehallucineerde-voetbalwedstrijd.html)
 - [Canadese violist klaagt Google aan omdat AI-overzicht hem zedendelinquent noemde](https://tweakers.net/nieuws/247492/canadese-violist-klaagt-google-aan-omdat-ai-overzicht-hem-zedendelinquent-noemde.html)
