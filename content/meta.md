@@ -42,6 +42,7 @@ En ja, er zijn [ALT0PAGE_alternatieven].
 - [Nederlandse politie waarschuwt voor nepwinkels in ads op Instagram en Facebook](https://tweakers.net/nieuws/247918/nederlandse-politie-waarschuwt-voor-nepwinkels-in-ads-op-instagram-en-facebook.html)
 - [Nepwebshops kunnen nog volop adverteren bij Meta](https://www.consumentenbond.nl/nieuws/2026/nepwebshops-kunnen-nog-volop-adverteren-bij-meta)
 - [Noorse privacywaakhond geeft Meta 88.000 euro boete per dag voor overtreden AVG](https://tweakers.net/nieuws/211816/noorse-privacywaakhond-geeft-meta-88000-euro-boete-per-dag-voor-overtreden-avg.html)
+- [Organisaties eisen dat Meta stopt met verwijderen queer accounts](https://nos.nl/artikel/2615097-organisaties-eisen-dat-meta-stopt-met-verwijderen-queer-accounts)
 - [Ouders kunnen 'in komende weken' zien waar tieners over praten met Meta's AI-bot](https://tweakers.net/nieuws/247162/ouders-kunnen-in-komende-weken-zien-waar-tieners-over-praten-met-metas-ai-bot.html)
 - [Plaats winst niet boven het welzijn van TikTok- en Instagram-gebruikers](https://www.bitsoffreedom.nl/2026/03/30/plaats-winst-niet-boven-het-welzijn-van-tiktok-en-instagram-gebruikers/)
 - [Smart glasses are 'an invasion of privacy' - Meta's are selling better than ever](https://www.bbc.com/news/articles/cj37z8357e5o)
