@@ -67,7 +67,7 @@ Het gaat daarbij niet over verbergen, maar over veiligheid van jouw persoonlijke
 - [Chinese groep plaatste in mei blijvende backdoors op Citrix NetScaler-systemen](https://tweakers.net/nieuws/238610/chinese-groep-plaatste-in-mei-blijvende-backdoors-op-citrix-netscaler-systemen.html)
 - [Claude Code's source reveals extent of system access](https://www.theregister.com/2026/04/01/claude_code_source_leak_privacy_nightmare/)
 - [Consumentenbond: Google, Meta en TikTok laten malafide advertenties staan](https://www.security.nl/posting/937625/Consumentenbond%3A+Google%2C+Meta+en+TikTok+laten+malafide+advertenties+staan)
-- [Cookies, identifiers and other data that google silently stores on android handsets](https://www.sciencedirect.com/science/article/pii/S016740482600026X)
+- [Cookies, identifiers and other data that google silently stores on Android handsets](https://www.sciencedirect.com/science/article/pii/S016740482600026X)
 - [De Amerikaanse overheid gebruikt FISA 702 en EO 12333 om andere overheden af te luisteren.](https://mastodon.nl/@bert_hubert/115646029814078518)
 - [EFF: geen verrassing als Big Tech ook bij chatcontrole EU-wetgeving schendt](https://www.security.nl/posting/931670/EFF%3A+geen+verrassing+als+Big+Tech+ook+bij+chatcontrole+EU-wetgeving+schendt)
 - [Euro firms must ditch Uncle Sam's clouds and go EU-native](https://www.theregister.com/2026/01/30/euro_firms_must_ditch_us/)
