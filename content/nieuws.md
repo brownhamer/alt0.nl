@@ -43,6 +43,7 @@ Diverse sites die zich bezighouden met controleren van feiten.
 ## Satire
 
 - [De Speld](https://speld.nl/)
+- [Feitig](https://www.feitig.nl/)
 - [NewsThump](https://newsthump.com/)
 - [Nieuwspaal](https://nieuwspaal.nl/)
 - [The Vremde Mirror](https://vremdemirror.com/)
