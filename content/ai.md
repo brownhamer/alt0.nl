@@ -11,6 +11,7 @@ Echter de diverse LLM gebaseerde initiatieven die vanuit Big Tech gepusht worden
 - [AI Risk Management Framework](https://www.nist.gov/itl/ai-risk-management-framework)
 - [ai.robots.txt](https://github.com/ai-robots-txt/ai.robots.txt/tree/main)
 - [Disable AI (Firefox)](https://addons.mozilla.org/en-US/firefox/addon/disable-ai/)
+- [EcoLogits Calculator](https://huggingface.co/spaces/genai-impact/ecologits-calculator)
 - [How to disable Gemini on Android, Gmail, Chrome, Photos, and Google apps. Opt out of AI tracking now!](https://tuta.com/blog/how-to-disable-gemini-on-android)
 - [Huge AI blocklist](https://raw.githubusercontent.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/main/list.txt)
 - [Is AI Profitable Yet?](https://isaiprofitable.com/)
