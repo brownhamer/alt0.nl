@@ -97,6 +97,8 @@ Het gaat daarbij niet over verbergen, maar over veiligheid van jouw persoonlijke
 - [Microsoft deelt namen van Nederlandse ambtenaren die werken aan DSA met VS](https://tweakers.net/nieuws/248118/microsoft-deelt-namen-van-nederlandse-ambtenaren-die-werken-aan-dsa-met-vs.html)
 - [Microsoft Gave FBI BitLocker Encryption Keys, Exposing Privacy Flaw](https://www.forbes.com/sites/thomasbrewster/2026/01/22/microsoft-gave-fbi-keys-to-unlock-bitlocker-encrypted-data/)
 - [Minister: end-to-end encryptie biedt privacy, maar hindert bestrijding criminaliteit](https://www.security.nl/posting/937117/Minister%3A+end-to-end+encryptie+biedt+privacy%2C+maar+hindert+bestrijding+criminaliteit)
+- [Nederland blokkeert overname DigiD-hoster Solvinity door Amerikaans IT-bedrijf](https://tweakers.net/nieuws/248186/nederland-blokkeert-overname-digid-hoster-solvinity-door-amerikaans-it-bedrijf.html)
+- [Nederlandse ministeries moeten van X af, vinden chefs van afdeling voorlichting](https://tweakers.net/nieuws/248176/nederlandse-ministeries-moeten-van-x-af-vinden-chefs-van-afdeling-voorlichting.html)
 - [Nee, je hebt wél iets te verbergen](https://decorrespondent.nl/209/nee-je-hebt-wel-iets-te-verbergen/6428004-ab2d5fc2)
 - [Odido-router stuurde analyticsdata naar Turks AI-bedrijf](https://tweakers.net/nieuws/245620/odido-router-stuurde-analyticsdata-naar-turks-ai-bedrijf.html)
 - [OkCupid Settles After Selling 3 Million Photos to a Facial Recognition Company](https://www.privacyguides.org/news/2026/04/05/okcupid-settles-after-selling-3-million-photos-to-a-facial-recognition-company/)
