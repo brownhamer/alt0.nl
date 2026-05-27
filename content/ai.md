@@ -204,6 +204,7 @@ Echter de diverse LLM gebaseerde initiatieven die vanuit Big Tech gepusht worden
 - [Winkels verkopen honderden AI-boeken van Nederlander zonder AI-vermelding](https://tweakers.net/nieuws/247794/winkels-verkopen-honderden-ai-boeken-van-nederlander-zonder-ai-vermelding.html)
 - [Wiz Research Discovers One in Five Organizations Exposed to Systemic Risks in Vibe-Coded Applications](https://www.wiz.io/blog/common-security-risks-in-vibe-coded-apps)
 - [Yale economists see no evidence of AI displacing jobs, raising concerns of employers ‘AI washing’](https://fortune.com/2026/02/02/ai-labor-market-yale-budget-lab-ai-washing/)
+- [You’re about to feel the AI money squeeze](https://www.theverge.com/ai-artificial-intelligence/917380/ai-monetization-anthropic-openai-token-economics-revenue)
 - [You're paying AI companies a monthly subscription fee to be fingerprinted like a parolee.](https://infosec.exchange/@k3ym0/116161635202253362)
 - [Your AI Use Is Breaking My Brain](https://www.404media.co/your-ai-use-is-breaking-my-brain/)
 - [Your Brain on ChatGPT](https://www.media.mit.edu/publications/your-brain-on-chatgpt/)
