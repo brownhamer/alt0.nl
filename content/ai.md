@@ -20,6 +20,7 @@ Echter de diverse LLM gebaseerde initiatieven die vanuit Big Tech gepusht worden
 - [Open Source AI](https://opensource.org/ai)
 - [Refusal to Review](https://irisvanrooijcogsci.com/2026/04/08/refusal-to-review/)
 - [Remove Windows Ai](https://github.com/zoicware/RemoveWindowsAI)
+- [Take Back Control](https://knightsofmolino.bandcamp.com/track/take-back-control)
 
 ## Uitdagingen
 
