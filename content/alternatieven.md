@@ -107,7 +107,7 @@ Hieronder wat keuzes die ik hierin al gemaakt heb.
 - Todo: ~~Microsoft To Do~~ &raquo; [ZenKit To Do](https://zenkit.com/en/todo/)
 - Vertalen: ~~Google Translate~~ &raquo; [DeepL](https://www.deepl.com/en/translator)
 - Wachtwoorden: ~~Lastpass~~ &raquo; [1Password](https://1password.com/)
-- Zoeken: ~~Google~~ &raquo; [Startpage](https://startpage.com/)
+- Zoeken: ~~Google~~ &raquo; [DuckDuckGo](https://noai.duckduckgo.com/)
 
 ## Kandidaten
 
