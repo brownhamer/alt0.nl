@@ -20,6 +20,7 @@ Het gaat daarbij niet over verbergen, maar over veiligheid van jouw persoonlijke
 - [AndroidClaim.nl](https://androidclaim.nl/nl)
 - [Awesome Privacy](https://pluja.github.io/awesome-privacy/)
 - [Awesome Privacy](https://awesome-privacy.xyz/) xyz
+- [Barbara Kathmann](https://www.barbarakathmann.nl/) als ze van de [PvdD](https://www.partijvoordedieren.nl/) was zou ik op haar stemmen
 - [Basisbeveiliging.nl](https://basisbeveiliging.nl/)
 - [Betterfox](https://github.com/yokoffing/Betterfox)
 - [BrowserLeaks.com](https://browserleaks.com/)
@@ -41,6 +42,7 @@ Het gaat daarbij niet over verbergen, maar over veiligheid van jouw persoonlijke
 - [Privacy voor een beginner](https://privacy.vooreenbeginner.nl/)
 - [PrivacyPack](https://privacypack.org/)
 - [taken](https://sinceyouarrived.world/taken)
+- [The Firewall](https://www.thefirewall.eu/)
 - [The No More Ransom Project](https://www.nomoreransom.org)
 - [VirusTotal](https://virustotal.com/)
 - [Vrijwel moeiteloos weg van big tech](https://tweakers.net/reviews/14416/fairphone-6-met-e-os-vrijwel-moeiteloos-weg-van-big-tech.html)
@@ -69,6 +71,7 @@ Het gaat daarbij niet over verbergen, maar over veiligheid van jouw persoonlijke
 - [Consumentenbond: Google, Meta en TikTok laten malafide advertenties staan](https://www.security.nl/posting/937625/Consumentenbond%3A+Google%2C+Meta+en+TikTok+laten+malafide+advertenties+staan)
 - [Cookies, identifiers and other data that google silently stores on Android handsets](https://www.sciencedirect.com/science/article/pii/S016740482600026X)
 - [De Amerikaanse overheid gebruikt FISA 702 en EO 12333 om andere overheden af te luisteren.](https://mastodon.nl/@bert_hubert/115646029814078518)
+- [Drogisten sturen massaal gevoelige informatie naar Facebook en Google](https://www.platform-investico.nl/onderzoeken/drogisten-delen-massaal-gevoelige-informatie-met-facebook-en-google)
 - [EFF: geen verrassing als Big Tech ook bij chatcontrole EU-wetgeving schendt](https://www.security.nl/posting/931670/EFF%3A+geen+verrassing+als+Big+Tech+ook+bij+chatcontrole+EU-wetgeving+schendt)
 - [Euro firms must ditch Uncle Sam's clouds and go EU-native](https://www.theregister.com/2026/01/30/euro_firms_must_ditch_us/)
 - [Europees Parlement opgeroepen om verlenging 'chatcontrole 1.0' te verwerpen](https://www.security.nl/posting/925989/Europees+Parlement+opgeroepen+om+verlenging+%27chatcontrole+1_0%27+te+verwerpen)
