@@ -90,6 +90,7 @@ Echter de diverse LLM gebaseerde initiatieven die vanuit Big Tech gepusht worden
 - [Claude Code's source reveals extent of system access](https://www.theregister.com/2026/04/01/claude_code_source_leak_privacy_nightmare/)
 - [Claude Desktop changes software permissions without consent](https://www.theregister.com/2026/04/20/anthropic_claude_desktop_spyware_allegation/)
 - [Comment and Control aanval gebruikt GitHub-comments tegen AI-agents](https://www.security.nl/posting/933007/%22Comment+and+Control%22+aanval+gebruikt+GitHub-comments+tegen+AI-agents)
+- [Company accidentally spent $500 million on Claude AI in one month after forgetting usage limits](https://techstartups.com/2026/05/28/company-accidentally-spent-500-million-on-claude-ai-in-one-month-after-forgetting-usage-limits/)
 - [Cop Transforms Into Frog, According To AI-Generated Police Report](https://www.forbes.com/sites/larsdaniel/2026/01/04/cop-transforms-into-frog-according-to-ai-generated-police-report/)
 - [cURL stopt met bugbountyprogramma door 'AI-slop'](https://tweakers.net/nieuws/243634/curl-stopt-met-bugbountyprogramma-door-ai-slop.html)
 - [cURL Toe to Toe With Mythos: Big Nothingburger Leaves Bad Taste](https://www.flyingpenguin.com/curl-toe-to-toe-with-mythos-big-nothingburger-leaves-bad-taste/)
