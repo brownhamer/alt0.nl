@@ -40,6 +40,7 @@ Naast bovengenoemde applicaties zijn er diverse andere handige programma's die i
 - [Contacts' Brithdays](https://play.google.com/store/apps/details?id=org.xjiop.contactsbirthdays) &raquo; Android &raquo; Nooit meer een verjaardag vergeten.
 - [Device Info](https://www.deviceinfo.app/) &raquo; Android &raquo; Veel informatie overzichtelijk gepresenteerd.
 - [Easy Voice Recorder](https://www.digipom.com/) &raquo; Android &raquo; Als ik vlug even een deuntje op wil nemen.
+- [eza](https://github.com/eza-community/eza) &raquo; Linux &raquo; Moderne versie van ls met kleurtjes en Git ondersteuning.
 - [Firefox Focus](https://www.firefox.com/nl/browsers/mobile/focus/) &raquo; Android &raquo; Simpele browser zonder tracking.
 - [KMI Weather](https://play.google.com/store/apps/details?id=be.irm.kmi.meteo&hl=en) &raquo; Android &raquo; Het weer.
 - [Launcher](https://github.com/FossifyOrg/Launcher) by Fossify &raquo; Android (tablet) &raquo; Omdat Lawnchair (nog) niet op mijn Samsung tablet werkt.
