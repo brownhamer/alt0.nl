@@ -69,6 +69,8 @@ Gelukkig zijn er alternatieven beschikbaar, waarvan er 3 zijn die het DAW formaa
 - [n-Track](https://ntrack.com/)
 - [Studio One](https://www.presonus.com/pages/studio-one-pro)
 
+Van de andere kant is er natuurlijk [Zrythm](https://www.zrythm.org/) wat een mooi Open Source alternatief lijkt te worden.
+
 ### Uitzoeken
 
 Sinds de overstap naar IMAP bewaar ik de meeste mail als losse ".eml" bestanden, om het archief op de server wat schoner te houden.
