@@ -116,6 +116,7 @@ Echter de diverse LLM gebaseerde initiatieven die vanuit Big Tech gepusht worden
 - [Experts sound alarm after ChatGPT Health fails to recognise medical emergencies](https://www.theguardian.com/technology/2026/feb/26/chatgpt-health-fails-recognise-medical-emergencies)
 - [Felienne](https://www.felienne.nl/) schrijft regelmatig over AI
 - [Finance worker pays out $25 million after video call with deepfake ‘chief financial officer’](https://edition.cnn.com/2024/02/04/asia/deepfake-cfo-scam-hong-kong-intl-hnk)
+- [Florida sleept ChatGPT-ontwikkelaar OpenAI voor de rechter](https://nos.nl/artikel/2616818-florida-sleept-chatgpt-ontwikkelaar-openai-voor-de-rechter)
 - [Generalization bias in large language model summarization of scientific research](https://royalsocietypublishing.org/rsos/article/12/4/241776/235656/Generalization-bias-in-large-language-model)
 - [Gentoo Linux ruilt Microsofts GitHub in voor Codeberg vanwege Copilot](https://tweakers.net/nieuws/244818/gentoo-linux-ruilt-microsofts-github-in-voor-codeberg-vanwege-copilot.html)
 - [GitHub Copilot beperkt abonnementen met introductie AI Credits](https://tweakers.net/nieuws/247228/github-copilot-beperkt-abonnementen-met-introductie-ai-credits.html)
@@ -128,6 +129,7 @@ Echter de diverse LLM gebaseerde initiatieven die vanuit Big Tech gepusht worden
 - [Google wil dat je stopt met zoeken via Google](https://tweakers.net/reviews/14778/google-wil-dat-je-stopt-met-zoeken-via-google.html?sort=rating-desc&niv=2&mode=nested&page=1)
 - [Grok is spreading inaccurate info again, this time about the Bondi Beach shooting](https://www.engadget.com/ai/grok-is-spreading-inaccurate-info-again-this-time-about-the-bondi-beach-shooting-203946515.html?src=rss)
 - [Grok-chatbot valt door de mand: AI-blunder onderstreept gebrekkige beveiliging](https://draadbreuk.nl/typisch-draadbreuk/grok-chatbot-valt-door-de-mand-ai-blunder-onderstreept-gebrekkige-beveiliging/)
+- [Hackers Simply Asked Meta AI to Give Them Access to High-Profile Instagram Accounts. It Worked](https://www.404media.co/hackers-simply-asked-meta-ai-to-give-them-access-to-high-profile-instagram-accounts-it-worked/)
 - [Hoeveel tijd verliezen we door AI te gebruiken? De ‘prutsfactor’ geeft het weer](https://www.eoswetenschap.eu/gezondheid/hoeveel-tijd-verliezen-we-door-ai-te-gebruiken-de-prutsfactor-geeft-het-weer)
 - [How malicious AI swarms can threaten democracy: The fusion of agentic AI and LLMs marks a new frontier in information warfare](https://arxiv.org/abs/2506.06299)
 - [How much electricity does AI consume?](https://hannahritchie.substack.com/p/ai-electricity-2025)

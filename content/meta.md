@@ -15,6 +15,7 @@ En ja, er zijn [ALT0PAGE_alternatieven].
 - [Facebook, Insta en WhatsApp hebben meer illegale ads na ingrijpen Zuckerberg](https://tweakers.net/nieuws/242656/facebook-insta-en-whatsapp-hebben-meer-illegale-ads-na-ingrijpen-zuckerberg.html)
 - [FBI Document Says the Feds Can Get Your WhatsApp Data — in Real Time](https://www.rollingstone.com/politics/politics-features/whatsapp-imessage-facebook-apple-fbi-privacy-1261816/)
 - [Google, Meta, TikTok hit by EU consumer complaints about handling of financial scams](https://www.reuters.com/legal/litigation/google-meta-tiktok-face-eu-consumer-complaints-about-handling-financial-scams-2026-05-21/)
+- [Hackers Simply Asked Meta AI to Give Them Access to High-Profile Instagram Accounts. It Worked](https://www.404media.co/hackers-simply-asked-meta-ai-to-give-them-access-to-high-profile-instagram-accounts-it-worked/)
 - [Insta en Facebook voldoen niet aan EU-wet, boete van max 12 miljard euro dreigt](https://tweakers.net/nieuws/247288/insta-en-facebook-voldoen-niet-aan-eu-wet-boete-van-max-12-miljard-euro-dreigt.html)
 - [Intern document: tien procent jaaromzet Meta komt van scams op Insta en Facebook](https://tweakers.net/nieuws/241198/intern-document-tien-procent-jaaromzet-meta-komt-van-scams-op-insta-en-facebook.html)
 - [Israeli AI using WhatsApp data to target Gaza families for bomb strikes](https://skwawkbox.org/2024/04/28/israeli-ai-using-whatsapp-data-to-target-gaza-families-for-bomb-strikes/)
