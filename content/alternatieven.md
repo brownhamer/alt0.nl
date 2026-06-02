@@ -24,7 +24,7 @@ Daarbij zijn sommige stukken software die ik gebruik(te) op Windows ook beschikb
 - Notities &raquo; [Nextcloud notes](https://apps.nextcloud.com/apps/notes) &raquo; [Iotas](https://apps.gnome.org/Iotas/)
 - Office &raquo; [LibreOffice](https://www.libreoffice.org/) &raquo; [beschikbaar](https://www.libreoffice.org/download/download-libreoffice/)
 - Social &raquo; [Mastodon](https://mastodon.nl) &raquo; [Tuba](https://github.com/GeopJr/Tuba)
-- Todo &raquo; [Zenkit To Do](https://zenkit.com/en/todo/) &raquo; [als WebApp](https://todo.zenkit.com)
+- Todo &raquo; [Super Productivity](https://super-productivity.com) &raquo; [beschikbaar](https://super-productivity.com/download/)
 - VPN &raquo; [Mullvad](https://mullvad.net) &raquo; [beschikbaar](https://mullvad.net/en/help/install-mullvad-app-linux)
 - Wachtwoorden &raquo; [1Password](https://1password.com) &raquo; [beschikbaar](https://1password.com/downloads/linux)
 
@@ -107,7 +107,7 @@ Hieronder wat keuzes die ik hierin al gemaakt heb.
 - Office: ~~Microsoft Office 365~~ &raquo; [LibreOffice](https://www.libreoffice.org/)
 - Pasjes: ~~Google Waller~~ &raquo; [Catima](https://catima.app/)
 - Social: ~~Twitter~~ &raquo; [Mastodon](https://mastodon.nl/)
-- Todo: ~~Microsoft To Do~~ &raquo; [ZenKit To Do](https://zenkit.com/en/todo/)
+- Todo: ~~Microsoft To Do~~ &raquo; [Super Productivity](https://super-productivity.com)
 - Vertalen: ~~Google Translate~~ &raquo; [DeepL](https://www.deepl.com/en/translator)
 - Wachtwoorden: ~~Lastpass~~ &raquo; [1Password](https://1password.com/)
 - Zoeken: ~~Google~~ &raquo; [DuckDuckGo](https://noai.duckduckgo.com/)
@@ -138,7 +138,7 @@ Een aantal alternatieven die ik overweeg, of zelfs geprobeerd heb maar die voor 
 - [Lapce](https://lap.dev/lapce/) &raquo; Nog niet echt geprobeerd.
 - [librephone](https://librephone.fsf.org/site/) &raquo; Verre van af, net begonnen zelfs.
 - [LibreWolf](https://librewolf.net/) &raquo; Voorlopig blijf ik nog trouw aan [Firefox](https://www.firefox.com/nl/).
-- [Lunatask](https://lunatask.app/) &raquo; Mooi, breed beschikbaar, [ZenKit To Do](https://zenkit.com/en/todo/) werkt voor mij alleen al meer dan voldoende.
+- [Lunatask](https://lunatask.app/) &raquo; Mooi, breed beschikbaar, [Super Productivity](https://super-productivity.com) werkt voor mij alleen al meer dan voldoende.
 - [mosa.cloud](https://mosa.cloud/) &raquo; Nog in beta en waarschijnlijk meer dan ik nodig heb.
 - [Notesnook](https://notesnook.com/) &raquo; Prima, meer dan ik nodig had, [Nextcloud Notes](https://apps.nextcloud.com/apps/notes) is goed genoeg (en gewoon [Markdown](https://en.wikipedia.org/wiki/Markdown) gebaseerd).
 - [OpenCommit](https://opencommit.eu/) &raquo; Is denk ik niet voor mijn gebruik bedoelt.
