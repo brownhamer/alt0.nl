@@ -112,6 +112,7 @@ Het gaat daarbij niet over verbergen, maar over veiligheid van jouw persoonlijke
 - [Privacyexpert: overheid dringt steeds dieper het privéleven van burgers binnen](https://www.security.nl/posting/910437/Privacyexpert%3A+overheid+dringt+steeds+dieper+het+priv%C3%A9leven+van+burgers+binnen)
 - [Programmeur gluurt per ongeluk bij duizenden huizen naar binnen via slecht beveiligde robotstof­zuigers](https://www.volkskrant.nl/tech/programmeur-gluurt-per-ongeluk-bij-duizenden-huizen-naar-binnen-via-slecht-beveiligde-robotstof-zuigers~b74d5253/)
 - [Resist and Unsubscribe](https://www.resistandunsubscribe.com/)
+- [Ring in VS aangeklaagd over gezichtsherkenning deurbelcamera's](https://www.security.nl/posting/939193/Ring+in+VS+aangeklaagd+over+gezichtsherkenning+deurbelcamera%27s)
 - [Rogue communication devices found in Chinese solar power inverters](https://www.reuters.com/sustainability/climate-energy/ghost-machine-rogue-communication-devices-found-chinese-inverters-2025-05-14/)
 - [Ruim 60 procent gemeentewebsites deelt illegaal data met Google](https://tweakers.net/nieuws/245784/ruim-60-procent-gemeentewebsites-deelt-illegaal-data-met-google.html?sort=rating-desc&niv=2&mode=nested&page=1)
 - [Seizure of Sally Mann photographs in Texas revives old debates about obscenity and freedom of expression](https://theconversation.com/seizure-of-sally-manns-photographs-in-texas-revives-old-debates-about-obscenity-and-freedom-of-expression-247321)
