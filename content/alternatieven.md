@@ -189,6 +189,7 @@ Overzichten en lijsten van Big Tech alternatieven.
 - [Go European](https://www.goeuropean.org/)
 - [Made in Canada Directory](https://madeincanadadirectory.ca/)
 - [Open Source Alternatives](https://www.opensourcealternative.to/)
+- [Open Source Software Library](https://www.linuxassociation.ca/library.php)
 - [Opt out of global surveillance](https://prism-break.org/en/)
 - [Self-Hosted Software](https://selfh.st/apps/)
 - [switching.software](https://switching.software/)
