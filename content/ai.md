@@ -156,6 +156,7 @@ Echter de diverse LLM gebaseerde initiatieven die vanuit Big Tech gepusht worden
 - [Marked Pedagogies: Examining Linguistic Biases in Personalized Automated Writing Feedback](https://arxiv.org/pdf/2603.12471)
 - [Measuring the Impact of Early-2025 AI on Experienced Open-Source Developer Productivity](https://metr.org/blog/2025-07-10-early-2025-ai-experienced-os-dev-study/)
 - [Met AI kan de macht bij een kleine groep terechtkomen](https://www.eoswetenschap.eu/technologie/met-ai-kan-de-macht-bij-een-kleine-groep-terechtkomen)
+- [Meta AI-app bevat code voor functie die gezichten kan herkennen via Meta-bril](https://tweakers.net/nieuws/248780/meta-ai-app-bevat-code-voor-functie-die-gezichten-kan-herkennen-via-meta-bril.html)
 - [Microsoft gaat licentiekosten rekenen voor AI-agents, net als voor gebruikers](https://tweakers.net/nieuws/245370/microsoft-gaat-licentiekosten-rekenen-voor-ai-agents-net-als-voor-gebruikers.html)
 - [Microsoft says bug causes Copilot to summarize confidential emails](https://www.bleepingcomputer.com/news/microsoft/microsoft-says-bug-causes-copilot-to-summarize-confidential-emails/)
 - [Microsoft says Office bug exposed customers' confidential emails to Copilot AI](https://techcrunch.com/2026/02/18/microsoft-says-office-bug-exposed-customers-confidential-emails-to-copilot-ai/)

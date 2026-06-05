@@ -26,6 +26,7 @@ En ja, er zijn [ALT0PAGE_alternatieven].
 - [Kenianen kunnen meekijken met wc-bezoek via slimme bril Meta](https://tweakers.net/nieuws/245294/kenianen-kunnen-meekijken-met-wc-bezoek-via-slimme-bril-meta.html)
 - [Mag Meta bepalen wat jij ziet op Instagram en Facebook? Nee, vindt de rechter](https://decorrespondent.nl/16421/mag-meta-bepalen-wat-jij-ziet-op-instagram-en-facebook-nee-vindt-de-rechter/3a5ebc2a-ba4a-0a90-22f6-cb9a2c021dc5)
 - [Meta - FB, Insta, WhatsApp - will read your DMs and AI chats, rolling out from Dec](https://www.thecanary.co/skwawkbox/2025/11/07/meta-ai-chats/)
+- [Meta AI-app bevat code voor functie die gezichten kan herkennen via Meta-bril](https://tweakers.net/nieuws/248780/meta-ai-app-bevat-code-voor-functie-die-gezichten-kan-herkennen-via-meta-bril.html)
 - [Meta and TikTok let harmful content rise after evidence outrage drove engagement - whistleblowers](https://www.bbc.com/news/articles/cqj9kgxqjwjo)
 - [Meta en Google zijn aansprakelijk voor schade door verslaving aan sociale media](https://tweakers.net/nieuws/246140/meta-en-google-zijn-aansprakelijk-voor-schade-door-verslaving-aan-sociale-media.html)
 - [Meta gaat muisbewegingen en toetsaanslagen werknemers voor AI-training gebruiken](https://tweakers.net/nieuws/247060/meta-gaat-muisbewegingen-en-toetsaanslagen-werknemers-voor-ai-training-gebruiken.html)

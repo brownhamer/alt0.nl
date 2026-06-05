@@ -96,6 +96,7 @@ Het gaat daarbij niet over verbergen, maar over veiligheid van jouw persoonlijke
 - [Massaclaim tegen Google om Android besturingssysteem](https://radar.avrotros.nl/artikel/massaclaim-tegen-google-om-android-besturingssysteem-zo-schrijf-jij-je-in-60427)
 - [Mediatoezichthouder wil regels tegen 'antidemocratische algoritmes'](https://tweakers.net/nieuws/247968/mediatoezichthouder-wil-regels-tegen-antidemocratische-algoritmes.html)
 - [Meta - FB, Insta, WhatsApp - will read your DMs and AI chats, rolling out from Dec](https://www.thecanary.co/skwawkbox/2025/11/07/meta-ai-chats/)
+- [Meta AI-app bevat code voor functie die gezichten kan herkennen via Meta-bril](https://tweakers.net/nieuws/248780/meta-ai-app-bevat-code-voor-functie-die-gezichten-kan-herkennen-via-meta-bril.html)
 - [Meta gaat muisbewegingen en toetsaanslagen werknemers voor AI-training gebruiken](https://tweakers.net/nieuws/247060/meta-gaat-muisbewegingen-en-toetsaanslagen-werknemers-voor-ai-training-gebruiken.html)
 - [Microsoft deelt namen van Nederlandse ambtenaren die werken aan DSA met VS](https://tweakers.net/nieuws/248118/microsoft-deelt-namen-van-nederlandse-ambtenaren-die-werken-aan-dsa-met-vs.html)
 - [Microsoft Gave FBI BitLocker Encryption Keys, Exposing Privacy Flaw](https://www.forbes.com/sites/thomasbrewster/2026/01/22/microsoft-gave-fbi-keys-to-unlock-bitlocker-encrypted-data/)
