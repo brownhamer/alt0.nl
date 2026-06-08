@@ -49,6 +49,7 @@ Zie verder ook [ALT0PAGE_alternatieven] voor wat ik wel gebruik (of overweeg).
 - [Rust](https://rust-lang.org/en-US/)
 - [Tack](https://patrickzedler.com/tack/)
 - [ToS;DR](https://tosdr.org/en)
+- [uBlacklist](https://ublacklist.github.io/docs)
 - [uBlock Origin](https://addons.mozilla.org/nl/firefox/addon/ublock-origin)
 - [Unchecky](https://unchecky.com/)
 - [Why is this running?](https://github.com/pranshuparmar/witr)
