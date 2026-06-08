@@ -49,6 +49,7 @@ En ja, er zijn [ALT0PAGE_alternatieven].
 - [Organisaties eisen dat Meta stopt met verwijderen queer accounts](https://nos.nl/artikel/2615097-organisaties-eisen-dat-meta-stopt-met-verwijderen-queer-accounts)
 - [Ouders kunnen 'in komende weken' zien waar tieners over praten met Meta's AI-bot](https://tweakers.net/nieuws/247162/ouders-kunnen-in-komende-weken-zien-waar-tieners-over-praten-met-metas-ai-bot.html)
 - [Plaats winst niet boven het welzijn van TikTok- en Instagram-gebruikers](https://www.bitsoffreedom.nl/2026/03/30/plaats-winst-niet-boven-het-welzijn-van-tiktok-en-instagram-gebruikers/)
+- [Ray-Ban Meta: jouw gezicht is hun trainingsdata. En jij hebt nooit getekend.](https://mickbeer.com/artikelen/ray-ban-meta-trainingsdata/)
 - [Smart glasses are 'an invasion of privacy' - Meta's are selling better than ever](https://www.bbc.com/news/articles/cj37z8357e5o)
 - [Social media adolescent addition/personal injury products liability litigation](https://www.lieffcabraser.com/pdf/2025-11-21-Brief-dckt-2480_0.pdf)
 - [The TBOTE Project](https://tboteproject.com/)

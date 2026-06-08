@@ -183,6 +183,7 @@ Echter de diverse LLM gebaseerde initiatieven die vanuit Big Tech gepusht worden
 - [Personas in System Prompts Do Not Improve Performances of Large Language Models](https://arxiv.org/html/2311.10054v3)
 - [Politiechatbot Wout begon over antisemitisme bij vraag over Palestijnen](https://tweakers.net/nieuws/247944/politiechatbot-wout-begon-over-antisemitisme-bij-vraag-over-palestijnen.html)
 - [Privacyexperts bezorgd over delen van medische gegevens met ChatGPT](https://www.security.nl/posting/920272/Privacyexperts+bezorgd+over+delen+van+medische+gegevens+met+ChatGPT)
+- [Ray-Ban Meta: jouw gezicht is hun trainingsdata. En jij hebt nooit getekend.](https://mickbeer.com/artikelen/ray-ban-meta-trainingsdata/)
 - [Real signals or artificial stereotypes?](https://kucharski.substack.com/p/real-signals-or-artificial-stereotypes)
 - [Recente oorlogsbeelden bewijzen nog maar eens: AI ziet verschil niet tussen vals en echt](https://www.vrt.be/vrtnws/nl/2026/03/09/kan-je-ai-detectiesystemen-altijd-vertrouwen-grok-synthid-google/)
 - [Rector universiteit Gent gebruikte door AI gegenereerd nep-citaat van Einstein](https://nos.nl/artikel/2597395-rector-universiteit-gent-gebruikte-door-ai-gegenereerd-nep-citaat-van-einstein)
