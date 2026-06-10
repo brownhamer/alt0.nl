@@ -93,7 +93,7 @@ Ik ben zoveel mogelijk over aan het stappen op niet Big Tech, meer non-US en Ope
 Hieronder wat keuzes die ik hierin al gemaakt heb.
 
 - 2FA: ~~Authy~~ &raquo; [Ente Auth](https://ente.io/auth/">)
-* Agenda: ~~Google Calendar~~ &raquo; [NextCloud Calendar](https://apps.nextcloud.com/apps/calendar) met [GNOME Calendar](https://apps.gnome.org/Calendar/) en [CalDAV](https://en.wikipedia.org/wiki/CalDAV) plus [DAVx5](https://www.davx5.com/) voor en [Etar Calendar](https://github.com/Etar-Group/Etar-Calendar)
+- Agenda: ~~Google Calendar~~ &raquo; [NextCloud Calendar](https://apps.nextcloud.com/apps/calendar) met [GNOME Calendar](https://apps.gnome.org/Calendar/) en [CalDAV](https://en.wikipedia.org/wiki/CalDAV) plus [DAVx5](https://www.davx5.com/) voor en [Etar Calendar](https://github.com/Etar-Group/Etar-Calendar)
 - Bookmarks: ~~Firefox~~ &raquo; [NextCloud Bookmarks](https://github.com/nextcloud/bookmarks) met [Floccus](https://floccus.org/)
 - Browser: ~~Google Chrome~~ &raquo; [Firefox](https://www.firefox.com/)
 - Cloud opslag: ~~OneDrive~~ &raquo; [NextCloud](https://nextcloud.com/) met [scoring](https://dashboard.internet.nl/latest/5286/web/) via [oCloud](https://ocloud.de/) die helaas niet zo goed scoren, dus dat wordt waarschijnlijk overstappen
