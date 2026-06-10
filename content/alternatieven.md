@@ -41,6 +41,7 @@ Naast bovengenoemde applicaties zijn er diverse andere handige programma's die i
 - [Device Info](https://www.deviceinfo.app/) &raquo; Android &raquo; Veel informatie overzichtelijk gepresenteerd.
 - [Easy Voice Recorder](https://www.digipom.com/) &raquo; Android &raquo; Als ik vlug even een deuntje op wil nemen.
 - [eza](https://github.com/eza-community/eza) &raquo; Linux &raquo; Moderne versie van ls met kleurtjes en Git ondersteuning.
+- [Fedilab](https://fedilab.app/) &raquo; Android &raquo; Mooi vormgegeven, prettige [Mastodon](https://joinmastodon.org/nl-NL) client.
 - [Firefox Focus](https://www.firefox.com/nl/browsers/mobile/focus/) &raquo; Android &raquo; Simpele browser zonder tracking.
 - [KMI Weather](https://play.google.com/store/apps/details?id=be.irm.kmi.meteo&hl=en) &raquo; Android &raquo; Het weer.
 - [Launcher](https://github.com/FossifyOrg/Launcher) by Fossify &raquo; Android (tablet) &raquo; Omdat Lawnchair (nog) niet op mijn Samsung tablet werkt.
@@ -49,7 +50,6 @@ Naast bovengenoemde applicaties zijn er diverse andere handige programma's die i
 - [MailViewer](https://github.com/alescdb/mailviewer) &raquo; Linux &raquo; Omdat ik de meeste mail als losse ".eml" bestanden bewaar.
 - [MakeACopy](https://github.com/egdels/makeacopy) &raquo; Android &raquo; Foto naar document met OCR.
 - [Messages](https://github.com/FossifyOrg/Messages) by Fossify &raquo; Android &raquo; Simpele SMS applicatie.
-- [Moshidon](https://lucasggamerm.github.io/moshidon/) &raquo; Android &raquo; Mooi vormgegeven, prettige [Mastodon](https://joinmastodon.org/nl-NL) client.
 - [Phone](https://github.com/FossifyOrg/Phone) by Fossify &raquo; Android &raquo; Gewoon bellen, zonder de nummers door te geven aan Google.
 - [Power Ampache 2](https://power.ampache.dev/) &raquo; Android &raquo; Muziek afspelen via [Nextloud Music](https://apps.nextcloud.com/apps/music), meestal opnames voor nieuwe nummers van de band.
 - [Refine](https://tesk.page/refine/) &raquo; Linux &raquo; GNOME tweaken op een aantal punten.
