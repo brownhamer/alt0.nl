@@ -125,7 +125,7 @@ Een aantal alternatieven die ik overweeg, of zelfs geprobeerd heb maar die voor 
 - [FairEmail](https://email.faircode.eu/) &raquo; Werkt fijn, maar gekozen om [Thunderbid](https://www.thunderbird.net/) te gebruiken net als de rest in mijn gezin om ze makkelijker te kunnen ondersteunen.
 - [Fairphone](https://www.fairphone.com/nl) &raquo; Nederlands, maar nog wel [Android](https://www.android.com/) gebaseerd, ook als je de [/e/OS](https://e.foundation/e-os/) variant kiest, dus maar ingeschreven voor de volgende [ALT0PAGE_jolla] telefoon.
 - [Firefox Translator](https://github.com/DavidVentura/offline-translator) &raquo; Nog niet af genoeg.
-- [Commodore Flip-phone](https://commodore.net/callback/) &raquo; Alleen al voor de spelletjes.
+- [Commodore Flip-phone](https://commodore.net/callback/) &raquo; Alleen al voor de spelletjes, maar goed dat kan ook met [C64.emu](https://c64emu.com/) voor met name [Morpheus](https://www.c64.com/games/154).
 - [Floorp](https://floorp.app/) &raquo; Voorlopig blijf ik nog trouw aan [Firefox](https://www.firefox.com/nl/).
 - [FlorisBoard](https://florisboard.org/) &raquo; Nog niet af genoeg, gebruik nu [FUTO Keyboard](https://keyboard.futo.org/).
 - [FossWallet](https://github.com/SeineEloquenz/fosswallet) &raquo; Was al over gegaan naar [Catima](https://catima.app/) en dat bevalt eigenlijk prima, ofschoon ik het eigenlijk nooit gebruik.
