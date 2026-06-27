@@ -32,6 +32,7 @@ Echter de diverse LLM gebaseerde initiatieven die vanuit Big Tech gepusht worden
 - [AI agents get office tasks wrong around 70% of the time, and a lot of them aren't AI at all](https://www.theregister.com/2025/06/29/ai_agents_fail_a_lot/)
 - [AI als docent? Deze studie laat zien waarom dat een heel slecht idee is](https://scientias.nl/ai-als-docent-deze-studie-laat-zien-waarom-dat-een-heel-slecht-idee-is/)
 - [AI code assistants make developers more efficient at creating security problems](https://www.theregister.com/2025/09/05/ai_code_assistants_security_problems/)
+- [AI coding agents could soon cost more than the developers using them](https://www.theregister.com/ai-and-ml/2026/06/24/ai-coding-agents-could-soon-cost-more-than-the-developers-using-them/5260864)
 - [AI crawler bots](https://archaeo.social/@joeroe/116651584551089207)
  -[AI Data Centers’ Water Consumption Breaks 264 Billion Gallons in 2025 as Devastating Drought Hits Nearly 63% of U.S.](https://www.yahoo.com/news/us/articles/ai-data-centers-water-consumption-140002428.html?guccounter=1)
 - [AI deletes database](https://www.reddit.com/r/vibecoding/comments/1mo0j3p/never_touching_cursor_again/)
