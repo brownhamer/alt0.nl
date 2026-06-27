@@ -30,7 +30,7 @@ Zie verder ook [ALT0PAGE_alternatieven] voor wat ik wel gebruik (of overweeg).
 - [Ferrite](https://github.com/OlaProeis/Ferrite)
 - [Files](https://files.community/)
 - [Fossil](https://fossil-scm.org/)
-- [GitSyncMarks](https://github.com/d0dg3r/GitSyncMarks)
+- [GitSyncMarks](https://gitsyncmarks.com/)
 - [Gitte](https://codeberg.org/ckruse/gitte)
 - [GNU make](https://www.gnu.org/software/make/)
 - [GRAM](https://gram.liten.app/)
