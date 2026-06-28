@@ -25,7 +25,7 @@ Daarbij zijn sommige stukken software die ik gebruik(te) op Windows ook beschikb
 - Office &raquo; [LibreOffice](https://www.libreoffice.org/) &raquo; [beschikbaar](https://www.libreoffice.org/download/download-libreoffice/)
 - Social &raquo; [Mastodon](https://mastodon.nl) &raquo; [Tuba](https://github.com/GeopJr/Tuba)
 - Todo &raquo; [Super Productivity](https://super-productivity.com) &raquo; [beschikbaar](https://super-productivity.com/download/)
-- VPN &raquo; [Mullvad](https://mullvad.net) &raquo; [beschikbaar](https://mullvad.net/en/help/install-mullvad-app-linux)
+- VPN &raquo; [iVPN](https://www.ivpn.net/en/) &raquo; [beschikbaar](https://www.ivpn.net/en/apps-linux/)
 - Wachtwoorden &raquo; [1Password](https://1password.com) &raquo; [beschikbaar](https://1password.com/downloads/linux)
 
 ### Handig
