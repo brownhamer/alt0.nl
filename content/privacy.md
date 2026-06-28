@@ -47,7 +47,6 @@ Het gaat daarbij niet over verbergen, maar over veiligheid van jouw persoonlijke
 - [The No More Ransom Project](https://www.nomoreransom.org)
 - [VirusTotal](https://virustotal.com/)
 - [Vrijwel moeiteloos weg van big tech](https://tweakers.net/reviews/14416/fairphone-6-met-e-os-vrijwel-moeiteloos-weg-van-big-tech.html)
-- [VPN Comparison](https://thatoneprivacysite.net/vpn-comparison-chart/)
 
 ## Uitdagingen
 
