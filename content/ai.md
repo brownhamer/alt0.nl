@@ -128,6 +128,7 @@ Echter de diverse LLM gebaseerde initiatieven die vanuit Big Tech gepusht worden
 - [Felienne](https://www.felienne.nl/) schrijft regelmatig over AI
 - [Finance worker pays out $25 million after video call with deepfake ‘chief financial officer’](https://edition.cnn.com/2024/02/04/asia/deepfake-cfo-scam-hong-kong-intl-hnk)
 - [Florida sleept ChatGPT-ontwikkelaar OpenAI voor de rechter](https://nos.nl/artikel/2616818-florida-sleept-chatgpt-ontwikkelaar-openai-voor-de-rechter)
+- [Ford rehires human engineers after AI fails to match quality checks](https://www.bbc.com/news/articles/cgrkd41n2v9o)
 - [Generalization bias in large language model summarization of scientific research](https://royalsocietypublishing.org/rsos/article/12/4/241776/235656/Generalization-bias-in-large-language-model)
 - [Gentoo Linux ruilt Microsofts GitHub in voor Codeberg vanwege Copilot](https://tweakers.net/nieuws/244818/gentoo-linux-ruilt-microsofts-github-in-voor-codeberg-vanwege-copilot.html)
 - [GitHub Copilot beperkt abonnementen met introductie AI Credits](https://tweakers.net/nieuws/247228/github-copilot-beperkt-abonnementen-met-introductie-ai-credits.html)
@@ -205,6 +206,7 @@ Echter de diverse LLM gebaseerde initiatieven die vanuit Big Tech gepusht worden
 - [Real signals or artificial stereotypes?](https://kucharski.substack.com/p/real-signals-or-artificial-stereotypes)
 - [Recente oorlogsbeelden bewijzen nog maar eens: AI ziet verschil niet tussen vals en echt](https://www.vrt.be/vrtnws/nl/2026/03/09/kan-je-ai-detectiesystemen-altijd-vertrouwen-grok-synthid-google/)
 - [Rector universiteit Gent gebruikte door AI gegenereerd nep-citaat van Einstein](https://nos.nl/artikel/2597395-rector-universiteit-gent-gebruikte-door-ai-gegenereerd-nep-citaat-van-einstein)
+- [Schrijfhulpjes peuteren aan je mening](https://neerlandistiek.nl/2026/06/schrijfhulpjes-peuteren-aan-je-mening/)
 - [Scientists invented a fake disease. AI told people it was real](https://www.nature.com/articles/d41586-026-01100-y)
 - [Scottish data centres powering AI already using enough water to fill 27 million bottles a year](https://www.bbc.com/news/articles/c77zxx43x4vo)
 - [Shit](https://ibestuur.nl/data-en-ai/ethiek/shit)
@@ -223,6 +225,7 @@ Echter de diverse LLM gebaseerde initiatieven die vanuit Big Tech gepusht worden
 - [The Trillion-Dollar Oops](https://no01.substack.com/p/the-trillion-dollar-oops)
 - [The World's Data Centers Are Getting Harder to Decarbonize](https://oilprice.com/Energy/Energy-General/The-Worlds-Data-Centers-Are-Getting-Harder-to-Decarbonize.html)
 - [To Gen or Not To Gen: The Ethical Use of Generative AI - My Not So Private Tech Life](https://blog.johanneslink.net/2025/11/04/to-gen-or-not-to-gen/#genai-as-a-knowledge-source)
+- [Tracking Vulnerabilities That Appear to be Credited to the Anthropic Research Team](https://github.com/patrickmgarrity/Anthropic-Credited-CVEs)
 - [Typical Microsoft! Turns Out Visual Studio Code Was Adding Copilot as a Git Co-Author Without Telling Anyone](https://itsfoss.com/news/vs-code-credits-copilot-for-human-work/)
 - [Uber's COO says it's getting harder to justify the company's AI spend: 'That link is not there yet'](https://fortune.com/2026/05/26/uber-coo-ai-spending-tokens-claude-code/)
 - [Uber exhausts AI budget in 5 months: Executive says spending is getting harder to justify](https://blazetrends.com/uber-exhausts-ai-budget-in-5-months-executive-says-spending-is-getting-harder-to-justify/?fsp_sid=19516)
