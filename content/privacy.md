@@ -62,6 +62,7 @@ Het gaat daarbij niet over verbergen, maar over veiligheid van jouw persoonlijke
 - [Billionaires Should Not Exist](https://www.teenvogue.com/story/billionaires-should-not-exist)
 - [Botte afperspraktijken door het Amerika van Trump](https://www.nrc.nl/nieuws/2025/12/19/botte-afperspraktijken-door-het-amerika-van-trump-a4915587?gift_token=4915587~1766912635~PHWgLp0IEeKfgABQVoV_mg~EXhD6fZyipnHUt_EejN_JTEgkqPU-tS0tGgGLdBK5_k)
 - [Break all the rules](https://workchronicles.substack.com/p/comic-break-all-the-rules-38e) zoals Big Tech over wetgeving denkt.
+- [Bulkdatasets AIVD en MIVD: de schaduw geheime dienst](https://berthub.eu/articles/posts/de-schaduwgeheimedienst/)
 - [Canadian Trump Critic Sues to Stop Google from Sharing Personal Information with Department of Homeland Security](https://www.aclu.org/press-releases/canadian-trump-critic-sues-to-stop-google-from-sharing-personal-information-with-department-of-homeland-security)
 - [CBP Tapped Into the Online Advertising Ecosystem To Track Peoples’ Movements](https://www.404media.co/cbp-tapped-into-the-online-advertising-ecosystem-to-track-peoples-movements/?Fedizen.EU=)
 - [Chat Control Belgium](https://chatcontrol.be/en)
@@ -107,6 +108,7 @@ Het gaat daarbij niet over verbergen, maar over veiligheid van jouw persoonlijke
 - [Nee, je hebt wél iets te verbergen](https://decorrespondent.nl/209/nee-je-hebt-wel-iets-te-verbergen/6428004-ab2d5fc2)
 - [Odido-router stuurde analyticsdata naar Turks AI-bedrijf](https://tweakers.net/nieuws/245620/odido-router-stuurde-analyticsdata-naar-turks-ai-bedrijf.html)
 - [OkCupid Settles After Selling 3 Million Photos to a Facial Recognition Company](https://www.privacyguides.org/news/2026/04/05/okcupid-settles-after-selling-3-million-photos-to-a-facial-recognition-company/)
+- [Ook websites van gemeenten geven bezoekersgegevens vooral door aan Google](https://www.ronroozendaal.nl/blog/2026/07/ook-websites-van-gemeenten-geven-bezoekersgegevens-vooral-door-aan-google)
 - [Ouders kunnen 'in komende weken' zien waar tieners over praten met Meta's AI-bot](https://tweakers.net/nieuws/247162/ouders-kunnen-in-komende-weken-zien-waar-tieners-over-praten-met-metas-ai-bot.html)
 - [Overheid VS kocht data van online advertenties om locatie mensen te volgen](https://www.security.nl/posting/927459/Overheid+VS+kocht+data+van+online+advertenties+om+locatie+mensen+te+volgen)
 - [Price of a bot army revealed across hundreds of online platforms](https://www.cam.ac.uk/stories/price-bot-army-global-index)
