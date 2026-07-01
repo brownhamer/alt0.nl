@@ -16,6 +16,7 @@ Echter de diverse LLM gebaseerde initiatieven die vanuit Big Tech gepusht worden
 - [How to disable Gemini on Android, Gmail, Chrome, Photos, and Google apps. Opt out of AI tracking now!](https://tuta.com/blog/how-to-disable-gemini-on-android)
 - [Huge AI blocklist](https://raw.githubusercontent.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/main/list.txt)
 - [Is AI Profitable Yet?](https://isaiprofitable.com/)
+- [No-AI List](https://noai.starlightnet.work/list.html)
 - [On the acceptance of GenAI](https://smallsheds.garden/blog/2026/on-the-acceptance-of-genai/)
 - [Open Source AI](https://opensource.org/ai)
 - [Refusal to Review](https://irisvanrooijcogsci.com/2026/04/08/refusal-to-review/)
