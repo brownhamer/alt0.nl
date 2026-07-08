@@ -47,6 +47,7 @@ Zie verder ook [ALT0PAGE_alternatieven] voor wat ik wel gebruik (of overweeg).
 - [Pi-hole](https://pi-hole.net/)
 - [Redirector](https://einaregilsson.com/redirector/)
 - [Rust](https://rust-lang.org/en-US/)
+- [Show External IP](https://extensions.gnome.org/extension/5368/show-external-ip-thisipcancyou/)
 - [Tack](https://patrickzedler.com/tack/)
 - [ToS;DR](https://tosdr.org/en)
 - [uBlacklist](https://ublacklist.github.io/docs)
