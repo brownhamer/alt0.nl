@@ -7,4 +7,5 @@ Interessante technologie waar ik me toch eens in wil verdiepen.... als ik er aan
 - [Een introductie: MeshCore](https://meereco.nl/communicatie/introductie-meshcore/)
 - [Een MeshCore-repeater installeren en configureren](https://meereco.nl/communicatie/meshcore-repeater-installeren-en-configureren/)
 - [LocalMesh: Het noodradio netwerk van Nederland](https://www.localmesh.nl/)
+- [Meshy](https://meshy-app.org/)
 - [We connect people and things, without using the internet](https://meshcore.co.uk/)
