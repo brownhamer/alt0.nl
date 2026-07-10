@@ -19,6 +19,7 @@ Diverse sites die inzicht geven in meerdere soorten informatie op basis van open
 - [Eurostat](https://ec.europa.eu/eurostat)
 - [F-Droid Top Downloads](https://grote.gitlab.io/fdroid-metrics-distilled/)
 - [FediDB](https://fedidb.com/)
+- [Global Peace Index Map](https://www.visionofhumanity.org/maps/#/)
 - [HowTheyVote.eu](https://howtheyvote.eu/)
 - [Information is Beautiful](https://informationisbeautiful.net/)
 - [KinderTV Geheugen](https://kindertvgeheugen.nl/)
