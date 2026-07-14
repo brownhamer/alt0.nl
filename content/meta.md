@@ -4,11 +4,13 @@ Diverse artikelen en videos waarom je liever niets met Meta te maken hebt, het b
 En ja, er zijn [ALT0PAGE_alternatieven].
 
 - [BanRay.eu — Your face is not inventory](https://banray.eu/en/index.html)
+- [Bekende artiest keert zich tegen AI-brillen op door Ray-Ban gesponsord festival](https://tweakers.net/geek/250010/bekende-artiest-keert-zich-tegen-ai-brillen-op-door-ray-ban-gesponsord-festival.html)
 - [Belgische koningshuis vraagt Facebook nepvideo's kroonprinses te verwijderen](https://tweakers.net/nieuws/246250/belgische-koningshuis-vraagt-facebook-nepvideos-kroonprinses-te-verwijderen.html)
 - [Careless People](https://en.wikipedia.org/wiki/Careless_People)
 - [Censuur door Meta? Na het blokkeren van lhbti-accounts willen politici uitleg](https://nos.nl/artikel/2594321-censuur-door-meta-na-het-blokkeren-van-lhbti-accounts-willen-politici-uitleg)
 - [Consumentenbond: Google, Meta en TikTok laten malafide advertenties staan](https://www.security.nl/posting/937625/Consumentenbond%3A+Google%2C+Meta+en+TikTok+laten+malafide+advertenties+staan)
 - [Court Filings Allege Meta Downplayed Risks to Children and Misled the Public](https://time.com/7336204/meta-lawsuit-files-child-safety/)
+- [De slimme bril is terug, en je privacy staat op het spel](https://onlineveilig.eset.com/de-slimme-bril-is-terug-en-je-privacy-staat-op-het-spel/)
 - [Dit gebeurt er als je ingaat op een nep-advertentie](https://www.youtube.com/watch?v=F8RH9XYCsjk)
 - [Er waait een nieuwe wind op Facebook en Instagram: 'VS is conservatiever geworden'](https://nos.nl/artikel/2550996-er-waait-een-nieuwe-wind-op-facebook-en-instagram-vs-is-conservatiever-geworden)
 - [Facebook schandalen](https://www.dedigitaletuin.nl/overig/facebook-schandalen/) (165+)
@@ -55,6 +57,7 @@ En ja, er zijn [ALT0PAGE_alternatieven].
 - [Smart glasses are 'an invasion of privacy' - Meta's are selling better than ever](https://www.bbc.com/news/articles/cj37z8357e5o)
 - [Social media adolescent addition/personal injury products liability litigation](https://www.lieffcabraser.com/pdf/2025-11-21-Brief-dckt-2480_0.pdf)
 - [The TBOTE Project](https://tboteproject.com/)
+- [This was a righteous case. A holy war: the lawyer who took on Meta and Google – and won](https://www.theguardian.com/media/2026/jul/12/mark-lanier-the-lawyer-who-took-on-meta-and-google-and-won-interview)
 - [Unsealed court documents reveal data anarchy at Meta](https://www.iccl.ie/news/unsealed-court-documents-reveal-data-anarchy-at-meta/)
 - [Uploading Pirated Books via BitTorrent Qualifies as Fair Use, Meta Argues](https://torrentfreak.com/uploading-pirated-books-via-bittorrent-qualifies-as-fair-use-meta/)
 - [WhatsApp-bèta verplaatst Status-posts (en daarmee reclames) naar Chats-tabblad](https://tweakers.net/nieuws/246658/whatsapp-beta-verplaatst-status-posts-en-daarmee-reclames-naar-chats-tabblad.html)
