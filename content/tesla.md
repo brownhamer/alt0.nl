@@ -19,6 +19,7 @@ Alleen jammer dat de baas gaandeweg wat minder prettig is geworden en bijzondere
 - [Tesla's Full Self-Driving software under investigation after railroad incidents](https://www.nbcnews.com/tech/elon-musk/tesla-full-self-driving-fsd-problems-investigation-train-issues-rcna236729)
 - [The vehicle suddenly accelerated with our baby in it: the terrifying truth about why Tesla’s cars keep crashing](https://www.theguardian.com/technology/2025/jul/05/the-vehicle-suddenly-accelerated-with-our-baby-in-it-the-terrifying-truth-about-why-teslas-cars-keep-crashing)
 - [US probes driver assistance software in 2.9 million Tesla vehicles over traffic violations](https://www.reuters.com/business/autos-transportation/us-opens-probe-into-28-million-tesla-vehicles-over-traffic-violations-when-using-2025-10-09/)
+- [Vlaamse minister liet Tesla FSD toe ondanks interne waarschuwingen](https://tweakers.net/nieuws/250032/vlaamse-minister-liet-tesla-fsd-toe-ondanks-interne-waarschuwingen.html)
 - [Why I Had to Quit Using Tesla Full Self-Driving](https://www.motortrend.com/reviews/2023-tesla-model-y-long-range-yearlong-review-full-self-driving-danger)
 
 ## X
