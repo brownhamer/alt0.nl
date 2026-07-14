@@ -1,14 +1,18 @@
 # Hendrik
 
-    IT DevOps System Architect
+    Software Architect
 
 ## Werk
 
 ### ASML Holding N.V. &raquo; December 2015 - nu
 
-Diverse rollen ingevuld binnen de IT DevOps afdeling ter ondersteuning van de software ontwikkeling voor de TwinScan systemen, EUV lichtbron en legacy PAS systemen.
+Diverse rollen ingevuld binnen de IT DevOps afdeling ter ondersteuning van- en binnen de software ontwikkeling voor de TwinScan systemen, EUV lichtbron en legacy PAS systemen.
 
-#### System architect &raquo; April 2024 - nu
+#### Software architect & Design engineer &raquo; Juli 2026 - nu
+
+Impact anaylyse, design en implementatie van [CRA](https://en.wikipedia.org/wiki/Cyber_Resilience_Act) en '[epochgate](https://nl.wikipedia.org/wiki/Softwareprobleem_jaar_2038)' voor de PAS5500 en andere legacy systemen.
+
+#### System architect &raquo; April 2024 - Juli 2026
 
 Verantwoordelijk voor het opstellen van de technische roadmap om software ontwikkeling mogelijk te houden voor de diverse legacy systemen tot voorbij 2035.
 Dit ten behoeven van systemen als de PAS5500 die gebruik maken van oudere tools en software.
