@@ -60,4 +60,5 @@ En ja, er zijn [ALT0PAGE_alternatieven].
 - [This was a righteous case. A holy war: the lawyer who took on Meta and Google – and won](https://www.theguardian.com/media/2026/jul/12/mark-lanier-the-lawyer-who-took-on-meta-and-google-and-won-interview)
 - [Unsealed court documents reveal data anarchy at Meta](https://www.iccl.ie/news/unsealed-court-documents-reveal-data-anarchy-at-meta/)
 - [Uploading Pirated Books via BitTorrent Qualifies as Fair Use, Meta Argues](https://torrentfreak.com/uploading-pirated-books-via-bittorrent-qualifies-as-fair-use-meta/)
+- [WhatsApp blokkeert Nederlandse sekswerkers en hulpverleners](https://pointer.kro-ncrv.nl/whatsapp-blokkeert-nederlandse-sekswerkers-en-hulpverleners)
 - [WhatsApp-bèta verplaatst Status-posts (en daarmee reclames) naar Chats-tabblad](https://tweakers.net/nieuws/246658/whatsapp-beta-verplaatst-status-posts-en-daarmee-reclames-naar-chats-tabblad.html)
