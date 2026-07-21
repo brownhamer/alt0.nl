@@ -100,6 +100,7 @@ Het gaat daarbij niet over verbergen, maar over veiligheid van jouw persoonlijke
 - [Meta - FB, Insta, WhatsApp - will read your DMs and AI chats, rolling out from Dec](https://www.thecanary.co/skwawkbox/2025/11/07/meta-ai-chats/)
 - [Meta AI-app bevat code voor functie die gezichten kan herkennen via Meta-bril](https://tweakers.net/nieuws/248780/meta-ai-app-bevat-code-voor-functie-die-gezichten-kan-herkennen-via-meta-bril.html)
 - [Meta gaat muisbewegingen en toetsaanslagen werknemers voor AI-training gebruiken](https://tweakers.net/nieuws/247060/meta-gaat-muisbewegingen-en-toetsaanslagen-werknemers-voor-ai-training-gebruiken.html)
+- [Microsoft admits Windows 11 has a GDID tracker with no off switch, first documented publicly in an FBI hacker complaint](https://www.windowslatest.com/2026/07/10/you-cant-fully-disable-microsofts-gdid-windows-11-tracker-but-these-settings-limit-what-it-captures/)
 - [Microsoft deelt namen van Nederlandse ambtenaren die werken aan DSA met VS](https://tweakers.net/nieuws/248118/microsoft-deelt-namen-van-nederlandse-ambtenaren-die-werken-aan-dsa-met-vs.html)
 - [Microsoft Gave FBI BitLocker Encryption Keys, Exposing Privacy Flaw](https://www.forbes.com/sites/thomasbrewster/2026/01/22/microsoft-gave-fbi-keys-to-unlock-bitlocker-encrypted-data/)
 - [Minister: end-to-end encryptie biedt privacy, maar hindert bestrijding criminaliteit](https://www.security.nl/posting/937117/Minister%3A+end-to-end+encryptie+biedt+privacy%2C+maar+hindert+bestrijding+criminaliteit)
