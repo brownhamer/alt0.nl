@@ -10,4 +10,5 @@ Gedistribueerde sociale media.
 - [Media in the Fediverse](https://fingolas.eu/fediverse/overview.html)
 - [Politici op Mastodon](https://www.politici-op-mastodon.nl/)
 - [Share to Mastodon](https://share.joinmastodon.org/)
+- [Social.overheid.nl profiles](https://social.overheid.nl/directory)
 - [Volt on the fediverse](https://fedidevs.com/s/MTI2/)
