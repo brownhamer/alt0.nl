@@ -51,6 +51,7 @@ Echter de diverse LLM gebaseerde initiatieven die vanuit Big Tech gepusht worden
 - [AI Is Slowing Down](https://www.wheresyoured.at/ai-is-slowing-down/)
 - [AI krijgt catastrofale contentcrisis voor de kiezen](https://www.agconnect.nl/tech-en-toekomst/artificial-intelligence/ai-krijgt-catastrofale-contentcrisis-voor-de-kiezen?gift=f5b2aa3a-8b25-5d77-8eaf-43f2ce199eb0)
 - [AI krijgt datacenters van big tech op de knieën en die nemen nu maatregelen](https://tweakers.net/reviews/14678/ai-krijgt-datacenters-van-big-tech-op-de-knieen-en-die-nemen-nu-maatregelen.html)
+- [AI Mania Is Eviscerating Global Decision-Making](https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/)
 - [AI models collapse when trained on recursively generated data](https://www.nature.com/articles/s41586-024-07566-y)
 - [AI slop](https://en.wikipedia.org/wiki/AI_slop)
 - [AI Translations Are Adding ‘Hallucinations’ to Wikipedia Articles](https://www.404media.co/ai-translations-are-adding-hallucinations-to-wikipedia-articles/)
