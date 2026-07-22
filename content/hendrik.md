@@ -10,7 +10,7 @@ Diverse rollen ingevuld binnen de IT DevOps afdeling ter ondersteuning van- en b
 
 #### Software architect & Design engineer &raquo; Juli 2026 - nu
 
-Impact anaylyse, design en implementatie van [CRA](https://en.wikipedia.org/wiki/Cyber_Resilience_Act) en '[epochalypse](https://nl.wikipedia.org/wiki/Softwareprobleem_jaar_2038)' voor de PAS5500 en andere legacy systemen.
+Impact anaylyse, design en implementatie van [CRA](https://en.wikipedia.org/wiki/Cyber_Resilience_Act) en '[epocalypse](https://nl.wikipedia.org/wiki/Softwareprobleem_jaar_2038)' voor de PAS5500 en andere legacy systemen.
 
 #### System architect &raquo; April 2024 - Juli 2026
 
