@@ -74,6 +74,7 @@ Echter de diverse LLM gebaseerde initiatieven die vanuit Big Tech gepusht worden
 - [Al mijn argumenten tegen LLMs op een rijtje](https://www.felienne.nl/2026-02/)
 - [All my arguments against LLMs combined](https://www.felienne.nl/2026-02/#all-my-arguments-against-llms-combined)
 - [Amazon Employees Mock the Company’s AI on Slack](https://www.404media.co/sloppenheimer-amazon-employees-mock-the-companys-ai-on-slack/)
+- [Amerikaanse datacenters in 2035 goed voor 20 procent van het stroomverbruik in VS](https://ibestuur.nl/data-en-ai/economie/datacenters-gebruiken-in-2035-20-procent-stroom-in-vs)
 - [AMOS Stealer Exploits AI Trust: Malware Delivered Through ChatGPT and Grok](https://www.huntress.com/blog/amos-stealer-chatgpt-grok-ai-trust)
 - [Anthropic just quietly launched ID verification for Claudee](https://infosec.exchange/@adfichter/116413841620358002)
 - [Anthropic's Claude Code runs code to test if it is safe - which might be a big mistake](https://www.theregister.com/2025/09/09/ai_security_review_risks/)
