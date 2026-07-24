@@ -21,7 +21,9 @@ Allerlei willekeurige links die (indirect) met de Jolla telefoon of Sailfish OS 
 - [OpenRepos.net](https://openrepos.net/)
 - Sailfish OS [Announcements](https://forum.sailfishos.org/c/announcements/17)
 - Sailfish OS [App Compatibility](https://sailfishos.app/)
+- Sailfish OS [App Development](https://docs.sailfishos.org/Develop/Apps/)
 - Sailfish OS [Applications](https://forum.sailfishos.org/t/sailfish-community-news-july-10-2026-jolla-phone-day1/30490)
+- Sailfish OS [Banking apps](https://forum.sailfishos.org/t/banking-apps-on-sailfish-os/18438)
 - Sailfish OS [Community News](https://forum.sailfishos.org/c/community-news/25)
 - Sailfish OS [Mastodon Starter Pack](https://fedidevs.com/s/ODY1/)
 
