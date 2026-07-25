@@ -115,12 +115,15 @@ Hieronder wat keuzes die ik hierin al gemaakt heb.
 Een aantal alternatieven die ik overweeg, of zelfs geprobeerd heb maar die voor mij niet brachten wat ik zocht op dat moment, maar wie weet wel in de toekomst.
 
 - [Aerion](https://aerion.3df.io/) &raquo; Intessant alternatief voor [Thunderbird](https://www.thunderbird.net/), ik mis sowieso nog wel de kalender en contacten plugin, maar die staan op de planning.
+- [Amberol](https://flathub.org/en/apps/io.bassi.Amberol) &raquo; "Plays music, and nothing else".
 - [AsteroidOS](https://asteroidos.org/) &raquo; Linux voor smartwatches, alleen ik draag eigenlijk nooit een horloge want dat irriteert me tijdens het gitaar spelen.
 - [Bandcamp](https://bandcamp.com/) &raquo; Misshien als alternatief voor [Spotify](https://open.spotify.com/), ik ben niet van de AI muziek en daar lijkt Spotify toch wel van te zijn de laatste tijd.
 - [Codeberg](https://codeberg.org/) &raquo; Over een tijdje, als alternatief voor [GitHub](https://github.com/), zeker vanwege [Days Without GitHub Incident](https://www.dayswithoutgithubincident.com/), mogelijk met [GitNex](https://gitnex.com/) als client op mobiel en [Gitte](https://codeberg.org/ckruse/Gitte) op de desktop.
+- [Defuse](https://flathub.org/en/apps/io.github.shonebinu.Defuse) &raquo; "Remove image backgrounds locally".
 - [Element](https://element.io/en) &raquo; Vooralsnog is [Signal](https://signal.org/) goed genoeg.
 - [elementary OS](https://elementary.io/) &raquo; Qua uiterlijk erg mooi, maar toch gekozen voor [Manjaro](https://manjaro.org/).
 - [Ente Photos](https://ente.io/) &raquo; Bij voorkeur heb ik mijn foto's lokaal staan, vooralsnog gekozen voor [Nextcloud](https://nextcloud.com/) via [oCloud](https://ocloud.de/).
+- [Errands](https://flathub.org/en/apps/io.github.mrvladus.List) &raquo; "Manage your tasks".
 - [FairEmail](https://email.faircode.eu/) &raquo; Werkt fijn, maar gekozen om [Thunderbid](https://www.thunderbird.net/) te gebruiken net als de rest in mijn gezin om ze makkelijker te kunnen ondersteunen.
 - [Fairphone](https://www.fairphone.com/nl) &raquo; Nederlands, maar nog wel [Android](https://www.android.com/) gebaseerd, ook als je de [/e/OS](https://e.foundation/e-os/) variant kiest, dus maar ingeschreven voor de volgende [ALT0PAGE_jolla] telefoon.
 - [Firefox Translator](https://github.com/DavidVentura/offline-translator) &raquo; Nog niet af genoeg.
@@ -138,26 +141,33 @@ Een aantal alternatieven die ik overweeg, of zelfs geprobeerd heb maar die voor 
 - [librephone](https://librephone.fsf.org/site/) &raquo; Verre van af, net begonnen zelfs.
 - [LibreWolf](https://librewolf.net/) &raquo; Voorlopig blijf ik nog trouw aan [Firefox](https://www.firefox.com/nl/).
 - [Lunatask](https://lunatask.app/) &raquo; Mooi, breed beschikbaar, [Super Productivity](https://super-productivity.com) werkt voor mij alleen al meer dan voldoende.
+- [MailViewer](https://flathub.org/en/apps/io.github.alescdb.mailviewer) &raquo; "EML and MSG file viewer".
+- [Metadata Cleaner](https://flathub.org/en/apps/io.gitlab.metadatacleaner.metadatacleaner) &raquo; "View and clean metadata in files".
+- [Mimick](https://flathub.org/en/apps/dev.nicx.mimick) &raquo; "Back up and browse your photos".
 - [mosa.cloud](https://mosa.cloud/) &raquo; Nog in beta en waarschijnlijk meer dan ik nodig heb.
 - [Notesnook](https://notesnook.com/) &raquo; Prima, meer dan ik nodig had, [Nextcloud Notes](https://apps.nextcloud.com/apps/notes) is goed genoeg (en gewoon [Markdown](https://en.wikipedia.org/wiki/Markdown) gebaseerd).
 - [OpenCommit](https://opencommit.eu/) &raquo; Is denk ik niet voor mijn gebruik bedoelt.
 - [Organize](https://github.com/tfeldmann/organize) &raquo; Beetje als [Hazelnut](https://hazelnut.ricardodantas.me/), handig maar nog niet aan toe gekomen.
 - [Pebble](https://repebble.com/) &raquo; Leuk, maar ervaring heeft me geleerd dat ik geen horloge draag.
+- [Pins](https://flathub.org/en/apps/io.github.fabrialberio.pinapp) &raquo; "Create and edit app shortcuts".
 - [postmarketOS](https://postmarketos.org/) &raquo; Gekozen vor de [ALT0PAGE_jolla] de [Sailfish OS](https://sailfishos.org/) gebruikt.
 - [Redox](https://redox-os.org/) &raquo; Iets om in de gaten te houden, maar nog niet klaar voor dagelijks gebruik.
 - [RelaGit](https://rela.dev/) &raquo; Misschien voor als ik van GitHub af ben.
 - [Sailfish OS](https://sailfishos.org/) &raquo; Als de [ALT0PAGE_jolla] er is, ik ben benieuwd.
 - [scrcpy](https://github.com/Genymobile/scrcpy) &raquo; Handig om je Android telefoon te bedienen vanaf je computer, maar zelf heb ik daar niet echt behoefte aan.
 - [Servo](https://servo.org/) &raquo; Actief in de gaten aan het houden als echt alternatief voor [Firefox](https://www.firefox.com/nl/).
+- [Sticky Notes](https://flathub.org/en/apps/com.vixalien.sticky) &raquo; "Pin notes to your desktop".
 - [Soverin](https://soverin.com/) &raquo; Had al gekozen voor [Posteo](https://posteo.de/en).
 - [The Good Cloud](https://thegood.cloud/individuals/) &raquo; Had al gekozen voor [oCloud](https://ocloud.de/).
 - [Tuta](https://tuta.com/) &raquo; Had al gekozen voor [Posteo](https://posteo.de/en).
 - [Vivaldi](https://vivaldi.com/) &raquo; Gebruikt helaas nog de chromium engine.
 - [Volla](https://volla.online/en/index.php) &raquo; Qua naam bijna hetzelfde, maar dus gekozen voor [ALT0PAGE_jolla].
 - [Volla Tablet](https://volla.online/de/shop/volla-tablet/) &raquo; Als telefoon gekozen voor [ALT0PAGE_jolla], maar Volla is een van de weinige leveranciers van een Linux tablet.
+- [Warehouse](https://flathub.org/en/apps/io.github.flattool.Warehouse) &raquo; "Manage all things Flatpak".
 - [Waydroid](https://waydro.id/) &raquo; Android in een Linux container, geen idee of ik het nodig heb, maar klinkt potentieel handig.
 - [WebBeef browser](https://tangled.org/me.webbeef.org/browser.html/) &raquo; [Servo](https://servo.org/) gebaseerde browser, maar nog niet klaar voor productie.
 - [Wike](https://hugolabe.github.io/Wike/) &raquo; Lokale [Wikipedia](https://nl.wikipedia.org/wiki/Hoofdpagina), met [GNOME Shell](https://en.wikipedia.org/wiki/GNOME_Shell) zoek integratie. Nog niet aan toe gekomen, maar dat gaan we zeker gebruiken.
+- [Wildcard](https://flathub.org/en/apps/net.ffkkinos.Wildcard) &raquo; "Test your regular expressions".
 - [zeitkapsl](https://zeitkapsl.eu/en/) &raquo; Bij voorkeur heb ik mijn foto's lokaal staan, vooralsnog gekozen voor [Nextcloud](https://nextcloud.com/) via [oCloud](https://ocloud.de/).
 
 ## Lijsten
