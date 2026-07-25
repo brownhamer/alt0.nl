@@ -72,6 +72,7 @@ Het gaat daarbij niet over verbergen, maar over veiligheid van jouw persoonlijke
 - [Consumentenbond: Google, Meta en TikTok laten malafide advertenties staan](https://www.security.nl/posting/937625/Consumentenbond%3A+Google%2C+Meta+en+TikTok+laten+malafide+advertenties+staan)
 - [Cookies, identifiers and other data that google silently stores on Android handsets](https://www.sciencedirect.com/science/article/pii/S016740482600026X)
 - [De Amerikaanse overheid gebruikt FISA 702 en EO 12333 om andere overheden af te luisteren.](https://mastodon.nl/@bert_hubert/115646029814078518)
+- [Digital Colonialism: U.S. Demands To Access Africans’ Data Raise Privacy, Sovereignty Concerns](https://www.techdirt.com/2026/07/23/digital-colonialism-u-s-demands-to-access-africans-data-raise-privacy-sovereignty-concerns/)
 - [Drogisten sturen massaal gevoelige informatie naar Facebook en Google](https://www.platform-investico.nl/onderzoeken/drogisten-delen-massaal-gevoelige-informatie-met-facebook-en-google)
 - [EFF: geen verrassing als Big Tech ook bij chatcontrole EU-wetgeving schendt](https://www.security.nl/posting/931670/EFF%3A+geen+verrassing+als+Big+Tech+ook+bij+chatcontrole+EU-wetgeving+schendt)
 - [EU Member States (and Google) suddenly want to keep cookie banners!](https://noyb.eu/en/eu-member-states-and-google-suddenly-want-keep-cookie-banners)
