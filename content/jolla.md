@@ -17,6 +17,7 @@ Allerlei willekeurige links die (indirect) met de Jolla telefoon of Sailfish OS 
 - [Jolla Blog](https://forum.sailfishos.org/c/blog/31)
 - [Jolla Harbour](https://harbour.jolla.com/)
 - [Jolla Phone Day1](https://forum.sailfishos.org/t/sailfish-community-news-july-10-2026-jolla-phone-day1/30490) launch event
+- [LinuxPhoneApps.org](https://linuxphoneapps.org/)
 - [microG GmsCore](https://github.com/microg/GmsCore/wiki)
 - [OpenRepos.net](https://openrepos.net/)
 - Sailfish OS [Announcements](https://forum.sailfishos.org/c/announcements/17)
@@ -53,6 +54,7 @@ Diverse applicaties die mogelijk handig zijn
 - [RooThub](https://openrepos.net/content/rootgpt/roothub)
 - [RooTitanium](https://openrepos.net/content/rootgpt/rootitanium)
 - [Sailcards](https://openrepos.net/content/amol/sailcards)
+- [sailwero](https://codeberg.org/hlrx/sailwero)
 - [Storeman Installer](https://openrepos.net/content/olf/storeman-installer)
 - [Strymas](https://openrepos.net/content/takraslt/strymas)
 - [Tarkka Magnifier](https://openrepos.net/content/fravaccaro/tarkka-magnifier)
