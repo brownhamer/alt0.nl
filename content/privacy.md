@@ -34,6 +34,7 @@ Het gaat daarbij niet over verbergen, maar over veiligheid van jouw persoonlijke
 - [Have I been pwned?](https://haveibeenpwned.com/)
 - [Just Delete Me](https://backgroundchecks.org/justdeleteme/)
 - [Just the Browser](https://justthebrowser.com/)
+- [Kill the Cookie Banner](https://killthecookiebanner.eu/)
 - [Nearby Glasses](https://github.com/yjeanrenaud/yj_nearbyglasses)
 - [NOYB](https://noyb.eu/nl)
 - [O&O ShutUp10++](https://www.oo-software.com/en/shutup10)
