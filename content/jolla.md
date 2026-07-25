@@ -39,6 +39,7 @@ Diverse applicaties die mogelijk handig zijn
 - [Defender](https://sailfishos-chum.github.io/apps/harbour-defender/)
 - [File Browser](https://openrepos.net/content/ichthyosaurus/file-browser)
 - [Fileman](https://openrepos.net/content/ruditimmer/fileman)
+- [GhostCloud](https://github.com/fredldotme/harbour-owncloud/)
 - [Happycamper](https://openrepos.net/content/poetaster/happycamper)
 - [mediainfo-gui](https://openrepos.net/content/ade/mediainfo-gui)
 - [Muoto UI Themer](https://openrepos.net/content/fravaccaro/muoto-ui-themer)
