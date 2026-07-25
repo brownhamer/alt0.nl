@@ -143,6 +143,7 @@ Een aantal alternatieven die ik overweeg, of zelfs geprobeerd heb maar die voor 
 - [OpenCommit](https://opencommit.eu/) &raquo; Is denk ik niet voor mijn gebruik bedoelt.
 - [Organize](https://github.com/tfeldmann/organize) &raquo; Beetje als [Hazelnut](https://hazelnut.ricardodantas.me/), handig maar nog niet aan toe gekomen.
 - [Pebble](https://repebble.com/) &raquo; Leuk, maar ervaring heeft me geleerd dat ik geen horloge draag.
+- [postmarketOS](https://postmarketos.org/) &raquo; Gekozen vor de [ALT0PAGE_jolla] de [Sailfish OS](https://sailfishos.org/) gebruikt.
 - [Redox](https://redox-os.org/) &raquo; Iets om in de gaten te houden, maar nog niet klaar voor dagelijks gebruik.
 - [RelaGit](https://rela.dev/) &raquo; Misschien voor als ik van GitHub af ben.
 - [Sailfish OS](https://sailfishos.org/) &raquo; Als de [ALT0PAGE_jolla] er is, ik ben benieuwd.
@@ -185,6 +186,7 @@ Overzichten en lijsten van Big Tech alternatieven.
 - [European Alternatives](https://european-alternatives.eu/).eu
 - [Exit 50](https://www.exit50.com/)
 - [Fossify](https://www.fossify.org/)
+- [Lokjo - Alternative phone OS](https://www.lokjo.com/eu/oscheck.php)
 - [Go European](https://www.goeuropean.org/)
 - [Made in Canada Directory](https://madeincanadadirectory.ca/)
 - [Open Source Alternatives](https://www.opensourcealternative.to/)
