@@ -137,6 +137,8 @@ Een aantal alternatieven die ik overweeg, of zelfs geprobeerd heb maar die voor 
 - [immich](https://immich.app/) &raquo; Bij voorkeur heb ik mijn foto's lokaal staan, vooralsnog gekozen voor [Nextcloud](https://nextcloud.com/) via [oCloud](https://ocloud.de/).
 - [Jolla](https://commerce.jolla.com/) &raquo; Ingeschreven voor de volgende [ALT0PAGE_jolla] telefoon, maar dat duurt nog even.
 - [KeeWeb](https://keeweb.info/) &raquo; [1Password](https://1password.com/) bevalt prima, voor het hele gezin, en Canadees is ook OK (vind ik).
+- [Kiwi (is not Apple)](https://extensions.gnome.org/extension/8276/kiwi-is-not-apple/) &raquo; "... brings macOS-inspired features for GNOME".
+- [Kiwi Menu](https://extensions.gnome.org/extension/8697/kiwi-menu/) &raquo; "macOS-inspired quick menu for GNOME".
 - [Lapce](https://lap.dev/lapce/) &raquo; Nog niet echt geprobeerd.
 - [librephone](https://librephone.fsf.org/site/) &raquo; Verre van af, net begonnen zelfs.
 - [LibreWolf](https://librewolf.net/) &raquo; Voorlopig blijf ik nog trouw aan [Firefox](https://www.firefox.com/nl/).
@@ -145,6 +147,7 @@ Een aantal alternatieven die ik overweeg, of zelfs geprobeerd heb maar die voor 
 - [Metadata Cleaner](https://flathub.org/en/apps/io.gitlab.metadatacleaner.metadatacleaner) &raquo; "View and clean metadata in files".
 - [Mimick](https://flathub.org/en/apps/dev.nicx.mimick) &raquo; "Back up and browse your photos".
 - [mosa.cloud](https://mosa.cloud/) &raquo; Nog in beta en waarschijnlijk meer dan ik nodig heb.
+- [Nextcloud News App](https://nextcloud.github.io/news/) &raquo; "... offers the user an RSS/Atom feed reader ...".
 - [Notesnook](https://notesnook.com/) &raquo; Prima, meer dan ik nodig had, [Nextcloud Notes](https://apps.nextcloud.com/apps/notes) is goed genoeg (en gewoon [Markdown](https://en.wikipedia.org/wiki/Markdown) gebaseerd).
 - [OpenCommit](https://opencommit.eu/) &raquo; Is denk ik niet voor mijn gebruik bedoelt.
 - [Organize](https://github.com/tfeldmann/organize) &raquo; Beetje als [Hazelnut](https://hazelnut.ricardodantas.me/), handig maar nog niet aan toe gekomen.
