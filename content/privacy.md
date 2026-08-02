@@ -87,6 +87,7 @@ Het gaat daarbij niet over verbergen, maar over veiligheid van jouw persoonlijke
 - [Google to pay $93m in settlement over deceptive location tracking](https://www.theguardian.com/technology/2023/sep/14/google-location-tracking-data-settlement)
 - [Grandma Wrongly Arrested Due to Facial Recognition Software Finally Released After Months in Jail](https://www.privacyguides.org/news/2026/04/01/grandma-wrongly-arrested-due-to-facial-recognition-software-finally-released-after-months-in-jail/)
 - [Griekenland overweegt anonimiteit op sociale media te verbieden](https://tweakers.net/nieuws/247274/griekenland-overweegt-anonimiteit-op-sociale-media-te-verbieden.html)
+- [Grote zorgen over 'gluurbrillen' van Meta](https://nos.nl/nieuwsuur/artikel/2625225-grote-zorgen-over-gluurbrillen-van-meta)
 - [Hackers Expose The Massive Surveillance Stack Hiding Inside Your “Age Verification” Check](https://www.techdirt.com/2026/02/25/hackers-expose-the-massive-surveillance-stack-hiding-inside-your-age-verification-check/)
 - [Historic Chat Control Vote in the EU Parliament: MEPs Vote to End Untargeted Mass Scanning of Private Chats](https://www.patrick-breyer.de/en/historic-chat-control-vote-in-the-eu-parliament-meps-vote-to-end-untargeted-mass-scanning-of-private-chats/)
 - [Hoe de EU kinderen gebruikt voor haar agenda](https://substack.com/home/post/p-170674285)

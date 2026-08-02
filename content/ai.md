@@ -159,6 +159,7 @@ Echter de diverse LLM gebaseerde initiatieven die vanuit Big Tech gepusht worden
 - [Google’s exponential path to climate-wrecking digital bloat](https://ketanjoshi.co/2026/07/01/googles-exponential-path-to-climate-wrecking-digital-bloat/)
 - [Grok is spreading inaccurate info again, this time about the Bondi Beach shooting](https://www.engadget.com/ai/grok-is-spreading-inaccurate-info-again-this-time-about-the-bondi-beach-shooting-203946515.html?src=rss)
 - [Grok-chatbot valt door de mand: AI-blunder onderstreept gebrekkige beveiliging](https://draadbreuk.nl/typisch-draadbreuk/grok-chatbot-valt-door-de-mand-ai-blunder-onderstreept-gebrekkige-beveiliging/)
+- [Grote zorgen over 'gluurbrillen' van Meta](https://nos.nl/nieuwsuur/artikel/2625225-grote-zorgen-over-gluurbrillen-van-meta)
 - [Hackers Simply Asked Meta AI to Give Them Access to High-Profile Instagram Accounts. It Worked](https://www.404media.co/hackers-simply-asked-meta-ai-to-give-them-access-to-high-profile-instagram-accounts-it-worked/)
 - [Het idee van een ‘AI-race’, wat een armoe](https://www.nrc.nl/nieuws/2026/06/30/het-idee-van-een-ai-race-wat-een-armoe-a4931405?gift_token=4931405~1783520354~Ul1V0J0IEeKfgABQVoV_mg~rLf_znS64WQPHEV4fSzp3bLooKD_X8TJCtTBA2VWS00)
 - [Het klimaat interesseert techbazen geen zier](https://www.nrc.nl/nieuws/2026/06/04/het-klimaat-interesseert-techbazen-geen-zier-a4929180?gift_token=4929180~1781686673~Z8S5wp0IEeKfgABQVoV_mg~rAW3VinNAflVa0W_rrME-cp0STE4eswqZd9IXj5Jt2I)
