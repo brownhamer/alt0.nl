@@ -24,6 +24,7 @@ Echter de diverse LLM gebaseerde initiatieven die vanuit Big Tech gepusht worden
 - [Refusal to Review](https://irisvanrooijcogsci.com/2026/04/08/refusal-to-review/)
 - [Remove Windows Ai](https://github.com/zoicware/RemoveWindowsAI)
 - [Take Back Control](https://knightsofmolino.bandcamp.com/track/take-back-control)
+- [uBlock Origin's EasyList](https://toot.lgbt/@ellesaurus/117017590630555678)
 
 ## Uitdagingen
 
