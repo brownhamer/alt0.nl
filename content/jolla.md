@@ -14,6 +14,7 @@ Allerlei willekeurige links die (indirect) met de Jolla telefoon of Sailfish OS 
 - [Aurora](https://auroraoss.com/)
 - [Beginner Resource Collection](https://forum.sailfishos.org/t/beginner-resource-collection/829)
 - [Chum](https://sailfishos-chum.github.io/)
+- [Harbour, Storeman, Chum, Android apps, Whisperfish?](https://www.rubdos.be/2026/08/01/my-sailfish-os-journey-what-they-should-ve-told-you.html)
 - [Jolla Blog](https://forum.sailfishos.org/c/blog/31)
 - [Jolla Harbour](https://harbour.jolla.com/)
 - [Jolla Phone Day1](https://forum.sailfishos.org/t/sailfish-community-news-july-10-2026-jolla-phone-day1/30490) launch event
@@ -27,6 +28,7 @@ Allerlei willekeurige links die (indirect) met de Jolla telefoon of Sailfish OS 
 - Sailfish OS [Banking apps](https://forum.sailfishos.org/t/banking-apps-on-sailfish-os/18438)
 - Sailfish OS [Community News](https://forum.sailfishos.org/c/community-news/25)
 - Sailfish OS [Mastodon Starter Pack](https://fedidevs.com/s/ODY1/)
+- [Sailfish OS](https://github.com/sailfishos) on GitHub
 
 ## Apps
 
@@ -59,6 +61,7 @@ Diverse applicaties die mogelijk handig zijn
 - [Storeman Installer](https://openrepos.net/content/olf/storeman-installer)
 - [Strymas](https://openrepos.net/content/takraslt/strymas)
 - [Tarkka Magnifier](https://openrepos.net/content/fravaccaro/tarkka-magnifier)
+- [Tidings](https://openrepos.net/content/poetaster/tidings)
 - [Tooter β](https://openrepos.net/content/molan/tooter-v)
 - [Unit Converter](https://openrepos.net/content/ade/unit-converter-fork)
 - [WelkWeer](https://openrepos.net/content/ade/welkweer)
