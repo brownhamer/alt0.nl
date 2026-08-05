@@ -193,6 +193,7 @@ Overzichten en lijsten van Big Tech alternatieven.
 - [EU Cloud](https://www.eucloud.tech/)
 - [EU Tech Map](https://europeantechmap.eu/)
 - [EUPL](https://interoperable-europe.ec.europa.eu/collection/eupl)
+- [Euronomy](https://euronomy.eu/)
 - [European AI atlas](https://www.aiatlas.eu/)
 - [European Alternatives](https://euroalternative.co/).co
 - [European Alternatives](https://european-alternatives.cloud/).cloud
