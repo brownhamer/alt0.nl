@@ -48,6 +48,7 @@ Naast bovengenoemde applicaties zijn er diverse andere handige programma's die i
 - [Messages](https://github.com/FossifyOrg/Messages) by Fossify &raquo; Android &raquo; Simpele SMS applicatie.
 - [Moshidon](https://lucasggamerm.github.io/moshidon/) &raquo; Android &raquo; Mooi vormgegeven, prettige [Mastodon](https://joinmastodon.org/nl-NL) client.
 - [Murine Launcher](https://www.murinelauncher.app/) &raquo; Android &raquo; Prettige, simpele launcher die werkt op mijn Samsung tablet en mijn Pixel 6a.
+- [Pelton](https://pelton.app/) &raquo; Linux &raquo; Als alternatief voor Thuderbird aan het testen, erg prettig en handig in gebruik en ook nog eens snel. Mist wel weer CalDav en CardDav, dat dan weer wel.
 - [Phone](https://github.com/FossifyOrg/Phone) by Fossify &raquo; Android &raquo; Gewoon bellen, zonder de nummers door te geven aan Google.
 - [Power Ampache 2](https://power.ampache.dev/) &raquo; Android &raquo; Muziek afspelen via [Nextloud Music](https://apps.nextcloud.com/apps/music), meestal opnames voor nieuwe nummers van de band.
 - [Refine](https://tesk.page/refine/) &raquo; Linux &raquo; GNOME tweaken op een aantal punten.
