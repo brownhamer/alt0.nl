@@ -53,6 +53,7 @@ Diverse applicaties die mogelijk handig zijn
 - [NFC Logger](https://openrepos.net/content/slava/nfc-logger)
 - [Notizen.md](https://openrepos.net/content/fooxl/notizenmd)
 - [OSM Scout](https://openrepos.net/content/karry/osm-scout)
+- [Parking Chaos](https://openrepos.net/content/ichthyosaurus/parking-chaos)
 - [Pure Maps](https://openrepos.net/content/rinigus/pure-maps)
 - [Quickbar BETA](https://openrepos.net/content/giuliettasw/quickbar-beta)
 - [RooThub](https://openrepos.net/content/rootgpt/roothub)
