@@ -19,7 +19,7 @@ Allerlei willekeurige links die (indirect) met de Jolla telefoon of Sailfish OS 
 - [Jolla Harbour](https://harbour.jolla.com/)
 - [Jolla Phone Day1](https://forum.sailfishos.org/t/sailfish-community-news-july-10-2026-jolla-phone-day1/30490) launch event
 - [LinuxPhoneApps.org](https://linuxphoneapps.org/)
-- [microG GmsCore](https://github.com/microg/GmsCore/wiki)
+- [microG GmsCore](https://github.com/microg/GmsCore/wiki) and [installation guide](https://forum.sailfishos.org/t/installing-microg-on-sailfish-os/14375)
 - [OpenRepos.net](https://openrepos.net/)
 - Sailfish OS [Announcements](https://forum.sailfishos.org/c/announcements/17)
 - Sailfish OS [App Compatibility](https://sailfishos.app/)
