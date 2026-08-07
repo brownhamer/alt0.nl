@@ -54,6 +54,7 @@ Diverse applicaties die mogelijk handig zijn
 - [Notizen.md](https://openrepos.net/content/fooxl/notizenmd)
 - [OSM Scout](https://openrepos.net/content/karry/osm-scout)
 - [Pure Maps](https://openrepos.net/content/rinigus/pure-maps)
+- [Quickbar BETA](https://openrepos.net/content/giuliettasw/quickbar-beta)
 - [RooThub](https://openrepos.net/content/rootgpt/roothub)
 - [RooTitanium](https://openrepos.net/content/rootgpt/rootitanium)
 - [Sailcards](https://openrepos.net/content/amol/sailcards)
