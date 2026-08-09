@@ -164,6 +164,7 @@ Een aantal alternatieven die ik overweeg, of zelfs geprobeerd heb maar die voor 
 - [Soverin](https://soverin.com/) &raquo; Had al gekozen voor [Posteo](https://posteo.de/en).
 - [The Good Cloud](https://thegood.cloud/individuals/) &raquo; Had al gekozen voor [oCloud](https://ocloud.de/).
 - [Tuta](https://tuta.com/) &raquo; Had al gekozen voor [Posteo](https://posteo.de/en).
+- [Uruky](https://uruky.com/) &raquo; [DuckDuckGo](https://noai.duckduckgo.com/) bevalt me nog prima op dit moment, maar toch.
 - [Vivaldi](https://vivaldi.com/) &raquo; Gebruikt helaas nog de chromium engine.
 - [Volla](https://volla.online/en/index.php) &raquo; Qua naam bijna hetzelfde, maar dus gekozen voor [ALT0PAGE_jolla].
 - [Volla Tablet](https://volla.online/de/shop/volla-tablet/) &raquo; Als telefoon gekozen voor [ALT0PAGE_jolla], maar Volla is een van de weinige leveranciers van een Linux tablet.
