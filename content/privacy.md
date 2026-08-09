@@ -117,6 +117,7 @@ Het gaat daarbij niet over verbergen, maar over veiligheid van jouw persoonlijke
 - [Ook sites van gemeenten geven bezoekersgegevens vooral door aan Google](https://www.ronroozendaal.nl/blog/2026/07/ook-websites-van-gemeenten-geven-bezoekersgegevens-vooral-door-aan-google)
 - [Ouders kunnen 'in komende weken' zien waar tieners over praten met Meta's AI-bot](https://tweakers.net/nieuws/247162/ouders-kunnen-in-komende-weken-zien-waar-tieners-over-praten-met-metas-ai-bot.html)
 - [Overheid VS kocht data van online advertenties om locatie mensen te volgen](https://www.security.nl/posting/927459/Overheid+VS+kocht+data+van+online+advertenties+om+locatie+mensen+te+volgen)
+- [Paspoortkopieën en handtekeningen lekken mogelijk uit na hack bij autobedrijf](https://tweakers.net/nieuws/250756/paspoortkopieen-en-handtekeningen-lekken-mogelijk-uit-na-hack-bij-autobedrijf.html)
 - [Price of a bot army revealed across hundreds of online platforms](https://www.cam.ac.uk/stories/price-bot-army-global-index)
 - [Privacy preserving age verification” is bullshit](https://pluralistic.net/2025/08/14/bellovin/#wont-someone-think-of-the-cryptographers)
 - [Privacyexpert: overheid dringt steeds dieper het privéleven van burgers binnen](https://www.security.nl/posting/910437/Privacyexpert%3A+overheid+dringt+steeds+dieper+het+priv%C3%A9leven+van+burgers+binnen)
