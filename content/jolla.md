@@ -66,6 +66,7 @@ Diverse applicaties die mogelijk handig zijn
 - [Tidings](https://openrepos.net/content/poetaster/tidings)
 - [Tooter β](https://openrepos.net/content/molan/tooter-v)
 - [Unit Converter](https://openrepos.net/content/ade/unit-converter-fork)
+- [Walt](https://walt.is/)
 - [WelkWeer](https://openrepos.net/content/ade/welkweer)
 - [Whisperfish](https://openrepos.net/content/rubdos/whisperfish)
 - [ZuTun.txt](https://openrepos.net/content/fooxl/zutuntxt)
