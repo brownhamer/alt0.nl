@@ -15,9 +15,10 @@ Allerlei willekeurige links die (indirect) met de Jolla telefoon of Sailfish OS 
 - [Beginner Resource Collection](https://forum.sailfishos.org/t/beginner-resource-collection/829)
 - [Chum](https://sailfishos-chum.github.io/)
 - [Harbour, Storeman, Chum, Android apps, Whisperfish?](https://www.rubdos.be/2026/08/01/my-sailfish-os-journey-what-they-should-ve-told-you.html)
-- [Jolla Blog](https://forum.sailfishos.org/c/blog/31)
-- [Jolla Harbour](https://harbour.jolla.com/)
-- [Jolla Phone Day1](https://forum.sailfishos.org/t/sailfish-community-news-july-10-2026-jolla-phone-day1/30490) launch event
+- Jolla [Blog](https://forum.sailfishos.org/c/blog/31)
+- Jolla [Harbour](https://harbour.jolla.com/)
+- Jolla Phone [Day1](https://forum.sailfishos.org/t/sailfish-community-news-july-10-2026-jolla-phone-day1/30490) launch event
+- Jolla Phone [Shipping tracker](https://forum.sailfishos.org/t/jolla-phone-community-shipping-tracker/30751)
 - [LinuxPhoneApps.org](https://linuxphoneapps.org/)
 - [microG GmsCore](https://github.com/microg/GmsCore/wiki) and [installation guide](https://forum.sailfishos.org/t/installing-microg-on-sailfish-os/14375)
 - [OpenRepos.net](https://openrepos.net/)
