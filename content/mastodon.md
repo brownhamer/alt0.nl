@@ -13,3 +13,4 @@ Gedistribueerde sociale media.
 - [Share to Mastodon](https://share.joinmastodon.org/)
 - [Social.overheid.nl profiles](https://social.overheid.nl/directory)
 - [Volt on the fediverse](https://fedidevs.com/s/MTI2/)
+- [What the heck Is Mastodon?](https://apps.apple.com/de/story/id1668483560?l=en-GB)
