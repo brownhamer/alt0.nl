@@ -12,6 +12,7 @@ Echter de diverse LLM gebaseerde initiatieven die vanuit Big Tech gepusht worden
 - [ai.robots.txt](https://github.com/ai-robots-txt/ai.robots.txt/tree/main)
 - [Disable AI (Firefox)](https://addons.mozilla.org/en-US/firefox/addon/disable-ai/)
 - [EcoLogits Calculator](https://huggingface.co/spaces/genai-impact/ecologits-calculator)
+- [Fietje-2](https://github.com/BramVanroy/fietje-2)
 - [GPT-NL](https://gpt-nl.nl/)
 - [Hand crafted code](https://handcraftedcode.org/)
 - [How to disable Gemini on Android, Gmail, Chrome, Photos, and Google apps. Opt out of AI tracking now!](https://tuta.com/blog/how-to-disable-gemini-on-android)
