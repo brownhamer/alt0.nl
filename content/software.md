@@ -17,7 +17,6 @@ Zie verder ook [ALT0PAGE_alternatieven] voor wat ik wel gebruik (of overweeg).
 - [7-Zip](https://7-zip.org/)
 - [Audile](https://github.com/aleksey-saenko/MusicRecognizer)
 - [Bazel](https://bazel.build/)
-- [Blur my Shell](https://extensions.gnome.org/extension/3193/blur-my-shell/)
 - [Boxes](https://apps.gnome.org/Boxes/)
 - [BuildBuddy](https://www.buildbuddy.io/)
 - [Bvckup 2](https://bvckup2.com/)
@@ -50,7 +49,6 @@ Zie verder ook [ALT0PAGE_alternatieven] voor wat ik wel gebruik (of overweeg).
 - [Redirector](https://einaregilsson.com/redirector/)
 - [Rust](https://rust-lang.org/en-US/)
 - [SANDYNE](https://sandyne.com/)
-- [Show External IP](https://extensions.gnome.org/extension/5368/show-external-ip-thisipcancyou/)
 - [Tack](https://patrickzedler.com/tack/)
 - [ToS;DR](https://tosdr.org/en)
 - [uBlacklist](https://ublacklist.github.io/docs)
@@ -60,3 +58,23 @@ Zie verder ook [ALT0PAGE_alternatieven] voor wat ik wel gebruik (of overweeg).
 - [Why is this running?](https://github.com/pranshuparmar/witr)
 - [WinSCP](https://winscp.net/)
 - [Zettlr](https://zettlr.com/)
+
+## GNOME Apps
+
+- [Calendar](https://apps.gnome.org/Calendar/)
+- [Contacts](https://apps.gnome.org/Contacts/)
+- [Iotas](https://apps.gnome.org/Iotas/)
+- [Refine](https://tesk.page/refine/)
+- [Resources](https://apps.gnome.org/nl/Resources/)
+
+## GNOME Shell Extensions
+
+- [Backdrop](https://extensions.gnome.org/extension/10391/backdrop/)
+- [Blur my Shell](https://extensions.gnome.org/extension/3193/blur-my-shell/)
+- [Kiwi (is not Apple)](https://extensions.gnome.org/extension/8276/kiwi-is-not-apple/)
+- [Kiwi Menu](https://extensions.gnome.org/extension/8697/kiwi-menu/)- [Running Apps List](https://extensions.gnome.org/extension/5832/running-apps-list/)
+- [Show External IP](https://extensions.gnome.org/extension/5368/show-external-ip-thisipcancyou/)
+- [Simple Taskbar](https://extensions.gnome.org/extension/10448/simple-taskbar/)
+- [Wallshuffle](https://extensions.gnome.org/extension/10449/wallshuffle/)
+- [Window Gap](https://extensions.gnome.org/extension/10450/window-gap/)
+- [Workspace Number Indicator](https://extensions.gnome.org/extension/9809/workspace-number-indicator/)

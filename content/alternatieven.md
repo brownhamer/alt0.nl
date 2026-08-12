@@ -51,8 +51,6 @@ Naast bovengenoemde applicaties zijn er diverse andere handige programma's die i
 - [Pelton](https://pelton.app/) &raquo; Linux &raquo; Als alternatief voor Thuderbird aan het testen, erg prettig en handig in gebruik en ook nog eens snel. Mist wel weer CalDav en CardDav, dat dan weer wel.
 - [Phone](https://github.com/FossifyOrg/Phone) by Fossify &raquo; Android &raquo; Gewoon bellen, zonder de nummers door te geven aan Google.
 - [Power Ampache 2](https://power.ampache.dev/) &raquo; Android &raquo; Muziek afspelen via [Nextloud Music](https://apps.nextcloud.com/apps/music), meestal opnames voor nieuwe nummers van de band.
-- [Refine](https://tesk.page/refine/) &raquo; Linux &raquo; GNOME tweaken op een aantal punten.
-- [Resources](https://apps.gnome.org/nl/Resources/) &raquo; Linux &raquo; Mooi vormgegeven systeem bron monitor.
 - [Secure PDF Viewer](https://github.com/GrapheneOS/PdfViewer) &raquo; Android &raquo; Simpele PDF viewer.
 - [Shotwell](https://shotwell-project.org/) &raquo; Linux &raquo; Foto's beheren, voor zover ik dat doe.
 - [Spider](https://github.com/Zaedus/spider) &raquo; Linux &raquo; Site als apps aanmaken, best handig.
@@ -138,8 +136,6 @@ Een aantal alternatieven die ik overweeg, of zelfs geprobeerd heb maar die voor 
 - [immich](https://immich.app/) &raquo; Bij voorkeur heb ik mijn foto's lokaal staan, vooralsnog gekozen voor [Nextcloud](https://nextcloud.com/) via [oCloud](https://ocloud.de/).
 - [Jolla](https://commerce.jolla.com/) &raquo; Ingeschreven voor de volgende [ALT0PAGE_jolla] telefoon, maar dat duurt nog even.
 - [KeeWeb](https://keeweb.info/) &raquo; [1Password](https://1password.com/) bevalt prima, voor het hele gezin, en Canadees is ook OK (vind ik).
-- [Kiwi (is not Apple)](https://extensions.gnome.org/extension/8276/kiwi-is-not-apple/) &raquo; "... brings macOS-inspired features for GNOME".
-- [Kiwi Menu](https://extensions.gnome.org/extension/8697/kiwi-menu/) &raquo; "macOS-inspired quick menu for GNOME".
 - [Lapce](https://lap.dev/lapce/) &raquo; Nog niet echt geprobeerd.
 - [librephone](https://librephone.fsf.org/site/) &raquo; Verre van af, net begonnen zelfs.
 - [LibreWolf](https://librewolf.net/) &raquo; Voorlopig blijf ik nog trouw aan [Firefox](https://www.firefox.com/nl/).
