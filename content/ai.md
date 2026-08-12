@@ -53,6 +53,7 @@ Echter de diverse LLM gebaseerde initiatieven die vanuit Big Tech gepusht worden
 - [AI in operatiekamers leidt tot stortvloed aan medische missers](https://www.bnnvara.nl/joop/artikelen/ai-in-operatiekamers-leidt-tot-stortvloed-aan-medische-missers)
 - [AI Is African Intelligence: The Workers Who Train AI Are Fighting Back](https://www.404media.co/ai-is-african-intelligence-the-workers-who-train-ai-are-fighting-back/)
 - [AI Is Inventing Academic Papers That Don’t Exist — And They’re Being Cited in Real Journals](https://www.rollingstone.com/culture/culture-features/ai-chatbot-journal-research-fake-citations-1235485484/)
+- [AI is removing the middle class of software engineering](https://thepixelspulse.com/posts/ai-removing-middle-class-software-engineering/?utm_source=mastodon&utm_medium=social&utm_campaign=auto-publish&utm_content=9d74932b)
 - [AI Is Slowing Down](https://www.wheresyoured.at/ai-is-slowing-down/)
 - [AI krijgt catastrofale contentcrisis voor de kiezen](https://www.agconnect.nl/tech-en-toekomst/artificial-intelligence/ai-krijgt-catastrofale-contentcrisis-voor-de-kiezen?gift=f5b2aa3a-8b25-5d77-8eaf-43f2ce199eb0)
 - [AI krijgt datacenters van big tech op de knieën en die nemen nu maatregelen](https://tweakers.net/reviews/14678/ai-krijgt-datacenters-van-big-tech-op-de-knieen-en-die-nemen-nu-maatregelen.html)
