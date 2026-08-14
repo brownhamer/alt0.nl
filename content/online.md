@@ -2,28 +2,32 @@
 
 Diverse 'handige' sites met online tools en informatie.
 
-- [7 String Guitar](https://chord.rocks/7-string-guitar/)
+## Familie, vrienden, kennissen en (oud) collega's
+
+- [Creative Music Lab](https://lab.creativemusiclab.com/)
+- [Figment Stories](https://figmentstories.nl/)
+- [Industrial-Impression](https://industrial-impression.com/)
+- [Lago & Urdaneta](https://lagourdaneta.com/)
+- [Melroy](https://melroy.org/)
+- [SoftBits](http://softbits.nl/)
+
+## Handig
+
 - [Awesome Rust](https://github.com/rust-unofficial/awesome-rust)
 - [Chris Klomp](https://chrisklomp.nl/)
 - [Code Europe](https://code.europa.eu/)
-- [Creative Music Lab](https://lab.creativemusiclab.com/)
 - [David Zinn](https://zinnart.com/)
 - [DistroSea](https://distrosea.com/)
 - [Emojipedia](https://emojipedia.org/)
 - [F1 HOT or NOT](https://www.f1hotornot.com/)
 - [feedle](https://feedle.world/)
-- [Figment Stories](https://figmentstories.nl/)
-- [FindMyGuitar](https://findmyguitar.com/)
 - [Firefox Profilemaker](https://ffprofile.com/)
 - [Fossify](https://www.fossify.org/)
 - [Galgo Project](https://galgoproject.nl/)
 - [good first issue](https://goodfirstissue.dev/)
 - [Iconify](https://icon-sets.iconify.design/)
 - [Iconmonstr](https://iconmonstr.com/)
-- [Industrial-Impression](https://industrial-impression.com/)
-- [Lago & Urdaneta](https://lagourdaneta.com/)
 - [LibreSpeed](https://librespeed.org/)
-- [Melroy](https://melroy.org/)
 - [Museum of Lost Sounds](https://bigsoundbank.com/museumofsounds/)
 - [Muzikantenbank.NET](https://www.muzikantenbank.net)
 - [NEMO Kennislink](https://www.nemokennislink.nl/)
@@ -32,20 +36,24 @@ Diverse 'handige' sites met online tools en informatie.
 - [Organisations Using ActivityPub](https://jaz.co.uk/projects/orgs-using-ap/)
 - [RegExr](https://regexr.com/)
 - [Partij voor de Dieren](https://www.partijvoordedieren.nl/)
-- [Pedal Playground](https://pedalplayground.com/)
 - [Politici op Mastodon](https://www.politici-op-mastodon.nl/)
 - [Prikkert](https://prikkert.nl/)
 - [Puter](https://github.com/HeyPuter/puter)
 - [RefSeek](https://www.refseek.com/)
 - [RegExr](https://regexr.com/)
-- [SoftBits](http://softbits.nl/)
 - [stux.me](https://stux.me/)
 - [Tessel](https://play.tessel.at/)
 - [TilburgAns](https://www.tilburgsans.nl/)
-- [Ultimate Guitar](https://www.ultimate-guitar.com/)
 - [Wandelroutes](https://www.kempen.be/wandelroutes)
 - [Work Chronicles](https://workchronicles.substack.com/archive)
 - [Xikipedia](https://xikipedia.org/)
+
+## Muziek maken
+
+- [7 String Guitar](https://chord.rocks/7-string-guitar/)
+- [FindMyGuitar](https://findmyguitar.com/)
+- [Pedal Playground](https://pedalplayground.com/)
+- [Ultimate Guitar](https://www.ultimate-guitar.com/)
 
 ## Muzikanten
 
