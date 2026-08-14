@@ -46,7 +46,7 @@ Diverse applicaties die mogelijk handig zijn
 - [Fileman](https://openrepos.net/content/ruditimmer/fileman)
 - [GhostCloud](https://github.com/fredldotme/harbour-owncloud/)
 - [Happycamper](https://openrepos.net/content/poetaster/happycamper)
-- [KibiTiles]https://openrepos.net/content/roundedrectangle/kibitiles
+- [KibiTiles](https://openrepos.net/content/roundedrectangle/kibitiles)
 - [mediainfo-gui](https://openrepos.net/content/ade/mediainfo-gui)
 - [Muoto UI Themer](https://openrepos.net/content/fravaccaro/muoto-ui-themer)
   - [Evolve Plus theme pack](https://openrepos.net/content/fravaccaro/evolve-plus-theme-pack)
