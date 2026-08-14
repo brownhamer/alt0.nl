@@ -214,6 +214,7 @@ Echter de diverse LLM gebaseerde initiatieven die vanuit Big Tech gepusht worden
 - [No AI Slops! GNOME Now Forbids Vibe Coded Extensions](https://itsfoss.com/news/no-ai-extension-gnome/)
 - [Noorwegen verbiedt gebruik van AI op basisscholen door dalende schoolresultaten](https://tweakers.net/nieuws/249330/noorwegen-verbiedt-gebruik-van-ai-op-basisscholen-door-dalende-schoolresultaten.html)
 - [North Korean Operatives Use Deepfakes in IT Job Interviews](https://www.darkreading.com/remote-workforce/north-korean-operatives-deepfakes-it-job-interviews)
+- [On AI Coding and Its Discontents](https://calnewport.com/on-ai-coding-and-its-discontents/)
 - [Onderzoek: populaire AI-modellen overtreden op grote schaal de wet](https://www.security.nl/posting/938283/Onderzoek%3A+populaire+AI-modellen+overtreden+op+grote+schaal+de+wet)
 - [Onderzoekers vinden kwetsbaarheden in systeem dat kinderporno moet opsporen](https://datanews.knack.be/nieuws/security/kwetsbaarheden/onderzoekers-vinden-kwetsbaarheden-in-systeem-dat-kinderporno-moet-opsporen/)
 - [Onrust in Californische gemeenschap nu energiebedrijf stopt met leveren vanwege datacenters](https://www.bnr.nl/nieuws/tech-innovatie/10601033/onrust-in-californische-gemeenschap-nu-energiebedrijf-stopt-met-leveren-vanwege-datacenters)
