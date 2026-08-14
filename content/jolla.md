@@ -41,23 +41,17 @@ Diverse applicaties die mogelijk handig zijn
 - [Blocky](https://openrepos.net/content/ilpianista/blocky)
 - [ClimaZone](https://openrepos.net/content/leo03/climazone)
 - [Defender](https://sailfishos-chum.github.io/apps/harbour-defender/)
-- [Dino](https://openrepos.net/content/arustg/dino)
 - [File Browser](https://openrepos.net/content/ichthyosaurus/file-browser)
 - [Fileman](https://openrepos.net/content/ruditimmer/fileman)
 - [GhostCloud](https://github.com/fredldotme/harbour-owncloud/)
 - [Happycamper](https://openrepos.net/content/poetaster/happycamper)
-- [KibiTiles](https://openrepos.net/content/roundedrectangle/kibitiles)
 - [mediainfo-gui](https://openrepos.net/content/ade/mediainfo-gui)
-- [Muoto UI Themer](https://openrepos.net/content/fravaccaro/muoto-ui-themer)
-  - [Evolve Plus theme pack](https://openrepos.net/content/fravaccaro/evolve-plus-theme-pack)
-  - [Harmattan theme pack](https://openrepos.net/content/fravaccaro/harmattan-theme-pack)
 - [Musikilo](https://openrepos.net/content/mistermagister/musikilo)
 - [Nami](https://openrepos.net/content/nicosouv/nami)
 - [NedNieuws](https://openrepos.net/content/ade/nednieuws)
 - [NFC Logger](https://openrepos.net/content/slava/nfc-logger)
 - [Notizen.md](https://openrepos.net/content/fooxl/notizenmd)
 - [OSM Scout](https://openrepos.net/content/karry/osm-scout)
-- [Parking Chaos](https://openrepos.net/content/ichthyosaurus/parking-chaos)
 - [Pure Maps](https://openrepos.net/content/rinigus/pure-maps)
 - [Quickbar BETA](https://openrepos.net/content/giuliettasw/quickbar-beta)
 - [RooThub](https://openrepos.net/content/rootgpt/roothub)
@@ -75,3 +69,15 @@ Diverse applicaties die mogelijk handig zijn
 - [WelkWeer](https://openrepos.net/content/ade/welkweer)
 - [Whisperfish](https://openrepos.net/content/rubdos/whisperfish)
 - [ZuTun.txt](https://openrepos.net/content/fooxl/zutuntxt)
+
+## Games
+
+- [Dino](https://openrepos.net/content/arustg/dino)
+- [KibiTiles](https://openrepos.net/content/roundedrectangle/kibitiles)
+- [Parking Chaos](https://openrepos.net/content/ichthyosaurus/parking-chaos)
+
+## Themes
+
+- [Muoto UI Themer](https://openrepos.net/content/fravaccaro/muoto-ui-themer)
+  - [Evolve Plus theme pack](https://openrepos.net/content/fravaccaro/evolve-plus-theme-pack)
+  - [Harmattan theme pack](https://openrepos.net/content/fravaccaro/harmattan-theme-pack)
