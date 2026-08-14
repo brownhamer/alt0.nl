@@ -66,3 +66,4 @@ En ja, er zijn [ALT0PAGE_alternatieven].
 - [Uploading Pirated Books via BitTorrent Qualifies as Fair Use, Meta Argues](https://torrentfreak.com/uploading-pirated-books-via-bittorrent-qualifies-as-fair-use-meta/)
 - [WhatsApp blokkeert Nederlandse sekswerkers en hulpverleners](https://pointer.kro-ncrv.nl/whatsapp-blokkeert-nederlandse-sekswerkers-en-hulpverleners)
 - [WhatsApp-bèta verplaatst Status-posts (en daarmee reclames) naar Chats-tabblad](https://tweakers.net/nieuws/246658/whatsapp-beta-verplaatst-status-posts-en-daarmee-reclames-naar-chats-tabblad.html)
+- [Woede opwekken is winstgevend op Facebook: hoe een Gronings stel geld verdient met ragebaits](https://www.trouw.nl/tijdgeest/woede-opwekken-is-winstgevend-op-facebook-hoe-een-gronings-stel-geld-verdient-met-ragebaits~b0d29230/)
