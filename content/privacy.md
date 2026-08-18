@@ -87,6 +87,7 @@ Het gaat daarbij niet over verbergen, maar over veiligheid van jouw persoonlijke
 - [Gmail, Microsoft, Meta, LinkedIn: They already scan your messages - voluntarily!](https://tuta.com/blog/voluntary-scanning-google-microsoft#the-good-and-the-bad)
 - [Google, Meta, TikTok hit by EU consumer complaints about handling of financial scams](https://www.reuters.com/legal/litigation/google-meta-tiktok-face-eu-consumer-complaints-about-handling-financial-scams-2026-05-21/)
 - [Google Fulfilled ICE Subpoena Demanding Student Journalist Credit Card Number](https://theintercept.com/2026/02/10/google-ice-subpoena-student-journalist/)
+- [Google koopt bedrijfsdata van failliete luchtvaartmaatschappij om AI te trainen](https://tweakers.net/nieuws/251092/google-koopt-bedrijfsdata-van-failliete-luchtvaartmaatschappij-om-ai-te-trainen.html)
 - [Google to pay $93m in settlement over deceptive location tracking](https://www.theguardian.com/technology/2023/sep/14/google-location-tracking-data-settlement)
 - [Grandma Wrongly Arrested Due to Facial Recognition Software Finally Released After Months in Jail](https://www.privacyguides.org/news/2026/04/01/grandma-wrongly-arrested-due-to-facial-recognition-software-finally-released-after-months-in-jail/)
 - [Griekenland overweegt anonimiteit op sociale media te verbieden](https://tweakers.net/nieuws/247274/griekenland-overweegt-anonimiteit-op-sociale-media-te-verbieden.html)

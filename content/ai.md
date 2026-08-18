@@ -158,6 +158,7 @@ Echter de diverse LLM gebaseerde initiatieven die vanuit Big Tech gepusht worden
 - [Google Chrome silently installs a 4 GB AI model on your device without consent. At a billion-device scale the climate costs are insane.](https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/)
 - [Google Employees Internally Share Memes About How Its AI Sucks](https://www.404media.co/google-employees-internally-share-memes-about-how-its-ai-sucks/)
 - [Google Earth laat schadelijke AI-bewerkingen door ondanks eigen verbod](https://tweakers.net/nieuws/250574/google-earth-laat-schadelijke-ai-bewerkingen-door-ondanks-eigen-verbod.html)
+- [Google koopt bedrijfsdata van failliete luchtvaartmaatschappij om AI te trainen](https://tweakers.net/nieuws/251092/google-koopt-bedrijfsdata-van-failliete-luchtvaartmaatschappij-om-ai-te-trainen.html)
 - [Google owner Alphabet to sell $80bn in stock to fund AI spending spree](https://www.theguardian.com/technology/2026/jun/02/google-alphabet-sell-stock-ai-share-sale-berkshire-hathaway)
 - [Google stelt gebruikslimieten in voor AI Pro-abonnementen](https://tweakers.net/nieuws/248076/google-stelt-gebruikslimieten-in-voor-ai-pro-abonnementen.html)
 - [Google test AI-titels bij nieuwsartikelen in zoekresultaten](https://tweakers.net/nieuws/245966/google-test-ai-titels-bij-nieuwsartikelen-in-zoekresultaten.html)
