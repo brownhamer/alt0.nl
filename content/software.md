@@ -41,6 +41,7 @@ Zie verder ook [ALT0PAGE_alternatieven] voor wat ik wel gebruik (of overweeg).
 - [Meld](https://meldmerge.org/)
 - [Memories](https://memories.gallery/)
 - [meta](https://github.com/mateodelnorte/meta) (nee, niet [ALT0PAGE_meta])
+- [Nextcloud Native](https://github.com/Obiente/nc-native)
 - [Ninja](https://ninja-build.org/)
 - [Notepad4](https://github.com/zufuliu/notepad4)
 - [Orion Browser](https://orionbrowser.com/)
