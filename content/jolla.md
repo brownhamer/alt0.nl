@@ -45,6 +45,7 @@ Maar waar mogelijk probeer ik native Sailfish OS apps te gebruiken.
 - [Dino](https://openrepos.net/content/arustg/dino) &raquo; Grappig simpel spelletje, al zal ik het niet vaak spelen.
 - [File Browser](https://openrepos.net/content/ichthyosaurus/file-browser) &raquo; De naam zegt het al, werkt prima.
 - [Hosts-block](https://sailfishos-chum.github.io/apps/hosts-block/) &raquo; Op OS level domeinen filteren, en weg is de reclame, heerlijk.
+- [Muoto UI Themer](https://openrepos.net/content/fravaccaro/muoto-ui-themer) &raquo; Om LPM (Low-Power-Mode) aan te zetten, voor klok en notificaties op je lockscreen.
 - [Storeman Installer](https://openrepos.net/content/olf/storeman-installer) &raquo; De standaard store bevat niet heel veel apps. Veel van de apps komen van [Chum](https://sailfishos-chum.github.io/) of [OpenRepos](https://openrepos.net/).
 - [Tooter β](https://openrepos.net/content/molan/tooter-v) &raquo; Mastodon client, werkt op zich prima, beetje wennen aan de interface.
 
@@ -99,9 +100,8 @@ Allerlei apps die ik nog eens moet proberen, maar nog niet aan toe ben gekomen.
 
 Niet direct voor mij, ziet er prima uit van zichzelf.
 
-- [Muoto UI Themer](https://openrepos.net/content/fravaccaro/muoto-ui-themer)
-  - [Evolve Plus theme pack](https://openrepos.net/content/fravaccaro/evolve-plus-theme-pack)
-  - [Harmattan theme pack](https://openrepos.net/content/fravaccaro/harmattan-theme-pack)
+- [Evolve Plus theme pack](https://openrepos.net/content/fravaccaro/evolve-plus-theme-pack)
+- [Harmattan theme pack](https://openrepos.net/content/fravaccaro/harmattan-theme-pack)
 
 ### App development
 
