@@ -41,6 +41,7 @@ En ja, er zijn [ALT0PAGE_alternatieven].
 - [Meta Is Facing $1.4 Trillion In State Lawsuits Over Social Media Addiction](https://www.engadget.com/2209332/meta-is-facing-1-4-trillion-in-state-lawsuits-over-social-media-addiction/)
 - [Meta krijgt 265 miljoen euro AVG-boete om gescrapete data van 533 miljoen users](https://tweakers.net/nieuws/203926/meta-krijgt-265-miljoen-euro-avg-boete-om-gescrapete-data-van-533-miljoen-users.html)
 - [Meta krijgt (opnieuw) miljoenenboete en moet Facebook en Instagram veiliger maken voor minderjarigen](https://www.vrt.be/vrtnws/nl/2026/08/07/meta-veroordeeld-tot-betaling-van-567-miljoen-dollar-aan-een-com/)
+- [Meta krijgt Ierse AVG-boete van 1,2 miljard euro voor illegale dataoverdrachten](https://tweakers.net/nieuws/209944/meta-krijgt-ierse-avg-boete-van-1-komma-2-miljard-euro-voor-illegale-dataoverdrachten.html)
 - [Meta liet gebruikers Facebook en Instagram meer advertenties zien](https://tweakers.net/nieuws/247352/meta-liet-gebruikers-facebook-en-instagram-meer-advertenties-zien.html)
 - [Meta loses trial after arguing child exploitation was “inevitable” on its apps](https://arstechnica.com/tech-policy/2026/03/meta-loses-trial-after-arguing-child-exploitation-was-inevitable-on-its-apps/)
 - [Meta moet 375 miljoen dollar schadevergoeding betalen na kinderuitbuitingszaak](https://tweakers.net/nieuws/246106/meta-moet-375-miljoen-dollar-schadevergoeding-betalen-na-kinderuitbuitingszaak.html)
