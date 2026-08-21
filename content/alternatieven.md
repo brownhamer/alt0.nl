@@ -124,7 +124,7 @@ Een aantal alternatieven die ik overweeg, of zelfs geprobeerd heb maar die voor 
 - [Ente Photos](https://ente.io/) &raquo; Bij voorkeur heb ik mijn foto's lokaal staan, vooralsnog gekozen voor [Nextcloud](https://nextcloud.com/) via [oCloud](https://ocloud.de/).
 - [Errands](https://flathub.org/en/apps/io.github.mrvladus.List) &raquo; "Manage your tasks".
 - [FairEmail](https://email.faircode.eu/) &raquo; Werkt fijn, maar gekozen om [Thunderbid](https://www.thunderbird.net/) te gebruiken net als de rest in mijn gezin om ze makkelijker te kunnen ondersteunen.
-- [Fairphone](https://www.fairphone.com/nl) &raquo; Nederlands, maar nog wel [Android](https://www.android.com/) gebaseerd, ook als je de [/e/OS](https://e.foundation/e-os/) variant kiest, dus maar ingeschreven voor de volgende [ALT0PAGE_jolla] telefoon.
+- [Fairphone](https://www.fairphone.com/nl) &raquo; Nederlands, maar nog wel [Android](https://www.android.com/) gebaseerd, ook als je de [/e/OS](https://e.foundation/e-os/) variant kiest, dus maar gekozen voor de [ALT0PAGE_jolla] telefoon.
 - [Firefox Translator](https://github.com/DavidVentura/offline-translator) &raquo; Nog niet af genoeg.
 - [Commodore Flip-phone](https://commodore.net/callback/) &raquo; Alleen al voor de spelletjes, maar goed dat kan ook met [C64.emu](https://c64emu.com/) voor met name [Morpheus](https://www.c64.com/games/154).
 - [Floorp](https://floorp.app/) &raquo; Voorlopig blijf ik nog trouw aan [Firefox](https://www.firefox.com/nl/).
@@ -134,7 +134,7 @@ Een aantal alternatieven die ik overweeg, of zelfs geprobeerd heb maar die voor 
 - [Hazelnut](https://hazelnut.ricardodantas.me/) &raquo; Nog niet aan toe gekomen, maar lijkt me erg handig.
 - [heylogin](https://www.heylogin.com/en) &raquo; [1Password](https://1password.com/) bevalt prima, voor het hele gezin, en Canadees is ook OK (vind ik).
 - [immich](https://immich.app/) &raquo; Bij voorkeur heb ik mijn foto's lokaal staan, vooralsnog gekozen voor [Nextcloud](https://nextcloud.com/) via [oCloud](https://ocloud.de/).
-- [Jolla](https://commerce.jolla.com/) &raquo; Ingeschreven voor de volgende [ALT0PAGE_jolla] telefoon, maar dat duurt nog even.
+- [Jolla](https://commerce.jolla.com/) &raquo; Over aan het stappen naar de [ALT0PAGE_jolla] telefoon.
 - [KeeWeb](https://keeweb.info/) &raquo; [1Password](https://1password.com/) bevalt prima, voor het hele gezin, en Canadees is ook OK (vind ik).
 - [Lapce](https://lap.dev/lapce/) &raquo; Nog niet echt geprobeerd.
 - [librephone](https://librephone.fsf.org/site/) &raquo; Verre van af, net begonnen zelfs.
@@ -150,10 +150,10 @@ Een aantal alternatieven die ik overweeg, of zelfs geprobeerd heb maar die voor 
 - [Organize](https://github.com/tfeldmann/organize) &raquo; Beetje als [Hazelnut](https://hazelnut.ricardodantas.me/), handig maar nog niet aan toe gekomen.
 - [Pebble](https://repebble.com/) &raquo; Leuk, maar ervaring heeft me geleerd dat ik geen horloge draag.
 - [Pins](https://flathub.org/en/apps/io.github.fabrialberio.pinapp) &raquo; "Create and edit app shortcuts".
-- [postmarketOS](https://postmarketos.org/) &raquo; Gekozen vor de [ALT0PAGE_jolla] de [Sailfish OS](https://sailfishos.org/) gebruikt.
+- [postmarketOS](https://postmarketos.org/) &raquo; Gekozen voor de [ALT0PAGE_jolla] die [Sailfish OS](https://sailfishos.org/) gebruikt.
 - [Redox](https://redox-os.org/) &raquo; Iets om in de gaten te houden, maar nog niet klaar voor dagelijks gebruik.
 - [RelaGit](https://rela.dev/) &raquo; Misschien voor als ik van GitHub af ben.
-- [Sailfish OS](https://sailfishos.org/) &raquo; Als de [ALT0PAGE_jolla] er is, ik ben benieuwd.
+- [Sailfish OS](https://sailfishos.org/) &raquo; Op de [ALT0PAGE_jolla], aan het overstappen en wennen.
 - [scrcpy](https://github.com/Genymobile/scrcpy) &raquo; Handig om je Android telefoon te bedienen vanaf je computer, maar zelf heb ik daar niet echt behoefte aan.
 - [Servo](https://servo.org/) &raquo; Actief in de gaten aan het houden als echt alternatief voor [Firefox](https://www.firefox.com/nl/).
 - [Sticky Notes](https://flathub.org/en/apps/com.vixalien.sticky) &raquo; "Pin notes to your desktop".
