@@ -254,6 +254,7 @@ Echter de diverse LLM gebaseerde initiatieven die vanuit Big Tech gepusht worden
 - [The Boy That Cried Mythos: Verification is Collapsing Trust in Anthropic](https://www.flyingpenguin.com/the-boy-that-cried-mythos-verification-is-collapsing-trust-in-anthropic/)
 - [The carbon and water footprints of data centers and what this could mean for artificial intelligence: Patterns](https://www.cell.com/patterns/fulltext/S2666-38992500278-8)
 - [The Gazillion-Dollar Oops](https://no01.substack.com/p/the-gazillion-dollar-oops)
+- [The Generative AI Learning Penalty](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6868618)
 - [The glaring security risks with AI browser agents](https://techcrunch.com/2025/10/25/the-glaring-security-risks-with-ai-browser-agents/)
 - [The irony of this is that Perplexity is posting this one](https://mastodon.social/@nixCraft/115387473218466349)
 - [The new face of fraud: Deepfakes and Impersonation Fraud Risk Guide](https://cee.pwc.com/pdf-nf/Deepfakes_and_Impersonation_Fraud_Combating.pdf)
