@@ -3,9 +3,9 @@
 Minder Big Tech, meer EU, meer open, meer privacy, meer in-control, minder [enshittificatie](https://vimeo.com/1168468796?__cf_chl_tk=u4ufcXt17oXkLH0MFgq5HBNatL0L8iYD20BWpir_hCg-1772481807-1.0.1.1-_MT9CokJ0zR57o34seVuXliK_e4rluLzZ9Yp2VLDczQ).
 Maar ja, als ik dan over ben blijft alsnog de vraag [zijn we al autonoom?](https://zijnwealautonoom.nl/)
 
-## Smartphone
+## Telefoon
 
-Een grote stap in minder big tech is afstappen van de 2 grote bedrijven die de smartphone wereld domineren, Google met Android en Appel met iOS.
+Een grote stap in minder big tech is afstappen van de 2 grote bedrijven die de mobiele telefoon wereld domineren, Google met Android en Appel met iOS.
 Sinds kort in het bezit van een [ALT0PAGE_jolla] telefoon die draait op [Sailfish OS](https://sailfishos.org/).
 Tot nog toe bevalt het eigenlijk wel, het werkt soms net wat anders, maar dat is prima.
 
