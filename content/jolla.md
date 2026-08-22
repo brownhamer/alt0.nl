@@ -3,6 +3,23 @@
 Ik ben aan het overstappen op een [Jolla](https://commerce.jolla.com/) telefoon.
 Op deze pagina allerlei informatie over de Jolla en [Sailfish OS](https://sailfishos.org/).
 
+## Opgelost
+
+- 2FA &raquo; [Ente Auth](https://ente.io/auth/) &raquo; via Android App support.
+- Agenda &raquo; [NextCloud Calendar](https://apps.nextcloud.com/apps/calendar) &raquo; native integratie.
+- Browser &raquo; [Firefox Focus](https://www.firefox.com/nl/browsers/mobile/focus/) &raquo; via Android App support.
+- Cloud opslag &raquo; [NextCloud](https://nextcloud.com) &raquo; native integratie.
+- Contacten &raquo; [NextCloud Contacts](https://github.com/nextcloud/contacts) &raquo; native integratie.
+- Mail &raquo; native mail client.
+- Messenger &raquo; [Signal](https://signal.org) &raquo; via Android App support, [Whisperfish](https://openrepos.net/content/rubdos/whisperfish) krijg ik nog niet goed werkend.
+- Navigatie &raquo; [HERE WeGo](https://wego.here.com/) en [CoMaps](https://www.comaps.app/) &raquo; via Android App support.
+- Notities &raquo; [Nextcloud notes](https://apps.nextcloud.com/apps/notes) &raquo; via Android App support.
+- Social &raquo; [Mastodon](https://mastodon.nl) &raquo; [Tooter β](https://openrepos.net/content/molan/tooter-v).
+- Todo &raquo; [Super Productivity](https://super-productivity.com) &raquo; via Android App support.
+- Verjaardagen &raquo; [Contacts' Brithdays](https://play.google.com/store/apps/details?id=org.xjiop.contactsbirthdays) &raquo; via Android App support.
+- Wachtwoorden &raquo; [1Password](https://1password.com) &raquo; via Android App support.
+- Weer &raquo; [KMI Weather](https://play.google.com/store/apps/details?id=be.irm.kmi.meteo&hl=en) &raquo; via Android App support.
+
 ## Jolla en Sailfish OS
 
 - Jolla [Blog](https://forum.sailfishos.org/c/blog/31)
@@ -45,9 +62,14 @@ Maar waar mogelijk probeer ik native Sailfish OS apps te gebruiken.
 - [Dino](https://openrepos.net/content/arustg/dino) &raquo; Grappig simpel spelletje, al zal ik het niet vaak spelen.
 - [File Browser](https://openrepos.net/content/ichthyosaurus/file-browser) &raquo; De naam zegt het al, werkt prima.
 - [Hosts-block](https://sailfishos-chum.github.io/apps/hosts-block/) &raquo; Op OS level domeinen filteren, en weg is de reclame, heerlijk.
+- [iNFC](https://openrepos.net/content/jimknopfiot/infc) &raquo; aan het testen.
 - [Muoto UI Themer](https://openrepos.net/content/fravaccaro/muoto-ui-themer) &raquo; Om LPM (Low-Power-Mode) aan te zetten, voor klok en notificaties op je lockscreen.
+- [NedNieuws](https://openrepos.net/content/ade/nednieuws) &raquo; aan het testen.
+- [SFOS Forum Viewer](https://openrepos.net/content/szopin/sfos-forum-viewer) &raquo; aan het testen.
 - [Storeman Installer](https://openrepos.net/content/olf/storeman-installer) &raquo; De standaard store bevat niet heel veel apps. Veel van de apps komen van [Chum](https://sailfishos-chum.github.io/) of [OpenRepos](https://openrepos.net/).
+- [SysMetrics](https://openrepos.net/content/jimknopfiot/sysmetrics) &raquo; aan het testen.
 - [Tooter β](https://openrepos.net/content/molan/tooter-v) &raquo; Mastodon client, werkt op zich prima, beetje wennen aan de interface.
+- [Watchlist](https://openrepos.net/content/andywuest/watchlist) &raquo; aan het testen.
 
 ### Proberen
 
@@ -62,32 +84,25 @@ Allerlei apps die ik nog eens moet proberen, maar nog niet aan toe ben gekomen.
 - [Fileman](https://openrepos.net/content/ruditimmer/fileman)
 - [GhostCloud](https://github.com/fredldotme/harbour-owncloud/)
 - [Happycamper](https://openrepos.net/content/poetaster/happycamper)
-- [iNFC](https://openrepos.net/content/jimknopfiot/infc)
 - [Install History](https://sailfishos-chum.github.io/apps/install-history/)
 - [mediainfo-gui](https://openrepos.net/content/ade/mediainfo-gui)
 - [Musikilo](https://openrepos.net/content/mistermagister/musikilo)
 - [Nami](https://openrepos.net/content/nicosouv/nami)
-- [NedNieuws](https://openrepos.net/content/ade/nednieuws)
 - [NFC Logger](https://openrepos.net/content/slava/nfc-logger)
 - [Notizen.md](https://openrepos.net/content/fooxl/notizenmd)
 - [OSM Scout](https://openrepos.net/content/karry/osm-scout)
 - [Pure Maps](https://openrepos.net/content/rinigus/pure-maps)
-- [Quickbar BETA](https://openrepos.net/content/giuliettasw/quickbar-beta)
 - [Rainviewer](https://sailfishos-chum.github.io/apps/harbour-rainviewer/)
 - [RooThub](https://openrepos.net/content/rootgpt/roothub)
 - [RooTitanium](https://openrepos.net/content/rootgpt/rootitanium)
-- [Sailcards](https://openrepos.net/content/amol/sailcards)
 - [sailwero](https://codeberg.org/hlrx/sailwero)
-- [SFOS Forum Viewer](https://openrepos.net/content/szopin/sfos-forum-viewer)
 - [Strymas](https://openrepos.net/content/takraslt/strymas)
 - [SubMusic](https://openrepos.net/content/jakub/submusic)
-- [SysMetrics](https://openrepos.net/content/jimknopfiot/sysmetrics)
 - [Tarkka Magnifier](https://openrepos.net/content/fravaccaro/tarkka-magnifier)
 - [Tidings](https://openrepos.net/content/poetaster/tidings)
 - [Unit Converter](https://openrepos.net/content/ade/unit-converter-fork)
 - [Wallpaper Loop](https://openrepos.net/content/thelaughingman/wallpaper-loop)
 - [Walt](https://walt.is/)
-- [Watchlist](https://openrepos.net/content/andywuest/watchlist)
 - [Whisperfish](https://openrepos.net/content/rubdos/whisperfish)
 - [ZuTun.txt](https://openrepos.net/content/fooxl/zutuntxt)
 
@@ -112,3 +127,41 @@ Niet direct voor mij, ziet er prima uit van zichzelf.
 
 - [LinuxPhoneApps.org](https://linuxphoneapps.org/)
 - Sailfish OS [Mastodon Starter Pack](https://fedidevs.com/s/ODY1/)
+
+## Android
+
+Mijn tablet draait nog wel op Android, maar ook daar probeer ik (open) alternatieven te gebruiken waar mogeljk.
+
+### Android alternatieven
+
+- Agenda: &raquo; [NextCloud Calendar](https://apps.nextcloud.com/apps/calendar) &raquo; via [CalDAV](https://en.wikipedia.org/wiki/CalDAV) plus [DAVx5](https://www.davx5.com/) en [Etar Calendar](https://github.com/Etar-Group/Etar-Calendar) &raquo;  op Android.
+- Browser &raquo; [Firefox Focus](https://www.firefox.com/nl/browsers/mobile/focus/) &raquo; op Android.
+- Contacten: &raquo; [NextCloud Contacts](https://github.com/nextcloud/contacts) &raquo;  via [CardDAV](https://en.wikipedia.org/wiki/CardDAV) plus [DAVx5](https://www.davx5.com/) voor [Fossify Contacts](https://github.com/FossifyOrg/Contacts) &raquo;  op Android.
+- Keyboard &raquo; [FUTO Keyboard](https://keyboard.futo.org/) &raquo;  op Android.
+- Launcher &raquo; [Murine Launcher](https://www.murinelauncher.app/) &raquo; op Android.
+- Mail &raquo; [Thunderbird](https://www.thunderbird.net) &raquo; op Android.
+- Messenger &raquo; [Signal](https://signal.org) &raquo;  op Android.
+- Navigatie &raquo; [HERE WeGo](https://wego.here.com/) en [CoMaps](https://www.comaps.app/) &raquo;  op Android.
+- Notities &raquo; [Nextcloud notes](https://apps.nextcloud.com/apps/notes) &raquo; op Android.
+- Social &raquo; [Mastodon](https://mastodon.nl) &raquo; [Moshidon](https://lucasggamerm.github.io/moshidon/) op Android.
+- Todo &raquo; [Super Productivity](https://super-productivity.com) &raquo; op Android.
+- Verjaardagen &raquo; [Contacts' Brithdays](https://play.google.com/store/apps/details?id=org.xjiop.contactsbirthdays) &raquo; op Android.
+- Wachtwoorden &raquo; [1Password](https://1password.com) &raquo; op Android.
+- Weer &raquo; [KMI Weather](https://play.google.com/store/apps/details?id=be.irm.kmi.meteo&hl=en) &raquo; op Android.
+
+### Android extras
+
+Deze gebruikte ik als anternatieven, maar nu ik aan het overstappen ben naar de Jolla steeds minder tot helemaal niet meer.
+
+- [Calculator](https://github.com/FossifyOrg/Calculator) by Fossify &raquo; Android &raquo; Als hoofdrekenen te veel gevraagd is.
+- [Clock](https://github.com/FossifyOrg/Clock) by Fossify &raquo; Android &raquo; Mijn wekker.
+- [Compass](https://github.com/Kr0oked/Compass) &raquo; Android &raquo; De naam zegt het al, simpelweg een kompas.
+- [Device Info](https://www.deviceinfo.app/) &raquo; Android &raquo; Veel informatie overzichtelijk gepresenteerd.
+- [Easy Voice Recorder](https://www.digipom.com/) &raquo; Android &raquo; Als ik vlug even een deuntje op wil nemen.
+- [MakeACopy](https://github.com/egdels/makeacopy) &raquo; Android &raquo; Foto naar document met OCR.
+- [Messages](https://github.com/FossifyOrg/Messages) by Fossify &raquo; Android &raquo; Simpele SMS applicatie.
+- [Phone](https://github.com/FossifyOrg/Phone) by Fossify &raquo; Android &raquo; Gewoon bellen, zonder de nummers door te geven aan Google.
+- [Power Ampache 2](https://power.ampache.dev/) &raquo; Android &raquo; Muziek afspelen via [Nextloud Music](https://apps.nextcloud.com/apps/music), meestal opnames voor nieuwe nummers van de band.
+- [Secure PDF Viewer](https://github.com/GrapheneOS/PdfViewer) &raquo; Android &raquo; Simpele PDF viewer.
+- [Tack](https://patrickzedler.com/tack/) &raquo; Android &raquo; Omdat ik niet heel goed ben in maat houden.
+- [Tessel](https://play.tessel.at/) &raquo; Android &raquo; Het enige computerspelletje dat ik wel eens speel.

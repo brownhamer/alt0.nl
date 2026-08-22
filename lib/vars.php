@@ -9,6 +9,7 @@ $alt0pages = [
     'data' => "Data",
     'hendrik' => "Hendrik",
     'jolla' => "Jolla",
+    'linux' => "Linux",
     'mastodon' => "Mastodon",
     'meshcore' => "MeshCore",
     'meta' => "Meta",

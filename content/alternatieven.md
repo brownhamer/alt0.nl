@@ -3,172 +3,66 @@
 Minder Big Tech, meer EU, meer open, meer privacy, meer in-control, minder [enshittificatie](https://vimeo.com/1168468796?__cf_chl_tk=u4ufcXt17oXkLH0MFgq5HBNatL0L8iYD20BWpir_hCg-1772481807-1.0.1.1-_MT9CokJ0zR57o34seVuXliK_e4rluLzZ9Yp2VLDczQ).
 Maar ja, als ik dan over ben blijft alsnog de vraag [zijn we al autonoom?](https://zijnwealautonoom.nl/)
 
-## Linux
+## Smartphone
 
-Zelf ben ik bezig om van Windows over te stappen op Linux.
-Daarbij zijn sommige stukken software die ik gebruik(te) op Windows ook beschikbaar op Linux, soms ben ik overgestapt op een alternatief, en soms is er nog een uitdaging om op te lossen.
+Een grote stap in minder big tech is afstappen van de 2 grote bedrijven die de smartphone wereld domineren, Google met Android en Appel met iOS.
+Sinds kort in het bezit van een [ALT0PAGE_jolla] telefoon die draait op [Sailfish OS](https://sailfishos.org/).
+Tot nog toe bevalt het eigenlijk wel, het werkt soms net wat anders, maar dat is prima.
 
-- [Manjaro](https://manjaro.org/), de distributie waar ik voor gekozen heb, rolling-release, gnome optie, EU based, redelijk populair.
+## PC/laptop
 
-### Opgelost
-
-- 2FA &raquo; [Ente Auth](https://ente.io/auth/) &raquo; [beschikbaar](https://ente.io/download)
-- Agenda &raquo; [NextCloud Calendar](https://apps.nextcloud.com/apps/calendar) &raquo; [GNOME Calendar](https://apps.gnome.org/Calendar/)
-- Browser &raquo; [Firefox](https://www.firefox.com/) &raquo; [beschikbaar](https://www.firefox.com/en-US/browsers/desktop/linux/)
-- Cloud opslag &raquo; [NextCloud](https://nextcloud.com) &raquo; [beschikbaar](https://nextcloud.com/install/#desktop-files)
-- Contacten &raquo; [NextCloud Contacts](https://github.com/nextcloud/contacts) &raquo; [GNOME Contacts](https://apps.gnome.org/Contacts/)
-- IDE &raquo; [VS Codium](https://vscodium.com) &raquo; [beschikbaar](https://vscodium.com/#install)
-- Git GUI &raquo; [GitHub Desktop](https://github.com/apps/desktop) &raquo; [via AUR](https://aur.archlinux.org/packages/github-desktop)
-- Mail &raquo; [Thunderbird](https://www.thunderbird.net) &raquo; [beschikbaar](https://www.thunderbird.net/en-US/thunderbird/all/)
-- Messenger &raquo; [Signal](https://signal.org) &raquo; [beschikbaar](https://signal.org/download/linux/)
-- Notities &raquo; [Nextcloud notes](https://apps.nextcloud.com/apps/notes) &raquo; [Iotas](https://apps.gnome.org/Iotas/)
-- Office &raquo; [LibreOffice](https://www.libreoffice.org/) &raquo; [beschikbaar](https://www.libreoffice.org/download/download-libreoffice/)
-- Social &raquo; [Mastodon](https://mastodon.nl) &raquo; [Tuba](https://github.com/GeopJr/Tuba)
-- Todo &raquo; [Super Productivity](https://super-productivity.com) &raquo; [beschikbaar](https://super-productivity.com/download/)
-- Wachtwoorden &raquo; [1Password](https://1password.com) &raquo; [beschikbaar](https://1password.com/downloads/linux)
-
-### Handig
-
-Naast bovengenoemde applicaties zijn er diverse andere handige programma's die ik gebruik.
-
-- [Apostrophe](https://apps.gnome.org/nl/Apostrophe/) &raquo; Linux &raquo; Bewerken van Markdown met preview.
-- [Bazaar](https://flathub.org/en/apps/io.github.kolunmi.Bazaar/) &raquo; Linux &raquo; Flatpak marktplaats, soms net wat handiger dan [Pamac](https://github.com/manjaro/pamac).
-- [Calculator](https://github.com/FossifyOrg/Calculator) by Fossify &raquo; Android &raquo; Als hoofdrekenen te veel gevraagd is.
-- [Clock](https://github.com/FossifyOrg/Clock) by Fossify &raquo; Android &raquo; Mijn wekker.
-- [Compass](https://github.com/Kr0oked/Compass) &raquo; Android &raquo; De naam zegt het al, simpelweg een kompas.
-- [Contacts' Brithdays](https://play.google.com/store/apps/details?id=org.xjiop.contactsbirthdays) &raquo; Android &raquo; Nooit meer een verjaardag vergeten.
-- [Device Info](https://www.deviceinfo.app/) &raquo; Android &raquo; Veel informatie overzichtelijk gepresenteerd.
-- [Easy Voice Recorder](https://www.digipom.com/) &raquo; Android &raquo; Als ik vlug even een deuntje op wil nemen.
-- [eza](https://github.com/eza-community/eza) &raquo; Linux &raquo; Moderne versie van ls met kleurtjes en Git ondersteuning.
-- [Firefox Focus](https://www.firefox.com/nl/browsers/mobile/focus/) &raquo; Android &raquo; Simpele browser zonder tracking.
-- [KMI Weather](https://play.google.com/store/apps/details?id=be.irm.kmi.meteo&hl=en) &raquo; Android &raquo; Het weer.
-- [LocalSend](https://localsend.org/) &raquo; Android, Linux, Windows &raquo; Snel bestanden overzetten tussen systemen.
-- [MailViewer](https://github.com/alescdb/mailviewer) &raquo; Linux &raquo; Omdat ik de meeste mail als losse ".eml" bestanden bewaar.
-- [MakeACopy](https://github.com/egdels/makeacopy) &raquo; Android &raquo; Foto naar document met OCR.
-- [Messages](https://github.com/FossifyOrg/Messages) by Fossify &raquo; Android &raquo; Simpele SMS applicatie.
-- [Moshidon](https://lucasggamerm.github.io/moshidon/) &raquo; Android &raquo; Mooi vormgegeven, prettige [Mastodon](https://joinmastodon.org/nl-NL) client.
-- [Murine Launcher](https://www.murinelauncher.app/) &raquo; Android &raquo; Prettige, simpele launcher die werkt op mijn Samsung tablet en mijn Pixel 6a.
-- [Pelton](https://pelton.app/) &raquo; Linux &raquo; Als alternatief voor Thuderbird aan het testen, erg prettig en handig in gebruik en ook nog eens snel. Mist wel weer CalDav en CardDav, dat dan weer wel.
-- [Phone](https://github.com/FossifyOrg/Phone) by Fossify &raquo; Android &raquo; Gewoon bellen, zonder de nummers door te geven aan Google.
-- [Power Ampache 2](https://power.ampache.dev/) &raquo; Android &raquo; Muziek afspelen via [Nextloud Music](https://apps.nextcloud.com/apps/music), meestal opnames voor nieuwe nummers van de band.
-- [Secure PDF Viewer](https://github.com/GrapheneOS/PdfViewer) &raquo; Android &raquo; Simpele PDF viewer.
-- [Shotwell](https://shotwell-project.org/) &raquo; Linux &raquo; Foto's beheren, voor zover ik dat doe.
-- [Spider](https://github.com/Zaedus/spider) &raquo; Linux &raquo; Site als apps aanmaken, best handig.
-- [Tack](https://patrickzedler.com/tack/) &raquo; Android &raquo; Omdat ik niet heel goed ben in maat houden.
-- [Tessel](https://play.tessel.at/) &raquo; Android &raquo; Het enige computerspelletje dat ik wel eens speel.
-
-### Overstappen
-
-Voor het opnemen van muziek thuis gebruik(te) ik op Windows [Cubase](https://www.steinberg.net/cubase/), wat helaas niet beschikbaar is voor Linux.
-Gelukkig zijn er alternatieven beschikbaar, waarvan er 3 zijn die het DAW formaat ondersteunen voor import zodat ik oude opnames (makkelijker) over kan zetten.
-
-- [Bitwig](https://www.bitwig.com/)
-- [n-Track](https://ntrack.com/)
-- [Studio One](https://www.presonus.com/pages/studio-one-pro)
-
-Van de andere kant is er natuurlijk [Zrythm](https://www.zrythm.org/) wat een mooi Open Source alternatief lijkt te worden.
-
-### Uitzoeken
-
-Sinds de overstap naar IMAP bewaar ik de meeste mail als losse ".eml" bestanden, om het archief op de server wat schoner te houden.
-Ik moet alleen nog een script schrijven dat nieuwe ".eml" bestanden hernoemt naar "yyyy-mm-dd hh:mm subject ..." formaat, met als datum+tijd het moment van verzenden/ontvangen van de email.
-
-Daarnaast wil ik (ingescande) documenten fatsoenlijk gaan beheren. Daarvoor wil ik iig kijken naar [Paperless-ngx](https://docs.paperless-ngx.com/) en [Papra](https://papra.app/en/).
-
-### Uitdagingen
-
-Als multi-effect pedaal gebruik ik de [Neural DSP](https://neuraldsp.com/) [Quad Cortex](https://neuraldsp.com/quad-cortex), waarover ik toch wel prima tevreden ben.
-Alleen, helaas is [Cortex Control](https://neuraldsp.com/cortex-control) niet beschikbaar op Linux, ondanks dat meerdere mensen [hierom vragen](https://unity.neuraldsp.com/t/linux-drivers-and-cortex-control-support/15149).
-Het is te installeren via iets als [Bottles](https://usebottles.com/), maar in Linux wordt het multi-effect pedaal niet als USB device gezien.
-Nu schijnt het wel te kunnen door [WinApps](https://github.com/winapps-org/winapps) te gebruiken, maar dat is mij nog niet gelukt.
-
-Ondertussen maar [NodeAudio](https://node97.com/) in de gaten houden als mogelijke vervanging van de Quad Cortex.
+Op mijn laptop ben ik ovegestapt op [ALT0PAGE_linux], voor mijn PC ben ik daar nog mee bezig. Voor de laptop was dat geen groot probleem, alles wat ik daarop gebruik is of beschikbaar voor Linux, of er is een prima alernatief te vinde.
+Voor de PC is er nog 1 uitdaging, Neural DSP biedt (nog) geen ondersteuning aan voor Linux voor zijn [Quad Cortex](https://neuraldsp.com/quad-cortex), ondanks [veler verzoek](https://unity.neuraldsp.com/t/linux-drivers-and-cortex-control-support/15149).
 
 ## Overgestapt
 
 Ik ben zoveel mogelijk over aan het stappen op niet Big Tech, meer non-US en Open Source gebaseerde oplossingen.
 Hieronder wat keuzes die ik hierin al gemaakt heb.
 
-- 2FA: ~~Authy~~ &raquo; [Ente Auth](https://ente.io/auth/">)
-- Agenda: ~~Google Calendar~~ &raquo; [NextCloud Calendar](https://apps.nextcloud.com/apps/calendar) met [GNOME Calendar](https://apps.gnome.org/Calendar/) en [CalDAV](https://en.wikipedia.org/wiki/CalDAV) plus [DAVx5](https://www.davx5.com/) voor en [Etar Calendar](https://github.com/Etar-Group/Etar-Calendar)
+- 2FA: ~~Authy~~ &raquo; [Ente Auth](https://ente.io/auth/)
+- Agenda: ~~Google Calendar~~ &raquo; [NextCloud Calendar](https://apps.nextcloud.com/apps/calendar).
 - Bookmarks: ~~Firefox~~ &raquo; [NextCloud Bookmarks](https://github.com/nextcloud/bookmarks) met [Floccus](https://floccus.org/)
-- Browser: ~~Google Chrome~~ &raquo; [Firefox](https://www.firefox.com/)
-- Cloud opslag: ~~OneDrive~~ &raquo; [NextCloud](https://nextcloud.com/) met [scoring](https://dashboard.internet.nl/latest/5286/web/) via [oCloud](https://ocloud.de/) die helaas niet zo goed scoren, dus dat wordt waarschijnlijk overstappen
-- Contacten: ~~Google Contacts~~ &raquo; [NextCloud Contacts](https://github.com/nextcloud/contacts) met [GNOME Contacts](https://apps.gnome.org/Contacts/) en [CardDAV](https://en.wikipedia.org/wiki/CardDAV) plus [DAVx5](https://www.davx5.com/) voor [Fossify Contacts](https://github.com/FossifyOrg/Contacts)
-- IDE: ~~Visual Studio Code~~ &raquo; [VS Codium](https://vscodium.com/)
-- Keyboard ~~Gboard~~ &raquo; [FUTO Keyboard](https://keyboard.futo.org/)
-- Mail: ~~Gmail~~ &raquo; IMAP met [Thunderbird](https://www.thunderbird.net/)
-- Messenger: ~~WhatsApp~~ &raquo; [Signal](https://signal.org/)
-- Navigatie: ~~Google Maps~~ &raquo; [HERE WeGo](https://wego.here.com/) en [CoMaps](https://www.comaps.app/)
-- Notities: ~~Simplenote~~ &raquo; [NextCloud Notes](https://apps.nextcloud.com/apps/notes) en [Iotas](https://apps.gnome.org/Iotas/)
-- Office: ~~Microsoft Office 365~~ &raquo; [LibreOffice](https://www.libreoffice.org/)
-- Pasjes: ~~Google Waller~~ &raquo; [Catima](https://catima.app/)
-- Social: ~~Twitter~~ &raquo; [Mastodon](https://mastodon.nl/)
-- Todo: ~~Microsoft To Do~~ &raquo; [Super Productivity](https://super-productivity.com)
-- Vertalen: ~~Google Translate~~ &raquo; [DeepL](https://www.deepl.com/en/translator)
-- Wachtwoorden: ~~Lastpass~~ &raquo; [1Password](https://1password.com/)
-- Zoeken: ~~Google~~ &raquo; [DuckDuckGo](https://noai.duckduckgo.com/)
+- Browser: ~~Google Chrome~~ &raquo; [Firefox](https://www.firefox.com/) en [Firefox Focus](https://www.firefox.com/nl/browsers/mobile/focus/).
+- Cloud opslag: ~~OneDrive~~ &raquo; [NextCloud](https://nextcloud.com/).
+- Contacten: ~~Google Contacts~~ &raquo; [NextCloud Contacts](https://github.com/nextcloud/contacts).
+- IDE: ~~Visual Studio Code~~ &raquo; [VS Codium](https://vscodium.com/).
+- Keyboard ~~Gboard~~ &raquo; [FUTO Keyboard](https://keyboard.futo.org/).
+- Mail: ~~Gmail~~ &raquo; IMAP met [Thunderbird](https://www.thunderbird.net/).
+- Messenger: ~~WhatsApp~~ &raquo; [Signal](https://signal.org/).
+- Navigatie: ~~Google Maps~~ &raquo; [HERE WeGo](https://wego.here.com/) en [CoMaps](https://www.comaps.app/).
+- Notities: ~~Simplenote~~ &raquo; [NextCloud Notes](https://apps.nextcloud.com/apps/notes).
+- Office: ~~Microsoft Office 365~~ &raquo; [LibreOffice](https://www.libreoffice.org/).
+- Pasjes: ~~Google Waller~~ &raquo; [Catima](https://catima.app/).
+- Social: ~~Twitter~~ &raquo; [Mastodon](https://mastodon.nl/).
+- Todo: ~~Microsoft To Do~~ &raquo; [Super Productivity](https://super-productivity.com).
+- Vertalen: ~~Google Translate~~ &raquo; [DeepL](https://www.deepl.com/en/translator).
+- Wachtwoorden: ~~Lastpass~~ &raquo; [1Password](https://1password.com/).
+- Zoeken: ~~Google~~ &raquo; [DuckDuckGo](https://noai.duckduckgo.com/).
 
 ## Kandidaten
 
 Een aantal alternatieven die ik overweeg, of zelfs geprobeerd heb maar die voor mij niet brachten wat ik zocht op dat moment, maar wie weet wel in de toekomst.
+Zie ook de lijst met alternatieve [ALT0PAGE_software].
 
-- [Aerion](https://aerion.3df.io/) &raquo; Intessant alternatief voor [Thunderbird](https://www.thunderbird.net/), ik mis sowieso nog wel de kalender en contacten plugin, maar die staan op de planning.
-- [Amberol](https://flathub.org/en/apps/io.bassi.Amberol) &raquo; "Plays music, and nothing else".
 - [AsteroidOS](https://asteroidos.org/) &raquo; Linux voor smartwatches, alleen ik draag eigenlijk nooit een horloge want dat irriteert me tijdens het gitaar spelen.
 - [Bandcamp](https://bandcamp.com/) &raquo; Misshien als alternatief voor [Spotify](https://open.spotify.com/), ik ben niet van de AI muziek en daar lijkt Spotify toch wel van te zijn de laatste tijd.
 - [Codeberg](https://codeberg.org/) &raquo; Over een tijdje, als alternatief voor [GitHub](https://github.com/), zeker vanwege [Days Without GitHub Incident](https://www.dayswithoutgithubincident.com/), mogelijk met [GitNex](https://gitnex.com/) als client op mobiel en [Gitte](https://codeberg.org/ckruse/Gitte) op de desktop.
-- [Defuse](https://flathub.org/en/apps/io.github.shonebinu.Defuse) &raquo; "Remove image backgrounds locally".
 - [Element](https://element.io/en) &raquo; Vooralsnog is [Signal](https://signal.org/) goed genoeg.
 - [elementary OS](https://elementary.io/) &raquo; Qua uiterlijk erg mooi, maar toch gekozen voor [Manjaro](https://manjaro.org/).
 - [Ente Photos](https://ente.io/) &raquo; Bij voorkeur heb ik mijn foto's lokaal staan, vooralsnog gekozen voor [Nextcloud](https://nextcloud.com/) via [oCloud](https://ocloud.de/).
-- [Errands](https://flathub.org/en/apps/io.github.mrvladus.List) &raquo; "Manage your tasks".
-- [FairEmail](https://email.faircode.eu/) &raquo; Werkt fijn, maar gekozen om [Thunderbid](https://www.thunderbird.net/) te gebruiken net als de rest in mijn gezin om ze makkelijker te kunnen ondersteunen.
 - [Fairphone](https://www.fairphone.com/nl) &raquo; Nederlands, maar nog wel [Android](https://www.android.com/) gebaseerd, ook als je de [/e/OS](https://e.foundation/e-os/) variant kiest, dus maar gekozen voor de [ALT0PAGE_jolla] telefoon.
-- [Firefox Translator](https://github.com/DavidVentura/offline-translator) &raquo; Nog niet af genoeg.
 - [Commodore Flip-phone](https://commodore.net/callback/) &raquo; Alleen al voor de spelletjes, maar goed dat kan ook met [C64.emu](https://c64emu.com/) voor met name [Morpheus](https://www.c64.com/games/154).
 - [Floorp](https://floorp.app/) &raquo; Voorlopig blijf ik nog trouw aan [Firefox](https://www.firefox.com/nl/).
-- [FlorisBoard](https://florisboard.org/) &raquo; Nog niet af genoeg, gebruik nu [FUTO Keyboard](https://keyboard.futo.org/).
-- [FossWallet](https://github.com/SeineEloquenz/fosswallet) &raquo; Was al over gegaan naar [Catima](https://catima.app/) en dat bevalt eigenlijk prima, ofschoon ik het eigenlijk nooit gebruik.
 - [GrapheneOS](https://grapheneos.org/) &raquo; Beter dan [Android](https://www.android.com/), maar toch.
-- [Hazelnut](https://hazelnut.ricardodantas.me/) &raquo; Nog niet aan toe gekomen, maar lijkt me erg handig.
-- [heylogin](https://www.heylogin.com/en) &raquo; [1Password](https://1password.com/) bevalt prima, voor het hele gezin, en Canadees is ook OK (vind ik).
 - [immich](https://immich.app/) &raquo; Bij voorkeur heb ik mijn foto's lokaal staan, vooralsnog gekozen voor [Nextcloud](https://nextcloud.com/) via [oCloud](https://ocloud.de/).
-- [Jolla](https://commerce.jolla.com/) &raquo; Over aan het stappen naar de [ALT0PAGE_jolla] telefoon.
-- [KeeWeb](https://keeweb.info/) &raquo; [1Password](https://1password.com/) bevalt prima, voor het hele gezin, en Canadees is ook OK (vind ik).
-- [Lapce](https://lap.dev/lapce/) &raquo; Nog niet echt geprobeerd.
 - [librephone](https://librephone.fsf.org/site/) &raquo; Verre van af, net begonnen zelfs.
-- [LibreWolf](https://librewolf.net/) &raquo; Voorlopig blijf ik nog trouw aan [Firefox](https://www.firefox.com/nl/).
-- [Lunatask](https://lunatask.app/) &raquo; Mooi, breed beschikbaar, [Super Productivity](https://super-productivity.com) werkt voor mij alleen al meer dan voldoende.
-- [MailViewer](https://flathub.org/en/apps/io.github.alescdb.mailviewer) &raquo; "EML and MSG file viewer".
-- [Metadata Cleaner](https://flathub.org/en/apps/io.gitlab.metadatacleaner.metadatacleaner) &raquo; "View and clean metadata in files".
-- [Mimick](https://flathub.org/en/apps/dev.nicx.mimick) &raquo; "Back up and browse your photos".
-- [mosa.cloud](https://mosa.cloud/) &raquo; Nog in beta en waarschijnlijk meer dan ik nodig heb.
-- [Nextcloud News App](https://nextcloud.github.io/news/) &raquo; "... offers the user an RSS/Atom feed reader ...".
-- [Notesnook](https://notesnook.com/) &raquo; Prima, meer dan ik nodig had, [Nextcloud Notes](https://apps.nextcloud.com/apps/notes) is goed genoeg (en gewoon [Markdown](https://en.wikipedia.org/wiki/Markdown) gebaseerd).
-- [OpenCommit](https://opencommit.eu/) &raquo; Is denk ik niet voor mijn gebruik bedoelt.
-- [Organize](https://github.com/tfeldmann/organize) &raquo; Beetje als [Hazelnut](https://hazelnut.ricardodantas.me/), handig maar nog niet aan toe gekomen.
-- [Pebble](https://repebble.com/) &raquo; Leuk, maar ervaring heeft me geleerd dat ik geen horloge draag.
-- [Pins](https://flathub.org/en/apps/io.github.fabrialberio.pinapp) &raquo; "Create and edit app shortcuts".
 - [postmarketOS](https://postmarketos.org/) &raquo; Gekozen voor de [ALT0PAGE_jolla] die [Sailfish OS](https://sailfishos.org/) gebruikt.
-- [Redox](https://redox-os.org/) &raquo; Iets om in de gaten te houden, maar nog niet klaar voor dagelijks gebruik.
-- [RelaGit](https://rela.dev/) &raquo; Misschien voor als ik van GitHub af ben.
-- [Sailfish OS](https://sailfishos.org/) &raquo; Op de [ALT0PAGE_jolla], aan het overstappen en wennen.
-- [scrcpy](https://github.com/Genymobile/scrcpy) &raquo; Handig om je Android telefoon te bedienen vanaf je computer, maar zelf heb ik daar niet echt behoefte aan.
-- [Servo](https://servo.org/) &raquo; Actief in de gaten aan het houden als echt alternatief voor [Firefox](https://www.firefox.com/nl/).
-- [Sticky Notes](https://flathub.org/en/apps/com.vixalien.sticky) &raquo; "Pin notes to your desktop".
 - [Soverin](https://soverin.com/) &raquo; Had al gekozen voor [Posteo](https://posteo.de/en).
 - [The Good Cloud](https://thegood.cloud/individuals/) &raquo; Had al gekozen voor [oCloud](https://ocloud.de/).
 - [Tuta](https://tuta.com/) &raquo; Had al gekozen voor [Posteo](https://posteo.de/en).
 - [Uruky](https://uruky.com/) &raquo; [DuckDuckGo](https://noai.duckduckgo.com/) bevalt me nog prima op dit moment, maar toch.
-- [Vivaldi](https://vivaldi.com/) &raquo; Gebruikt helaas nog de chromium engine.
 - [Volla](https://volla.online/en/index.php) &raquo; Qua naam bijna hetzelfde, maar dus gekozen voor [ALT0PAGE_jolla].
 - [Volla Tablet](https://volla.online/de/shop/volla-tablet/) &raquo; Als telefoon gekozen voor [ALT0PAGE_jolla], maar Volla is een van de weinige leveranciers van een Linux tablet.
-- [Warehouse](https://flathub.org/en/apps/io.github.flattool.Warehouse) &raquo; "Manage all things Flatpak".
-- [Waydroid](https://waydro.id/) &raquo; Android in een Linux container, geen idee of ik het nodig heb, maar klinkt potentieel handig.
-- [WebBeef browser](https://tangled.org/me.webbeef.org/browser.html/) &raquo; [Servo](https://servo.org/) gebaseerde browser, maar nog niet klaar voor productie.
-- [Wike](https://hugolabe.github.io/Wike/) &raquo; Lokale [Wikipedia](https://nl.wikipedia.org/wiki/Hoofdpagina), met [GNOME Shell](https://en.wikipedia.org/wiki/GNOME_Shell) zoek integratie. Nog niet aan toe gekomen, maar dat gaan we zeker gebruiken.
-- [Wildcard](https://flathub.org/en/apps/net.ffkkinos.Wildcard) &raquo; "Test your regular expressions".
 - [zeitkapsl](https://zeitkapsl.eu/en/) &raquo; Bij voorkeur heb ik mijn foto's lokaal staan, vooralsnog gekozen voor [Nextcloud](https://nextcloud.com/) via [oCloud](https://ocloud.de/).
 
 ## Lijsten

@@ -31,9 +31,10 @@ startHtmlPage($PATH_TO_ROOT, $alt0links['alt0']['text'], $tagpage);
         Technologie<br />
         &middot; <?php echo pageLink('alternatieven'); ?><br />
         &middot; <?php echo pageLink('jolla'); ?><br />
-        &middot; <?php echo pageLink('software'); ?><br />
+        &middot; <?php echo pageLink('linux'); ?><br />
         &middot; <?php echo pageLink('mastodon'); ?><br />
         &middot; <?php echo pageLink('meshcore'); ?><br />
+        &middot; <?php echo pageLink('software'); ?><br />
         <hr />
         Over<br />
         &middot; <?php echo pageLink('privacy'); ?><br />
