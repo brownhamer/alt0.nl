@@ -2,6 +2,9 @@
 
 Ik ben aan het overstappen op een [Jolla](https://commerce.jolla.com/) telefoon.
 Op deze pagina allerlei informatie over de Jolla en [Sailfish OS](https://sailfishos.org/).
+Ja, je kan Android apps gebruiken, en dat doe ik ook.
+Maar waar mogelijk probeer ik native Sailfish OS apps te gebruiken.
+Installatie voorkeur: [Jolla Store](https://docs.sailfishos.org/Support/Help_Articles/Jolla_Store/), [Chum](https://sailfishos-chum.github.io/), [OpenRepos.net](https://openrepos.net/), [F-Droid](https://f-droid.org/), [Aurora](https://auroraoss.com/)
 
 ## Opgelost
 
@@ -14,11 +17,29 @@ Op deze pagina allerlei informatie over de Jolla en [Sailfish OS](https://sailfi
 - Messenger &raquo; [Signal](https://signal.org) &raquo; via Android App support, [Whisperfish](https://openrepos.net/content/rubdos/whisperfish) krijg ik nog niet goed werkend.
 - Navigatie &raquo; [HERE WeGo](https://wego.here.com/) en [CoMaps](https://www.comaps.app/) &raquo; via Android App support.
 - Notities &raquo; [Nextcloud notes](https://apps.nextcloud.com/apps/notes) &raquo; via Android App support.
-- Social &raquo; [Mastodon](https://mastodon.nl) &raquo; [Tooter β](https://openrepos.net/content/molan/tooter-v).
+- Social &raquo; [Mastodon](https://mastodon.nl) &raquo; native integratie en [Tooter β](https://openrepos.net/content/molan/tooter-v).
 - Todo &raquo; [Super Productivity](https://super-productivity.com) &raquo; via Android App support.
 - Verjaardagen &raquo; [Contacts' Brithdays](https://play.google.com/store/apps/details?id=org.xjiop.contactsbirthdays) &raquo; via Android App support.
 - Wachtwoorden &raquo; [1Password](https://1password.com) &raquo; via Android App support.
 - Weer &raquo; [KMI Weather](https://play.google.com/store/apps/details?id=be.irm.kmi.meteo&hl=en) &raquo; via Android App support.
+
+### Handig
+
+- Advanced Camera &raquo; [Chum](https://sailfishos-chum.github.io/apps/harbour-advanced-camera/) &raquo; De standaard camera app is wat karig in mogelijkheden.
+- Cloudmarks &raquo; [Chum](https://sailfishos-chum.github.io/apps/harbour-cloudmarks/) &raquo; toegang tot mijn [NextCloud Bookmarks](https://github.com/nextcloud/bookmarks).
+- Dino &raquo; Jolla Store &raquo; Grappig simpel spelletje, al zal ik het niet vaak spelen, zie ook [OpenRepos](https://openrepos.net/content/arustg/dino).
+- Editor. &raquo; Jolla Store &raquo; aan het testen, zie ook [OpenRepos](https://openrepos.net/content/goalexander/editor).
+- Ferry Sync &raquo; [OpenRepos](https://openrepos.net/content/domih/ferry-sync-cloud-file-sync) &raquo; altijd in sync met mijn [NextCloud](https://nextcloud.com/) content.
+- File Browser &raquo; [OpenRepos](https://openrepos.net/content/ichthyosaurus/file-browser) voor volledige toegang &raquo; De naam zegt het al, werkt prima.
+- GPSInfo. &raquo; Jolla Store &raquo; aan het testen.
+- Hosts-block &raquo; [Chum](https://sailfishos-chum.github.io/apps/hosts-block/) &raquo; Op OS level domeinen filteren, en weg is de reclame, heerlijk.
+- iNFC &raquo; [OpenRepos](https://openrepos.net/content/jimknopfiot/infc) &raquo; aan het testen.
+- Install History &raquo; [Chum](https://sailfishos-chum.github.io/apps/install-history/) &raquo; altijd handig om te hebben.
+- KibiTiles &raquo; Jolla Store &raquo; 2028, zie ook [OpenRepos](https://openrepos.net/content/roundedrectangle/kibitiles).
+- Muoto UI Themer &raquo; [OpenRepos](https://openrepos.net/content/fravaccaro/muoto-ui-themer) &raquo; Om LPM (Low-Power-Mode) aan te zetten, voor klok en notificaties op je lockscreen.
+- SFOS Forum Viewer &raquo; Jolla Store &raquo; aan het testen, zie ook [OpenRepos](https://openrepos.net/content/szopin/sfos-forum-viewer).
+- SysMetrics &raquo; [OpenRepos](https://openrepos.net/content/jimknopfiot/sysmetrics) &raquo; aan het testen.
+- Tidings &raquo; Jolla Store &raquo; aan het testen, zie ook [OpenRepos](https://openrepos.net/content/poetaster/tidings)
 
 ## Jolla en Sailfish OS
 
@@ -47,29 +68,11 @@ Op deze pagina allerlei informatie over de Jolla en [Sailfish OS](https://sailfi
 
 ### App stores
 
-- [Chum](https://sailfishos-chum.github.io/)
-- [OpenRepos.net](https://openrepos.net/)
+- [Chum](https://sailfishos-chum.github.io/) &raquo; [Chum GUI Installer](https://sailfishos-chum.github.io/apps/sailfishos-chum-gui-installer/)
+- [OpenRepos.net](https://openrepos.net/) &raquo; [Storeman Installer](https://openrepos.net/content/olf/storeman-installer)
 - Sailfish OS [App Compatibility](https://sailfishos.app/)
 - Sailfish OS [Applications](https://forum.sailfishos.org/c/app-development/5)
 - Sailfish OS [Banking apps](https://forum.sailfishos.org/t/banking-apps-on-sailfish-os/18438)
-
-## Apps
-
-Ja, je kan Android apps gebruiken, en dat doe ik ook.
-Maar waar mogelijk probeer ik native Sailfish OS apps te gebruiken.
-
-- [Chum GUI Installer](https://sailfishos-chum.github.io/apps/sailfishos-chum-gui-installer/) &raquo; De standaard store bevat niet heel veel apps. Veel van de apps komen van [Chum](https://sailfishos-chum.github.io/) of [OpenRepos](https://openrepos.net/).
-- [Dino](https://openrepos.net/content/arustg/dino) &raquo; Grappig simpel spelletje, al zal ik het niet vaak spelen.
-- [File Browser](https://openrepos.net/content/ichthyosaurus/file-browser) &raquo; De naam zegt het al, werkt prima.
-- [Hosts-block](https://sailfishos-chum.github.io/apps/hosts-block/) &raquo; Op OS level domeinen filteren, en weg is de reclame, heerlijk.
-- [iNFC](https://openrepos.net/content/jimknopfiot/infc) &raquo; aan het testen.
-- [Muoto UI Themer](https://openrepos.net/content/fravaccaro/muoto-ui-themer) &raquo; Om LPM (Low-Power-Mode) aan te zetten, voor klok en notificaties op je lockscreen.
-- [NedNieuws](https://openrepos.net/content/ade/nednieuws) &raquo; aan het testen.
-- [SFOS Forum Viewer](https://openrepos.net/content/szopin/sfos-forum-viewer) &raquo; aan het testen.
-- [Storeman Installer](https://openrepos.net/content/olf/storeman-installer) &raquo; De standaard store bevat niet heel veel apps. Veel van de apps komen van [Chum](https://sailfishos-chum.github.io/) of [OpenRepos](https://openrepos.net/).
-- [SysMetrics](https://openrepos.net/content/jimknopfiot/sysmetrics) &raquo; aan het testen.
-- [Tooter β](https://openrepos.net/content/molan/tooter-v) &raquo; Mastodon client, werkt op zich prima, beetje wennen aan de interface.
-- [Watchlist](https://openrepos.net/content/andywuest/watchlist) &raquo; aan het testen.
 
 ### Proberen
 
@@ -77,14 +80,9 @@ Allerlei apps die ik nog eens moet proberen, maar nog niet aan toe ben gekomen.
 
 - [Atlantic Browser](https://openrepos.net/content/mrbn100ful/atlantic-browser)
 - [Automagic](https://openrepos.net/content/anarchyintheuk/automagic)
-- [Blocky](https://openrepos.net/content/ilpianista/blocky)
 - [ClimaZone](https://openrepos.net/content/leo03/climazone)
-- [Defender](https://sailfishos-chum.github.io/apps/harbour-defender/)
-- [Ferry Sync](https://openrepos.net/content/domih/ferry-sync-cloud-file-sync)
 - [Fileman](https://openrepos.net/content/ruditimmer/fileman)
-- [GhostCloud](https://github.com/fredldotme/harbour-owncloud/)
 - [Happycamper](https://openrepos.net/content/poetaster/happycamper)
-- [Install History](https://sailfishos-chum.github.io/apps/install-history/)
 - [mediainfo-gui](https://openrepos.net/content/ade/mediainfo-gui)
 - [Musikilo](https://openrepos.net/content/mistermagister/musikilo)
 - [Nami](https://openrepos.net/content/nicosouv/nami)
@@ -99,7 +97,6 @@ Allerlei apps die ik nog eens moet proberen, maar nog niet aan toe ben gekomen.
 - [Strymas](https://openrepos.net/content/takraslt/strymas)
 - [SubMusic](https://openrepos.net/content/jakub/submusic)
 - [Tarkka Magnifier](https://openrepos.net/content/fravaccaro/tarkka-magnifier)
-- [Tidings](https://openrepos.net/content/poetaster/tidings)
 - [Unit Converter](https://openrepos.net/content/ade/unit-converter-fork)
 - [Wallpaper Loop](https://openrepos.net/content/thelaughingman/wallpaper-loop)
 - [Walt](https://walt.is/)
@@ -108,7 +105,6 @@ Allerlei apps die ik nog eens moet proberen, maar nog niet aan toe ben gekomen.
 
 ### Games
 
-- [KibiTiles](https://openrepos.net/content/roundedrectangle/kibitiles)
 - [Parking Chaos](https://openrepos.net/content/ichthyosaurus/parking-chaos)
 
 ### Themes
