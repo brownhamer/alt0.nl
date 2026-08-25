@@ -8,24 +8,23 @@ Installatie voorkeur: [Jolla Store](https://docs.sailfishos.org/Support/Help_Art
 
 ## Opgelost
 
-- 2FA &raquo; [Ente Auth](https://ente.io/auth/) &raquo; via Android App support.
+- 2FA &raquo; [Ente Auth](https://ente.io/auth/) &raquo; via Android App support vanaf [F-Drod](https://f-droid.org/en/packages/io.ente.auth/).
 - Agenda &raquo; [NextCloud Calendar](https://apps.nextcloud.com/apps/calendar) &raquo; native integratie.
-- Browser &raquo; [Firefox Focus](https://www.firefox.com/nl/browsers/mobile/focus/) &raquo; via Android App support.
+- Browser &raquo; [Firefox Focus](https://www.firefox.com/nl/browsers/mobile/focus/) &raquo; via Android App support vanaf Aurora.
 - Cloud opslag &raquo; [NextCloud](https://nextcloud.com) &raquo; native integratie.
 - Contacten &raquo; [NextCloud Contacts](https://github.com/nextcloud/contacts) &raquo; native integratie.
 - Mail &raquo; native mail client.
-- Messenger &raquo; [Signal](https://signal.org) &raquo; via Android App support, [Whisperfish](https://openrepos.net/content/rubdos/whisperfish) krijg ik nog niet goed werkend.
-- Navigatie &raquo; [HERE WeGo](https://wego.here.com/) en [CoMaps](https://www.comaps.app/) &raquo; via Android App support.
-- Notities &raquo; [Nextcloud notes](https://apps.nextcloud.com/apps/notes) &raquo; via Android App support.
+- Messenger &raquo; [Signal](https://signal.org) &raquo; via Android App support vanaf Aurora, [Whisperfish](https://openrepos.net/content/rubdos/whisperfish) krijg ik nog niet goed werkend.
+- Navigatie &raquo; [HERE WeGo](https://wego.here.com/) en [CoMaps](https://www.comaps.app/) &raquo; via Android App support vanaf [F-Droid](https://f-droid.org/en/packages/app.comaps.fdroid/).
+- Notities &raquo; [Nextcloud notes](https://apps.nextcloud.com/apps/notes) &raquo; via Android App support vanaf [F-Droid](https://f-droid.org/en/packages/it.niedermann.owncloud.notes/).
 - Social &raquo; [Mastodon](https://mastodon.nl) &raquo; native integratie en [Tooter β](https://openrepos.net/content/molan/tooter-v).
-- Todo &raquo; [Super Productivity](https://super-productivity.com) &raquo; via Android App support.
-- Verjaardagen &raquo; [Contacts' Brithdays](https://play.google.com/store/apps/details?id=org.xjiop.contactsbirthdays) &raquo; via Android App support.
-- Wachtwoorden &raquo; [1Password](https://1password.com) &raquo; via Android App support.
-- Weer &raquo; [KMI Weather](https://play.google.com/store/apps/details?id=be.irm.kmi.meteo&hl=en) &raquo; via Android App support.
+- Todo &raquo; [Super Productivity](https://super-productivity.com) &raquo; via Android App support vanaf [F-Droid](https://f-droid.org/en/packages/com.superproductivity.superproductivity/).
+- Verjaardagen &raquo; [Contacts' Brithdays](https://play.google.com/store/apps/details?id=org.xjiop.contactsbirthdays) &raquo; via Android App support vanaf Aurora.
+- Wachtwoorden &raquo; [1Password](https://1password.com) &raquo; via Android App support vanaf Aurora.
+- Weer &raquo; [KMI Weather](https://play.google.com/store/apps/details?id=be.irm.kmi.meteo&hl=en) &raquo; via Android App support vanaf Aurora.
 
 ### Handig
 
-- Advanced Camera &raquo; [Chum](https://sailfishos-chum.github.io/apps/harbour-advanced-camera/) &raquo; De standaard camera app is wat karig in mogelijkheden.
 - Cloudmarks &raquo; [Chum](https://sailfishos-chum.github.io/apps/harbour-cloudmarks/) &raquo; toegang tot mijn [NextCloud Bookmarks](https://github.com/nextcloud/bookmarks).
 - Dino &raquo; Jolla Store &raquo; Grappig simpel spelletje, al zal ik het niet vaak spelen, zie ook [OpenRepos](https://openrepos.net/content/arustg/dino).
 - Editor. &raquo; Jolla Store &raquo; aan het testen, zie ook [OpenRepos](https://openrepos.net/content/goalexander/editor).
