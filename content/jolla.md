@@ -25,6 +25,7 @@ Installatie voorkeur: [Jolla Store](https://docs.sailfishos.org/Support/Help_Art
 
 ### Handig
 
+- Atlantic Browser &raquo; [OpenRepos](https://openrepos.net/content/mrbn100ful/atlantic-browser) &raquo; aan het testen.
 - Cloudmarks &raquo; [Chum](https://sailfishos-chum.github.io/apps/harbour-cloudmarks/) &raquo; toegang tot mijn [NextCloud Bookmarks](https://github.com/nextcloud/bookmarks).
 - Dino &raquo; Jolla Store &raquo; Grappig simpel spelletje, al zal ik het niet vaak spelen, zie ook [OpenRepos](https://openrepos.net/content/arustg/dino).
 - Editor. &raquo; Jolla Store &raquo; aan het testen, zie ook [OpenRepos](https://openrepos.net/content/goalexander/editor).
@@ -77,27 +78,16 @@ Installatie voorkeur: [Jolla Store](https://docs.sailfishos.org/Support/Help_Art
 
 Allerlei apps die ik nog eens moet proberen, maar nog niet aan toe ben gekomen.
 
-- [Atlantic Browser](https://openrepos.net/content/mrbn100ful/atlantic-browser)
-- [Automagic](https://openrepos.net/content/anarchyintheuk/automagic)
-- [ClimaZone](https://openrepos.net/content/leo03/climazone)
-- [Fileman](https://openrepos.net/content/ruditimmer/fileman)
 - [Happycamper](https://openrepos.net/content/poetaster/happycamper)
-- [mediainfo-gui](https://openrepos.net/content/ade/mediainfo-gui)
 - [Musikilo](https://openrepos.net/content/mistermagister/musikilo)
 - [Nami](https://openrepos.net/content/nicosouv/nami)
 - [NFC Logger](https://openrepos.net/content/slava/nfc-logger)
-- [Notizen.md](https://openrepos.net/content/fooxl/notizenmd)
-- [OSM Scout](https://openrepos.net/content/karry/osm-scout)
-- [Pure Maps](https://openrepos.net/content/rinigus/pure-maps)
 - [Rainviewer](https://sailfishos-chum.github.io/apps/harbour-rainviewer/)
 - [RooThub](https://openrepos.net/content/rootgpt/roothub)
-- [RooTitanium](https://openrepos.net/content/rootgpt/rootitanium)
 - [sailwero](https://codeberg.org/hlrx/sailwero)
-- [Strymas](https://openrepos.net/content/takraslt/strymas)
 - [SubMusic](https://openrepos.net/content/jakub/submusic)
 - [Tarkka Magnifier](https://openrepos.net/content/fravaccaro/tarkka-magnifier)
 - [Unit Converter](https://openrepos.net/content/ade/unit-converter-fork)
-- [Wallpaper Loop](https://openrepos.net/content/thelaughingman/wallpaper-loop)
 - [Walt](https://walt.is/)
 - [Whisperfish](https://openrepos.net/content/rubdos/whisperfish)
 - [ZuTun.txt](https://openrepos.net/content/fooxl/zutuntxt)
