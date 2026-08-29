@@ -117,6 +117,7 @@ Echter de diverse LLM gebaseerde initiatieven die vanuit Big Tech gepusht worden
 - [Companies Are Quietly Rehiring Workers They Fired for AI](https://emeraldbook.org/news/may-3126-2/)
 - [Company accidentally spent $500 million on Claude AI in one month after forgetting usage limits](https://techstartups.com/2026/05/28/company-accidentally-spent-500-million-on-claude-ai-in-one-month-after-forgetting-usage-limits/)
 - [Cop Transforms Into Frog, According To AI-Generated Police Report](https://www.forbes.com/sites/larsdaniel/2026/01/04/cop-transforms-into-frog-according-to-ai-generated-police-report/)
+- [Creepy crawlies](https://people.kernel.org/monsieuricon/creepy-crawlies)
 - [cURL stopt met bugbountyprogramma door 'AI-slop'](https://tweakers.net/nieuws/243634/curl-stopt-met-bugbountyprogramma-door-ai-slop.html)
 - [cURL Toe to Toe With Mythos: Big Nothingburger Leaves Bad Taste](https://www.flyingpenguin.com/curl-toe-to-toe-with-mythos-big-nothingburger-leaves-bad-taste/)
 - [Data centres account for almost a quarter of Irish electricity usage in 2025](https://www.irishtimes.com/business/2026/07/07/data-centres-account-for-almost-one-quarter-of-irish-electricity-usage-in-2025/)
