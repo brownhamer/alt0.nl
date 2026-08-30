@@ -10,14 +10,14 @@ Installatie voorkeur: [Jolla Store](https://docs.sailfishos.org/Support/Help_Art
 
 - 2FA &raquo; [Ente Auth](https://ente.io/auth/) &raquo; via Android App support vanaf [F-Drod](https://f-droid.org/en/packages/io.ente.auth/).
 - Agenda &raquo; [NextCloud Calendar](https://apps.nextcloud.com/apps/calendar) &raquo; native integratie.
-- Browser &raquo; [Firefox Focus](https://www.firefox.com/nl/browsers/mobile/focus/) &raquo; via Android App support vanaf Aurora.
+- Browser &raquo; [Atlantic Browser](https://github.com/SpecSierra/atlantic-browser) &raquo; via [OpenRepos](https://openrepos.net/content/mrbn100ful/atlantic-browser).
 - Cloud opslag &raquo; [NextCloud](https://nextcloud.com) &raquo; native integratie.
 - Contacten &raquo; [NextCloud Contacts](https://github.com/nextcloud/contacts) &raquo; native integratie.
 - Mail &raquo; native mail client.
 - Messenger &raquo; [Signal](https://signal.org) &raquo; via Android App support vanaf Aurora, [Whisperfish](https://openrepos.net/content/rubdos/whisperfish) krijg ik nog niet goed werkend.
 - Navigatie &raquo; [HERE WeGo](https://wego.here.com/) en [CoMaps](https://www.comaps.app/) &raquo; via Android App support vanaf [F-Droid](https://f-droid.org/en/packages/app.comaps.fdroid/).
 - Notities &raquo; [Nextcloud notes](https://apps.nextcloud.com/apps/notes) &raquo; via Android App support vanaf [F-Droid](https://f-droid.org/en/packages/it.niedermann.owncloud.notes/).
-- Social &raquo; [Mastodon](https://mastodon.nl) &raquo; native integratie en [Tooter β](https://openrepos.net/content/molan/tooter-v).
+- Social &raquo; [Mastodon](https://mastodon.nl) &raquo; native integratie en [Moshidon](https://lucasggamerm.github.io/moshidon/) via Android App support vanaf [F-Droid](https://f-droid.org/en/packages/org.joinmastodon.android.moshinda/), [Tooter β](https://openrepos.net/content/molan/tooter-v) kan ik niet aan wennen, ondertussen [Meridon](https://openrepos.net/content/anttsam/meridon) in de gaten houden.
 - Todo &raquo; [Super Productivity](https://super-productivity.com) &raquo; via Android App support vanaf [F-Droid](https://f-droid.org/en/packages/com.superproductivity.superproductivity/).
 - Verjaardagen &raquo; [Contacts' Brithdays](https://play.google.com/store/apps/details?id=org.xjiop.contactsbirthdays) &raquo; via Android App support vanaf Aurora.
 - Wachtwoorden &raquo; [1Password](https://1password.com) &raquo; via Android App support vanaf Aurora.
@@ -25,21 +25,20 @@ Installatie voorkeur: [Jolla Store](https://docs.sailfishos.org/Support/Help_Art
 
 ### Handig
 
-- Atlantic Browser &raquo; [OpenRepos](https://openrepos.net/content/mrbn100ful/atlantic-browser) &raquo; aan het testen.
-- Cloudmarks &raquo; [Chum](https://sailfishos-chum.github.io/apps/harbour-cloudmarks/) &raquo; toegang tot mijn [NextCloud Bookmarks](https://github.com/nextcloud/bookmarks).
-- Dino &raquo; Jolla Store &raquo; Grappig simpel spelletje, al zal ik het niet vaak spelen, zie ook [OpenRepos](https://openrepos.net/content/arustg/dino).
-- Editor. &raquo; Jolla Store &raquo; aan het testen, zie ook [OpenRepos](https://openrepos.net/content/goalexander/editor).
-- Ferry Sync &raquo; [OpenRepos](https://openrepos.net/content/domih/ferry-sync-cloud-file-sync) &raquo; altijd in sync met mijn [NextCloud](https://nextcloud.com/) content.
-- File Browser &raquo; [OpenRepos](https://openrepos.net/content/ichthyosaurus/file-browser) voor volledige toegang &raquo; De naam zegt het al, werkt prima.
-- GPSInfo. &raquo; Jolla Store &raquo; aan het testen.
-- Hosts-block &raquo; [Chum](https://sailfishos-chum.github.io/apps/hosts-block/) &raquo; Op OS level domeinen filteren, en weg is de reclame, heerlijk.
-- iNFC &raquo; [OpenRepos](https://openrepos.net/content/jimknopfiot/infc) &raquo; aan het testen.
-- Install History &raquo; [Chum](https://sailfishos-chum.github.io/apps/install-history/) &raquo; altijd handig om te hebben.
-- KibiTiles &raquo; Jolla Store &raquo; 2028, zie ook [OpenRepos](https://openrepos.net/content/roundedrectangle/kibitiles).
-- Muoto UI Themer &raquo; [OpenRepos](https://openrepos.net/content/fravaccaro/muoto-ui-themer) &raquo; Om LPM (Low-Power-Mode) aan te zetten, voor klok en notificaties op je lockscreen.
-- SFOS Forum Viewer &raquo; Jolla Store &raquo; aan het testen, zie ook [OpenRepos](https://openrepos.net/content/szopin/sfos-forum-viewer).
-- SysMetrics &raquo; [OpenRepos](https://openrepos.net/content/jimknopfiot/sysmetrics) &raquo; aan het testen.
-- Tidings &raquo; Jolla Store &raquo; aan het testen, zie ook [OpenRepos](https://openrepos.net/content/poetaster/tidings)
+- [Cloudmarks](https://codeberg.org/nephros/cloudmarks) &raquo; [Chum](https://sailfishos-chum.github.io/apps/harbour-cloudmarks/) &raquo; Toegang tot mijn [NextCloud Bookmarks](https://github.com/nextcloud/bookmarks).
+- [Dino](https://github.com/arustg/harbour-dinorunner) &raquo; Jolla Store &raquo; Grappig simpel spelletje, al zal ik het niet vaak spelen, zie ook [OpenRepos](https://openrepos.net/content/arustg/dino).
+- [Editor](https://github.com/GoAlexander/harbour-editor) &raquo; Jolla Store &raquo; Aan het testen, zie ook [OpenRepos](https://openrepos.net/content/goalexander/editor).
+- [Ferry Sync](https://github.com/Dominik-h-hub/harbour-ferry) &raquo; [OpenRepos](https://openrepos.net/content/domih/ferry-sync-cloud-file-sync) &raquo; Altijd in sync met mijn [NextCloud](https://nextcloud.com/) content.
+- [fiat vox](https://github.com/munksh/FiatVox) &raquo; [OpenRepos](https://openrepos.net/content/munkstolen/fiat-vox-chromatic-tuner) &raquo; Altijd een tuner op zak, tenminste als ik mijn telefoon bij me heb.
+- [File Browser](https://codeberg.org/ichthyosaurus/harbour-file-browser) &raquo; [OpenRepos](https://openrepos.net/content/ichthyosaurus/file-browser) voor volledige toegang &raquo; De naam zegt het al, werkt prima.
+- [Hosts-block](https://framagit.org/ohnonot/sfos/-/tree/master/hosts-block?ref_type=heads) &raquo; [Chum](https://sailfishos-chum.github.io/apps/hosts-block/) &raquo; Op OS level domeinen filteren, en weg is de reclame, heerlijk.
+- [iNFC](https://github.com/JimKnopfIoT/harbour-iNFC) &raquo; [OpenRepos](https://openrepos.net/content/jimknopfiot/infc) &raquo; Aan het testen.
+- [Install History](https://codeberg.org/nephros/install-history) &raquo; [Chum](https://sailfishos-chum.github.io/apps/install-history/) &raquo; Altijd handig om te hebben.
+- [KibiTiles](https://codeberg.org/roundedrectangle/harbour-2048) &raquo; Jolla Store &raquo; 2048, zie ook [OpenRepos](https://openrepos.net/content/roundedrectangle/kibitiles).
+- [LocalSend](https://github.com/nicosouv/harbour-localsend) &raquo; [OpenRepos](https://openrepos.net/content/nicosouv/localsend-unofficial-app) &raquo; Snel bestanden overzetten tussen systemen, port van [LocalSend](https://localsend.org/).
+- [Muoto UI Themer](https://uithemer.github.io/harbour-muoto/) &raquo; [OpenRepos](https://openrepos.net/content/fravaccaro/muoto-ui-themer) &raquo; Om LPM (Low-Power-Mode) aan te zetten, voor klok en notificaties op je lockscreen.
+- [SFOS Forum Viewer](https://github.com/szopin/harbour-sfos-forum-viewer) &raquo; Jolla Store &raquo; Beetje bijhouden wat er speelt in de Sailfish OS community, zie ook [OpenRepos](https://openrepos.net/content/szopin/sfos-forum-viewer).
+- [SysMetrics](https://github.com/JimKnopfIoT/harbour-sysmetrics) &raquo; [OpenRepos](https://openrepos.net/content/jimknopfiot/sysmetrics) &raquo; Zien wat er draait, processen stoppen en meer.
 
 ## Jolla en Sailfish OS
 

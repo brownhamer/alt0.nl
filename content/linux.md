@@ -56,7 +56,7 @@ Naast bovengenoemde applicaties zijn er diverse andere handige programma's die i
 - [Apostrophe](https://apps.gnome.org/nl/Apostrophe/) &raquo; Bewerken van Markdown met preview.
 - [Bazaar](https://flathub.org/en/apps/io.github.kolunmi.Bazaar/) &raquo; Flatpak marktplaats, soms net wat handiger dan [Pamac](https://github.com/manjaro/pamac).
 - [eza](https://github.com/eza-community/eza) &raquo; Moderne versie van ls met kleurtjes en Git ondersteuning.
-- [LocalSend](https://localsend.org/) &raquo; Android, Linux, Windows &raquo; Snel bestanden overzetten tussen systemen.
+- [LocalSend](https://localsend.org/) &raquo; Android, Linux, Sailfish OS, Windows &raquo; Snel bestanden overzetten tussen systemen.
 - [MailViewer](https://github.com/alescdb/mailviewer) &raquo; Omdat ik de meeste mail als losse ".eml" bestanden bewaar.
 - [Shotwell](https://shotwell-project.org/) &raquo; Foto's beheren, voor zover ik dat doe.
 - [Spider](https://github.com/Zaedus/spider) &raquo; Site als apps aanmaken, best handig.
