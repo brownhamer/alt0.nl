@@ -17,7 +17,7 @@ Installatie voorkeur: [Jolla Store](https://docs.sailfishos.org/Support/Help_Art
 - Messenger &raquo; [Signal](https://signal.org) &raquo; via Android App support vanaf Aurora, [Whisperfish](https://openrepos.net/content/rubdos/whisperfish) krijg ik nog niet goed werkend.
 - Navigatie &raquo; [Pure Maps](https://github.com/rinigus/pure-maps) en [CoMaps](https://www.comaps.app/) &raquo; via [Chum](https://sailfishos-chum.github.io/apps/harbour-pure-maps/) en Android App support vanaf [F-Droid](https://f-droid.org/en/packages/app.comaps.fdroid/).
 - Notities &raquo; [Nextcloud notes](https://apps.nextcloud.com/apps/notes) &raquo; via Android App support vanaf [F-Droid](https://f-droid.org/en/packages/it.niedermann.owncloud.notes/).
-- Social &raquo; [Mastodon](https://mastodon.nl) &raquo; native integratie en [Moshidon](https://lucasggamerm.github.io/moshidon/) via Android App support vanaf [F-Droid](https://f-droid.org/en/packages/org.joinmastodon.android.moshinda/), [Tooter β](https://openrepos.net/content/molan/tooter-v) kan ik niet aan wennen.
+- Social &raquo; [Mastodon](https://mastodon.nl) &raquo; native integratie en [Moshidon](https://lucasggamerm.github.io/moshidon/) via Android App support vanaf [F-Droid](https://f-droid.org/en/packages/org.joinmastodon.android.moshinda/).
 - Todo &raquo; [Super Productivity](https://super-productivity.com) &raquo; via Android App support vanaf [F-Droid](https://f-droid.org/en/packages/com.superproductivity.superproductivity/).
 - Verjaardagen &raquo; [Contacts' Brithdays](https://play.google.com/store/apps/details?id=org.xjiop.contactsbirthdays) &raquo; via Android App support vanaf Aurora.
 - Wachtwoorden &raquo; [1Password](https://1password.com) &raquo; via Android App support vanaf Aurora.
@@ -36,7 +36,7 @@ Installatie voorkeur: [Jolla Store](https://docs.sailfishos.org/Support/Help_Art
 - [Install History](https://codeberg.org/nephros/install-history) &raquo; [Chum](https://sailfishos-chum.github.io/apps/install-history/) &raquo; Altijd handig om te hebben.
 - [KibiTiles](https://codeberg.org/roundedrectangle/harbour-2048) &raquo; Jolla Store &raquo; 2048, zie ook [OpenRepos](https://openrepos.net/content/roundedrectangle/kibitiles).
 - [LocalSend](https://github.com/nicosouv/harbour-localsend) &raquo; [OpenRepos](https://openrepos.net/content/nicosouv/localsend-unofficial-app) &raquo; Snel bestanden overzetten tussen systemen, port van [LocalSend](https://localsend.org/).
-- [Meridon](https://github.com/anttsam/harbour-meridon) &raquo; [OpenRepos](https://openrepos.net/content/anttsam/meridon) &raquo; Wellicht als vervanging van Moshidon.
+- [Meridon](https://github.com/anttsam/harbour-meridon) &raquo; [OpenRepos](https://openrepos.net/content/anttsam/meridon) &raquo; Wellicht als vervanging van Moshidon, aan [Tooter β](https://openrepos.net/content/molan/tooter-v) kan ik niet wennen.
 - [Muoto UI Themer](https://uithemer.github.io/harbour-muoto/) &raquo; [OpenRepos](https://openrepos.net/content/fravaccaro/muoto-ui-themer) &raquo; Om LPM (Low-Power-Mode) aan te zetten, voor klok en notificaties op je lockscreen.
 - [SFOS Forum Viewer](https://github.com/szopin/harbour-sfos-forum-viewer) &raquo; Jolla Store &raquo; Beetje bijhouden wat er speelt in de Sailfish OS community, zie ook [OpenRepos](https://openrepos.net/content/szopin/sfos-forum-viewer).
 - [SysMetrics](https://github.com/JimKnopfIoT/harbour-sysmetrics) &raquo; [OpenRepos](https://openrepos.net/content/jimknopfiot/sysmetrics) &raquo; Zien wat er draait, processen stoppen en meer.
