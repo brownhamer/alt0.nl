@@ -26,6 +26,16 @@ h2 { /* <random tagline> */
 	text-align: center;
 }
 
+th, td {
+	padding: 5px 7px;
+}
+
+th {
+	border-bottom: 1px solid;
+	border-bottom-color: rgb(20 20 20 / 80%);
+	font-size: 1.1rem;
+}
+
 div#page {
 	display: grid;
 	grid-template-columns: 2fr 7fr;
@@ -172,16 +182,6 @@ div#by {
 	padding: 7px;
 	position: absolute;
 	right: 10px;
-}
-
-th, td {
-	padding: 5px 7px;
-}
-
-th {
-	border-bottom: 1px solid;
-	border-bottom-color: rgb(20 20 20 / 80%);
-	font-size: 1.1rem;
 }
 
 img[src*="#bandlogo"] {
