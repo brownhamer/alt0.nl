@@ -21,15 +21,15 @@ Hieronder wat keuzes die ik hierin al gemaakt heb.
 
 - 2FA: ~~Authy~~ &raquo; [Ente Auth](https://ente.io/auth/)
 - Agenda: ~~Google Calendar~~ &raquo; [NextCloud Calendar](https://apps.nextcloud.com/apps/calendar).
-- Bookmarks: ~~Firefox~~ &raquo; [NextCloud Bookmarks](https://github.com/nextcloud/bookmarks) met [Floccus](https://floccus.org/)
-- Browser: ~~Google Chrome~~ &raquo; [Firefox](https://www.firefox.com/) en [Firefox Focus](https://www.firefox.com/nl/browsers/mobile/focus/).
+- Bookmarks: ~~Firefox~~ &raquo; [NextCloud Bookmarks](https://github.com/nextcloud/bookmarks) met [Floccus](https://floccus.org/) en [Cloudmarks](https://codeberg.org/nephros/cloudmarks)
+- Browser: ~~Google Chrome~~ &raquo; [Firefox](https://www.firefox.com/), [Firefox Focus](https://www.firefox.com/nl/browsers/mobile/focus/) en [Atlantic Browser](https://github.com/SpecSierra/atlantic-browser).
 - Cloud opslag: ~~OneDrive~~ &raquo; [NextCloud](https://nextcloud.com/).
 - Contacten: ~~Google Contacts~~ &raquo; [NextCloud Contacts](https://github.com/nextcloud/contacts).
 - IDE: ~~Visual Studio Code~~ &raquo; [VS Codium](https://vscodium.com/).
-- Keyboard ~~Gboard~~ &raquo; [FUTO Keyboard](https://keyboard.futo.org/).
+- Keyboard ~~Gboard~~ &raquo; [FUTO Keyboard](https://keyboard.futo.org/) op Android.
 - Mail: ~~Gmail~~ &raquo; IMAP met [Thunderbird](https://www.thunderbird.net/).
-- Messenger: ~~WhatsApp~~ &raquo; [Signal](https://signal.org/).
-- Navigatie: ~~Google Maps~~ &raquo; [HERE WeGo](https://wego.here.com/) en [CoMaps](https://www.comaps.app/).
+- Messenger: ~~WhatsApp~~ &raquo; [Signal](https://signal.org/) en [Matrix](https://matrix.org/).
+- Navigatie: ~~Google Maps~~ &raquo; [Pure Maps](https://github.com/rinigus/pure-maps), [HERE WeGo](https://wego.here.com/) en [CoMaps](https://www.comaps.app/).
 - Notities: ~~Simplenote~~ &raquo; [NextCloud Notes](https://apps.nextcloud.com/apps/notes).
 - Office: ~~Microsoft Office 365~~ &raquo; [LibreOffice](https://www.libreoffice.org/).
 - Pasjes: ~~Google Waller~~ &raquo; [Catima](https://catima.app/).
@@ -47,12 +47,11 @@ Zie ook de lijst met alternatieve [ALT0PAGE_software].
 - [AsteroidOS](https://asteroidos.org/) &raquo; Linux voor smartwatches, alleen ik draag eigenlijk nooit een horloge want dat irriteert me tijdens het gitaar spelen.
 - [Bandcamp](https://bandcamp.com/) &raquo; Misshien als alternatief voor [Spotify](https://open.spotify.com/), ik ben niet van de AI muziek en daar lijkt Spotify toch wel van te zijn de laatste tijd.
 - [Codeberg](https://codeberg.org/) &raquo; Over een tijdje, als alternatief voor [GitHub](https://github.com/), zeker vanwege [Days Without GitHub Incident](https://www.dayswithoutgithubincident.com/), mogelijk met [GitNex](https://gitnex.com/) als client op mobiel en [Gitte](https://codeberg.org/ckruse/Gitte) op de desktop.
-- [Element](https://element.io/en) &raquo; Vooralsnog is [Signal](https://signal.org/) goed genoeg.
 - [elementary OS](https://elementary.io/) &raquo; Qua uiterlijk erg mooi, maar toch gekozen voor [Manjaro](https://manjaro.org/).
 - [Ente Photos](https://ente.io/) &raquo; Bij voorkeur heb ik mijn foto's lokaal staan, vooralsnog gekozen voor [Nextcloud](https://nextcloud.com/) via [oCloud](https://ocloud.de/).
 - [Fairphone](https://www.fairphone.com/nl) &raquo; Nederlands, maar nog wel [Android](https://www.android.com/) gebaseerd, ook als je de [/e/OS](https://e.foundation/e-os/) variant kiest, dus maar gekozen voor de [ALT0PAGE_jolla] telefoon.
 - [Commodore Flip-phone](https://commodore.net/callback/) &raquo; Alleen al voor de spelletjes, maar goed dat kan ook met [C64.emu](https://c64emu.com/) voor met name [Morpheus](https://www.c64.com/games/154).
-- [Floorp](https://floorp.app/) &raquo; Voorlopig blijf ik nog trouw aan [Firefox](https://www.firefox.com/nl/).
+- [Floorp](https://floorp.app/) &raquo; Voorlopig blijf ik nog redelijk trouw aan [Firefox](https://www.firefox.com/nl/), ben eigenlijk vooral aan het wachten op [Servo](https://servo.org/).
 - [GrapheneOS](https://grapheneos.org/) &raquo; Beter dan [Android](https://www.android.com/), maar toch.
 - [immich](https://immich.app/) &raquo; Bij voorkeur heb ik mijn foto's lokaal staan, vooralsnog gekozen voor [Nextcloud](https://nextcloud.com/) via [oCloud](https://ocloud.de/).
 - [librephone](https://librephone.fsf.org/site/) &raquo; Verre van af, net begonnen zelfs.

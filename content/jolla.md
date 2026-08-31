@@ -14,7 +14,7 @@ Installatie voorkeur: [Jolla Store](https://docs.sailfishos.org/Support/Help_Art
 - Cloud opslag &raquo; [NextCloud](https://nextcloud.com) &raquo; native integratie.
 - Contacten &raquo; [NextCloud Contacts](https://github.com/nextcloud/contacts) &raquo; native integratie.
 - Mail &raquo; native mail client.
-- Messenger &raquo; [Signal](https://signal.org) &raquo; via Android App support vanaf Aurora, [Whisperfish](https://openrepos.net/content/rubdos/whisperfish) krijg ik nog niet goed werkend.
+- Messenger &raquo; [Signal](https://signal.org) en [Matrix](https://matrix.org/) &raquo; via Android App support vanaf Aurora, [Whisperfish](https://openrepos.net/content/rubdos/whisperfish) krijg ik nog niet goed werkend, en [Sailtrix](https://gitlab.com/sailtrix/harbour-sailtrix) via [Chum](https://sailfishos-chum.github.io/apps/harbour-sailtrix/).
 - Navigatie &raquo; [Pure Maps](https://github.com/rinigus/pure-maps) en [CoMaps](https://www.comaps.app/) &raquo; via [Chum](https://sailfishos-chum.github.io/apps/harbour-pure-maps/) en Android App support vanaf [F-Droid](https://f-droid.org/en/packages/app.comaps.fdroid/).
 - Notities &raquo; [Nextcloud notes](https://apps.nextcloud.com/apps/notes) &raquo; via Android App support vanaf [F-Droid](https://f-droid.org/en/packages/it.niedermann.owncloud.notes/).
 - Social &raquo; [Mastodon](https://mastodon.nl) &raquo; native integratie en [Moshidon](https://lucasggamerm.github.io/moshidon/) via Android App support vanaf [F-Droid](https://f-droid.org/en/packages/org.joinmastodon.android.moshinda/).
@@ -125,7 +125,7 @@ Mijn tablet draait nog wel op Android, maar ook daar probeer ik (open) alternati
 - Keyboard &raquo; [FUTO Keyboard](https://keyboard.futo.org/) &raquo;  op Android.
 - Launcher &raquo; [Murine Launcher](https://www.murinelauncher.app/) &raquo; op Android.
 - Mail &raquo; [Thunderbird](https://www.thunderbird.net) &raquo; op Android.
-- Messenger &raquo; [Signal](https://signal.org) &raquo;  op Android.
+- Messenger &raquo; [Signal](https://signal.org) &raquo; op Android.
 - Navigatie &raquo; [HERE WeGo](https://wego.here.com/) en [CoMaps](https://www.comaps.app/) &raquo;  op Android.
 - Notities &raquo; [Nextcloud notes](https://apps.nextcloud.com/apps/notes) &raquo; op Android.
 - Social &raquo; [Mastodon](https://mastodon.nl) &raquo; [Moshidon](https://lucasggamerm.github.io/moshidon/) op Android.

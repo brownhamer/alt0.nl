@@ -14,7 +14,7 @@ Deze gebruik k nu op mijn laptop, en ben ik ook van plan te gebruiken op mijn PC
 - IDE &raquo; [VS Codium](https://vscodium.com) &raquo; [beschikbaar](https://vscodium.com/#install) op Linux.
 - Git GUI &raquo; [GitHub Desktop](https://github.com/apps/desktop) &raquo; [via AUR](https://aur.archlinux.org/packages/github-desktop) op Linux.
 - Mail &raquo; [Thunderbird](https://www.thunderbird.net) &raquo; [beschikbaar](https://www.thunderbird.net/en-US/thunderbird/all/) op Linux.
-- Messenger &raquo; [Signal](https://signal.org) &raquo; [beschikbaar](https://signal.org/download/linux/) op Linux.
+- Messenger &raquo; [Signal](https://signal.org) en [Matrix](https://matrix.org/) &raquo; [beschikbaar](https://signal.org/download/linux/) en [beschikbaar][Element](https://element.io/en) op Linux.
 - Notities &raquo; [Nextcloud notes](https://apps.nextcloud.com/apps/notes) &raquo; [Iotas](https://apps.gnome.org/Iotas/) op Linux.
 - Office &raquo; [LibreOffice](https://www.libreoffice.org/) &raquo; [beschikbaar](https://www.libreoffice.org/download/download-libreoffice/) op Linux.
 - Social &raquo; [Mastodon](https://mastodon.nl) &raquo; [Tuba](https://github.com/GeopJr/Tuba) op Linux.

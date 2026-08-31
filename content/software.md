@@ -67,7 +67,7 @@ Zie verder ook [ALT0PAGE_alternatieven] voor wat ik wel gebruik (of overweeg).
 - [Orion Browser](https://orionbrowser.com/)
 - [ParseDown](https://parsedown.org/)
 - [Pebble](https://repebble.com/) &raquo; Leuk, maar ervaring heeft me geleerd dat ik geen horloge draag.
-- [Pelton](https://pelton.app/) &raquo; Als alternatief voor Thuderbird aan het testen, erg prettig en handig in gebruik en ook nog eens snel. Mist wel weer CalDav en CardDav, dat dan weer wel.
+- [Pelton](https://pelton.app/) &raquo; Als alternatief voor Thuderbird aan het testen, erg prettig en handig in gebruik en ook nog eens snel.
 - [Pi-hole](https://pi-hole.net/)
 - [Pins](https://flathub.org/en/apps/io.github.fabrialberio.pinapp) &raquo; "Create and edit app shortcuts".
 - [Redirector](https://einaregilsson.com/redirector/)
@@ -85,7 +85,6 @@ Zie verder ook [ALT0PAGE_alternatieven] voor wat ik wel gebruik (of overweeg).
 - [Unchecky](https://unchecky.com/)
 - [Vivaldi](https://vivaldi.com/) &raquo; Gebruikt helaas nog de chromium engine.
 - [Warehouse](https://flathub.org/en/apps/io.github.flattool.Warehouse) &raquo; "Manage all things Flatpak".
-- [Waydroid](https://waydro.id/)
 - [Waydroid](https://waydro.id/) &raquo; Android in een Linux container, geen idee of ik het nodig heb, maar klinkt potentieel handig.
 - [WebBeef browser](https://tangled.org/me.webbeef.org/beaver) &raquo; [Servo](https://servo.org/) gebaseerde browser, maar nog niet klaar voor productie.
 - [Why is this running?](https://github.com/pranshuparmar/witr)
