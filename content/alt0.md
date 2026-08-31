@@ -21,6 +21,6 @@ Meer info is te vinden op de site van de band zelf [ALT0LINK_bob].
 | [Security.nl](https://www.security.nl/) | [Goirle](https://www.omroeptilburg.nl/regio/goirle/) | |
 | [Tweakers](https://tweakers.net/) | [VRT](https://www.vrt.be/vrtnws/nl/) | |
 | [TWiG](https://thisweek.gnome.org/) | [RaWePo](https://rawepo.be/) | |
-| [Work Chronicles](https://workchronicles.substack.com/archive)  | [Scientias](https://scientias.nl/) | |
+| [Work Chronicles](https://workchronicles.substack.com/archive) | [Scientias](https://scientias.nl/) | |
 | | [De Speld](https://speld.nl/) | |
 | | [Nieuwspaal](https://nieuwspaal.nl/) | |
