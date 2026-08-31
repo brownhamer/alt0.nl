@@ -24,3 +24,4 @@ Meer info is te vinden op de site van de band zelf [ALT0LINK_bob].
 | [Work Chronicles](https://workchronicles.substack.com/archive) | [Scientias](https://scientias.nl/) | |
 | | [De Speld](https://speld.nl/) | |
 | | [Nieuwspaal](https://nieuwspaal.nl/) | |
+| | [Trumpact](https://reportersonline.nl/besluiten-trump-impact/) | |

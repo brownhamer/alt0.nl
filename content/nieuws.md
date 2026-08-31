@@ -1,24 +1,16 @@
 # Nieuws
 
-Diverse nieuws gerelateerde sites.
+Diverse (extra) nieuws gerelateerde sites, zie ook [ALT0LINK_alt0].
 
-- [Associated Press](https://apnews.com/)
 - [Digitale Overheid](https://www.digitaleoverheid.nl/actueel/)
 - [DutchNews](https://www.dutchnews.nl/)
 - [EOS Wetenschap](https://www.eoswetenschap.eu/)
-- [It's FOSS News](https://news.itsfoss.com/)
 - [New Scientist](https://www.newscientist.com/)
 - [NL Times](https://nltimes.nl/)
 - [Nu.nl](https://nu.nl/)
-- [RaWePo](https://rawepo.be/)
 - [Rechtspraak](https://www.rechtspraak.nl/Nieuwsoverzicht)
 - [Reporters Online](https://reportersonline.nl/)
-- [Reporters Online - Trump](https://reportersonline.nl/besluiten-trump-impact/)
 - [Rijksoverheid.nl](https://www.rijksoverheid.nl/actueel/nieuws)
-- [Scientias](https://scientias.nl/)
-- [Security.NL](https://security.nl/)
-- [Tweakers](https://tweakers.nl/)
-- [VRT NWS](https://www.vrt.be/vrtnws/nl/)
 - [Wetenschap in Beeld](https://wibnet.nl/)
 
 ## Fact Check
@@ -42,8 +34,6 @@ Diverse sites die zich bezighouden met controleren van feiten.
 
 ## Satire
 
-- [De Speld](https://speld.nl/)
 - [Feitig](https://www.feitig.nl/)
 - [NewsThump](https://newsthump.com/)
-- [Nieuwspaal](https://nieuwspaal.nl/)
 - [The Vremde Mirror](https://vremdemirror.com/)
