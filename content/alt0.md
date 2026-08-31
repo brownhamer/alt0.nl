@@ -20,7 +20,7 @@ Meer info is te vinden op de site van de band zelf [ALT0LINK_bob].
 | [Security.nl](https://www.security.nl/) | [Veldhoven](https://studio040.nl/nieuws/veldhoven) | |
 | [Tweakers](https://tweakers.net/) | [Goirle](https://www.omroeptilburg.nl/regio/goirle/) | |
 | [TWiG](https://thisweek.gnome.org/) | [VRT](https://www.vrt.be/vrtnws/nl/) | |
-| | [RaWePo](https://rawepo.be/) | |
+| [Work Chronicles](https://workchronicles.substack.com/archive) | [RaWePo](https://rawepo.be/) | |
 | | [Scientias](https://scientias.nl/) | |
 | | [De Speld](https://speld.nl/) | |
 | | [Nieuwspaal](https://nieuwspaal.nl/) | |
