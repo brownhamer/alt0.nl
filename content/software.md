@@ -87,7 +87,7 @@ Zie verder ook [ALT0PAGE_alternatieven] voor wat ik wel gebruik (of overweeg).
 - [Warehouse](https://flathub.org/en/apps/io.github.flattool.Warehouse) &raquo; "Manage all things Flatpak".
 - [Waydroid](https://waydro.id/)
 - [Waydroid](https://waydro.id/) &raquo; Android in een Linux container, geen idee of ik het nodig heb, maar klinkt potentieel handig.
-- [WebBeef browser](https://tangled.org/me.webbeef.org/browser.html/) &raquo; [Servo](https://servo.org/) gebaseerde browser, maar nog niet klaar voor productie.
+- [WebBeef browser](https://tangled.org/me.webbeef.org/beaver) &raquo; [Servo](https://servo.org/) gebaseerde browser, maar nog niet klaar voor productie.
 - [Why is this running?](https://github.com/pranshuparmar/witr)
 - [Wike](https://hugolabe.github.io/Wike/) &raquo; Lokale [Wikipedia](https://nl.wikipedia.org/wiki/Hoofdpagina), met [GNOME Shell](https://en.wikipedia.org/wiki/GNOME_Shell) zoek integratie. Nog niet aan toe gekomen, maar dat gaan we zeker gebruiken.
 - [Wildcard](https://flathub.org/en/apps/net.ffkkinos.Wildcard) &raquo; "Test your regular expressions".
