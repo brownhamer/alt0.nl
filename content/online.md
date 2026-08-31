@@ -46,7 +46,6 @@ Diverse 'handige' sites met online tools en informatie.
 - [The Missing GitHub Status Page](https://mrshu.github.io/github-statuses/)
 - [TilburgAns](https://www.tilburgsans.nl/)
 - [Wandelroutes](https://www.kempen.be/wandelroutes)
-- [Work Chronicles](https://workchronicles.substack.com/archive)
 - [Xikipedia](https://xikipedia.org/)
 
 ## Muziek maken
