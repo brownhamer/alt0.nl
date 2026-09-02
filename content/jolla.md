@@ -28,6 +28,7 @@ Installatie voorkeur: [Jolla Store](https://docs.sailfishos.org/Support/Help_Art
 - [Cloudmarks](https://codeberg.org/nephros/cloudmarks) &raquo; [Chum](https://sailfishos-chum.github.io/apps/harbour-cloudmarks/) &raquo; Toegang tot mijn [NextCloud Bookmarks](https://github.com/nextcloud/bookmarks).
 - [Dino](https://github.com/arustg/harbour-dinorunner) &raquo; Jolla Store &raquo; Grappig simpel spelletje, al zal ik het niet vaak spelen, zie ook [OpenRepos](https://openrepos.net/content/arustg/dino).
 - [Editor](https://github.com/GoAlexander/harbour-editor) &raquo; Jolla Store &raquo; Aan het testen, zie ook [OpenRepos](https://openrepos.net/content/goalexander/editor).
+- [Evento](https://github.com/black-sheep-dev/harbour-evento/) &raquo; [OpenRepos](https://sailfishos-chum.github.io/apps/harbour-evento/) &raquo; Aftellen tot m'n pensioen...
 - [Ferry Sync](https://github.com/Dominik-h-hub/harbour-ferry) &raquo; [OpenRepos](https://openrepos.net/content/domih/ferry-sync-cloud-file-sync) &raquo; Altijd in sync met mijn [NextCloud](https://nextcloud.com/) content.
 - [fiat vox](https://github.com/munksh/FiatVox) &raquo; [OpenRepos](https://openrepos.net/content/munkstolen/fiat-vox-chromatic-tuner) &raquo; Altijd een tuner op zak, tenminste als ik mijn telefoon bij me heb.
 - [File Browser](https://codeberg.org/ichthyosaurus/harbour-file-browser) &raquo; [OpenRepos](https://openrepos.net/content/ichthyosaurus/file-browser) voor volledige toegang &raquo; De naam zegt het al, werkt prima.
