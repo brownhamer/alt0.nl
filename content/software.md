@@ -31,6 +31,7 @@ Zie verder ook [ALT0PAGE_alternatieven] voor wat ik wel gebruik (of overweeg).
 - [ExifCleaner](https://exifcleaner.com/)
 - [FairEmail](https://email.faircode.eu/) &raquo; Werkt fijn, maar gekozen om [Thunderbid](https://www.thunderbird.net/) te gebruiken net als de rest in mijn gezin om ze makkelijker te kunnen ondersteunen.
 - [FairScan](https://fairscan.org/)
+- [Fastpotify](https://fastpotify.rocks/)
 - [Fedistar](https://fedistar.net/)
 - [Ferrite](https://github.com/OlaProeis/Ferrite)
 - [Files](https://files.community/)
