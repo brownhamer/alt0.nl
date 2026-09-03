@@ -34,6 +34,8 @@ Diverse sites die zich bezighouden met controleren van feiten.
 
 ## Satire
 
+Zonder humor is de wereld niet te verdragen.
+
 - [Feitig](https://www.feitig.nl/)
 - [NewsThump](https://newsthump.com/)
 - [The Vremde Mirror](https://vremdemirror.com/)
