@@ -4,7 +4,7 @@ Diverse 'handige' sites met online tools en informatie.
 
 ## Familie, vrienden, kennissen en (oud) collega's
 
-Soms moet je gewoon mensen promoten, ookal zal dat vanaf deze site niet heel veel toevoegen. 
+Soms moet je gewoon mensen promoten, ookal zal dat vanaf deze site niet heel veel toevoegen.
 
 - [Creative Music Lab](https://lab.creativemusiclab.com/)
 - [Figment Stories](https://figmentstories.nl/)
