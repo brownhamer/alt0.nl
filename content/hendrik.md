@@ -131,3 +131,5 @@ Opstellen benodigde documentatie voor het behalen van ISO-9002 certificatie.
 | HEAO Bedrijfskundige Informatica (Eindhoven)         | Hogeshool Midden-Brabant | 1993 - 1995    | -   |
 | HEAO propedeuse (Breda)                              | Hogeschool West-Brabant  | 1992 - 1993    | -   |
 | MEAO Bedrijfskundige Informatica (Tilburg)           | Triborgh College         | 1988 - 1992    | D   |
+
+*C/D - Certificaat / Diploma*
