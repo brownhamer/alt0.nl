@@ -9,6 +9,7 @@ Gedistribueerde sociale media.
 - [Mastodon Starter Pack Directory](https://fedidevs.com/starter-packs/)
 - [Mastodon.nl](https://mastodon.nl/explore)
 - [Media in the Fediverse](https://fingolas.eu/fediverse/overview.html)
+- [Organisations Using ActivityPub](https://jaz.co.uk/projects/orgs-using-ap/)
 - [Politici op Mastodon](https://www.politici-op-mastodon.nl/)
 - [Share to Mastodon](https://share.joinmastodon.org/)
 - [Social.overheid.nl profiles](https://social.overheid.nl/directory)
