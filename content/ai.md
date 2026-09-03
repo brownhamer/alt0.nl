@@ -180,6 +180,7 @@ Echter de diverse LLM gebaseerde initiatieven die vanuit Big Tech gepusht worden
 - [I hate what AI is doing to the minds and happiness of the young](https://www.theguardian.com/books/ng-interactive/2026/aug/08/i-hate-what-ai-is-doing-to-the-minds-and-happiness-of-the-young-katherine-rundell-on-the-view-from-the-classroom)
 - [I keep finding vibe coded apps that leak user data, and I'm not even looking for it](https://www.xda-developers.com/keep-finding-vibe-coded-apps-leak-user-data/)
 - [I spoke to AI agent Claude](https://youtube.com/watch?v=h3AtWdeu_G0&is=bkk6JLubYSlUuQ-1)
+- [I'm done using AI](https://brettcodes.com/im-done-using-ai/)
 - [IBM CEO says there is 'no way' spending trillions on AI data centers will pay off at today's infrastructure costs](https://www.businessinsider.com/ibm-ceo-big-tech-ai-capex-data-center-spending-2025-12)
 - [If you thought the speed of writing code was your problem - you have bigger problems](https://andrewmurphy.io/blog/if-you-thought-the-speed-of-writing-code-was-your-problem-you-have-bigger-problems)
 - [In Grok we don’t trust: academics assess Elon Musk’s AI-powered encyclopedia](https://www.theguardian.com/technology/2025/nov/03/grokipedia-academics-assess-elon-musk-ai-powered-encyclopedia)
