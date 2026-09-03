@@ -44,6 +44,7 @@ Installatie voorkeur: [Jolla Store](https://docs.sailfishos.org/Support/Help_Art
 - [SysMetrics](https://github.com/JimKnopfIoT/harbour-sysmetrics) &raquo; [OpenRepos](https://openrepos.net/content/jimknopfiot/sysmetrics) &raquo; Zien wat er draait, processen stoppen en meer.
 - [Tarkka Magnifier](https://openrepos.net/content/fravaccaro/tarkka-magnifier) &raquo; [OpenRepos](https://openrepos.net/content/fravaccaro/tarkka-magnifier) &raquo; Gewoon, je telefoon als vergrootglas gebruiken.
 - [Tooter β](https://github.com/poetaster/harbour-tooter) &raquo; [Chum](https://sailfishos-chum.github.io/apps/harbour-tooterb/) &raquo; Ik kan er nog niet echt aan wennen, maar we blijven proberen, tenzij [Moshidon](https://lucasggamerm.github.io/moshidon/) naar [Sailfish OS](https://github.com/LucasGGamerM/moshidon/issues/704) komt natuurlijk.
+
 ## Jolla en Sailfish OS
 
 - Jolla [Blog](https://forum.sailfishos.org/c/blog/31)
