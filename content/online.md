@@ -4,6 +4,8 @@ Diverse 'handige' sites met online tools en informatie.
 
 ## Familie, vrienden, kennissen en (oud) collega's
 
+Soms moet je gewoon mensen promoten, ookal zal dat vanaf deze site niet heel veel toevoegen. 
+
 - [Creative Music Lab](https://lab.creativemusiclab.com/)
 - [Figment Stories](https://figmentstories.nl/)
 - [Industrial-Impression](https://industrial-impression.com/)
@@ -11,49 +13,35 @@ Diverse 'handige' sites met online tools en informatie.
 - [Melroy](https://melroy.org/)
 - [SoftBits](http://softbits.nl/)
 
-## Handig
+## Blogs
+
+Goede stukjes tekst.
+
+- [Chris Klomp](https://chrisklomp.nl/)
+- [stux.me](https://stux.me/)
+
+## Software
+
+Voor die mensen die nog zelf software maken, zoals het hoort.
 
 - [Awesome Rust](https://github.com/rust-unofficial/awesome-rust)
-- [Chris Klomp](https://chrisklomp.nl/)
-- [Code Europe](https://code.europa.eu/)
-- [David Zinn](https://zinnart.com/)
-- [DistroSea](https://distrosea.com/)
-- [Emojipedia](https://emojipedia.org/)
-- [F1 HOT or NOT](https://www.f1hotornot.com/)
-- [feedle](https://feedle.world/)
-- [Firefox Profilemaker](https://ffprofile.com/)
-- [Fossify](https://www.fossify.org/)
-- [Galgo Project](https://galgoproject.nl/)
 - [good first issue](https://goodfirstissue.dev/)
-- [Iconify](https://icon-sets.iconify.design/)
-- [Iconmonstr](https://iconmonstr.com/)
-- [LibreSpeed](https://librespeed.org/)
-- [Museum of Lost Sounds](https://bigsoundbank.com/museumofsounds/)
-- [Muzikantenbank.NET](https://www.muzikantenbank.net)
-- [NEMO Kennislink](https://www.nemokennislink.nl/)
-- [Nutteloze Borden](https://www.nuttelozeborden.be/)
-- [Open With](https://www.openwith.org/)
-- [Organisations Using ActivityPub](https://jaz.co.uk/projects/orgs-using-ap/)
 - [RegExr](https://regexr.com/)
-- [Partij voor de Dieren](https://www.partijvoordedieren.nl/)
-- [Prikkert](https://prikkert.nl/)
-- [Puter](https://github.com/HeyPuter/puter)
-- [RefSeek](https://www.refseek.com/)
-- [RegExr](https://regexr.com/)
-- [stux.me](https://stux.me/)
 - [The Missing GitHub Status Page](https://mrshu.github.io/github-statuses/)
-- [TilburgAns](https://www.tilburgsans.nl/)
-- [Wandelroutes](https://www.kempen.be/wandelroutes)
-- [Xikipedia](https://xikipedia.org/)
 
 ## Muziek maken
 
+Sites met hulpmiddelen om beter (gitaar) muziek te maken.
+
 - [7 String Guitar](https://chord.rocks/7-string-guitar/)
 - [FindMyGuitar](https://findmyguitar.com/)
+- [Muzikantenbank.NET](https://www.muzikantenbank.net)
 - [Pedal Playground](https://pedalplayground.com/)
 - [Ultimate Guitar](https://www.ultimate-guitar.com/)
 
 ## Muzikanten
+
+Inspirerende artiesten.
 
 - [Andre Antunes](https://www.youtube.com/@AndreAntunesofficial)
 - [Ben Eller](https://www.patreon.com/BenEllerGuitars)
@@ -64,13 +52,44 @@ Diverse 'handige' sites met online tools en informatie.
 
 ## Muziek
 
+Gewoon erg goede gitaar muziek.
+
 - [Bernth - Horizons](https://youtu.be/rSJnntnJcSM?si=OcYCTk3kfJopVXbe)
 - [Guthrie Govan - Bigfoot](https://youtu.be/B569w-_ReHs?si=qX_QWetxq1njox08)
 - [Joe Satriani - Made of Tears](https://www.youtube.com/watch?v=M4lsB-B1O7U)
 - [Joe Satriani - Satch Boogie](https://www.youtube.com/watch?v=mlkbT4GDYAQ)
 - [Steve Vai - Tender Surrender](https://www.youtube.com/watch?v=Yw74sDWPH7U)
 
+## Handig
+
+Van alles en nog wat online dat wel eens handig is.
+
+- [Code Europe](https://code.europa.eu/)
+- [David Zinn](https://zinnart.com/)
+- [DistroSea](https://distrosea.com/)
+- [Emojipedia](https://emojipedia.org/)
+- [F1 HOT or NOT](https://www.f1hotornot.com/)
+- [feedle](https://feedle.world/)
+- [Firefox Profilemaker](https://ffprofile.com/)
+- [Fossify](https://www.fossify.org/)
+- [Galgo Project](https://galgoproject.nl/)
+- [Iconify](https://icon-sets.iconify.design/)
+- [Iconmonstr](https://iconmonstr.com/)
+- [LibreSpeed](https://librespeed.org/)
+- [Museum of Lost Sounds](https://bigsoundbank.com/museumofsounds/)
+- [NEMO Kennislink](https://www.nemokennislink.nl/)
+- [Nutteloze Borden](https://www.nuttelozeborden.be/)
+- [Open With](https://www.openwith.org/)
+- [Partij voor de Dieren](https://www.partijvoordedieren.nl/)
+- [Prikkert](https://prikkert.nl/)
+- [Puter](https://github.com/HeyPuter/puter)
+- [TilburgAns](https://www.tilburgsans.nl/)
+- [Wandelroutes](https://www.kempen.be/wandelroutes)
+- [Xikipedia](https://xikipedia.org/)
+
 ## Technologie
+
+Uitleg van complexe technologie op eenvoudige wijze.
 
 - [A Petabyte in the Palm of My Hand](https://youtu.be/ivLvsTnp9fI?si=ooaipYezM7LhEk21)
 - [Hier worden de nieuwe chips voor jouw game-pc uitgevonden! Achter de schermen bij imec](https://youtu.be/O-bSi_y5pYU?si=lU9IpFP-q9636T9U)
