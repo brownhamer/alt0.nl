@@ -11,7 +11,7 @@ Tot nog toe bevalt het eigenlijk wel, het werkt soms net wat anders, maar dat is
 
 ## PC/laptop
 
-Op mijn laptop ben ik ovegestapt op [ALT0PAGE_linux], voor mijn PC ben ik daar nog mee bezig. Voor de laptop was dat geen groot probleem, alles wat ik daarop gebruik is of beschikbaar voor Linux, of er is een prima alernatief te vinde.
+Op mijn laptop ben ik ovegestapt op [ALT0PAGE_linux], voor mijn PC ben ik daar nog mee bezig. Voor de laptop was dat geen groot probleem, alles wat ik daarop gebruik is of beschikbaar voor Linux, of er is een prima alternatief te vinden.
 Voor de PC is er nog 1 uitdaging, Neural DSP biedt (nog) geen ondersteuning aan voor Linux voor zijn [Quad Cortex](https://neuraldsp.com/quad-cortex), ondanks [veler verzoek](https://unity.neuraldsp.com/t/linux-drivers-and-cortex-control-support/15149).
 
 ## Overgestapt
