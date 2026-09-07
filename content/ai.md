@@ -230,6 +230,7 @@ Echter de diverse LLM gebaseerde initiatieven die vanuit Big Tech gepusht worden
 - [Oud-hoofdredacteur van NRC gebruikte citaten uit AI-hallucinaties](https://tweakers.net/nieuws/245926/oud-hoofdredacteur-van-nrc-gebruikte-citaten-uit-ai-hallucinaties.html)
 - [Pas toch maar op met die hippe AI-agents, waarschuwen onderzoekers](https://scientias.nl/pas-toch-maar-op-met-die-hippe-ai-agents-waarschuwen-onderzoekers/)
 - [Paus Leo XIV in zijn eerste encycliek: ‘AI moet ontwapend worden’](https://www.trouw.nl/religie-filosofie/paus-leo-xiv-in-zijn-eerste-encycliek-ai-moet-ontwapend-worden~bb4b4ce4/)
+- [People Are Telling Their Darkest Thoughts to AI Without Realizing They Can Easily Become Public](https://futurism.com/artificial-intelligence/ai-chatbot-users-darkest-thoughts-public-privacy)
 - [People Using AI to Represent Themselves in Court Are Clogging the System](https://www.404media.co/people-using-ai-to-represent-themselves-in-court-are-clogging-the-system/)
 - [Personal AI-agents zijn - voorlopig - een cybernachtmerrie](https://www.agconnect.nl/tech-en-toekomst/artificial-intelligence/personal-ai-agents-zijn-voorlopig-een-cybernachtmerrie)
 - [Personas in System Prompts Do Not Improve Performances of Large Language Models](https://arxiv.org/html/2311.10054v3)
