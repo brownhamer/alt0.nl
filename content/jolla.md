@@ -47,9 +47,8 @@ Installatie voorkeur: [Jolla Store](https://docs.sailfishos.org/Support/Help_Art
 
 ## Jolla en Sailfish OS
 
+- Jolla en Sailfish [Forum](https://forum.sailfishos.org/latest)
 - Jolla [Blog](https://forum.sailfishos.org/c/blog/31)
-- Jolla Phone [Day1](https://forum.sailfishos.org/t/sailfish-community-news-july-10-2026-jolla-phone-day1/30490) launch event
-- Jolla Phone [Shipping tracker](https://forum.sailfishos.org/t/jolla-phone-community-shipping-tracker/30751)
 - Sailfish OS [Announcements](https://forum.sailfishos.org/c/announcements/17)
 - Sailfish OS [Community News](https://forum.sailfishos.org/c/community-news/25)
 - [Sailfish OS](https://github.com/sailfishos) on GitHub
@@ -60,6 +59,17 @@ Installatie voorkeur: [Jolla Store](https://docs.sailfishos.org/Support/Help_Art
 - [Harbour, Storeman, Chum, Android apps, Whisperfish?](https://www.rubdos.be/2026/08/01/my-sailfish-os-journey-what-they-should-ve-told-you.html)
 - [How I use SailfishOS](https://scarpino.dev/posts/how-i-use-sailfishos.html)
 - [My Sailfish OS Journey](https://www.rubdos.be/2026/04/15/my-sailfish-os-journey.html)
+
+### Patchmanager tweaks
+
+Er is een [overzicht van allerlei patches](https://coderus.openrepos.net/pm2/projects/) die je via [Patchmanager for SailfishOS](https://github.com/sailfishos-patches/patchmanager) kunt installeren en activeren.
+Zelf gebruik ik de vogende.
+
+- [Compact Battery](https://coderus.openrepos.net/pm2/project/sfos-patch-compact-battery)
+- [Custom empty notifications message](https://coderus.openrepos.net/pm2/project/no-notifications-custom)
+- [Email Accunt in Folder header](https://coderus.openrepos.net/pm2/project/patch-email-headers)
+- [Glass Backgrounds Everywere](https://coderus.openrepos.net/pm2/project/patch-glass-everywhere)
+- [Status Bar in apps](https://coderus.openrepos.net/pm2/project/sfos-patch-status-bar)
 
 ### Android app support
 
