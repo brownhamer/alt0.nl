@@ -230,3 +230,8 @@ div#content a {
 div#navigation a:hover {
 	color: rgb(190 100 30);
 }
+
+div#guitarhandnotes {
+	margin: 20px 20px 10px;
+	text-align: center;
+}

@@ -42,7 +42,8 @@ startHtmlPage($PATH_TO_ROOT, $alt0links['alt0']['text'], $tagpage);
         &middot; <?php echo pageLink('meta'); ?><br />
         &middot; <?php echo pageLink('tesla'); ?><br />
     </div>
-</div>&#127928;&#129304;&#127900;</div>
+    <div id="guitarhandnotes">&#127928;&#129304;&#127900;</div>
+</div></div>
 <div id="content">
 <?php
     if ($getpage != $usepage) {
