@@ -38,4 +38,5 @@ Zonder humor is de wereld niet te verdragen.
 
 - [Feitig](https://www.feitig.nl/)
 - [NewsThump](https://newsthump.com/)
+- [The Beaverton](https://www.thebeaverton.com/)
 - [The Vremde Mirror](https://vremdemirror.com/)
