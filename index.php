@@ -42,6 +42,7 @@ startHtmlPage($PATH_TO_ROOT, $alt0links['alt0']['text'], $tagpage);
         &middot; <?php echo pageLink('meta'); ?><br />
         &middot; <?php echo pageLink('tesla'); ?><br />
     </div>
+    &#127928;&#129304;&#127900;
 </div></div>
 <div id="content">
 <?php
@@ -86,7 +87,7 @@ $pension = new DateTime("2040-06-19");
 $days    = $pension->diff($today)->format("%a");
 
 echo $days+1; # calculation seems off for some reason?
-?> dag(en) tot mijn pensioen. &#127928;&#129304;&#127900;</div>
+?> dag(en) tot mijn pensioen.</div>
 
 <?php #=========================================================================
 endHtmlPage();
