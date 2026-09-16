@@ -84,6 +84,7 @@ Van alles en nog wat online dat wel eens handig is.
 - [Prikkert](https://prikkert.nl/)
 - [Puter](https://github.com/HeyPuter/puter)
 - [TilburgAns](https://www.tilburgsans.nl/)
+- [wallpapers](https://bjarneo.github.io/wallpapers/)
 - [Wandelroutes](https://www.kempen.be/wandelroutes)
 - [Xikipedia](https://xikipedia.org/)
 
