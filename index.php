@@ -86,7 +86,7 @@ $pension = new DateTime("2040-06-19");
 $days    = $pension->diff($today)->format("%a");
 
 echo $days+1; # calculation seems off for some reason?
-?> dag(en) tot mijn pensioen.</div>
+?> dag(en) tot mijn pensioen. &#127928;&#129304;&#127900;</div>
 
 <?php #=========================================================================
 endHtmlPage();
