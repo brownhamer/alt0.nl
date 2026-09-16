@@ -19,31 +19,33 @@ startHtmlPage($PATH_TO_ROOT, $alt0links['alt0']['text'], $tagpage);
 <h2><?php echo oneLiner(); ?></h2>
 
 <div id="page">
-<div id="sidebar"><div id="sidegray">
-    <div id="navigation">
-        <?php echo textLink('alt0'); ?> &raquo; <?php echo pageLink('hendrik'); ?><br />
-        <hr />
-        Informatie<br />
-        &middot; <?php echo pageLink('nieuws'); ?><br />
-        &middot; <?php echo pageLink('online'); ?><br />
-        &middot; <?php echo pageLink('data'); ?><br />
-        <hr />
-        Technologie<br />
-        &middot; <?php echo pageLink('alternatieven'); ?><br />
-        &middot; <?php echo pageLink('jolla'); ?><br />
-        &middot; <?php echo pageLink('linux'); ?><br />
-        &middot; <?php echo pageLink('mastodon'); ?><br />
-        &middot; <?php echo pageLink('meshcore'); ?><br />
-        &middot; <?php echo pageLink('software'); ?><br />
-        <hr />
-        Over<br />
-        &middot; <?php echo pageLink('privacy'); ?><br />
-        &middot; <?php echo pageLink('ai'); ?><br />
-        &middot; <?php echo pageLink('meta'); ?><br />
-        &middot; <?php echo pageLink('tesla'); ?><br />
+<div id="sidebar">
+    <div id="sidegray">
+        <div id="navigation">
+            <?php echo textLink('alt0'); ?> &raquo; <?php echo pageLink('hendrik'); ?><br />
+            <hr />
+            Informatie<br />
+            &middot; <?php echo pageLink('nieuws'); ?><br />
+            &middot; <?php echo pageLink('online'); ?><br />
+            &middot; <?php echo pageLink('data'); ?><br />
+            <hr />
+            Technologie<br />
+            &middot; <?php echo pageLink('alternatieven'); ?><br />
+            &middot; <?php echo pageLink('jolla'); ?><br />
+            &middot; <?php echo pageLink('linux'); ?><br />
+            &middot; <?php echo pageLink('mastodon'); ?><br />
+            &middot; <?php echo pageLink('meshcore'); ?><br />
+            &middot; <?php echo pageLink('software'); ?><br />
+            <hr />
+            Over<br />
+            &middot; <?php echo pageLink('privacy'); ?><br />
+            &middot; <?php echo pageLink('ai'); ?><br />
+            &middot; <?php echo pageLink('meta'); ?><br />
+            &middot; <?php echo pageLink('tesla'); ?><br />
+        </div>
     </div>
     <div id="guitarhandnotes">&#127928;&#129304;&#127900;</div>
-</div></div>
+</div>
 <div id="content">
 <?php
     if ($getpage != $usepage) {
