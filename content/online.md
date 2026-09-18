@@ -66,6 +66,7 @@ Van alles en nog wat online dat wel eens handig is.
 
 - [Code Europe](https://code.europa.eu/)
 - [David Zinn](https://zinnart.com/)
+- [De Digitale Tuin van Geensnor](https://www.dedigitaletuin.nl/)
 - [DistroSea](https://distrosea.com/)
 - [Emojipedia](https://emojipedia.org/)
 - [F1 HOT or NOT](https://www.f1hotornot.com/)
