@@ -6,6 +6,7 @@ Gedistribueerde sociale media.
 - [EU politicians & officials](https://fedidevs.com/s/MTkz/)
 - [Fediverse Observer](https://fediverse.observer/)
 - [fediverse.info](https://fediverse.info/)
+- [Leave X](https://leavex.eu/)
 - [Mastodon Starter Pack Directory](https://fedidevs.com/starter-packs/)
 - [Mastodon.nl](https://mastodon.nl/explore)
 - [Media in the Fediverse](https://fingolas.eu/fediverse/overview.html)
