@@ -82,6 +82,7 @@ Van alles en nog wat online dat wel eens handig is.
 - [Nutteloze Borden](https://www.nuttelozeborden.be/)
 - [Open With](https://www.openwith.org/)
 - [Partij voor de Dieren](https://www.partijvoordedieren.nl/)
+- [PikaPods](https://www.pikapods.com/)
 - [Prikkert](https://prikkert.nl/)
 - [Puter](https://github.com/HeyPuter/puter)
 - [TilburgAns](https://www.tilburgsans.nl/)
