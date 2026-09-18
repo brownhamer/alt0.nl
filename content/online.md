@@ -76,6 +76,7 @@ Van alles en nog wat online dat wel eens handig is.
 - [Galgo Project](https://galgoproject.nl/)
 - [Iconify](https://icon-sets.iconify.design/)
 - [Iconmonstr](https://iconmonstr.com/)
+- [Is it really foss?](https://isitreallyfoss.com/)
 - [LibreSpeed](https://librespeed.org/)
 - [Museum of Lost Sounds](https://bigsoundbank.com/museumofsounds/)
 - [NEMO Kennislink](https://www.nemokennislink.nl/)
