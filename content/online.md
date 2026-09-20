@@ -48,6 +48,7 @@ Inspirerende artiesten.
 - [Bradley Hall](https://www.patreon.com/bradleyhallguitar)
 - [Jared Dines](https://www.youtube.com/user/th3ycharg3)
 - [Pete Cottrell](https://www.youtube.com/user/peteplaysmusic)
+- [Rabea Massaad](https://www.youtube.com/@RabeaMassaad)
 - [Rob Scallon](https://www.youtube.com/user/robs70986987)
 
 ## Muziek
