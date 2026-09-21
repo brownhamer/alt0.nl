@@ -70,6 +70,7 @@ Van alles en nog wat online dat wel eens handig is.
 - [De Digitale Tuin van Geensnor](https://www.dedigitaletuin.nl/)
 - [DistroSea](https://distrosea.com/)
 - [Emojipedia](https://emojipedia.org/)
+- [EU Age Verification Blueprint](https://ageverification.dev/)
 - [F1 HOT or NOT](https://www.f1hotornot.com/)
 - [feedle](https://feedle.world/)
 - [Firefox Profilemaker](https://ffprofile.com/)
