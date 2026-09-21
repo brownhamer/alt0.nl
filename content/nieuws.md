@@ -7,6 +7,7 @@ Diverse (extra) nieuws gerelateerde sites, zie ook [ALT0LINK_alt0].
 - [EOS Wetenschap](https://www.eoswetenschap.eu/)
 - [New Scientist](https://www.newscientist.com/)
 - [NL Times](https://nltimes.nl/)
+- [noyb news](https://noyb.eu/en/news)
 - [Nu.nl](https://nu.nl/)
 - [Rechtspraak](https://www.rechtspraak.nl/Nieuwsoverzicht)
 - [Reporters Online](https://reportersonline.nl/)
