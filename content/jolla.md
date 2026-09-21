@@ -123,9 +123,10 @@ Niet direct voor mij, ziet er prima uit van zichzelf.
 Ondertussen ben ik her en der verzoeken aan het indienen voor native Sailfish OS versies van apps.
 Zeer waarschijnlijk zijn de meeste, zo niet alle, zonder success, maar toch.
 
-- [Ente Auth](https://ente.com/auth/) &raquo; via mail aan [support@ente.com](mailto:support@ente.com)
+- [Ente Auth](https://ente.com/auth/) &raquo; via [mail]](mailto:support@ente.com)
 - [Firefox Focus](https://www.firefox.com/en-US/mobile/focus/) &raquo; via [Mozilla Connect](https://connect.mozilla.org/t5/ideas/sailfish-os-version-of-firefox-focus/idi-p/138881)
 - [HERE WeGo](https://wego.here.com/) &raquo; via [contact form](https://www.here.com/contact)
+- [Moshidon](https://lucasggamerm.github.io/moshidon/) &raquo; via [GitHub](https://github.com/LucasGGamerM/moshidon/issues/704)
 - [Nextcloud Notes](https://apps.nextcloud.com/apps/notes) &raquo; via [GitHub](https://github.com/nextcloud/notes-android/issues/3360)
 - [Super Productivity](https://super-productivity.com/) &raquo; via [GitHub](https://github.com/super-productivity/super-productivity/issues/10187)
 
