@@ -10,7 +10,7 @@ Installatie voorkeur: [Jolla Store](https://docs.sailfishos.org/Support/Help_Art
 
 - 2FA &raquo; [Ente Auth](https://ente.io/auth/) &raquo; via Android App support vanaf [F-Droid](https://f-droid.org/en/packages/io.ente.auth/).
 - Agenda &raquo; [NextCloud Calendar](https://apps.nextcloud.com/apps/calendar) &raquo; native integratie.
-- Browser &raquo; [Atlantic Browser](https://github.com/SpecSierra/atlantic-browser) &raquo; via [OpenRepos](https://openrepos.net/content/mrbn100ful/atlantic-browser).
+- Browser &raquo; [Firefox Focus](https://www.firefox.com/en-US/mobile/focus/) &raquo; via Android App support vanaf Aurora.
 - Cloud opslag &raquo; [NextCloud](https://nextcloud.com) &raquo; native integratie.
 - Contacten &raquo; [NextCloud Contacts](https://github.com/nextcloud/contacts) &raquo; native integratie.
 - Mail &raquo; native mail client.
