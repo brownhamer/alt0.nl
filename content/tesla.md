@@ -8,6 +8,7 @@ Alleen jammer dat de baas gaandeweg wat minder prettig is geworden en bijzondere
 - [Denemarken: bijna de helft Tesla Model Y afgekeurd](https://www.dagelijksauto.nl/autonieuws/denemarken-bijna-de-helft-tesla-model-y-afgekeurd/)
 - [Deze Tesla gaat het vaakst stuk van alle geteste autos in de laatste tien jaar](https://www.bright.nl/nieuws/1718186/deze-tesla-gaat-het-vaakst-stuk-van-alle-geteste-auto-s-in-de-laatste-tien-jaar.html)
 - [How Self-Driving Cars will Destroy Cities (and what to do about it)](https://youtu.be/040ejWnFkj0?si=p8-gtRIRx-siUOtN)
+- [How Tesla Cooked and Then Lost Norway](https://www.flyingpenguin.com/how-tesla-cooked-and-then-lost-norway/)
 - [Keurings­dien­sten slaan alarm: populair­ste elektri­sche auto massaal afgekeurd. Wat is er aan de hand en wat kan je doen?](https://www.hln.be/mobiliteit/keuringsdiensten-slaan-alarm-populairste-elektrische-auto-massaal-afgekeurd-wat-is-er-aan-de-hand-en-wat-kan-je-doen~a23a3bf0c/)
 - [List of predictions for autonomous Tesla vehicles by Elon Musk](https://en.wikipedia.org/wiki/List_of_predictions_for_autonomous_Tesla_vehicles_by_Elon_Musk)
 - [Major FSD issue](https://teslamotorsclub.com/tmc/threads/major-fsd-issue.344805/)
