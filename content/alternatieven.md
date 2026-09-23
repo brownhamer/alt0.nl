@@ -98,6 +98,7 @@ Overzichten en lijsten van Big Tech alternatieven.
 - [Open Source Software Library](https://www.linuxassociation.ca/library.php)
 - [Opt out of global surveillance](https://prism-break.org/en/)
 - [Self-Hosted Software](https://selfh.st/apps/)
+- [Switch-to.eu](https://www.switch-to.eu/en)
 - [switching.software](https://switching.software/)
 - [Tech Origin](https://fingolas.eu/MyTech/)
 - [Weg met Big Tech](https://www.dedigitaletuin.nl/soft-en-hardware/big-tech-weg/)
