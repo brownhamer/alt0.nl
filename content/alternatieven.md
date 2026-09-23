@@ -82,6 +82,7 @@ Overzichten en lijsten van Big Tech alternatieven.
 - [Dutch Alternatives Landscape](https://dutch-alternatives.nl/)
 - [Ethical Alternatives](https://ethical.net/resources/)
 - [EU Cloud](https://www.eucloud.tech/)
+- [EU Pedia](https://www.eupedia.com/forum/threads/%F0%9F%87%AA%F0%9F%87%BA-european-alternatives-to-american-apps-software.46070/)
 - [EU Tech Map](https://europeantechmap.eu/)
 - [EUPL](https://interoperable-europe.ec.europa.eu/collection/eupl)
 - [Euronomy](https://euronomy.eu/)
