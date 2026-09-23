@@ -109,6 +109,7 @@ Het gaat daarbij niet over verbergen, maar over veiligheid van jouw persoonlijke
 - [Mediatoezichthouder wil regels tegen 'antidemocratische algoritmes'](https://tweakers.net/nieuws/247968/mediatoezichthouder-wil-regels-tegen-antidemocratische-algoritmes.html)
 - [Meta - FB, Insta, WhatsApp - will read your DMs and AI chats, rolling out from Dec](https://www.thecanary.co/skwawkbox/2025/11/07/meta-ai-chats/)
 - [Meta AI-app bevat code voor functie die gezichten kan herkennen via Meta-bril](https://tweakers.net/nieuws/248780/meta-ai-app-bevat-code-voor-functie-die-gezichten-kan-herkennen-via-meta-bril.html)
+- [Meta AI builds detailed profiles of children from years of family posts](https://www.malwarebytes.com/blog/family-and-parenting/2026/09/meta-ai-builds-detailed-profiles-of-children-from-years-of-family-posts)
 - [Meta gaat muisbewegingen en toetsaanslagen werknemers voor AI-training gebruiken](https://tweakers.net/nieuws/247060/meta-gaat-muisbewegingen-en-toetsaanslagen-werknemers-voor-ai-training-gebruiken.html)
 - [Meta sued over alleged facial recognition training for smart glasses](https://www.biometricupdate.com/202609/meta-sued-over-alleged-facial-recognition-training-for-smart-glasses)
 - [Microsoft admits Windows 11 has a GDID tracker with no off switch, first documented publicly in an FBI hacker complaint](https://www.windowslatest.com/2026/07/10/you-cant-fully-disable-microsofts-gdid-windows-11-tracker-but-these-settings-limit-what-it-captures/)

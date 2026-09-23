@@ -33,6 +33,7 @@ En ja, er zijn [ALT0PAGE_alternatieven].
 - [Met nieuwe Meta AI-functie kan iedereen plaatjes maken met jouw Instagram-foto](https://www.nu.nl/tech/6402668/met-nieuwe-meta-ai-functie-kan-iedereen-plaatjes-maken-met-jouw-instagram-foto.html)
 - [Meta - FB, Insta, WhatsApp - will read your DMs and AI chats, rolling out from Dec](https://www.thecanary.co/skwawkbox/2025/11/07/meta-ai-chats/)
 - [Meta AI-app bevat code voor functie die gezichten kan herkennen via Meta-bril](https://tweakers.net/nieuws/248780/meta-ai-app-bevat-code-voor-functie-die-gezichten-kan-herkennen-via-meta-bril.html)
+- [Meta AI builds detailed profiles of children from years of family posts](https://www.malwarebytes.com/blog/family-and-parenting/2026/09/meta-ai-builds-detailed-profiles-of-children-from-years-of-family-posts)
 - [Meta and TikTok let harmful content rise after evidence outrage drove engagement - whistleblowers](https://www.bbc.com/news/articles/cqj9kgxqjwjo)
 - [Meta en Google zijn aansprakelijk voor schade door verslaving aan sociale media](https://tweakers.net/nieuws/246140/meta-en-google-zijn-aansprakelijk-voor-schade-door-verslaving-aan-sociale-media.html)
 - [Meta gaat muisbewegingen en toetsaanslagen werknemers voor AI-training gebruiken](https://tweakers.net/nieuws/247060/meta-gaat-muisbewegingen-en-toetsaanslagen-werknemers-voor-ai-training-gebruiken.html)

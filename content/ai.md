@@ -211,6 +211,7 @@ Echter de diverse LLM gebaseerde initiatieven die vanuit Big Tech gepusht worden
 - [Measuring the Impact of Early-2025 AI on Experienced Open-Source Developer Productivity](https://metr.org/blog/2025-07-10-early-2025-ai-experienced-os-dev-study/)
 - [Met AI kan de macht bij een kleine groep terechtkomen](https://www.eoswetenschap.eu/technologie/met-ai-kan-de-macht-bij-een-kleine-groep-terechtkomen)
 - [Meta AI-app bevat code voor functie die gezichten kan herkennen via Meta-bril](https://tweakers.net/nieuws/248780/meta-ai-app-bevat-code-voor-functie-die-gezichten-kan-herkennen-via-meta-bril.html)
+- [Meta AI builds detailed profiles of children from years of family posts](https://www.malwarebytes.com/blog/family-and-parenting/2026/09/meta-ai-builds-detailed-profiles-of-children-from-years-of-family-posts)
 - [Meta sued over alleged facial recognition training for smart glasses](https://www.biometricupdate.com/202609/meta-sued-over-alleged-facial-recognition-training-for-smart-glasses)
 - [Microsoft gaat licentiekosten rekenen voor AI-agents, net als voor gebruikers](https://tweakers.net/nieuws/245370/microsoft-gaat-licentiekosten-rekenen-voor-ai-agents-net-als-voor-gebruikers.html)
 - [Microsoft reports expose AI's cost problem: The tech is more expensive than paying human employees](https://fortune.com/2026/05/22/microsoft-ai-cost-problem-tokens-agents/)
