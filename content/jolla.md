@@ -129,6 +129,8 @@ Zeer waarschijnlijk zijn de meeste, zo niet alle, zonder success, maar toch.
   &raquo; eerste reacie _"Thanks for submitting an idea to the Mozilla Connect community! Your idea is now open to votes (aka kudos) and comments."_
 - [HERE WeGo](https://wego.here.com/) &raquo; via [contact form](https://www.here.com/contact)
   &raquo; eerste reactie _"At this time, as you know, official versions of the app are only supported by Android and iOS operating systems. I've forwarded your request to the team, though, so that they are aware, but I don't know if this is something they could consider for quite some time."_
+- [Its-me](https://www.itsme-id.com/nl-be/) &raquo; va [contact form](https://support.itsme-id.com)
+  &raquo; hier is door anderen ook [al om gevraagd](https://forum.sailfishos.org/t/belgian-sailfish-os-users/28955/104), maar hoe meer mensen dit vragen, hoe groter de kans lijkt me.
 - [Moshidon](https://lucasggamerm.github.io/moshidon/) &raquo; via [GitHub](https://github.com/LucasGGamerM/moshidon/issues/704)
 - [Nextcloud Notes](https://apps.nextcloud.com/apps/notes) &raquo; via [GitHub](https://github.com/nextcloud/notes-android/issues/3360)
 - [Super Productivity](https://super-productivity.com/) &raquo; via [GitHub](https://github.com/super-productivity/super-productivity/issues/10187)
