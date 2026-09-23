@@ -79,6 +79,7 @@ Overzichten en lijsten van Big Tech alternatieven.
 - [Buy European.net](https://buy-european.net/en)
 - [Buy European](https://buyeuropean.io/)
 - [Choose the EU Cloud](https://www.eucloud.tech/)
+- [delightful creative tools](https://codeberg.org/ADHDefy/delightful-creative-tools)
 - [Dutch Alternatives Landscape](https://dutch-alternatives.nl/)
 - [Ethical Alternatives](https://ethical.net/resources/)
 - [EU Cloud](https://www.eucloud.tech/)
