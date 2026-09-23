@@ -22,6 +22,7 @@ Echter de diverse LLM gebaseerde initiatieven die vanuit Big Tech gepusht worden
 - [Loes](https://loes.ai/#how)
 - [Maintaining the love for coding in the time of AI](https://blog.nlnetlabs.nl/maintaining-the-love-for-coding-in-the-time-of-ai/)
 - [No-AI List](https://noai.starlightnet.work/list.html)
+- [NoAiList.org](https://noailist.org/)
 - [On the acceptance of GenAI](https://smallsheds.garden/blog/2026/on-the-acceptance-of-genai/)
 - [Open Source AI](https://opensource.org/ai)
 - [Refusal to Review](https://irisvanrooijcogsci.com/2026/04/08/refusal-to-review/)
