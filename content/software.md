@@ -78,6 +78,7 @@ Zie verder ook [ALT0PAGE_alternatieven] voor wat ik wel gebruik (of overweeg).
 - [SANDYNE](https://sandyne.com/)
 - [scrcpy](https://github.com/Genymobile/scrcpy) &raquo; Handig om je Android telefoon te bedienen vanaf je computer, maar zelf heb ik daar niet echt behoefte aan.
 - [Servo](https://servo.org/) &raquo; Actief in de gaten aan het houden als echt alternatief voor [Firefox](https://www.firefox.com/nl/).
+- [SimpleX](https://simplex.chat/)
 - [Sticky Notes](https://flathub.org/en/apps/com.vixalien.sticky) &raquo; "Pin notes to your desktop".
 - [Tack](https://patrickzedler.com/tack/)
 - [ToS;DR](https://tosdr.org/en)
