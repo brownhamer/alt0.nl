@@ -122,6 +122,7 @@ Niet direct voor mij, ziet er prima uit van zichzelf.
 
 Ondertussen ben ik her en der verzoeken aan het indienen voor native Sailfish OS versies van apps.
 Zeer waarschijnlijk zijn de meeste, zo niet alle, zonder success, maar toch.
+Eveneens [een lijst](https://cryptpad.fr/doc/#/2/doc/edit/COOyLQRDhIgLLatkBc-i5Tek/) gemaakt die mte de community gedeeld is om bij te houden welke apps er al om een SFOS versie is gevraagd.
 
 - [Ente Auth](https://ente.com/auth/) &raquo; via [mail](mailto:support@ente.com)
   &raquo; eerste reactie _"I’ve shared your request for a native Sailfish OS version of Ente Auth with the team for consideration."_
@@ -131,8 +132,10 @@ Zeer waarschijnlijk zijn de meeste, zo niet alle, zonder success, maar toch.
   &raquo; eerste reactie _"At this time, as you know, official versions of the app are only supported by Android and iOS operating systems. I've forwarded your request to the team, though, so that they are aware, but I don't know if this is something they could consider for quite some time."_
 - [Its-me](https://www.itsme-id.com/nl-be/) &raquo; va [contact form](https://support.itsme-id.com)
   &raquo; hier is door anderen ook [al om gevraagd](https://forum.sailfishos.org/t/belgian-sailfish-os-users/28955/104), maar hoe meer mensen dit vragen, hoe groter de kans lijkt me.
+  &raquo; eerste reactie _"Dit is een vraag die heel recent de kopt op begint te steken. We kunnen bevestigen dat het zeker op de radar van ons team zit en ze er actief mee bezig zijn, dus het is zeker iets waar we in de toekomst meer mee willen doen. Meer dan dat kan ik jammer genoeg niet zeggen."_
 - [Moshidon](https://lucasggamerm.github.io/moshidon/) &raquo; via [GitHub](https://github.com/LucasGGamerM/moshidon/issues/704)
 - [MyGov](https://mygov.be/) &raquo; via [contact form](https://bosa.service-now.com/csp?id=bosa_csm_unauthenticated_form&form=dg-vd-my-gov&lang=nl)
+  &raquo; eerste reactie _"Om u zo goed mogelijk te kunnen helpen, zouden wij eerst graag vernemen wat u precies probeert te doen en op welk moment u hierbij vastloopt. Kunt u ons zo concreet mogelijk beschrijven welke stappen u uitvoert en wat er vervolgens gebeurt?"_
 - [Nextcloud Notes](https://apps.nextcloud.com/apps/notes) &raquo; via [GitHub](https://github.com/nextcloud/notes-android/issues/3360)
 - [Super Productivity](https://super-productivity.com/) &raquo; via [GitHub](https://github.com/super-productivity/super-productivity/issues/10187)
 
