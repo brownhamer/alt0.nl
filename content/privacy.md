@@ -27,6 +27,7 @@ Het gaat daarbij niet over verbergen, maar over veiligheid van jouw persoonlijke
 - [BrowserLeaks.com](https://browserleaks.com/)
 - [Cover Your Tracks](https://coveryourtracks.eff.org/)
 - [Daily Dark Web - Data Breaches](https://dailydarkweb.net/data-breaches/)
+- [DataOwn](https://dataown.nl/)
 - [Digitale Weerbaarheid](https://www.digitale-weerbaarheid.nl/)
 - [Exodus Privacy](https://exodus-privacy.eu.org/en/)
 - [Fairphone 6 met /e/ OS](https://tweakers.net/reviews/14416/fairphone-6-met-e-os-vrijwel-moeiteloos-weg-van-big-tech.html)
