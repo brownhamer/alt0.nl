@@ -37,6 +37,7 @@ En ja, er zijn [ALT0PAGE_alternatieven].
 - [Meta and TikTok let harmful content rise after evidence outrage drove engagement - whistleblowers](https://www.bbc.com/news/articles/cqj9kgxqjwjo)
 - [Meta en Google zijn aansprakelijk voor schade door verslaving aan sociale media](https://tweakers.net/nieuws/246140/meta-en-google-zijn-aansprakelijk-voor-schade-door-verslaving-aan-sociale-media.html)
 - [Meta gaat muisbewegingen en toetsaanslagen werknemers voor AI-training gebruiken](https://tweakers.net/nieuws/247060/meta-gaat-muisbewegingen-en-toetsaanslagen-werknemers-voor-ai-training-gebruiken.html)
+- [Meta haalt satirische video offline waarin Roel Maalderink kritiek uit op de videobrillen van het techbedrijf](https://www.ad.nl/tech/meta-haalt-satirische-video-offline-waarin-roel-maalderink-kritiek-uit-op-de-videobrillen-van-het-techbedrijf~a17b3e49/)
 - [Meta had vanaf september inzage in surfgedrag van Android-gebruikers](https://tweakers.net/nieuws/235760/meta-had-vanaf-september-inzage-in-surfgedrag-van-android-gebruikers.html)
 - [Meta handhaafde advertentieregels te weinig tijdens verkiezingen](https://ibestuur.nl/digitale-toekomst-eu/eu-wetgeving/meta-handhaafde-advertentieregels-te-weinig)
 - [Meta Is Facing $1.4 Trillion In State Lawsuits Over Social Media Addiction](https://www.engadget.com/2209332/meta-is-facing-1-4-trillion-in-state-lawsuits-over-social-media-addiction/)
