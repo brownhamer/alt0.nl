@@ -60,6 +60,7 @@ Zie verder ook [ALT0PAGE_alternatieven] voor wat ik wel gebruik (of overweeg).
 - [mosa.cloud](https://mosa.cloud/) &raquo; Nog in beta en waarschijnlijk meer dan ik nodig heb.
 - [Nextcloud Native](https://github.com/Obiente/nc-native)
 - [Ninja](https://ninja-build.org/)
+- [Nordstjernen](https://nordstjernen.org/)
 - [Notepad4](https://github.com/zufuliu/notepad4)
 - [Notesnook](https://notesnook.com/) &raquo; Prima, meer dan ik nodig had, [Nextcloud Notes](https://apps.nextcloud.com/apps/notes) is goed genoeg (en gewoon [Markdown](https://en.wikipedia.org/wiki/Markdown) gebaseerd).
 - [OneKeePass](https://onekeepass.com/) &raquo; Misschien, misschien.
