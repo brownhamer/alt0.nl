@@ -88,6 +88,7 @@ Van alles en nog wat online dat wel eens handig is.
 - [PikaPods](https://www.pikapods.com/)
 - [Prikkert](https://prikkert.nl/)
 - [Puter](https://github.com/HeyPuter/puter)
+- [Snelle.Tools](https://snelle.tools)
 - [TilburgAns](https://www.tilburgsans.nl/)
 - [wallpapers](https://bjarneo.github.io/wallpapers/)
 - [Wandelroutes](https://www.kempen.be/wandelroutes)
