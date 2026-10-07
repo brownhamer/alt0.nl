@@ -54,4 +54,5 @@ Diverse sites die inzicht geven in meerdere soorten informatie op basis van open
 
 ## Zo zit het
 
+- [Traffic Speed Versus Roadway Capacity](https://www.vtpi.org/tsrc.pdf)
 - [Weak Gun Laws Are Driving Increases in Violent Crime](https://www.americanprogress.org/article/fact-sheet-weak-gun-laws-are-driving-increases-in-violent-crime/)
