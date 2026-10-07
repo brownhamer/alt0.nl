@@ -14,6 +14,7 @@ En ja, er zijn [ALT0PAGE_alternatieven].
 - [De slimme bril is terug, en je privacy staat op het spel](https://onlineveilig.eset.com/de-slimme-bril-is-terug-en-je-privacy-staat-op-het-spel/)
 - [Dit gebeurt er als je ingaat op een nep-advertentie](https://www.youtube.com/watch?v=F8RH9XYCsjk)
 - [Er waait een nieuwe wind op Facebook en Instagram: 'VS is conservatiever geworden'](https://nos.nl/artikel/2550996-er-waait-een-nieuwe-wind-op-facebook-en-instagram-vs-is-conservatiever-geworden)
+- [Facebook Blocks Lula’s Campaign Ads Just Days Before Brazil Election](https://novaramedia.com/2026/09/28/facebook-blocks-lulas-campaign-ads-just-days-before-brazil-election/)
 - [Facebook is paying controversial creators to produce rage-bait content](https://www.abc.net.au/news/2026-08-06/ragebait-how-facebook-is-paying-controversial-creators/106940696)
 - [Facebook schandalen](https://www.dedigitaletuin.nl/overig/facebook-schandalen/) (165+)
 - [Facebook, Insta en WhatsApp hebben meer illegale ads na ingrijpen Zuckerberg](https://tweakers.net/nieuws/242656/facebook-insta-en-whatsapp-hebben-meer-illegale-ads-na-ingrijpen-zuckerberg.html)
