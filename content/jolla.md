@@ -59,6 +59,7 @@ Installatie voorkeur: [Jolla Store](https://docs.sailfishos.org/Support/Help_Art
 - [Harbour, Storeman, Chum, Android apps, Whisperfish?](https://www.rubdos.be/2026/08/01/my-sailfish-os-journey-what-they-should-ve-told-you.html)
 - [How I use SailfishOS](https://scarpino.dev/posts/how-i-use-sailfishos.html)
 - [My Sailfish OS Journey](https://www.rubdos.be/2026/04/15/my-sailfish-os-journey.html)
+- [PatchWork3d](https://www.patchwork3d.de/sailfish-os-249-en) met [important apps and patches](https://www.patchwork3d.de/important-apps-and-patches-250-en)
 
 ### Patchmanager tweaks
 
@@ -77,6 +78,7 @@ Zelf gebruik ik de vogende.
 - Android to [Sailfish OS equivalents](https://forum.sailfishos.org/t/list-of-android-sailfish-os-applications/6866) - list 1
 - Android to [Sailfish OS equivalents](https://github.com/sailfishos-community/equivalentsinsailfish) - list 2
 - [Aurora](https://auroraoss.com/)
+- [Banking apps on Sailfish OS](https://forum.sailfishos.org/t/banking-apps-on-sailfish-os/18438)
 - [microG GmsCore](https://github.com/microg/GmsCore/wiki) and [installation guide](https://forum.sailfishos.org/t/installing-microg-on-sailfish-os/14375)
 - Sailfish OS [Android Application Settings](https://docs.sailfishos.org/Support/Help_Articles/Android_App_Support/Android_Application_Settings/#accessing-the-common-android-settings)
 
