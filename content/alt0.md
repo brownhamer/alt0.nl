@@ -14,9 +14,9 @@ Meer info is te vinden op de site van de band zelf [ALT0LINK_bob].
 
 | Tech | Nieuws | Gitaar |
 | --- | --- | --- |
-| [Tweakers](https://tweakers.net/) | [AP News](https://apnews.com/) | [Neural DSP](https://neuraldsp.com/news) |
-| [Security.nl](https://www.security.nl/) | [NOS](https://nos.nl/nieuws/laatste) | [Thomann](https://www.thomann.nl/blog/) |
-| [Work Chronicles](https://workchronicles.substack.com/archive) | [Omroep Brabant](https://www.omroepbrabant.nl/) | |
+| [Tweakers](https://tweakers.net/) | [AP News](https://apnews.com/) | [NDSP forum](https://unity.neuraldsp.com/latest) |
+| [Security.nl](https://www.security.nl/) | [NOS](https://nos.nl/nieuws/laatste) | [Neural DSP](https://neuraldsp.com/news) |
+| [Work Chronicles](https://workchronicles.substack.com/archive) | [Omroep Brabant](https://www.omroepbrabant.nl/) | [Thomann](https://www.thomann.nl/blog/) |
 | [It's Foss](https://itsfoss.com/news/) | [Veldhoven](https://studio040.nl/nieuws/veldhoven) | |
 | [TWiG](https://thisweek.gnome.org/) | [Goirle](https://www.omroeptilburg.nl/regio/goirle/) | |
 | [Flathub](https://flathub.org/en/apps/collection/recently-added/1) | [VRT](https://www.vrt.be/vrtnws/nl/) | |
