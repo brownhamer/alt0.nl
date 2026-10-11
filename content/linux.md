@@ -71,13 +71,17 @@ Naast bovengenoemde applicaties zijn er diverse andere handige programma's die i
 
 ## GNOME Shell Extensions
 
-- [Backdrop](https://extensions.gnome.org/extension/10391/backdrop/)
+### Gebruikt
+
+- [Context + Window Title](https://extensions.gnome.org/extension/10114/context-window-title/)
+- [Lock sreen background](https://extensions.gnome.org/extension/1476/unlock-dialog-background/)
+- [Show External IP](https://extensions.gnome.org/extension/5368/show-external-ip-thisipcancyou/)
+- [Workspace Number Indicator](https://extensions.gnome.org/extension/9809/workspace-number-indicator/)
+
+### Overig
+
 - [Blur my Shell](https://extensions.gnome.org/extension/3193/blur-my-shell/)
+- [Customize Clock on Lock Screen](https://extensions.gnome.org/extension/4663/customize-clock-on-lock-screen/)
 - [Kiwi (is not Apple)](https://extensions.gnome.org/extension/8276/kiwi-is-not-apple/)
 - [Kiwi Menu](https://extensions.gnome.org/extension/8697/kiwi-menu/)
-- [Running Apps List](https://extensions.gnome.org/extension/5832/running-apps-list/)
-- [Show External IP](https://extensions.gnome.org/extension/5368/show-external-ip-thisipcancyou/)
-- [Simple Taskbar](https://extensions.gnome.org/extension/10448/simple-taskbar/)
 - [Wallshuffle](https://extensions.gnome.org/extension/10449/wallshuffle/)
-- [Window Gap](https://extensions.gnome.org/extension/10450/window-gap/)
-- [Workspace Number Indicator](https://extensions.gnome.org/extension/9809/workspace-number-indicator/)
