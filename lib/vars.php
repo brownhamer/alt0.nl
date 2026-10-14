@@ -6,6 +6,7 @@ $HOME = onLocalhost() ? 'http://localhost:8000' : 'https://alt0.nl';
 $alt0pages = [
     'ai' => "AI",
     'alternatieven' => "Alternatieven",
+    'android' => "Android",
     'data' => "Data",
     'hendrik' => "Hendrik",
     'jolla' => "Jolla",
