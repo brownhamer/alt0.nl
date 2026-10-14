@@ -152,7 +152,7 @@ Mijn tablet draait nog wel op Android, maar ook daar probeer ik (open) alternati
 
 ### Android alternatieven
 
-- Agenda: &raquo; [NextCloud Calendar](https://apps.nextcloud.com/apps/calendar) &raquo; via [CalDAV](https://en.wikipedia.org/wiki/CalDAV) plus [DAVx5](https://www.davx5.com/) en [Etar Calendar](https://github.com/Etar-Group/Etar-Calendar) &raquo;  op Android.
+- Agenda: &raquo; [NextCloud Calendar](https://apps.nextcloud.com/apps/calendar) &raquo; via [CalDAV](https://en.wikipedia.org/wiki/CalDAV) plus [DAVx5](https://www.davx5.com/) en [Calendula](https://jeanlucmakiola.de/work/calendula/) &raquo;  op Android.
 - Browser &raquo; [Firefox Focus](https://www.firefox.com/nl/browsers/mobile/focus/) &raquo; op Android.
 - Contacten: &raquo; [NextCloud Contacts](https://github.com/nextcloud/contacts) &raquo;  via [CardDAV](https://en.wikipedia.org/wiki/CardDAV) plus [DAVx5](https://www.davx5.com/) voor [Fossify Contacts](https://github.com/FossifyOrg/Contacts) &raquo;  op Android.
 - Keyboard &raquo; [FUTO Keyboard](https://keyboard.futo.org/) &raquo;  op Android.
