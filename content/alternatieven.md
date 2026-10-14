@@ -6,8 +6,8 @@ Maar ja, als ik dan over ben blijft alsnog de vraag [zijn we al autonoom?](https
 ## Telefoon
 
 Een grote stap in minder big tech is afstappen van de 2 grote bedrijven die de mobiele telefoon wereld domineren, Google met Android en Appel met iOS.
-Sinds kort in het bezit van een [ALT0PAGE_jolla] telefoon die draait op [Sailfish OS](https://sailfishos.org/).
-Tot nog toe bevalt het eigenlijk wel, het werkt soms net wat anders, maar dat is prima.
+Ik was overgestapt naar een [ALT0PAGE_jolla] telefoon die draait op [Sailfish OS](https://sailfishos.org/).
+Uiteindelijk ben ik toch weer terug naar een [ALT0PAGE_android] telefoon.
 
 ## PC/laptop
 

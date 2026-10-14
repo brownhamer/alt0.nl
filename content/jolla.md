@@ -1,7 +1,7 @@
 # Jolla
 
 Ik was graag overgestapt op een [Jolla](https://commerce.jolla.com/) telefoon met [Sailfish OS](https://sailfishos.org/).
-Daar ben ik toch weer mee gestopt, vanwege een aantal redenen, niet relevant hier.
+Daar ben ik toch weer mee gestopt, vanwege een aantal redenen, niet relevant hier, en gebruik dus weer een [ALT0PAGE_android] telefoon.
 Ik laat de informatie hier nog wel staan, mogelijk voor later.
 
 ## App winkels
