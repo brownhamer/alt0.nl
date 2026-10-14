@@ -60,6 +60,7 @@ Zie ook de lijst met alternatieve [ALT0PAGE_software].
 - [The Good Cloud](https://thegood.cloud/individuals/) &raquo; Had al gekozen voor [oCloud](https://ocloud.de/).
 - [Tuta](https://tuta.com/) &raquo; Had al gekozen voor [Posteo](https://posteo.de/en).
 - [Uruky](https://uruky.com/) &raquo; [DuckDuckGo](https://noai.duckduckgo.com/) bevalt me nog prima op dit moment, maar toch.
+- [Vela Maps](https://pimpinpumpkin.github.io/Vela/) &raquo; Ziet er veelbelovend uit, maar enkel via eigen F-Droid achief beschikbaar, dat sla ik even over.
 - [Volla](https://volla.online/en/index.php) &raquo; Qua naam bijna hetzelfde, maar dus gekozen voor [ALT0PAGE_jolla].
 - [Volla Tablet](https://volla.online/de/shop/volla-tablet/) &raquo; Als telefoon gekozen voor [ALT0PAGE_jolla], maar Volla is een van de weinige leveranciers van een Linux tablet.
 - [zeitkapsl](https://zeitkapsl.eu/en/) &raquo; Bij voorkeur heb ik mijn foto's lokaal staan, vooralsnog gekozen voor [Nextcloud](https://nextcloud.com/) via [oCloud](https://ocloud.de/).
