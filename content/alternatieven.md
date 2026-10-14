@@ -44,6 +44,7 @@ Hieronder wat keuzes die ik hierin al gemaakt heb.
 Een aantal alternatieven die ik overweeg, of zelfs geprobeerd heb maar die voor mij niet brachten wat ik zocht op dat moment, maar wie weet wel in de toekomst.
 Zie ook de lijst met alternatieve [ALT0PAGE_software].
 
+- [AliasVault](https://www.aliasvault.com/nl) &raquo; Ik denk dat zodra de "Family" optie beschikaar is dat ik overstap vanaf 1Password.
 - [AsteroidOS](https://asteroidos.org/) &raquo; Linux voor smartwatches, alleen ik draag eigenlijk nooit een horloge want dat irriteert me tijdens het gitaar spelen.
 - [Bandcamp](https://bandcamp.com/) &raquo; Misshien als alternatief voor [Spotify](https://open.spotify.com/), ik ben niet van de AI muziek en daar lijkt Spotify toch wel van te zijn de laatste tijd.
 - [Codeberg](https://codeberg.org/) &raquo; Over een tijdje, als alternatief voor [GitHub](https://github.com/), zeker vanwege [Days Without GitHub Incident](https://www.dayswithoutgithubincident.com/), mogelijk met [GitNex](https://gitnex.com/) als client op mobiel en [Gitte](https://codeberg.org/ckruse/Gitte) op de desktop.
