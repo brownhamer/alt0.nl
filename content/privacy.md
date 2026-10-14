@@ -138,6 +138,7 @@ Het gaat daarbij niet over verbergen, maar over veiligheid van jouw persoonlijke
 - [Ruim 60 procent gemeentewebsites deelt illegaal data met Google](https://tweakers.net/nieuws/245784/ruim-60-procent-gemeentewebsites-deelt-illegaal-data-met-google.html?sort=rating-desc&niv=2&mode=nested&page=1)
 - [Seizure of Sally Mann photographs in Texas revives old debates about obscenity and freedom of expression](https://theconversation.com/seizure-of-sally-manns-photographs-in-texas-revives-old-debates-about-obscenity-and-freedom-of-expression-247321)
 - [Smart glasses are 'an invasion of privacy' - Meta's are selling better than ever](https://www.bbc.com/news/articles/cj37z8357e5o)
+- [Spymarks, not Watermarks](https://brand.io/article/spymarks/)
 - [Starlink wijzigt privacy: uw data voedt nu AI](https://itinsights.nl/cybersecurity/starlink-wijzigt-privacy-uw-data-voedt-nu-ai/)
 - [Think of the children](https://en.wikipedia.org/wiki/Think_of_the_children)
 - [Tire pressure sensors are a huge privacy risk](https://boingboing.net/2026/02/27/tire-pressure-sensors-are-a-huge-privacy-risk.html)
