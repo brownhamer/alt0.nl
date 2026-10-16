@@ -1,7 +1,16 @@
 # Jolla
 
 Ik was graag overgestapt op een [Jolla](https://commerce.jolla.com/) telefoon met [Sailfish OS](https://sailfishos.org/).
-Daar ben ik toch weer mee gestopt, vanwege een aantal redenen, niet relevant hier, en gebruik dus weer een [ALT0PAGE_android] telefoon.
+Daar ben ik toch weer mee gestopt, vanwege een aantal redenen.
+Niet alle Android apps werken, dat wist ik, maar met name de Belgische [Itsme](https://www.itsme-id.com/en-nl/), [MyGov](https://mygov.be/) en [KBC](https://www.kbc.be/particulieren/nl.html) zijn wel vervelend in mijn geval.
+Het betekende helaas ook dat ik altijd 2 telefoons nodig had aangezien de Jolla ook niet bruikbaar was voor mijn werk.
+Android navigatie apps werken matig, en [Pure Maps](https://sailfishos-chum.github.io/apps/harbour-pure-maps/) heeft nog een weg te gaan denk ik.
+Unlocken, via de power button, je moet die toch wel vaak 2 keer gebruiken voor het werkt.
+Volume van bluetooth, volume algemeen, heeft maar 1 instelling, misschien dat [Speaker Gain](https://openrepos.net/content/jimknopfiot/speaker-gain) dat oplost.
+Always on display is niet mogelijk, ik wist niet dat ik mijn telefoon zo vaak gebruik om te zien hoe laat het is.
+En dan de foto's die het toestel maakt, die zijn echt niet ok, veel te veel details gaan verloren.
+Ja ook daaraan wordt gewerkt, maar daar heb ik nu niet zo veel aan.
+In ieder geval voorlopig toch maar weer terug naar een [ALT0PAGE_android] telefoon.
 Ik laat de informatie hier nog wel staan, mogelijk voor later.
 
 ## App winkels

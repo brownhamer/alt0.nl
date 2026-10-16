@@ -50,20 +50,19 @@ Zie ook de lijst met alternatieve [ALT0PAGE_software].
 - [Codeberg](https://codeberg.org/) &raquo; Over een tijdje, als alternatief voor [GitHub](https://github.com/), zeker vanwege [Days Without GitHub Incident](https://www.dayswithoutgithubincident.com/), mogelijk met [GitNex](https://gitnex.com/) als client op mobiel en [Gitte](https://codeberg.org/ckruse/Gitte) op de desktop.
 - [elementary OS](https://elementary.io/) &raquo; Qua uiterlijk erg mooi, maar toch gekozen voor [Manjaro](https://manjaro.org/).
 - [Ente Photos](https://ente.io/) &raquo; Bij voorkeur heb ik mijn foto's lokaal staan, vooralsnog gekozen voor [Nextcloud](https://nextcloud.com/) via [oCloud](https://ocloud.de/).
-- [Fairphone](https://www.fairphone.com/nl) &raquo; Nederlands, maar nog wel [Android](https://www.android.com/) gebaseerd, ook als je de [/e/OS](https://e.foundation/e-os/) variant kiest, dus maar gekozen voor de [ALT0PAGE_jolla] telefoon.
+- [Fairphone](https://www.fairphone.com/nl) &raquo; Nederlands, maar nog wel [Android](https://www.android.com/) gebaseerd, ook als je de [/e/OS](https://e.foundation/e-os/) variant kiest.
 - [Commodore Flip-phone](https://commodore.net/callback/) &raquo; Alleen al voor de spelletjes, maar goed dat kan ook met [C64.emu](https://c64emu.com/) voor met name [Morpheus](https://www.c64.com/games/154).
 - [Floorp](https://floorp.app/) &raquo; Voorlopig blijf ik nog redelijk trouw aan [Firefox](https://www.firefox.com/nl/), ben eigenlijk vooral aan het wachten op [Servo](https://servo.org/).
 - [GrapheneOS](https://grapheneos.org/) &raquo; Beter dan [Android](https://www.android.com/), maar toch.
 - [immich](https://immich.app/) &raquo; Bij voorkeur heb ik mijn foto's lokaal staan, vooralsnog gekozen voor [Nextcloud](https://nextcloud.com/) via [oCloud](https://ocloud.de/).
 - [librephone](https://librephone.fsf.org/site/) &raquo; Verre van af, net begonnen zelfs.
-- [postmarketOS](https://postmarketos.org/) &raquo; Gekozen voor de [ALT0PAGE_jolla] die [Sailfish OS](https://sailfishos.org/) gebruikt.
+- [postmarketOS](https://postmarketos.org/) &raquo; Nog niet volwassen genoeg denk ik.
 - [Soverin](https://soverin.com/) &raquo; Had al gekozen voor [Posteo](https://posteo.de/en).
 - [The Good Cloud](https://thegood.cloud/individuals/) &raquo; Had al gekozen voor [oCloud](https://ocloud.de/).
 - [Tuta](https://tuta.com/) &raquo; Had al gekozen voor [Posteo](https://posteo.de/en).
 - [Uruky](https://uruky.com/) &raquo; [DuckDuckGo](https://noai.duckduckgo.com/) bevalt me nog prima op dit moment, maar toch.
 - [Vela Maps](https://pimpinpumpkin.github.io/Vela/) &raquo; Ziet er veelbelovend uit, maar enkel via eigen F-Droid achief beschikbaar, dat sla ik even over.
-- [Volla](https://volla.online/en/index.php) &raquo; Qua naam bijna hetzelfde, maar dus gekozen voor [ALT0PAGE_jolla].
-- [Volla Tablet](https://volla.online/de/shop/volla-tablet/) &raquo; Als telefoon gekozen voor [ALT0PAGE_jolla], maar Volla is een van de weinige leveranciers van een Linux tablet.
+- [Volla](https://volla.online/en/index.php) &raquo; Duits, niet alleen telefoons maar ook [tablets](https://volla.online/de/shop/volla-tablet/), zelfs met Linux.
 - [zeitkapsl](https://zeitkapsl.eu/en/) &raquo; Bij voorkeur heb ik mijn foto's lokaal staan, vooralsnog gekozen voor [Nextcloud](https://nextcloud.com/) via [oCloud](https://ocloud.de/).
 
 ## Lijsten
