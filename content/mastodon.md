@@ -4,6 +4,7 @@ Gedistribueerde sociale media.
 
 - [Eerste collectie Overheid & ICT](https://mastodon.social/collections/117002350369422420)
 - [EU politicians & officials](https://fedidevs.com/s/MTkz/)
+- [FediDB](https://fedidb.com/)
 - [Fediverse Observer](https://fediverse.observer/)
 - [fediverse.info](https://fediverse.info/)
 - [Leave X](https://leavex.eu/)
