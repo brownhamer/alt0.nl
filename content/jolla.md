@@ -2,14 +2,24 @@
 
 Ik was graag overgestapt op een [Jolla](https://commerce.jolla.com/) telefoon met [Sailfish OS](https://sailfishos.org/).
 Daar ben ik toch weer mee gestopt, vanwege een aantal redenen.
+
 Niet alle Android apps werken, dat wist ik, maar met name de Belgische [Itsme](https://www.itsme-id.com/en-nl/), [MyGov](https://mygov.be/) en [KBC](https://www.kbc.be/particulieren/nl.html) zijn wel vervelend in mijn geval.
 Het betekende helaas ook dat ik altijd 2 telefoons nodig had aangezien de Jolla ook niet bruikbaar was voor mijn werk.
 Android navigatie apps werken matig, en [Pure Maps](https://sailfishos-chum.github.io/apps/harbour-pure-maps/) heeft nog een weg te gaan denk ik.
 Unlocken, via de power button, je moet die toch wel vaak 2 keer gebruiken voor het werkt.
 Volume van bluetooth, volume algemeen, heeft maar 1 instelling, misschien dat [Speaker Gain](https://openrepos.net/content/jimknopfiot/speaker-gain) dat oplost.
 Always on display is niet mogelijk, ik wist niet dat ik mijn telefoon zo vaak gebruik om te zien hoe laat het is.
-En dan de foto's die het toestel maakt, die zijn echt niet ok, veel te veel details gaan verloren.
+Er komen de laatste tijd veel apps bij voor SFOS, maar helaas vooral vibe-coded slop.
+En dan de foto's die het toestel maakt, die zijn echt niet OK, veel te veel details gaan verloren.
 Ja ook daaraan wordt gewerkt, maar daar heb ik nu niet zo veel aan.
+
+Wat ik dan weer wel ga missen zijn de UI, die werkt toch wel erg prettig.
+Gebruik van F-Droid gaat helaas niet meer, gelockt door mijn werkgever op Android.
+Het AMOLED scherm vond ik erg prettig, heel heldere levendige kleuren.
+De privacy switch, hoewel ook hier nog wat in mist, zoals het hiermee ook meteen aanzetten van DnD.
+De prima integratie met Nextcloud, zeker samen met [Ferry Sync](https://github.com/Dominik-h-hub/harbour-ferry).
+[Hosts-block](https://framagit.org/ohnonot/sfos/-/tree/master/hosts-block?ref_type=heads), gewoon geen reclame meer op je telefoon.
+
 In ieder geval voorlopig toch maar weer terug naar een [ALT0PAGE_android] telefoon.
 Ik laat de informatie hier nog wel staan, mogelijk voor later.
 
