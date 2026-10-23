@@ -29,3 +29,4 @@ Tja, ook X, het oude Twitter, is niet altijd bepaald een fijn bedrijf.
 Maar wat wil je met zo'n eigenaar.
 
 - [Brusselse rechter geeft X 24.000 euro boete na online laten verkrachtingsvideo](https://tweakers.net/nieuws/246432/brusselse-rechter-geeft-x-24000-euro-boete-na-online-laten-verkrachtingsvideo.html)
+- [Putin’s henchmen helped Musk to acquire Twitter](https://www.thelondoneconomic.com/news/putins-henchmen-helped-musk-to-acquire-twitter-reports-381664/)
