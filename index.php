@@ -92,7 +92,7 @@ $days    = $pension->diff($today)->format("%a");
 echo $days+1; # calculation seems off for some reason?
 ?> dag(en) tot mijn pensioen.</div>
 
-<!-- <?php echo $PHP_VERSION; ?> -->
+<!-- <?php echo PHP_VERSION; ?> -->
 
 <?php #=========================================================================
 endHtmlPage();
