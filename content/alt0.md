@@ -31,6 +31,7 @@ Meer info is te vinden op de site van de band zelf [ALT0LINK_bob].
 Simpel lijstje met top albums, met bijna alleen maar goede muziek er op.
 
 * 1983-09-23 - Mötley Crüe - Shout At The Devil
+* 1987-06-22 - White Lion - Pride
 * 1988-05-03 - Queensrÿche - Operation Mindcrime
 * 1988-09-13 - Jeff Healy - See The Light
 * 1989-01-24 - Skid Row - Skid Row
