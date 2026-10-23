@@ -12,16 +12,16 @@ Meer info is te vinden op de site van de band zelf [ALT0LINK_bob].
 
 ## Favorieten
 
-| Tech | Nieuws | Gitaar |
-| --- | --- | --- |
-| [Tweakers](https://tweakers.net/) | [AP News](https://apnews.com/) | [NDSP forum](https://unity.neuraldsp.com/latest) |
-| [Security.nl](https://www.security.nl/) | [NOS](https://nos.nl/nieuws/laatste) | [Neural DSP](https://neuraldsp.com/news) |
-| [Work Chronicles](https://workchronicles.substack.com/archive) | [Omroep Brabant](https://www.omroepbrabant.nl/) | [Thomann](https://www.thomann.nl/blog/) |
-| [It's Foss](https://itsfoss.com/news/) | [Veldhoven](https://studio040.nl/nieuws/veldhoven) | |
-| [TWiG](https://thisweek.gnome.org/) | [Goirle](https://www.omroeptilburg.nl/regio/goirle/) | |
-| [Flathub](https://flathub.org/en/apps/collection/recently-added/1) | [VRT](https://www.vrt.be/vrtnws/nl/) | |
-| [Linux alternatives](https://alternativeto.net/browse/new-apps/?license=opensource&platform=linux) | [RaWePo](https://rawepo.be/) | |
-| [Android alternatives](https://alternativeto.net/browse/new-apps/?license=opensource&platform=android) | [Scientias](https://scientias.nl/) | |
-| | [De Speld](https://speld.nl/) | |
-| | [Nieuwspaal](https://nieuwspaal.nl/) | |
-| | [Trumpact](https://reportersonline.nl/besluiten-trump-impact/) | |
+| Tech | Nieuws | Gitaar | Jolla |
+| --- | --- | --- | --- |
+| [Tweakers](https://tweakers.net/) | [AP News](https://apnews.com/) | [NDSP forum](https://unity.neuraldsp.com/latest) | [OpenRepos.net](https://openrepos.net/) |
+| [Security.nl](https://www.security.nl/) | [NOS](https://nos.nl/nieuws/laatste) | [Neural DSP](https://neuraldsp.com/news) | [Forum](https://forum.sailfishos.org/latest) |
+| [Work Chronicles](https://workchronicles.substack.com/archive) | [Omroep Brabant](https://www.omroepbrabant.nl/) | [Thomann](https://www.thomann.nl/blog/) | |
+| [It's Foss](https://itsfoss.com/news/) | [Veldhoven](https://studio040.nl/nieuws/veldhoven) | | |
+| [TWiG](https://thisweek.gnome.org/) | [Goirle](https://www.omroeptilburg.nl/regio/goirle/) | | |
+| [Flathub](https://flathub.org/en/apps/collection/recently-added/1) | [VRT](https://www.vrt.be/vrtnws/nl/) | | |
+| [Linux alternatives](https://alternativeto.net/browse/new-apps/?license=opensource&platform=linux) | [RaWePo](https://rawepo.be/) | | |
+| [Android alternatives](https://alternativeto.net/browse/new-apps/?license=opensource&platform=android) | [Scientias](https://scientias.nl/) | | |
+| | [De Speld](https://speld.nl/) | | |
+| | [Nieuwspaal](https://nieuwspaal.nl/) | | |
+| | [Trumpact](https://reportersonline.nl/besluiten-trump-impact/) | | |
