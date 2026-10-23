@@ -30,19 +30,19 @@ Meer info is te vinden op de site van de band zelf [ALT0LINK_bob].
 
 Simpel lijstje met top albums, met bijna alleen maar goede muziek er op.
 
-* 1983-09-23 - Motley Crue - Shout At The Devil
-* 1988-05-03 - Queensryche - Operation Mindcrime
+* 1983-09-23 - Mötley Crüe - Shout At The Devil
+* 1988-05-03 - Queensrÿche - Operation Mindcrime
 * 1988-09-13 - Jeff Healy - See The Light
 * 1989-01-24 - Skid Row - Skid Row
 * 1989-03-21 - WASP - The Headless Children
 * 1989-05-05 - White Lion - Big Game
 * 1989-08-22 - LA Guns - Cocked & Loaded
 * 1989-08-28 - Faster Pussycat - Wake Me When Its Over
-* 1989-09-01 - Motley Crue - Dr Feelgood
+* 1989-09-01 - Mötley Crüe - Dr Feelgood
 * 1989-10-30 - Joe Satriani - Flying In A Blue Dream
 * 1990-05-22 - Steve Vai - Passion And Warfare
 * 1990-08-07 - Extreme - Extreme II: Pornografity
-* 1990-09-04 - Queensryche - Empire
+* 1990-09-04 - Queensrÿche - Empire
 * 1991-09-17 - Guns N Roses - Use Your Illusion II
 * 1992-01-21 - Luka Bloom - The Acoustic Moterbike
 * 1999-03-22 - Skunk Anansie - Post Orgasmic Chill
