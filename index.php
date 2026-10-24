@@ -28,6 +28,7 @@ startHtmlPage($PATH_TO_ROOT, $alt0links['alt0']['text'], $tagpage);
             &middot; <?php echo pageLink('nieuws'); ?><br />
             &middot; <?php echo pageLink('online'); ?><br />
             &middot; <?php echo pageLink('data'); ?><br />
+            &middot; <?php echo pageLink('muziek'); ?><br />
             <hr />
             Technologie<br />
             &middot; <?php echo pageLink('alternatieven'); ?><br />

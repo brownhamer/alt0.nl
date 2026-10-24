@@ -14,6 +14,7 @@ $alt0pages = [
     'mastodon' => "Mastodon",
     'meshcore' => "MeshCore",
     'meta' => "Meta",
+    'muziek' => "Muziek",
     'nieuws' => "Nieuws",
     'online' => "Online",
     'privacy' => "Privacy",

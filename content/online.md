@@ -29,38 +29,6 @@ Voor die mensen die nog zelf software maken, zoals het hoort.
 - [RegExr](https://regexr.com/)
 - [The Missing GitHub Status Page](https://mrshu.github.io/github-statuses/)
 
-## Muziek maken
-
-Sites met hulpmiddelen om beter (gitaar) muziek te maken.
-
-- [7 String Guitar](https://chord.rocks/7-string-guitar/)
-- [FindMyGuitar](https://findmyguitar.com/)
-- [Muzikantenbank.NET](https://www.muzikantenbank.net)
-- [Pedal Playground](https://pedalplayground.com/)
-- [Ultimate Guitar](https://www.ultimate-guitar.com/)
-
-## Muzikanten
-
-Inspirerende artiesten.
-
-- [Andre Antunes](https://www.youtube.com/@AndreAntunesofficial)
-- [Ben Eller](https://www.patreon.com/BenEllerGuitars)
-- [Bradley Hall](https://www.patreon.com/bradleyhallguitar)
-- [Jared Dines](https://www.youtube.com/user/th3ycharg3)
-- [Pete Cottrell](https://www.youtube.com/user/peteplaysmusic)
-- [Rabea Massaad](https://www.youtube.com/@RabeaMassaad)
-- [Rob Scallon](https://www.youtube.com/user/robs70986987)
-
-## Muziek
-
-Gewoon erg goede gitaar muziek.
-
-- [Bernth - Horizons](https://youtu.be/rSJnntnJcSM?si=OcYCTk3kfJopVXbe)
-- [Guthrie Govan - Bigfoot](https://youtu.be/B569w-_ReHs?si=qX_QWetxq1njox08)
-- [Joe Satriani - Made of Tears](https://www.youtube.com/watch?v=M4lsB-B1O7U)
-- [Joe Satriani - Satch Boogie](https://www.youtube.com/watch?v=mlkbT4GDYAQ)
-- [Steve Vai - Tender Surrender](https://www.youtube.com/watch?v=Yw74sDWPH7U)
-
 ## Handig
 
 Van alles en nog wat online dat wel eens handig is.
