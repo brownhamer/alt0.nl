@@ -19,6 +19,7 @@ Simpel lijstje met [Top Albums](https://open.spotify.com/playlist/2Ssgsvy9VKaQ1C
 * *1983-09-23* - **Shout At The Devil** - Mötley Crüe
 * *1987-06-22* - **Pride** - White Lion
 * *1988-05-03* - **Operation Mindcrime** - Queensrÿche
+* *1988-07-05* - **Long Cold Winter** - Cinderella
 * *1988-09-13* - **See The Light** - Jeff Healy
 * *1989-01-24* - **Skid Row** - Skid Row
 * *1989-03-21* - **The Headless Children** - WASP
