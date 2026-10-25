@@ -5,7 +5,7 @@ Nu [Fedora](https://fedoraproject.org/) aan het testen op mijn laptop.
 
 ## Opgelost
 
-- 2FA &raquo; [Ente Auth](https://ente.io/auth/) &raquo; [beschikbaar](https://ente.io/download) op Linux.
+- 2FA &raquo; [Ente Auth](https://ente.io/auth/) &raquo; [beschikbaar](https://github.com/ente/ente/releases?q=prerelease%3Afalse+tag%3Aauth-v4) op Linux.
 - Agenda &raquo; [NextCloud Calendar](https://apps.nextcloud.com/apps/calendar) &raquo; [GNOME Calendar](https://apps.gnome.org/Calendar/) op Linux.
 - Bookmarks: &raquo; [NextCloud Bookmarks](https://github.com/nextcloud/bookmarks) met [Floccus](https://floccus.org/)
 - Browser &raquo; [Firefox](https://www.firefox.com/) &raquo; [beschikbaar](https://www.firefox.com/en-US/browsers/desktop/linux/) op Linux
