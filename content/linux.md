@@ -1,7 +1,7 @@
 # Linux
 
-[Manjaro](https://manjaro.org/) is de distributie waar ik voor gekozen heb, rolling-release, gnome optie, EU based, redelijk populair.
-Deze gebruik k nu op mijn laptop, en ben ik ook van plan te gebruiken op mijn PC.
+[Manjaro](https://manjaro.org/) is de distributie waar ik voor gekozen had, rolling-release, gnome optie, EU based, redelijk populair.
+Nu [Fedora](https://fedoraproject.org/) aan het testen op mijn laptop.
 
 ## Opgelost
 
@@ -73,9 +73,12 @@ Naast bovengenoemde applicaties zijn er diverse andere handige programma's die i
 
 ### Gebruikt
 
+- [Better Tray Icons](https://extensions.gnome.org/extension/9975/better-tray-icons/)
 - [Context + Window Title](https://extensions.gnome.org/extension/10114/context-window-title/)
+- [Dash to Dock](https://extensions.gnome.org/extension/307/dash-to-dock/)
 - [Lock sreen background](https://extensions.gnome.org/extension/1476/unlock-dialog-background/)
 - [Show External IP](https://extensions.gnome.org/extension/5368/show-external-ip-thisipcancyou/)
+- [Wallpaper Slideshow](https://extensions.gnome.org/extension/6281/wallpaper-slideshow/)
 - [Workspace Number Indicator](https://extensions.gnome.org/extension/9809/workspace-number-indicator/)
 
 ### Overig
