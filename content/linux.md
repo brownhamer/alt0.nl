@@ -61,6 +61,12 @@ Naast bovengenoemde applicaties zijn er diverse andere handige programma's die i
 - [Shotwell](https://shotwell-project.org/) &raquo; Foto's beheren, voor zover ik dat doe.
 - [Spider](https://github.com/Zaedus/spider) &raquo; Site als apps aanmaken, best handig.
 
+## Proberen
+
+Deze moet ik nog eens proberen, lijken me wel handig.
+
+- [Riff](https://github.com/Diegovsky/riff)
+
 ## GNOME Apps
 
 - [Calendar](https://apps.gnome.org/Calendar/)
