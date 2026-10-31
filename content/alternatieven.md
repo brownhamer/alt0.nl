@@ -92,6 +92,7 @@ Overzichten en lijsten van Big Tech alternatieven.
 - [European Alternatives](https://euroalternative.co/).co
 - [European Alternatives](https://european-alternatives.cloud/).cloud
 - [European Alternatives](https://european-alternatives.eu/).eu
+- [European Tech Map](https://europeantechmap.eu/)
 - [EuroStack](https://euro-stack.com/)
 - [eurotechguide](https://eurotechguide.com/)
 - [Exit 50](https://www.exit50.com/)
