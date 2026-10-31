@@ -70,6 +70,7 @@ Ik laat de informatie hier nog wel staan, mogelijk voor later.
 - [Beginner Resource Collection](https://forum.sailfishos.org/t/beginner-resource-collection/829)
 - [Harbour, Storeman, Chum, Android apps, Whisperfish?](https://www.rubdos.be/2026/08/01/my-sailfish-os-journey-what-they-should-ve-told-you.html)
 - [How I use SailfishOS](https://scarpino.dev/posts/how-i-use-sailfishos.html)
+- [Mastodon Starter Pack](https://fedidevs.com/s/ODY1/)
 - [My Sailfish OS Journey](https://www.rubdos.be/2026/04/15/my-sailfish-os-journey.html)
 - [PatchWork3d](https://www.patchwork3d.de/sailfish-os-249-en) met [important apps and patches](https://www.patchwork3d.de/important-apps-and-patches-250-en)
 
