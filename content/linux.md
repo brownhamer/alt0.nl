@@ -1,7 +1,7 @@
 # Linux
 
 [Manjaro](https://manjaro.org/) is de distributie waar ik voor gekozen had, rolling-release, gnome optie, EU based, redelijk populair.
-Na [Fedora](https://fedoraproject.org/), [CachyOS](https://cachyos.org/) en [elementary OS](https://elementary.io/) getest te hebben, toch weer terug bij Manjaro.
+Na [CachyOS](https://cachyos.org/), [EndeavourOS](https://endeavouros.com/), [elementary OS](https://elementary.io/) en [Fedora](https://fedoraproject.org/), [CachyOS](https://cachyos.org/) getest te hebben, toch weer terug bij Manjaro.
 
 ## Opgelost
 
