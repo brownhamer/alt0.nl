@@ -55,7 +55,7 @@ Zie ook de lijst met alternatieve [ALT0PAGE_software].
 - [GrapheneOS](https://grapheneos.org/) &raquo; Beter dan [Android](https://www.android.com/), maar toch.
 - [immich](https://immich.app/) &raquo; Bij voorkeur heb ik mijn foto's lokaal staan, vooralsnog gekozen voor [Nextcloud](https://nextcloud.com/) via [oCloud](https://ocloud.de/). Maar misschien via [PixelUnion](https://pixelunion.eu/).
 - [librephone](https://librephone.fsf.org/site/) &raquo; Verre van af, net begonnen zelfs.
-- [postmarketOS](https://postmarketos.org/) &raquo; Nog niet volwassen genoeg denk ik.
+- [Nura](https://nura.eco/) &raquo; Nog niet volwassen genoeg denk ik.
 - [Soverin](https://soverin.com/) &raquo; Had al gekozen voor [Posteo](https://posteo.de/en).
 - [The Good Cloud](https://thegood.cloud/individuals/) &raquo; Had al gekozen voor [oCloud](https://ocloud.de/).
 - [Tuta](https://tuta.com/) &raquo; Had al gekozen voor [Posteo](https://posteo.de/en).
