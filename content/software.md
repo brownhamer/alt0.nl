@@ -52,6 +52,7 @@ Zie verder ook [ALT0PAGE_alternatieven] voor wat ik wel gebruik (of overweeg).
 - [LibreWolf](https://librewolf.net/) &raquo; Voorlopig blijf ik nog trouw aan [Firefox](https://www.firefox.com/nl/).
 - [Lunatask](https://lunatask.app/) &raquo; Mooi, breed beschikbaar, [Super Productivity](https://super-productivity.com) werkt voor mij alleen al meer dan voldoende.
 - [Maolan](https://maolan.github.io/)
+- [MediaHarbor](https://mediaharbor.org/)
 - [Meld](https://meldmerge.org/)
 - [Memories](https://memories.gallery/)
 - [meta](https://github.com/mateodelnorte/meta) (nee, niet [ALT0PAGE_meta])
