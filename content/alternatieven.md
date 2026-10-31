@@ -94,7 +94,6 @@ Overzichten en lijsten van Big Tech alternatieven.
 - [European Tech Map](https://europeantechmap.eu/)
 - [EuroStack](https://euro-stack.com/)
 - [eurotechguide](https://eurotechguide.com/)
-- [Exit 50](https://www.exit50.com/)
 - [Fossify](https://www.fossify.org/)
 - [Lokjo - Alternative phone OS](https://www.lokjo.com/eu/oscheck.php)
 - [Go European](https://www.goeuropean.org/)
