@@ -65,6 +65,7 @@ Naast bovengenoemde applicaties zijn er diverse andere handige programma's die i
 
 Deze moet ik nog eens proberen, lijken me wel handig.
 
+- [Raven](https://useraven.org/)
 - [Riff](https://github.com/Diegovsky/riff)
 
 ## GNOME Apps
