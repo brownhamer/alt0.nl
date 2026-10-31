@@ -51,7 +51,6 @@ Zie verder ook [ALT0PAGE_alternatieven] voor wat ik wel gebruik (of overweeg).
 - [Lapce](https://lap.dev/lapce/) &raquo; Nog niet echt geprobeerd.
 - [LibreWolf](https://librewolf.net/) &raquo; Voorlopig blijf ik nog trouw aan [Firefox](https://www.firefox.com/nl/).
 - [Lunatask](https://lunatask.app/) &raquo; Mooi, breed beschikbaar, [Super Productivity](https://super-productivity.com) werkt voor mij alleen al meer dan voldoende.
-- [Maolan](https://maolan.github.io/)
 - [MediaHarbor](https://mediaharbor.org/)
 - [Meld](https://meldmerge.org/)
 - [Memories](https://memories.gallery/)
