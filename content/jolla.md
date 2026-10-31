@@ -106,6 +106,7 @@ Allerlei apps die ik nog wilde proberen.
 
 - [Happycamper](https://openrepos.net/content/poetaster/happycamper)
 - [Musikilo](https://openrepos.net/content/mistermagister/musikilo)
+- [neerslagradar](https://git.disroot.org/randysimons/neerslagradar)
 - [Rainviewer](https://sailfishos-chum.github.io/apps/harbour-rainviewer/)
 - [RooThub](https://openrepos.net/content/rootgpt/roothub)
 - [sailwero](https://codeberg.org/hlrx/sailwero)
