@@ -65,8 +65,20 @@ Naast bovengenoemde applicaties zijn er diverse andere handige programma's die i
 
 Deze moet ik nog eens proberen, lijken me wel handig.
 
+- [Boxes](https://apps.gnome.org/Boxes/)
+- [Defuse](https://flathub.org/en/apps/io.github.shonebinu.Defuse) &raquo; "Remove image backgrounds locally".
+- [Errands](https://flathub.org/en/apps/io.github.mrvladus.List) &raquo; "Manage your tasks".
+- [Gitte](https://codeberg.org/ckruse/gitte)
+- [Metadata Cleaner](https://flathub.org/en/apps/io.gitlab.metadatacleaner.metadatacleaner) &raquo; "View and clean metadata in files".
+- [Mimick](https://flathub.org/en/apps/dev.nicx.mimick) &raquo; "Back up and browse your photos".
+- [Pins](https://flathub.org/en/apps/io.github.fabrialberio.pinapp) &raquo; "Create and edit app shortcuts".
 - [Raven](https://useraven.org/)
 - [Riff](https://github.com/Diegovsky/riff)
+- [Sticky Notes](https://flathub.org/en/apps/com.vixalien.sticky) &raquo; "Pin notes to your desktop".
+- [Warehouse](https://flathub.org/en/apps/io.github.flattool.Warehouse) &raquo; "Manage all things Flatpak".
+- [Waydroid](https://waydro.id/) &raquo; Android in een Linux container, geen idee of ik het nodig heb, maar klinkt potentieel handig.
+- [Wike](https://hugolabe.github.io/Wike/) &raquo; Lokale [Wikipedia](https://nl.wikipedia.org/wiki/Hoofdpagina), met [GNOME Shell](https://en.wikipedia.org/wiki/GNOME_Shell) zoek integratie. Nog niet aan toe gekomen, maar dat gaan we zeker gebruiken.
+- [Wildcard](https://flathub.org/en/apps/net.ffkkinos.Wildcard) &raquo; "Test your regular expressions".
 
 ## GNOME Apps
 
