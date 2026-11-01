@@ -38,6 +38,7 @@ Simpel lijstje met [Top Albums](https://open.spotify.com/playlist/2Ssgsvy9VKaQ1C
 * *2004-08-10* - **One Day Remains** - Alter Bridge
 * *2005-09-05* - **Ambush On All Sides** - Tenpenny Joke
 * *2010-04-30* - **Mijn Meisje Vindt Me Leuk Zoals Ik Ben** - Want Want
+* *2010-05-14* - **Pandemonium** - Pretty Maids
 * *2014-04-25* - **In Het Midden Van Alles** - Bløf
 * *2019-02-02* - **Stadaarnietzodoeiets** - Fokko
 
