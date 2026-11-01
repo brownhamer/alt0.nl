@@ -16,6 +16,7 @@ Sites met hulpmiddelen om beter (gitaar) muziek te maken.
 
 Simpel lijstje met [Top Albums](https://open.spotify.com/playlist/2Ssgsvy9VKaQ1CyRCSdpqh?si=6f1635bd8aac4428), met bijna alleen maar goede muziek er op.
 
+* *1978-02-10* - **Van Halen** - Van Halen
 * *1983-09-23* - **Shout At The Devil** - Mötley Crüe
 * *1987-06-22* - **Pride** - White Lion
 * *1988-05-03* - **Operation Mindcrime** - Queensrÿche
