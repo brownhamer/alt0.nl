@@ -35,6 +35,7 @@ Simpel lijstje met [Top Albums](https://open.spotify.com/playlist/2Ssgsvy9VKaQ1C
 * *1991-09-17* - **Use Your Illusion II** - Guns N' Roses
 * *1992-01-21* - **The Acoustic Moterbike** - Luka Bloom
 * *1994-04-26* - **Throwing Copper** - Live
+* *1997-02-18* - **Secret Samadhi** - Live
 * *1999-03-22* - **Post Orgasmic Chill** - Skunk Anansie
 * *2004-08-10* - **One Day Remains** - Alter Bridge
 * *2005-09-05* - **Ambush On All Sides** - Tenpenny Joke
