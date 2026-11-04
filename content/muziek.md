@@ -31,6 +31,7 @@ Simpel lijstje met [Good Albums](https://open.spotify.com/playlist/2Ssgsvy9VKaQ1
 * *1990-05-22* - **Passion And Warfare** - Steve Vai
 * *1990-08-07* - **Extreme II: Pornografity** - Extreme
 * *1990-09-04* - **Empire** - Queensrÿche
+* *1991-02-05* - **Innuendo** - Queen
 * *1991-09-17* - **Use Your Illusion II** - Guns N' Roses
 * *1992-01-21* - **The Acoustic Moterbike** - Luka Bloom
 * *1994-04-26* - **Throwing Copper** - Live
