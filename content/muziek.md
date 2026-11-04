@@ -24,6 +24,7 @@ Simpel lijstje met [Good Albums](https://open.spotify.com/playlist/2Ssgsvy9VKaQ1
 * *1989-01-24* - **Skid Row** - Skid Row
 * *1989-03-21* - **The Headless Children** - WASP
 * *1989-05-05* - **Big Game** - White Lion
+* *1989-05-22* - **The Miracle** - Queen
 * *1989-08-22* - **Cocked & Loaded** - LA Guns
 * *1989-08-28* - **Wake Me When Its Over** - Faster Pussycat
 * *1989-09-01* - **Dr Feelgood** - Mötley Crüe
