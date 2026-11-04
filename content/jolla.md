@@ -105,13 +105,15 @@ Zelf gebruikte ik de volgende.
 
 Allerlei apps die ik nog wilde proberen.
 
+- [Askare](https://fravaccaro.com/harbour-askare/) - NextCloud Tasks
 - [Happycamper](https://openrepos.net/content/poetaster/happycamper)
-- [Musikilo](https://openrepos.net/content/mistermagister/musikilo)
+- [Lappu](https://fravaccaro.com/harbour-lappu/) - NextCloud Notes
+- [Musikilo](https://openrepos.net/content/mistermagister/musikilo) - NextCloud Ampache
 - [neerslagradar](https://git.disroot.org/randysimons/neerslagradar)
 - [Rainviewer](https://sailfishos-chum.github.io/apps/harbour-rainviewer/)
 - [RooThub](https://openrepos.net/content/rootgpt/roothub)
 - [sailwero](https://codeberg.org/hlrx/sailwero)
-- [SubMusic](https://openrepos.net/content/jakub/submusic)
+- [SubMusic](https://openrepos.net/content/jakub/submusic) - NextCloud Ampache
 - [Unit Converter](https://openrepos.net/content/ade/unit-converter-fork)
 - [Walt](https://walt.is/)
 - [ZuTun.txt](https://openrepos.net/content/fooxl/zutuntxt)
@@ -150,3 +152,4 @@ Eveneens [een lijst](https://cryptpad.fr/doc/#/2/doc/edit/COOyLQRDhIgLLatkBc-i5T
 
 - [LinuxPhoneApps.org](https://linuxphoneapps.org/)
 - Sailfish OS [Mastodon Starter Pack](https://fedidevs.com/s/ODY1/)
+- SFOS app developer [fra](https://fravaccaro.com/)
