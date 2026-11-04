@@ -10,6 +10,7 @@ Diverse sites die inzicht geven in meerdere soorten informatie op basis van open
 - [CBS NL](https://www.cbs.nl/nl-nl)
 - [Cloudflare Radar](https://radar.cloudflare.com/)
 - [Compendium voor de Leefomgeving](https://www.clo.nl/)
+- [Data Privacy Ranking](https://gdpr-omnibus.eu/)
 - [data.gov.gr](https://data.gov.gr/en/)
 - [Datagraver](https://datagraver.com/)
 - [Dataregister NL](https://data.overheid.nl/)
