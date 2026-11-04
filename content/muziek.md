@@ -12,9 +12,9 @@ Sites met hulpmiddelen om beter (gitaar) muziek te maken.
 - [Pedal Playground](https://pedalplayground.com/)
 - [Ultimate Guitar](https://www.ultimate-guitar.com/)
 
-## Top Albums
+## Good Albums
 
-Simpel lijstje met [Top Albums](https://open.spotify.com/playlist/2Ssgsvy9VKaQ1CyRCSdpqh?si=6f1635bd8aac4428), met bijna alleen maar goede muziek er op.
+Simpel lijstje met [Good Albums](https://open.spotify.com/playlist/2Ssgsvy9VKaQ1CyRCSdpqh?si=040d8943f9984631), met bijna alleen maar goede muziek er op.
 
 * *1978-02-10* - **Van Halen** - Van Halen
 * *1983-09-23* - **Shout At The Devil** - Mötley Crüe
@@ -43,9 +43,10 @@ Simpel lijstje met [Top Albums](https://open.spotify.com/playlist/2Ssgsvy9VKaQ1C
 * *2014-04-25* - **In Het Midden Van Alles** - Bløf
 * *2019-02-02* - **Stadaarnietzodoeiets** - Fokko
 
-## Top Nummers
+## Good Songs
 
-Gewoon erg goede gitaar muziek.
+Lijstje met [Good Songs](https://open.spotify.com/playlist/0Pe0xyJlHTb0SfedQPxNmj?si=a882e838ae69421a), echte toppers dus.
+Maar daarnaast is er ook nog dit.
 
 - [Bernth - Horizons](https://youtu.be/rSJnntnJcSM?si=OcYCTk3kfJopVXbe)
 - [Guthrie Govan - Bigfoot](https://youtu.be/B569w-_ReHs?si=qX_QWetxq1njox08)
