@@ -3,6 +3,7 @@
 Diverse sites die inzicht geven in meerdere soorten informatie op basis van openbare databronnen.
 
 - [1 in 8 Billion](https://1in8b.life/en/)
+- [2026 Press Freedom Predators List](https://rsf.org/en/2026-press-freedom-predators-list)
 - [Algoritmeregister](https://algoritmes.overheid.nl/nl)
 - [AlleCijfers BE](https://allecijfers.be/)
 - [AlleCijfers NL](https://allecijfers.nl/)
