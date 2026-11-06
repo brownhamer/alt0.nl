@@ -39,4 +39,4 @@ Nog meer alernatieven die ik gebruik.
 
 ## Informatie
 
-- [Why Is It So Difficult To Build an Alternative Operating System for a Smartphone?](https://theprivacydad.com/why-is-it-so-difficult-to-build-an-alternative-operating-system-for-a-smartphone/)
+- [Why Is It So Difficult To Build an Alternative Operating System for a mobile phone?](https://theprivacydad.com/why-is-it-so-difficult-to-build-an-alternative-operating-system-for-a-smartphone/)
