@@ -36,3 +36,7 @@ Nog meer alernatieven die ik gebruik.
 - [Secure PDF Viewer](https://github.com/GrapheneOS/PdfViewer) &raquo; Simpele PDF viewer.
 - [Tack](https://patrickzedler.com/tack/) &raquo; Omdat ik niet heel goed ben in maat houden.
 - [Tessel](https://play.tessel.at/) &raquo; Het enige Android dat ik wel eens speel.
+
+## Informatie
+
+- [Why Is It So Difficult To Build an Alternative Operating System for a Smartphone?](https://theprivacydad.com/why-is-it-so-difficult-to-build-an-alternative-operating-system-for-a-smartphone/)
