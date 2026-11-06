@@ -89,6 +89,7 @@ Het gaat daarbij niet over verbergen, maar over veiligheid van jouw persoonlijke
 - [Five Eyes, Nine Eyes, 14 Eyes](https://cyberinsider.com/5-eyes-9-eyes-14-eyes/)
 - [Gmail, Microsoft, Meta, LinkedIn: They already scan your messages - voluntarily!](https://tuta.com/blog/voluntary-scanning-google-microsoft#the-good-and-the-bad)
 - [Google, Meta, TikTok hit by EU consumer complaints about handling of financial scams](https://www.reuters.com/legal/litigation/google-meta-tiktok-face-eu-consumer-complaints-about-handling-financial-scams-2026-05-21/)
+- [Google, Meta en TikTok vechten Californisch verbod op verslavende feeds aan](https://tweakers.net/nieuws/254228/google-meta-en-tiktok-vechten-californisch-verbod-op-verslavende-feeds-aan.html)
 - [Google Fulfilled ICE Subpoena Demanding Student Journalist Credit Card Number](https://theintercept.com/2026/02/10/google-ice-subpoena-student-journalist/)
 - [Google koopt bedrijfsdata van failliete luchtvaartmaatschappij om AI te trainen](https://tweakers.net/nieuws/251092/google-koopt-bedrijfsdata-van-failliete-luchtvaartmaatschappij-om-ai-te-trainen.html)
 - [Google ontvangt boete van 403 miljoen voor delen van locatiegegevens voor gepersonaliseerde reclames](https://www.security.nl/posting/953972/Google+ontvangt+boete+van+403+miljoen+voor+delen+van+locatiegegevens+voor+gepersonaliseerde+reclames)
