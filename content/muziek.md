@@ -8,6 +8,7 @@ Sites met hulpmiddelen om beter (gitaar) muziek te maken.
 
 - [7 String Guitar](https://chord.rocks/7-string-guitar/)
 - [FindMyGuitar](https://findmyguitar.com/)
+- [GuitarTube](https://guitartube.org/)
 - [Muzikantenbank.NET](https://www.muzikantenbank.net)
 - [Pedal Playground](https://pedalplayground.com/)
 - [Ultimate Guitar](https://www.ultimate-guitar.com/)
