@@ -45,6 +45,7 @@ Simpel lijstje met [Good Albums](https://open.spotify.com/playlist/2Ssgsvy9VKaQ1
 * *2010-05-14* - **Pandemonium** - Pretty Maids
 * *2014-04-25* - **In Het Midden Van Alles** - Bløf
 * *2019-02-02* - **Stadaarnietzodoeiets** - Fokko
+* *2020-04-10* - **Shapeshifting** - Joe Satriani
 
 ## Good Songs
 
