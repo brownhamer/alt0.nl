@@ -150,6 +150,7 @@ Het gaat daarbij niet over verbergen, maar over veiligheid van jouw persoonlijke
 - [Waarom nooit een foto van je boarding pass op social media zetten | Digiwijzer](https://digiwijzer.nl/foto-boarding-pass-social-media/)
 - [Waarom te persoonlijke advertenties niet werken](https://www.eoswetenschap.eu/psyche-brein/waarom-te-persoonlijke-advertenties-niet-werken)
 - [Wat Clue, Flo en Clover met je cyclusdata doen](https://mickbeer.com/artikelen/menstruatie-apps-clue-flo-clover/)
+- [We geloofden dat Facebook democratie ging brengen. Iedereen was naïef.](https://www.thefirewall.eu/artikelen/we-geloofden-dat-facebook-democratie-ging-brengen-iedereen-was-na%C3%AFef)
 - [Werkgevers in VS gebruiken persoonlijke data voor laagst mogelijke loonaanbod](https://www.security.nl/posting/931695/%27Werkgevers+in+VS+gebruiken+persoonlijke+data+voor+laagst+mogelijke+loonaanbod%27)
 - [White House-app van regering VS blijkt locatie elke paar minuten door te sturen](https://tweakers.net/nieuws/246246/white-house-app-van-regering-vs-blijkt-locatie-elke-paar-minuten-door-te-sturen.html)
 - [White-Box Attacks on PhotoDNA Perceptual Hash Function](https://eprint.iacr.org/2026/486)
