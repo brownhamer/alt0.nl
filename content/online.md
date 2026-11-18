@@ -48,6 +48,7 @@ Van alles en nog wat online dat wel eens handig is.
 - [Iconmonstr](https://iconmonstr.com/)
 - [Is it really foss?](https://isitreallyfoss.com/)
 - [LibreSpeed](https://librespeed.org/)
+- [Localpedia](https://edjefferson.com/localpedia/)
 - [Museum of Lost Sounds](https://bigsoundbank.com/museumofsounds/)
 - [NEMO Kennislink](https://www.nemokennislink.nl/)
 - [Nutteloze Borden](https://www.nuttelozeborden.be/)
