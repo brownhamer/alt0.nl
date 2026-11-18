@@ -32,7 +32,7 @@ Hieronder wat keuzes die ik hierin al gemaakt heb.
 - Messenger: ~~WhatsApp~~ &raquo; [Signal](https://signal.org/) en [Matrix](https://matrix.org/).
 - Navigatie: ~~Google Maps~~ &raquo; [Pure Maps](https://github.com/rinigus/pure-maps), [HERE WeGo](https://wego.here.com/) en [CoMaps](https://www.comaps.app/).
 - Notities: ~~Simplenote~~ &raquo; [NextCloud Notes](https://apps.nextcloud.com/apps/notes).
-- Office: ~~Microsoft Office 365~~ &raquo; [LibreOffice](https://www.libreoffice.org/).
+- Office: ~~Microsoft Office 365~~ &raquo; [LibreOffice](https://www.libreoffice.org/) en [Nextcloud Office](https://nextcloud.com/office/).
 - Pasjes: ~~Google Waller~~ &raquo; [Catima](https://catima.app/).
 - Social: ~~Twitter~~ &raquo; [Mastodon](https://mastodon.nl/).
 - Todo: ~~Microsoft To Do~~ &raquo; [Super Productivity](https://super-productivity.com).
