@@ -69,6 +69,7 @@ Het gaat daarbij niet over verbergen, maar over veiligheid van jouw persoonlijke
 - [Billionaires Should Not Exist](https://www.teenvogue.com/story/billionaires-should-not-exist)
 - [Botte afperspraktijken door het Amerika van Trump](https://www.nrc.nl/nieuws/2025/12/19/botte-afperspraktijken-door-het-amerika-van-trump-a4915587?gift_token=4915587~1766912635~PHWgLp0IEeKfgABQVoV_mg~EXhD6fZyipnHUt_EejN_JTEgkqPU-tS0tGgGLdBK5_k)
 - [Break all the rules](https://workchronicles.substack.com/p/comic-break-all-the-rules-38e) zoals Big Tech over wetgeving denkt.
+- [Bright.nl, VI.nl en andere websites verspreidden iPhone-malware via advertenties](https://tweakers.net/nieuws/254546/bright-punt-nl-vi-punt-nl-en-andere-websites-verspreidden-iphone-malware-via-advertenties.html)
 - [Bulkdatasets AIVD en MIVD: de schaduw geheime dienst](https://berthub.eu/articles/posts/de-schaduwgeheimedienst/)
 - [Canadian Trump Critic Sues to Stop Google from Sharing Personal Information with Department of Homeland Security](https://www.aclu.org/press-releases/canadian-trump-critic-sues-to-stop-google-from-sharing-personal-information-with-department-of-homeland-security)
 - [CBP Tapped Into the Online Advertising Ecosystem To Track Peoples’ Movements](https://www.404media.co/cbp-tapped-into-the-online-advertising-ecosystem-to-track-peoples-movements/?Fedizen.EU=)
@@ -79,6 +80,7 @@ Het gaat daarbij niet over verbergen, maar over veiligheid van jouw persoonlijke
 - [Consumentenbond: Google, Meta en TikTok laten malafide advertenties staan](https://www.security.nl/posting/937625/Consumentenbond%3A+Google%2C+Meta+en+TikTok+laten+malafide+advertenties+staan)
 - [Cookies, identifiers and other data that google silently stores on Android handsets](https://www.sciencedirect.com/science/article/pii/S016740482600026X)
 - [De Amerikaanse overheid gebruikt FISA 702 en EO 12333 om andere overheden af te luisteren.](https://mastodon.nl/@bert_hubert/115646029814078518)
+- [De Noodzaak om Advertenties te Blokkeren](https://www.cryptophobia.nl/blogs/69-de-noodzaak-van-advertentie-blokkers.html)
 - [Digital Colonialism: U.S. Demands To Access Africans’ Data Raise Privacy, Sovereignty Concerns](https://www.techdirt.com/2026/07/23/digital-colonialism-u-s-demands-to-access-africans-data-raise-privacy-sovereignty-concerns/)
 - [Drogisten sturen massaal gevoelige informatie naar Facebook en Google](https://www.platform-investico.nl/onderzoeken/drogisten-delen-massaal-gevoelige-informatie-met-facebook-en-google)
 - [EFF: geen verrassing als Big Tech ook bij chatcontrole EU-wetgeving schendt](https://www.security.nl/posting/931670/EFF%3A+geen+verrassing+als+Big+Tech+ook+bij+chatcontrole+EU-wetgeving+schendt)
