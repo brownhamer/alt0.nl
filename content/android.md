@@ -30,6 +30,7 @@ Nog meer alernatieven die ik gebruik.
 - [Compass](https://github.com/Kr0oked/Compass) &raquo; De naam zegt het al, simpelweg een kompas.
 - [Easy Voice Recorder](https://www.digipom.com/) &raquo; Als ik vlug even een deuntje op wil nemen.
 - [MakeACopy](https://github.com/egdels/makeacopy) &raquo; Foto naar document met OCR.
+- [Musekit](https://github.com/Kwasow/Musekit) &raquo; Stemming controleren.
 - [Messages](https://github.com/FossifyOrg/Messages) by Fossify &raquo; Simpele SMS applicatie.
 - [Phone](https://github.com/FossifyOrg/Phone) by Fossify &raquo; Gewoon bellen, zonder de nummers door te geven aan Google.
 - [Power Ampache 2](https://power.ampache.dev/) &raquo; Muziek afspelen via [Nextloud Music](https://apps.nextcloud.com/apps/music), meestal opnames voor nieuwe nummers van de band.
