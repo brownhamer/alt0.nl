@@ -187,7 +187,7 @@ Echter de diverse LLM gebaseerde initiatieven die vanuit Big Tech gepusht worden
 - [Grote Amerikaanse datacenters verbruiken meer stroom dan heel België](https://scientias.nl/grote-amerikaanse-datacenters-verbruiken-meer-stroom-dan-heel-belgie/)
 - [Grote zorgen over 'gluurbrillen' van Meta](https://nos.nl/nieuwsuur/artikel/2625225-grote-zorgen-over-gluurbrillen-van-meta)
 - [Hackers Simply Asked Meta AI to Give Them Access to High-Profile Instagram Accounts. It Worked](https://www.404media.co/hackers-simply-asked-meta-ai-to-give-them-access-to-high-profile-instagram-accounts-it-worked/)
-- [Help! AI hijacked my website](https://jonippolito.substack.com/p/help-ai-hijacked-my-website)
+- [Help! AI hijacked my site](https://jonippolito.substack.com/p/help-ai-hijacked-my-website)
 - [Het idee van een ‘AI-race’, wat een armoe](https://www.nrc.nl/nieuws/2026/06/30/het-idee-van-een-ai-race-wat-een-armoe-a4931405?gift_token=4931405~1783520354~Ul1V0J0IEeKfgABQVoV_mg~rLf_znS64WQPHEV4fSzp3bLooKD_X8TJCtTBA2VWS00)
 - [Het klimaat interesseert techbazen geen zier](https://www.nrc.nl/nieuws/2026/06/04/het-klimaat-interesseert-techbazen-geen-zier-a4929180?gift_token=4929180~1781686673~Z8S5wp0IEeKfgABQVoV_mg~rAW3VinNAflVa0W_rrME-cp0STE4eswqZd9IXj5Jt2I)
 - [Hidden Signals Can Hijack AI Voice Systems](https://spectrum.ieee.org/voice-ai-audio-attacks)
