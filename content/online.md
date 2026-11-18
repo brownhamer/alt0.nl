@@ -17,6 +17,7 @@ Soms moet je gewoon mensen promoten, ookal zal dat vanaf deze site niet heel vee
 
 Goede stukjes tekst.
 
+- [BeLibre](https://belibre.be/nl/blog/)
 - [Chris Klomp](https://chrisklomp.nl/)
 - [stux.me](https://stux.me/)
 
