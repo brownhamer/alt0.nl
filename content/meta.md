@@ -1,7 +1,10 @@
 # Meta
 
 Diverse artikelen en videos waarom je liever niets met Meta te maken hebt, het bedrijf achter Facebook, Instagram, Threads en WhatsApp.
+Ze hebben ondertussen al de [nodige boetes](https://guptadeepak.com/tech-fines/company/meta/) gekregen, en toch blijven ze keer op keer de fout in gaan.
 En ja, er zijn [ALT0PAGE_alternatieven].
+
+## Artikelen
 
 - [Amerikaanse staten eisen tot 1,2 biljoen euro van Meta: 'apps zijn verslavend'](https://tweakers.net/nieuws/251106/amerikaanse-staten-eisen-tot-1-komma-2-biljoen-euro-van-meta-apps-zijn-verslavend.html)
 - [BanRay.eu — Your face is not inventory](https://banray.eu/en/index.html)
@@ -39,6 +42,7 @@ En ja, er zijn [ALT0PAGE_alternatieven].
 - [Meta en Google zijn aansprakelijk voor schade door verslaving aan sociale media](https://tweakers.net/nieuws/246140/meta-en-google-zijn-aansprakelijk-voor-schade-door-verslaving-aan-sociale-media.html)
 - [Meta gaat muisbewegingen en toetsaanslagen werknemers voor AI-training gebruiken](https://tweakers.net/nieuws/247060/meta-gaat-muisbewegingen-en-toetsaanslagen-werknemers-voor-ai-training-gebruiken.html)
 - [Meta haalt satirische video offline waarin Roel Maalderink kritiek uit op de videobrillen van het techbedrijf](https://www.ad.nl/tech/meta-haalt-satirische-video-offline-waarin-roel-maalderink-kritiek-uit-op-de-videobrillen-van-het-techbedrijf~a17b3e49/)
+- [Meta had toegang tot ongedeelde foto's en video's, krijgt grote boete in Italië](https://tweakers.net/nieuws/254548/meta-had-toegang-tot-ongedeelde-fotos-en-videos-krijgt-grote-boete-in-italie.html)
 - [Meta had vanaf september inzage in surfgedrag van Android-gebruikers](https://tweakers.net/nieuws/235760/meta-had-vanaf-september-inzage-in-surfgedrag-van-android-gebruikers.html)
 - [Meta handhaafde advertentieregels te weinig tijdens verkiezingen](https://ibestuur.nl/digitale-toekomst-eu/eu-wetgeving/meta-handhaafde-advertentieregels-te-weinig)
 - [Meta Is Facing $1.4 Trillion In State Lawsuits Over Social Media Addiction](https://www.engadget.com/2209332/meta-is-facing-1-4-trillion-in-state-lawsuits-over-social-media-addiction/)
@@ -58,6 +62,7 @@ En ja, er zijn [ALT0PAGE_alternatieven].
 - [Meta verdient miljarden aan frauduleuze advertenties op Facebook en Instagram](https://www.rtl.nl/nieuws/buitenland/artikel/5537555/meta-verdient-miljarden-aan-frauduleuze-advertenties-op-facebook)
 - [Meta verstopte onderzoek dat wees op negatieve effecten Facebook en Instagram](https://tweakers.net/nieuws/241810/meta-verstopte-onderzoek-dat-wees-op-negatieve-effecten-facebook-en-instagram.html)
 - [Meta Wants to Scan Every Face You Walk Past](https://blog.adafruit.com/2026/02/14/meta-wants-to-scan-every-face-you-walk-past/)
+- [Meta, don’t meddle in our elections](https://sleepinggiantsbrasil.com/wp-content/uploads/2026/11/Report_Meta_dont_meddle_in_our_elections_2026_2nd_edition_EN-1.pdf)
 - [Meta’s new commercial terms will allow the scraping of news sites, legal experts say](https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/)
 - [Moet de overheid ons redden uit de klauwen van Meta?](https://www.bnnvara.nl/joop/artikelen/moet-de-overheid-ons-redden-uit-de-klauwen-van-meta)
 - [Nederlandse politie waarschuwt voor nepwinkels in ads op Instagram en Facebook](https://tweakers.net/nieuws/247918/nederlandse-politie-waarschuwt-voor-nepwinkels-in-ads-op-instagram-en-facebook.html)
