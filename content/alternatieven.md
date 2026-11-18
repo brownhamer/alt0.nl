@@ -49,6 +49,7 @@ Zie ook de lijst met alternatieve [ALT0PAGE_software].
 - [AsteroidOS](https://asteroidos.org/) &raquo; Linux voor smartwatches, alleen ik draag eigenlijk nooit een horloge want dat irriteert me tijdens het gitaar spelen.
 - [Bandcamp](https://bandcamp.com/) &raquo; Misshien als alternatief voor [Spotify](https://open.spotify.com/), ik ben niet van de AI muziek en daar lijkt Spotify toch wel van te zijn de laatste tijd.
 - [Codeberg](https://codeberg.org/) &raquo; Over een tijdje, als alternatief voor [GitHub](https://github.com/), zeker vanwege [Days Without GitHub Incident](https://www.dayswithoutgithubincident.com/), mogelijk met [GitNex](https://gitnex.com/) als client op mobiel en [Gitte](https://codeberg.org/ckruse/Gitte) op de desktop.
+- [Denial Mobile](https://denialwm.org/mobile) &raquo; Na mijn [ALT0PAGE_jolla] avontuur is gebleken dat ik hier niet voldoende tijd in kan, of wil, steken.
 - [Ente Photos](https://ente.io/) &raquo; Bij voorkeur heb ik mijn foto's lokaal staan, vooralsnog gekozen voor [Nextcloud](https://nextcloud.com/) via [oCloud](https://ocloud.de/).
 - [Fairphone](https://www.fairphone.com/nl) &raquo; Nederlands, maar nog wel [Android](https://www.android.com/) gebaseerd, ook als je de [/e/OS](https://e.foundation/e-os/) variant kiest.
 - [Commodore Flip-phone](https://commodore.net/callback/) &raquo; Alleen al voor de spelletjes, maar goed dat kan ook met [C64.emu](https://c64emu.com/) voor met name [Morpheus](https://www.c64.com/games/154).
