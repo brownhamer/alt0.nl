@@ -64,6 +64,13 @@ Van alles en nog wat online dat wel eens handig is.
 - [Wandelroutes](https://www.kempen.be/wandelroutes)
 - [Xikipedia](https://xikipedia.org/)
 
+## How to
+
+Soms heb je wat hulp nodig, ik in ieder geval wel.
+
+- [10 Best Audio Interfaces for Linux That Actually Work](https://homestudioguys.com/audio-interfaces/best-audio-interface-for-linux/)
+- [How to Use the Scarlett 2i2 With A Microphone](https://producersociety.com/scarlett-2i2-microphone-tutorial/)
+
 ## Technologie
 
 Uitleg van complexe technologie op eenvoudige wijze.
