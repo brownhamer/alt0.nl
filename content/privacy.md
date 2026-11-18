@@ -35,6 +35,7 @@ Het gaat daarbij niet over verbergen, maar over veiligheid van jouw persoonlijke
 - [Global Social Media Age Restriction Tracker](https://social-media-age-tracker.onrender.com/)
 - [Have I been pwned?](https://haveibeenpwned.com/)
 - [I didn't set a cookie](https://kuber.studio/cookie/)
+- [Ik heb geen cookie gezet](https://belibre.be/cookies/)
 - [Just Delete Me](https://backgroundchecks.org/justdeleteme/)
 - [Just the Browser](https://justthebrowser.com/)
 - [Kill the Cookie Banner](https://killthecookiebanner.eu/)

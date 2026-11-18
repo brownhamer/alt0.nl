@@ -2,6 +2,7 @@
 
 Diverse (extra) nieuws gerelateerde sites, zie ook [ALT0LINK_alt0].
 
+- [BeLibre](https://belibre.be/nl/blog/)
 - [Digitale Overheid](https://www.digitaleoverheid.nl/actueel/)
 - [DutchNews](https://www.dutchnews.nl/)
 - [EOS Wetenschap](https://www.eoswetenschap.eu/)
