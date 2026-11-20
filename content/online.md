@@ -38,6 +38,7 @@ Van alles en nog wat online dat wel eens handig is.
 - [David Zinn](https://zinnart.com/)
 - [De Digitale Tuin van Geensnor](https://www.dedigitaletuin.nl/)
 - [DistroSea](https://distrosea.com/)
+- [DNS4EU](https://joindns4.eu/for-public)
 - [Emojipedia](https://emojipedia.org/)
 - [EU Age Verification Blueprint](https://ageverification.dev/)
 - [F1 HOT or NOT](https://www.f1hotornot.com/)
