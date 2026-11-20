@@ -43,6 +43,7 @@ Simpel lijstje met [Good Albums](https://open.spotify.com/playlist/2Ssgsvy9VKaQ1
 * *2005-09-05* - **Ambush On All Sides** - Tenpenny Joke
 * *2010-04-30* - **Mijn Meisje Vindt Me Leuk Zoals Ik Ben** - Want Want
 * *2010-05-14* - **Pandemonium** - Pretty Maids
+* *2014-01-14* - **High Hopes** - Bruce Springsteen
 * *2014-04-25* - **In Het Midden Van Alles** - Bløf
 * *2018-01-12* - **What Happens Next** - Joe Satriani
 * *2019-02-02* - **Stadaarnietzodoeiets** - Fokko
