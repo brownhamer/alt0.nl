@@ -60,6 +60,7 @@ Van alles en nog wat online dat wel eens handig is.
 - [Prikkert](https://prikkert.nl/)
 - [Puter](https://github.com/HeyPuter/puter)
 - [Snelle.Tools](https://snelle.tools)
+- [The magic button](https://make-everything-ok.com/)
 - [TilburgAns](https://www.tilburgsans.nl/)
 - [wallpapers](https://bjarneo.github.io/wallpapers/)
 - [Wandelroutes](https://www.kempen.be/wandelroutes)
