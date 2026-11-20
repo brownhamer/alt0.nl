@@ -33,7 +33,6 @@ Echter de diverse LLM gebaseerde initiatieven die vanuit Big Tech gepusht worden
 
 ## Uitdagingen
 
-- [AI Data Centers’ Water Consumption Breaks 264 Billion Gallons in 2025 as Devastating Drought Hits Nearly 63% of U.S.](https://www.yahoo.com/news/us/articles/ai-data-centers-water-consumption-140002428.html?guccounter=1)
 - ['Rogue' AI agent went haywire at tech company. The CEO is still 'bullish' on the technology](https://abcnews.com/GMA/News/rogue-ai-agent-haywire-tech-company-ceo-bullish/story?id=132473181)
 - [A Comprehensive Benchmark for Large Language Model Factuality](https://storage.googleapis.com/deepmind-media/FACTS/FACTS_benchmark_suite_paper.pdf)
 - [A small number of samples can poison LLMs of any size](https://www.anthropic.com/research/small-samples-poison)
@@ -48,6 +47,7 @@ Echter de diverse LLM gebaseerde initiatieven die vanuit Big Tech gepusht worden
 - [AI coding agents could soon cost more than the developers using them](https://www.theregister.com/ai-and-ml/2026/06/24/ai-coding-agents-could-soon-cost-more-than-the-developers-using-them/5260864)
 - [AI coding agents generate more code, but not more software](https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/)
 - [AI crawler bots](https://archaeo.social/@joeroe/116651584551089207)
+- [AI Data Centers’ Water Consumption Breaks 264 Billion Gallons in 2025 as Devastating Drought Hits Nearly 63% of U.S.](https://www.yahoo.com/news/us/articles/ai-data-centers-water-consumption-140002428.html?guccounter=1)
 - [AI deletes database](https://www.reddit.com/r/vibecoding/comments/1mo0j3p/never_touching_cursor_again/)
 - [AI Didn't Simplify Software Engineering: It Just Made Bad Engineering Easier](https://robenglander.com/writing/ai-did-not-simplify/)
 - [AI Doesn’t Reduce Work—It Intensifies It](https://hbr.org/2026/02/ai-doesnt-reduce-work-it-intensifies-it)
