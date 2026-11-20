@@ -20,8 +20,8 @@ De privacy switch, hoewel ook hier nog wat in mist, zoals het hiermee ook meteen
 De prima integratie met Nextcloud, zeker samen met [Ferry Sync](https://github.com/Dominik-h-hub/harbour-ferry).
 [Hosts-block](https://framagit.org/ohnonot/sfos/-/tree/master/hosts-block?ref_type=heads), gewoon geen reclame meer op je telefoon.
 
-In ieder geval voorlopig toch maar weer terug naar een [ALT0PAGE_android] telefoon.
-Ik laat de informatie hier nog wel staan, mogelijk voor later.
+In ieder geval toch maar weer terug naar een [ALT0PAGE_android] telefoon.
+Ik laat de informatie hier nog wel staan, je weet maar nooit.
 
 ## App winkels
 
