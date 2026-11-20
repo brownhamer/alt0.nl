@@ -216,6 +216,7 @@ Echter de diverse LLM gebaseerde initiatieven die vanuit Big Tech gepusht worden
 - [Kunstmatige intelligentie is niet kunstmatig. En al helemaal niet intelligent](https://decorrespondent.nl/14393/kunstmatige-intelligentie-is-niet-kunstmatig-en-al-helemaal-niet-intelligent/d7f55cb1-49fc-0a49-24f9-66533dc63b2c)
 - [Large-scale online deanonymization with LLMs](https://arxiv.org/abs/2602.16800)
 - [Lawyer Cites ChatGPT-Invented Fake Witnesses in Murder Appeal](https://www.404media.co/chatgpt-fake-witnesses-testimony-stephen-aarons-new-mexico/)
+- [Lawyers’ Committee Files Lawsuit on Behalf of Black Students Detained and Searched Due to AI Alert Falsely Identifying a Bag of Chips as a Firearm](https://www.lawyerscommittee.org/lawyers-committee-files-lawsuit-on-behalf-of-black-students-detained-and-searched-due-to-ai-alert-falsely-identifying-a-bag-of-chips-as-a-firearm/)
 - [Let’s talk about LLMs](https://www.b-list.org/weblog/2026/apr/09/llms/)
 - [Librarian 'gobsmacked' after school uses AI to remove 200 books from shelves including Orwell's 1984 and Twilight](https://www.lbc.co.uk/article/librarian-gobsmacked-school-ai-remove-books-5HjdWsc_2/)
 - [Linus Torvalds says AI-powered bug hunters have made Linux security mailing list ‘almost entirely unmanageable’](https://www.theregister.com/security/2026/05/18/linus-torvalds-says-ai-powered-bug-hunters-have-made-linux-security-mailing-list-almost-entirely-unmanageable/5241633)
