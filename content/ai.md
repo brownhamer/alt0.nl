@@ -33,7 +33,7 @@ Echter de diverse LLM gebaseerde initiatieven die vanuit Big Tech gepusht worden
 
 ## Uitdagingen
 
- -[AI Data Centers’ Water Consumption Breaks 264 Billion Gallons in 2025 as Devastating Drought Hits Nearly 63% of U.S.](https://www.yahoo.com/news/us/articles/ai-data-centers-water-consumption-140002428.html?guccounter=1)
+- [AI Data Centers’ Water Consumption Breaks 264 Billion Gallons in 2025 as Devastating Drought Hits Nearly 63% of U.S.](https://www.yahoo.com/news/us/articles/ai-data-centers-water-consumption-140002428.html?guccounter=1)
 - ['Rogue' AI agent went haywire at tech company. The CEO is still 'bullish' on the technology](https://abcnews.com/GMA/News/rogue-ai-agent-haywire-tech-company-ceo-bullish/story?id=132473181)
 - [A Comprehensive Benchmark for Large Language Model Factuality](https://storage.googleapis.com/deepmind-media/FACTS/FACTS_benchmark_suite_paper.pdf)
 - [A small number of samples can poison LLMs of any size](https://www.anthropic.com/research/small-samples-poison)
