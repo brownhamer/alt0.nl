@@ -77,6 +77,7 @@ Zie verder ook [ALT0PAGE_alternatieven] voor wat ik wel gebruik (of overweeg).
 - [SimpleX](https://simplex.chat/)
 - [Tack](https://patrickzedler.com/tack/)
 - [ToS;DR](https://tosdr.org/en)
+- [Tributary](https://shikoko.github.io/tributary/)
 - [uBlacklist](https://ublacklist.github.io/docs)
 - [uBlock Origin](https://addons.mozilla.org/nl/firefox/addon/ublock-origin)
 - [Unchecky](https://unchecky.com/)
