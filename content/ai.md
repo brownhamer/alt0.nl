@@ -98,6 +98,7 @@ Echter de diverse LLM gebaseerde initiatieven die vanuit Big Tech gepusht worden
 - [ArXiv schorst wetenschappers als die llm-hallucinaties in papers laten staan](https://tweakers.net/nieuws/247858/arxiv-schorst-wetenschappers-als-die-llm-hallucinaties-in-papers-laten-staan.html)
 - [As if the plate wasn't already full, AI is about to worsen the global e-waste crisis](https://www.digitaltrends.com/cool-tech/as-if-the-plate-wasnt-already-full-ai-is-about-to-worsen-the-global-e-waste-crisis/)
 - [As Larry Ellison bets the farm, Oracle says it loves AI-written code, just not in OpenJDK](https://www.theregister.com/ai-and-ml/2026/08/03/as-larry-ellison-bets-the-farm-oracle-says-it-loves-ai-written-code-just-not-in-openjdk/5281851)
+- [As Meta bets big on Muse AI agent, early safety mishaps surface](https://www.bnnbloomberg.ca/business/company-news/2026/11/18/as-meta-bets-big-on-muse-ai-agent-early-safety-mishaps-surface/)
 - [Atlassian Enables Default Data Collection to Train AI](https://letsdatascience.com/news/atlassian-enables-default-data-collection-to-train-ai-f71343d8)
 - [Bankklant zelf verantwoordelijk voor opvolgen advies chatbot](https://www.security.nl/posting/931733/Kifid%3A+bankklant+zelf+verantwoordelijk+voor+opvolgen+advies+chatbot)
 - [BanRay.eu — Your face is not inventory](https://banray.eu/en/index.html)

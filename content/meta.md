@@ -7,6 +7,7 @@ En ja, er zijn [ALT0PAGE_alternatieven].
 ## Artikelen
 
 - [Amerikaanse staten eisen tot 1,2 biljoen euro van Meta: 'apps zijn verslavend'](https://tweakers.net/nieuws/251106/amerikaanse-staten-eisen-tot-1-komma-2-biljoen-euro-van-meta-apps-zijn-verslavend.html)
+- [As Meta bets big on Muse AI agent, early safety mishaps surface](https://www.bnnbloomberg.ca/business/company-news/2026/11/18/as-meta-bets-big-on-muse-ai-agent-early-safety-mishaps-surface/)
 - [BanRay.eu — Your face is not inventory](https://banray.eu/en/index.html)
 - [Bekende artiest keert zich tegen AI-brillen op door Ray-Ban gesponsord festival](https://tweakers.net/geek/250010/bekende-artiest-keert-zich-tegen-ai-brillen-op-door-ray-ban-gesponsord-festival.html)
 - [Belgische koningshuis vraagt Facebook nepvideo's kroonprinses te verwijderen](https://tweakers.net/nieuws/246250/belgische-koningshuis-vraagt-facebook-nepvideos-kroonprinses-te-verwijderen.html)

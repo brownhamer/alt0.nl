@@ -62,6 +62,7 @@ Het gaat daarbij niet over verbergen, maar over veiligheid van jouw persoonlijke
 - [113 Zelfmoordpreventie zet analysetools uit, deelde gegevens bezoeker met derden](https://tweakers.net/nieuws/247816/113-zelfmoordpreventie-zet-analysetools-uit-deelde-gegevens-bezoeker-met-derden.html)
 - [Age Verification: What countries require you to perform ID checks & for what sites and platforms?](https://tuta.com/blog/age-verification-kills-anonymity)
 - [Als Trump het op je gemunt heeft, kun je ook in Europa niet meer pinnen](https://decorrespondent.nl/17244/als-trump-het-op-je-gemunt-heeft-kun-je-ook-in-europa-niet-meer-pinnen/97ca3408-b421-0436-361c-0d4334a96bc7)
+- [As Meta bets big on Muse AI agent, early safety mishaps surface](https://www.bnnbloomberg.ca/business/company-news/2026/11/18/as-meta-bets-big-on-muse-ai-agent-early-safety-mishaps-surface/)
 - [Atlassian Enables Default Data Collection to Train AI](https://letsdatascience.com/news/atlassian-enables-default-data-collection-to-train-ai-f71343d8)
 - [BanRay.eu — Your face is not inventory](https://banray.eu/en/index.html)
 - [Bedrijf dat leeftijdsverificatie regelt krijgt AVG-boete van bijna 1 miljoen euro](https://www.security.nl/posting/928793/Bedrijf+dat+leeftijdsverificatie+regelt+krijgt+AVG-boete+van+bijna+1+miljoen+euro)
