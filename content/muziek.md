@@ -30,6 +30,7 @@ Simpel lijstje met [Good Albums](https://open.spotify.com/playlist/2Ssgsvy9VKaQ1
 * *1989-08-28* - **Wake Me When Its Over** - Faster Pussycat
 * *1989-09-01* - **Dr Feelgood** - Mötley Crüe
 * *1989-10-30* - **Flying In A Blue Dream** - Joe Satriani
+* *1990-03-26* - **Still Got The Blues** - Gary Moore
 * *1990-05-22* - **Passion And Warfare** - Steve Vai
 * *1990-08-07* - **Extreme II: Pornografity** - Extreme
 * *1990-09-04* - **Empire** - Queensrÿche
