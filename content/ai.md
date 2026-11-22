@@ -271,6 +271,7 @@ Echter de diverse LLM gebaseerde initiatieven die vanuit Big Tech gepusht worden
 - [Recente oorlogsbeelden bewijzen nog maar eens: AI ziet verschil niet tussen vals en echt](https://www.vrt.be/vrtnws/nl/2026/03/09/kan-je-ai-detectiesystemen-altijd-vertrouwen-grok-synthid-google/)
 - [Rector universiteit Gent gebruikte door AI gegenereerd nep-citaat van Einstein](https://nos.nl/artikel/2597395-rector-universiteit-gent-gebruikte-door-ai-gegenereerd-nep-citaat-van-einstein)
 - [Red Agent Exploits Snowflake Vuln Created by Copilot Autofix](https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug)
+- [Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.](https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/)
 - [Schrijfhulpjes peuteren aan je mening](https://neerlandistiek.nl/2026/06/schrijfhulpjes-peuteren-aan-je-mening/)
 - [Scientists invented a fake disease. AI told people it was real](https://www.nature.com/articles/d41586-026-01100-y)
 - [Scottish data centres powering AI already using enough water to fill 27 million bottles a year](https://www.bbc.com/news/articles/c77zxx43x4vo)
