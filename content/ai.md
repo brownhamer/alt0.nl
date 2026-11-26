@@ -59,6 +59,7 @@ Echter de diverse LLM gebaseerde initiatieven die vanuit Big Tech gepusht worden
 - [AI Hype and the Capture of EU AI Regulation](https://www.techpolicy.press/ai-hype-and-the-capture-of-eu-ai-regulation/)
 - [AI in operatiekamers leidt tot stortvloed aan medische missers](https://www.bnnvara.nl/joop/artikelen/ai-in-operatiekamers-leidt-tot-stortvloed-aan-medische-missers)
 - [AI Is African Intelligence: The Workers Who Train AI Are Fighting Back](https://www.404media.co/ai-is-african-intelligence-the-workers-who-train-ai-are-fighting-back/)
+- [AI is being used to clone real people's videos](https://www.bbc.com/news/articles/cm7527kp4qrpo)
 - [AI Is Inventing Academic Papers That Don’t Exist — And They’re Being Cited in Real Journals](https://www.rollingstone.com/culture/culture-features/ai-chatbot-journal-research-fake-citations-1235485484/)
 - [AI is removing the middle class of software engineering](https://thepixelspulse.com/posts/ai-removing-middle-class-software-engineering/?utm_source=mastodon&utm_medium=social&utm_campaign=auto-publish&utm_content=9d74932b)
 - [AI Is Slowing Down](https://www.wheresyoured.at/ai-is-slowing-down/)
