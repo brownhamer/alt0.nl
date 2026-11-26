@@ -4,6 +4,7 @@ Diverse sites die inzicht geven in meerdere soorten informatie op basis van open
 
 - [1 in 8 Billion](https://1in8b.life/en/)
 - [2026 Press Freedom Predators List](https://rsf.org/en/2026-press-freedom-predators-list)
+- [Agentschap Wegen en Verkeer](https://wegenenverkeer.be/)
 - [Algoritmeregister](https://algoritmes.overheid.nl/nl)
 - [AlleCijfers BE](https://allecijfers.be/)
 - [AlleCijfers NL](https://allecijfers.nl/)
@@ -49,6 +50,7 @@ Diverse sites die inzicht geven in meerdere soorten informatie op basis van open
 - [The Climate Dashboard Dashboard](https://jjk-code-otter.github.io/dashboard-dashboard/)
 - [Thuisarts.nl](https://www.thuisarts.nl/)
 - [Verkiezingsuitslagen NL](https://www.verkiezingsuitslagen.nl/)
+- [Vlaams Verkeerscentrum](https://www.verkeerscentrum.be/)
 - [Wetboek Plus](https://wetboekplus.nl/)
 - [Waarzitwatin.nl](https://waarzitwatin.nl/)
 - [WHO Dashboards](https://data.who.int/dashboards/dashboards)
