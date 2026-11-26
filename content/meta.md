@@ -64,6 +64,7 @@ En ja, er zijn [ALT0PAGE_alternatieven].
 - [Meta verstopte onderzoek dat wees op negatieve effecten Facebook en Instagram](https://tweakers.net/nieuws/241810/meta-verstopte-onderzoek-dat-wees-op-negatieve-effecten-facebook-en-instagram.html)
 - [Meta Wants to Scan Every Face You Walk Past](https://blog.adafruit.com/2026/02/14/meta-wants-to-scan-every-face-you-walk-past/)
 - [Meta, don’t meddle in our elections](https://sleepinggiantsbrasil.com/wp-content/uploads/2026/11/Report_Meta_dont_meddle_in_our_elections_2026_2nd_edition_EN-1.pdf)
+- [Meta's Carbon Emissions Went Up 45% Last Year. AI Is Making It Worse](https://www.cnet.com/tech/services-and-software/meta-sustainability-report-2026-carbon-emissions-ai/)
 - [Meta’s new commercial terms will allow the scraping of news sites, legal experts say](https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/)
 - [Moet de overheid ons redden uit de klauwen van Meta?](https://www.bnnvara.nl/joop/artikelen/moet-de-overheid-ons-redden-uit-de-klauwen-van-meta)
 - [Nederlandse politie waarschuwt voor nepwinkels in ads op Instagram en Facebook](https://tweakers.net/nieuws/247918/nederlandse-politie-waarschuwt-voor-nepwinkels-in-ads-op-instagram-en-facebook.html)
