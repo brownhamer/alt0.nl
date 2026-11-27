@@ -2,6 +2,7 @@
 
 Diverse artikelen en videos waarom je liever niets met Meta te maken hebt, het bedrijf achter Facebook, Instagram, Threads en WhatsApp.
 Ze hebben ondertussen al de [nodige boetes](https://guptadeepak.com/tech-fines/company/meta/) gekregen, en toch blijven ze keer op keer de fout in gaan.
+Ik ben ook niet de enige die zich druk maakt over alle [Facebook schandalen](https://www.dedigitaletuin.nl/overig/facebook-schandalen/) (165+).
 En ja, er zijn [ALT0PAGE_alternatieven].
 
 ## Artikelen
@@ -20,7 +21,6 @@ En ja, er zijn [ALT0PAGE_alternatieven].
 - [Er waait een nieuwe wind op Facebook en Instagram: 'VS is conservatiever geworden'](https://nos.nl/artikel/2550996-er-waait-een-nieuwe-wind-op-facebook-en-instagram-vs-is-conservatiever-geworden)
 - [Facebook Blocks Lula’s Campaign Ads Just Days Before Brazil Election](https://novaramedia.com/2026/09/28/facebook-blocks-lulas-campaign-ads-just-days-before-brazil-election/)
 - [Facebook is paying controversial creators to produce rage-bait content](https://www.abc.net.au/news/2026-08-06/ragebait-how-facebook-is-paying-controversial-creators/106940696)
-- [Facebook schandalen](https://www.dedigitaletuin.nl/overig/facebook-schandalen/) (165+)
 - [Facebook, Insta en WhatsApp hebben meer illegale ads na ingrijpen Zuckerberg](https://tweakers.net/nieuws/242656/facebook-insta-en-whatsapp-hebben-meer-illegale-ads-na-ingrijpen-zuckerberg.html)
 - [FBI Document Says the Feds Can Get Your WhatsApp Data — in Real Time](https://www.rollingstone.com/politics/politics-features/whatsapp-imessage-facebook-apple-fbi-privacy-1261816/)
 - [Google, Meta, TikTok hit by EU consumer complaints about handling of financial scams](https://www.reuters.com/legal/litigation/google-meta-tiktok-face-eu-consumer-complaints-about-handling-financial-scams-2026-05-21/)
