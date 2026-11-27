@@ -6,11 +6,29 @@ Het gaat daarbij niet over verbergen, maar over veiligheid van jouw persoonlijke
 
 ## Firefox
 
+Vooralsnog de browser die ik gebruik, op Windows, [ALT0PAGE_linux] en op [ALT0PAGE_android] waar ik [Firefox Focus](https://www.firefox.com/nl/browsers/mobile/focus/) gebruik.
+
+### Extensies
+
+Weg met advertenties en tracking, maar ook AI only youtube.
+
+- [AiBlock for Youtube](https://addons.mozilla.org/en-US/firefox/addon/ai-channel-blocker-for-youtube/) &raquo; blokkeerd kanalen die enkel AI content laten zien.
 - [Redirector](https://einaregilsson.com/redirector/) &raquo; [No-AI DuckDuckGo](data/Redirector.json)
 - Tweaked [user.js](data/user.js) zonder no-ai, met privacy en security tweaks
 - [uBlock Origin](https://addons.mozilla.org/nl/firefox/addon/ublock-origin) &raquo; [mijn configuratie](data/ublock.txt) including
   - [HUGE AI Blocklist](https://raw.githubusercontent.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/main/list.txt)
   - [Legitimate URL Shortener](https://raw.githubusercontent.com/DandelionSprout/adfilt/master/LegitimateURLShortener.txt)
+
+### Nog meer
+
+In principe zijn de volgende extensies niet nodig.
+Vaal wordt ook aanbevolen zo min mogelijk extensies te gebruiken, hoe meer je er gebruikt, hoe meer uniek je dat maakt, en hoe makkelijker je dus online te volgen bent.
+Maar goed, sommige van deze werken toch wel prima.
+
+- [ClearURLs](https://docs.clearurls.xyz)
+- [Consent-O-Matic](https://consentomatic.au.dk/)
+- [ToS;DR](https://tosdr.org/en)
+- [uBlackli1st](https://ublacklist.github.io/docs)
 
 ## Oplossingen
 

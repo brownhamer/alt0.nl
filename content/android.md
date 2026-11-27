@@ -29,6 +29,7 @@ Nog meer alernatieven die ik gebruik.
 - [Clock](https://github.com/FossifyOrg/Clock) by Fossify &raquo; Mijn wekker.
 - [Compass](https://github.com/Kr0oked/Compass) &raquo; De naam zegt het al, simpelweg een kompas.
 - [Easy Voice Recorder](https://www.digipom.com/) &raquo; Als ik vlug even een deuntje op wil nemen.
+- [FairScan](https://fairscan.org/)
 - [MakeACopy](https://github.com/egdels/makeacopy) &raquo; Foto naar document met OCR.
 - [Musekit](https://github.com/Kwasow/Musekit) &raquo; Stemming controleren.
 - [Messages](https://github.com/FossifyOrg/Messages) by Fossify &raquo; Simpele SMS applicatie.
@@ -37,6 +38,15 @@ Nog meer alernatieven die ik gebruik.
 - [Secure PDF Viewer](https://github.com/GrapheneOS/PdfViewer) &raquo; Simpele PDF viewer.
 - [Tack](https://patrickzedler.com/tack/) &raquo; Omdat ik niet heel goed ben in maat houden.
 - [Tessel](https://play.tessel.at/) &raquo; Het enige Android dat ik wel eens speel.
+
+## Nog meer extras
+
+En alternatieven die ik (nog) niet direct zelf gebruik, maar goed om te bewaren.
+
+- [Audile](https://github.com/aleksey-saenko/MusicRecognizer)
+- [FlorisBoard](https://florisboard.org/) &raquo; Nog niet af genoeg, gebruik nu [FUTO Keyboard](https://keyboard.futo.org/).
+- [FossWallet](https://github.com/SeineEloquenz/fosswallet) &raquo; Was al over gegaan naar [Catima](https://catima.app/) en dat bevalt eigenlijk prima, ofschoon ik het eigenlijk nooit gebruik.
+- [Memories](https://memories.gallery/)
 
 ## Informatie
 
