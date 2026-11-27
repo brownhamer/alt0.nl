@@ -6,7 +6,7 @@
 
 ### ASML Holding N.V. &raquo; December 2015 - nu
 
-Diverse rollen ingevuld binnen de IT DevOps afdeling ter ondersteuning van- en binnen de software ontwikkeling voor de TwinScan systemen, EUV lichtbron en legacy PAS systemen.
+Diverse rollen ingevuld binnen de IT DevOps en Istalled Base afdeling ter ondersteuning van- en binnen de software ontwikkeling voor de TwinScan systemen, EUV lichtbron en legacy PAS systemen.
 
 #### Software architect & Design engineer &raquo; Juli 2026 - nu
 
