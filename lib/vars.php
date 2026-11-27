@@ -14,12 +14,12 @@ $alt0pages = [
     'mastodon' => "Mastodon",
     'meshcore' => "MeshCore",
     'meta' => "Meta",
+    'musk' => "Musk",
     'muziek' => "Muziek",
     'nieuws' => "Nieuws",
     'online' => "Online",
     'privacy' => "Privacy",
     'software' => "Software",
-    'tesla' => "Tesla",
 ];
 
 #-------------------------------------------------------------------------------

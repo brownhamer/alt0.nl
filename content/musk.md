@@ -1,4 +1,9 @@
-# Tesla
+# Musk
+
+Een goed voorbeeld van iemand die meer geld tot zijn beschikking heeft dan goed voor hem is.
+Deze meneer meent dat alle tiener ideetjes gewoon een goed idee zijn, wat de gevolgen voor anderen ook zijn.
+
+## Tesla
 
 Een bedrijf dat een mooie 'revolutie' heeft gestart richting electrische auto's.
 Alleen jammer dat de baas gaandeweg wat minder prettig is geworden en bijzondere keuzes heeft gemaakt.
