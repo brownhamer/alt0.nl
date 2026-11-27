@@ -10,9 +10,9 @@ Vooralsnog de browser die ik gebruik, op Windows, [ALT0PAGE_linux] en op [ALT0PA
 
 ### Extensies
 
-Weg met advertenties en tracking, maar ook AI only youtube.
+Weg met advertenties en tracking, maar ook AI only YouTube.
 
-- [AiBlock for Youtube](https://addons.mozilla.org/en-US/firefox/addon/ai-channel-blocker-for-youtube/) &raquo; blokkeerd kanalen die enkel AI content laten zien.
+- [AiBlock for YouTube](https://addons.mozilla.org/en-US/firefox/addon/ai-channel-blocker-for-youtube/) &raquo; blokkeerd kanalen die enkel AI content laten zien.
 - [Redirector](https://einaregilsson.com/redirector/) &raquo; [No-AI DuckDuckGo](data/Redirector.json)
 - Tweaked [user.js](data/user.js) zonder no-ai, met privacy en security tweaks
 - [uBlock Origin](https://addons.mozilla.org/nl/firefox/addon/ublock-origin) &raquo; [mijn configuratie](data/ublock.txt) including
